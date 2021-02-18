@@ -21,7 +21,7 @@ jobs:
         uses: ./.github/actions/install-pipenv
 
       - name: Run
-        run: make -f ./vaccines-doses-on-hand/Makefile
+        run: make -f ./vaccine-doses-on-hand/Makefile
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
