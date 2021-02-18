@@ -9,6 +9,9 @@ verify_ssl = true
 jupyterlab = "*"
 pandas = "*"
 click = "*"
+nb-black = "*"
+bs4 = "*"
+pytz = "*"
 
 [requires]
 python_version = "3.8"
