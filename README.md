@@ -15,6 +15,7 @@ Run all of the scraper commands.
 ```zsh
 make
 ```
+![make all](./img/make.gif)
 
 Run one of the scraper commands.
 
