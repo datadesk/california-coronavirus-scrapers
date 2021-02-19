@@ -1,6 +1,6 @@
 # california-coronavirus-scrapers
 
-An experiment in open-sourcing the web scrapers that feed the Los Angeles Times' California coronavirus tracker.
+An experiment in open-sourcing the web scrapers that feed the [Los Angeles Times' California coronavirus tracker](https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/).
 
 ## Getting started
 
@@ -15,6 +15,7 @@ Run all of the scraper commands.
 ```zsh
 make
 ```
+![make all](./img/make.gif)
 
 Run one of the scraper commands.
 
