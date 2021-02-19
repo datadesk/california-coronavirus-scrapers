@@ -6,7 +6,7 @@
 include ./utils/variables.make
 
 all: scrape          \
-	 clean_notebooks
+     clean_notebooks
 
 scrape: ## Verify that our notebooks can be parsed and run. Example: make scrape
 	$(call banner,🔪 Scraping data 🔪)
