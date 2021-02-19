@@ -15,5 +15,6 @@ runs:
         git config pull.rebase false
         git status
         git pull origin $GITHUB_REF
-        git commit -am "${{ inputs.message }}" && git push || true
+        git add ./
+        git commit -m "${{ inputs.message }}" && git push || true
       shell: bash
