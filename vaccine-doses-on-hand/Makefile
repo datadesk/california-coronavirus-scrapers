@@ -3,7 +3,7 @@ include ./utils/variables.make
 
 MAKENAME = vaccine-doses-on-hand
 
-scrape: ## Scrape data files. Example: make -f ./vaccines-doses-on-hand/Makefile scrape
+scrape: ## Scrape data files. Example: make -f ./vaccines-doses-on-hand/Makefile
 	$(call start,$(MAKENAME))
 	$(call jupyter,./vaccine-doses-on-hand/scrape.ipynb)
 	$(call finish)
