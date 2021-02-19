@@ -1,7 +1,7 @@
 # Import aliases
 include ./utils/variables.make
 
-MAKENAME = vaccines-doses-on-hand
+MAKENAME = vaccine-doses-on-hand
 
 scrape: ## Scrape data files. Example: make -f ./vaccines-doses-on-hand/Makefile
 	$(call start,$(MAKENAME))
