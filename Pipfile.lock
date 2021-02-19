@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "5bfebcc710f3bb833174306a8364b49367f8b37ff802813e313506dd9fb33cbf"
+            "sha256": "c06e8862ca7d8487a33dfdf76e3213b15b57078e9307ff996113fbf4cbbf525a"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -30,6 +30,14 @@
                 "sha256:a841dacd6b99318a741b166adb07e19ee71a274450e68237b4650ca1055ab128"
             ],
             "version": "==1.4.4"
+        },
+        "appnope": {
+            "hashes": [
+                "sha256:93aa393e9d6c54c5cd570ccadd8edad61ea0c4b9ea7a01409020c9aa019eb442",
+                "sha256:dd83cd4b5b460958838f6eb3000c660b1f9caf2a5b1de4264e941512f603258a"
+            ],
+            "index": "pypi",
+            "version": "==0.1.2"
         },
         "argon2-cffi": {
             "hashes": [

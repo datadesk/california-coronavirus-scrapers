@@ -12,6 +12,7 @@ click = "*"
 nb-black = "*"
 bs4 = "*"
 pytz = "*"
+appnope = "*"
 
 [requires]
 python_version = "3.8"
