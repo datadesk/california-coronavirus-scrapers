@@ -6,6 +6,7 @@ MAKENAME = school-reopenings
 scrape: ## Scrape data files. Example: make -f ./school-reopenings/Makefile
 	$(call start,$(MAKENAME))
 	$(call python,./school-reopenings/scrape.py)
+	$(call jupyter,./school-reopenings/concatenate_districts.ipynb)
 	$(call finish)
 
 help: ## Show this help. Example: make -f ./school-reopenings/Makefile help
