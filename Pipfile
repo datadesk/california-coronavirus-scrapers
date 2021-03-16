@@ -14,6 +14,7 @@ nb-black = "*"
 bs4 = "*"
 pytz = "*"
 appnope = "*"
+tableauscraper = "*"
 
 [requires]
 python_version = "3.8"
