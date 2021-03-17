@@ -1,0 +1,951 @@
+demographic_category,demographic_value,total_cases,percent_cases,deaths,percent_deaths,percent_of_ca_population,report_date
+Age Group,0-17,402283,12.7,9,0.0,22.5,2021-01-26
+Age Group,18-49,1828399,57.7,2476,6.6,43.5,2021-01-26
+Age Group,50-64,603406,19.0,6964,18.7,18.4,2021-01-26
+Age Group,65+,333827,10.5,27868,74.7,15.6,2021-01-26
+Age Group,missing,1999,0.1,9,0.0,0.0,2021-01-26
+Age Group,Total,3169914,100.0,37326,100.0,100.0,2021-01-26
+Gender,Female,1610402,50.8,15656,41.9,50.3,2021-01-26
+Gender,Male,1510132,47.6,21506,57.6,49.7,2021-01-26
+Gender,Unknown,49380,1.6,164,0.4,0.0,2021-01-26
+Gender,Total,3169914,100.0,37326,100.0,100.0,2021-01-26
+Race Ethnicity,Latino,1317261,55.0,16822,46.0,38.9,2021-01-26
+Race Ethnicity,White,475186,19.8,11664,31.9,36.6,2021-01-26
+Race Ethnicity,Asian,158576,6.6,4256,11.6,15.4,2021-01-26
+Race Ethnicity,Black,96053,4.0,2391,6.5,6.0,2021-01-26
+Race Ethnicity,Multi-Race,31788,1.3,422,1.2,2.2,2021-01-26
+Race Ethnicity,American Indian or Alaska Native,7664,0.3,117,0.3,0.5,2021-01-26
+Race Ethnicity,Native Hawaiian and other Pacific Islander,13633,0.6,213,0.6,0.3,2021-01-26
+Race Ethnicity,Other,296416,12.4,691,1.9,0.0,2021-01-26
+Race Ethnicity,Total,2396577,100.0,36576,100.0,100.0,2021-01-26
+Age Group,0-17,400095,12.7,9,0.0,22.5,2021-01-25
+Age Group,18-49,1819350,57.7,2436,6.6,43.5,2021-01-25
+Age Group,50-64,600018,19.0,6832,18.6,18.4,2021-01-25
+Age Group,65+,331706,10.5,27373,74.7,15.6,2021-01-25
+Age Group,missing,2017,0.1,10,0.0,0.0,2021-01-25
+Age Group,Total,3153186,100.0,36660,100.0,100.0,2021-01-25
+Gender,Female,1601818,50.8,15370,41.9,50.3,2021-01-25
+Gender,Male,1501958,47.6,21129,57.6,49.7,2021-01-25
+Gender,Unknown,49410,1.6,161,0.4,0.0,2021-01-25
+Gender,Total,3153186,100.0,36660,100.0,100.0,2021-01-25
+Race Ethnicity,Latino,1309764,55.0,16518,46.0,38.9,2021-01-25
+Race Ethnicity,White,471996,19.8,11460,31.9,36.6,2021-01-25
+Race Ethnicity,Asian,157362,6.6,4185,11.7,15.4,2021-01-25
+Race Ethnicity,Black,95491,4.0,2349,6.5,6.0,2021-01-25
+Race Ethnicity,Multi-Race,31407,1.3,419,1.2,2.2,2021-01-25
+Race Ethnicity,American Indian or Alaska Native,7614,0.3,117,0.3,0.5,2021-01-25
+Race Ethnicity,Native Hawaiian and other Pacific Islander,13519,0.6,207,0.6,0.3,2021-01-25
+Race Ethnicity,Other,295225,12.4,666,1.9,0.0,2021-01-25
+Race Ethnicity,Total,2382378,100.0,35921,100.0,100.0,2021-01-25
+Age Group,0-17,404631,12.7,9,0.0,22.5,2021-01-27
+Age Group,18-49,1837255,57.7,2523,6.6,43.5,2021-01-27
+Age Group,50-64,606779,19.0,7114,18.7,18.4,2021-01-27
+Age Group,65+,335853,10.5,28415,74.6,15.6,2021-01-27
+Age Group,missing,2092,0.1,9,0.0,0.0,2021-01-27
+Age Group,Total,3186610,100.0,38070,100.0,100.0,2021-01-27
+Gender,Female,1618782,50.8,15955,41.9,50.3,2021-01-27
+Gender,Male,1518121,47.6,21947,57.6,49.7,2021-01-27
+Gender,Unknown,49707,1.6,168,0.4,0.0,2021-01-27
+Gender,Total,3186610,100.0,38070,100.0,100.0,2021-01-27
+Race Ethnicity,Latino,1326727,55.0,17147,46.0,38.9,2021-01-27
+Race Ethnicity,White,478329,19.8,11879,31.9,36.6,2021-01-27
+Race Ethnicity,Asian,159865,6.6,4341,11.6,15.4,2021-01-27
+Race Ethnicity,Black,96722,4.0,2423,6.5,6.0,2021-01-27
+Race Ethnicity,Multi-Race,32224,1.3,428,1.1,2.2,2021-01-27
+Race Ethnicity,American Indian or Alaska Native,7719,0.3,120,0.3,0.5,2021-01-27
+Race Ethnicity,Native Hawaiian and other Pacific Islander,13708,0.6,221,0.6,0.3,2021-01-27
+Race Ethnicity,Other,297086,12.3,725,1.9,0.0,2021-01-27
+Race Ethnicity,Total,2412380,100.0,37284,100.0,100.0,2021-01-27
+Age Group,0-17,407198,12.7,11,0.0,22.5,2021-01-28
+Age Group,18-49,1847694,57.6,2567,6.6,43.5,2021-01-28
+Age Group,50-64,610690,19.0,7229,18.7,18.4,2021-01-28
+Age Group,65+,338251,10.6,28852,74.6,15.6,2021-01-28
+Age Group,missing,2114,0.1,9,0.0,0.0,2021-01-28
+Age Group,Total,3205947,100.0,38667,100.0,100.0,2021-01-28
+Gender,Female,1628412,50.8,16215,41.9,50.3,2021-01-28
+Gender,Male,1527644,47.7,22279,57.6,49.7,2021-01-28
+Gender,Unknown,49891,1.6,173,0.4,0.0,2021-01-28
+Gender,Total,3205947,100.0,38667,100.0,100.0,2021-01-28
+Race Ethnicity,Latino,1336890,55.0,17404,46.0,38.9,2021-01-28
+Race Ethnicity,White,482025,19.8,12045,31.8,36.6,2021-01-28
+Race Ethnicity,Asian,161539,6.6,4399,11.6,15.4,2021-01-28
+Race Ethnicity,Black,97463,4.0,2452,6.5,6.0,2021-01-28
+Race Ethnicity,Multi-Race,32718,1.3,436,1.2,2.2,2021-01-28
+Race Ethnicity,American Indian or Alaska Native,7770,0.3,121,0.3,0.5,2021-01-28
+Race Ethnicity,Native Hawaiian and other Pacific Islander,13802,0.6,226,0.6,0.3,2021-01-28
+Race Ethnicity,Other,298179,12.3,761,2.0,0.0,2021-01-28
+Race Ethnicity,Total,2430386,100.0,37844,100.0,100.0,2021-01-28
+Age Group,0-17,409826,12.7,11,0.0,22.5,2021-01-29
+Age Group,18-49,1857546,57.6,2616,6.7,43.5,2021-01-29
+Age Group,50-64,614408,19.1,7364,18.7,18.4,2021-01-29
+Age Group,65+,340478,10.6,29323,74.6,15.6,2021-01-29
+Age Group,missing,2116,0.1,9,0.0,0.0,2021-01-29
+Age Group,Total,3224374,100.0,39323,100.0,100.0,2021-01-29
+Gender,Female,1637851,50.8,16477,41.9,50.3,2021-01-29
+Gender,Male,1536611,47.7,22669,57.6,49.7,2021-01-29
+Gender,Unknown,49912,1.5,177,0.5,0.0,2021-01-29
+Gender,Total,3224374,100.0,39323,100.0,100.0,2021-01-29
+Race Ethnicity,Latino,1347343,55.0,17681,46.0,38.9,2021-01-29
+Race Ethnicity,White,485750,19.8,12267,31.9,36.6,2021-01-29
+Race Ethnicity,Asian,163086,6.7,4462,11.6,15.4,2021-01-29
+Race Ethnicity,Black,98263,4.0,2488,6.5,6.0,2021-01-29
+Race Ethnicity,Multi-Race,33506,1.4,451,1.2,2.2,2021-01-29
+Race Ethnicity,American Indian or Alaska Native,7837,0.3,123,0.3,0.5,2021-01-29
+Race Ethnicity,Native Hawaiian and other Pacific Islander,13899,0.6,226,0.6,0.3,2021-01-29
+Race Ethnicity,Other,298712,12.2,776,2.0,0.0,2021-01-29
+Race Ethnicity,Total,2448396,100.0,38474,100.0,100.0,2021-01-29
+Age Group,0-17,412601,12.7,12,0.0,22.5,2021-01-30
+Age Group,18-49,1867867,57.6,2662,6.7,43.5,2021-01-30
+Age Group,50-64,618143,19.1,7496,18.8,18.4,2021-01-30
+Age Group,65+,342610,10.6,29734,74.5,15.6,2021-01-30
+Age Group,missing,2127,0.1,9,0.0,0.0,2021-01-30
+Age Group,Total,3243348,100.0,39913,100.0,100.0,2021-01-30
+Gender,Female,1647516,50.8,16733,41.9,50.3,2021-01-30
+Gender,Male,1545854,47.7,23002,57.6,49.7,2021-01-30
+Gender,Unknown,49978,1.5,178,0.4,0.0,2021-01-30
+Gender,Total,3243348,100.0,39913,100.0,100.0,2021-01-30
+Race Ethnicity,Latino,1355776,55.0,17965,46.0,38.9,2021-01-30
+Race Ethnicity,White,489390,19.9,12423,31.8,36.6,2021-01-30
+Race Ethnicity,Asian,164484,6.7,4532,11.6,15.4,2021-01-30
+Race Ethnicity,Black,98959,4.0,2516,6.4,6.0,2021-01-30
+Race Ethnicity,Multi-Race,34056,1.4,458,1.2,2.2,2021-01-30
+Race Ethnicity,American Indian or Alaska Native,7909,0.3,126,0.3,0.5,2021-01-30
+Race Ethnicity,Native Hawaiian and other Pacific Islander,14003,0.6,229,0.6,0.3,2021-01-30
+Race Ethnicity,Other,300252,12.2,787,2.0,0.0,2021-01-30
+Race Ethnicity,Total,2464829,100.0,39036,100.0,100.0,2021-01-30
+Age Group,0-17,414991,12.7,12,0.0,22.5,2021-01-31
+Age Group,18-49,1876071,57.6,2691,6.7,43.5,2021-01-31
+Age Group,50-64,621018,19.1,7568,18.8,18.4,2021-01-31
+Age Group,65+,344502,10.6,29984,74.5,15.6,2021-01-31
+Age Group,missing,2124,0.1,8,0.0,0.0,2021-01-31
+Age Group,Total,3258706,100.0,40263,100.0,100.0,2021-01-31
+Gender,Female,1655273,50.8,16878,41.9,50.3,2021-01-31
+Gender,Male,1553217,47.7,23202,57.6,49.7,2021-01-31
+Gender,Unknown,50216,1.5,183,0.5,0.0,2021-01-31
+Gender,Total,3258706,100.0,40263,100.0,100.0,2021-01-31
+Race Ethnicity,Latino,1364160,55.0,18123,46.0,38.9,2021-01-31
+Race Ethnicity,White,492364,19.9,12511,31.8,36.6,2021-01-31
+Race Ethnicity,Asian,165646,6.7,4574,11.6,15.4,2021-01-31
+Race Ethnicity,Black,99580,4.0,2532,6.4,6.0,2021-01-31
+Race Ethnicity,Multi-Race,34444,1.4,473,1.2,2.2,2021-01-31
+Race Ethnicity,American Indian or Alaska Native,7955,0.3,128,0.3,0.5,2021-01-31
+Race Ethnicity,Native Hawaiian and other Pacific Islander,14054,0.6,230,0.6,0.3,2021-01-31
+Race Ethnicity,Other,301198,12.1,799,2.0,0.0,2021-01-31
+Race Ethnicity,Total,2479401,100.0,39370,100.0,100.0,2021-01-31
+Age Group,0-17,416891,12.7,12,0.0,22.5,2021-02-01
+Age Group,18-49,1882333,57.6,2702,6.7,43.5,2021-02-01
+Age Group,50-64,623439,19.1,7611,18.8,18.4,2021-02-01
+Age Group,65+,345985,10.6,30124,74.5,15.6,2021-02-01
+Age Group,missing,2122,0.1,8,0.0,0.0,2021-02-01
+Age Group,Total,3270770,100.0,40457,100.0,100.0,2021-02-01
+Gender,Female,1661448,50.8,16957,41.9,50.3,2021-02-01
+Gender,Male,1559144,47.7,23316,57.6,49.7,2021-02-01
+Gender,Unknown,50178,1.5,184,0.5,0.0,2021-02-01
+Gender,Total,3270770,100.0,40457,100.0,100.0,2021-02-01
+Race Ethnicity,Latino,1370089,55.0,18220,46.0,38.9,2021-02-01
+Race Ethnicity,White,494536,19.9,12573,31.8,36.6,2021-02-01
+Race Ethnicity,Asian,166565,6.7,4595,11.6,15.4,2021-02-01
+Race Ethnicity,Black,100076,4.0,2539,6.4,6.0,2021-02-01
+Race Ethnicity,Multi-Race,34628,1.4,479,1.2,2.2,2021-02-01
+Race Ethnicity,American Indian or Alaska Native,7990,0.3,130,0.3,0.5,2021-02-01
+Race Ethnicity,Native Hawaiian and other Pacific Islander,14114,0.6,232,0.6,0.3,2021-02-01
+Race Ethnicity,Other,301981,12.1,804,2.0,0.0,2021-02-01
+Race Ethnicity,Total,2489979,100.0,39572,100.0,100.0,2021-02-01
+Age Group,0-17,418365,12.8,12,0.0,22.5,2021-02-02
+Age Group,18-49,1887798,57.5,2748,6.7,43.5,2021-02-02
+Age Group,50-64,625572,19.1,7727,18.8,18.4,2021-02-02
+Age Group,65+,347383,10.6,30523,74.4,15.6,2021-02-02
+Age Group,missing,2153,0.1,8,0.0,0.0,2021-02-02
+Age Group,Total,3281271,100.0,41018,100.0,100.0,2021-02-02
+Gender,Female,1666909,50.8,17158,41.8,50.3,2021-02-02
+Gender,Male,1564212,47.7,23671,57.7,49.7,2021-02-02
+Gender,Unknown,50150,1.5,189,0.5,0.0,2021-02-02
+Gender,Total,3281271,100.0,41018,100.0,100.0,2021-02-02
+Race Ethnicity,Latino,1375197,55.0,18502,46.1,38.9,2021-02-02
+Race Ethnicity,White,496550,19.9,12761,31.8,36.6,2021-02-02
+Race Ethnicity,Asian,167317,6.7,4643,11.6,15.4,2021-02-02
+Race Ethnicity,Black,100486,4.0,2571,6.4,6.0,2021-02-02
+Race Ethnicity,Multi-Race,34844,1.4,491,1.2,2.2,2021-02-02
+Race Ethnicity,American Indian or Alaska Native,8029,0.3,135,0.3,0.5,2021-02-02
+Race Ethnicity,Native Hawaiian and other Pacific Islander,14174,0.6,239,0.6,0.3,2021-02-02
+Race Ethnicity,Other,302270,12.1,805,2.0,0.0,2021-02-02
+Race Ethnicity,Total,2498867,100.0,40147,100.0,100.0,2021-02-02
+Age Group,0-17,420213,12.8,13,0.0,22.5,2021-02-03
+Age Group,18-49,1894834,57.5,2802,6.7,43.5,2021-02-03
+Age Group,50-64,628226,19.1,7849,18.9,18.4,2021-02-03
+Age Group,65+,349039,10.6,30962,74.4,15.6,2021-02-03
+Age Group,missing,2135,0.1,8,0.0,0.0,2021-02-03
+Age Group,Total,3294447,100.0,41634,100.0,100.0,2021-02-03
+Gender,Female,1673610,50.8,17407,41.8,50.3,2021-02-03
+Gender,Male,1570616,47.7,24036,57.7,49.7,2021-02-03
+Gender,Unknown,50221,1.5,191,0.5,0.0,2021-02-03
+Gender,Total,3294447,100.0,41634,100.0,100.0,2021-02-03
+Race Ethnicity,Latino,1382352,55.0,18756,46.0,38.9,2021-02-03
+Race Ethnicity,White,499316,19.9,12968,31.8,36.6,2021-02-03
+Race Ethnicity,Asian,168276,6.7,4703,11.5,15.4,2021-02-03
+Race Ethnicity,Black,101004,4.0,2601,6.4,6.0,2021-02-03
+Race Ethnicity,Multi-Race,35225,1.4,496,1.2,2.2,2021-02-03
+Race Ethnicity,American Indian or Alaska Native,8079,0.3,138,0.3,0.5,2021-02-03
+Race Ethnicity,Native Hawaiian and other Pacific Islander,14252,0.6,245,0.6,0.3,2021-02-03
+Race Ethnicity,Other,302891,12.1,827,2.0,0.0,2021-02-03
+Race Ethnicity,Total,2511395,100.0,40734,100.0,100.0,2021-02-03
+Age Group,0-17,422274,12.8,12,0.0,22.5,2021-02-04
+Age Group,18-49,1902343,57.5,2851,6.7,43.5,2021-02-04
+Age Group,50-64,630958,19.1,8010,18.9,18.4,2021-02-04
+Age Group,65+,350812,10.6,31531,74.3,15.6,2021-02-04
+Age Group,missing,2081,0.1,9,0.0,0.0,2021-02-04
+Age Group,Total,3308468,100.0,42413,100.0,100.0,2021-02-04
+Gender,Female,1680602,50.8,17712,41.8,50.3,2021-02-04
+Gender,Male,1577423,47.7,24501,57.8,49.7,2021-02-04
+Gender,Unknown,50443,1.5,200,0.5,0.0,2021-02-04
+Gender,Total,3308468,100.0,42413,100.0,100.0,2021-02-04
+Race Ethnicity,Latino,1389409,55.0,19117,46.1,38.9,2021-02-04
+Race Ethnicity,White,502234,19.9,13190,31.8,36.6,2021-02-04
+Race Ethnicity,Asian,169451,6.7,4785,11.5,15.4,2021-02-04
+Race Ethnicity,Black,101616,4.0,2632,6.3,6.0,2021-02-04
+Race Ethnicity,Multi-Race,35685,1.4,508,1.2,2.2,2021-02-04
+Race Ethnicity,American Indian or Alaska Native,8140,0.3,141,0.3,0.5,2021-02-04
+Race Ethnicity,Native Hawaiian and other Pacific Islander,14319,0.6,249,0.6,0.3,2021-02-04
+Race Ethnicity,Other,303775,12.0,855,2.1,0.0,2021-02-04
+Race Ethnicity,Total,2524629,100.0,41477,100.0,100.0,2021-02-04
+Age Group,0-17,424067,12.8,13,0.0,22.5,2021-02-05
+Age Group,18-49,1908979,57.5,2897,6.7,43.5,2021-02-05
+Age Group,50-64,633364,19.1,8122,18.9,18.4,2021-02-05
+Age Group,65+,352363,10.6,31976,74.3,15.6,2021-02-05
+Age Group,missing,2089,0.1,10,0.0,0.0,2021-02-05
+Age Group,Total,3320862,100.0,43018,100.0,100.0,2021-02-05
+Gender,Female,1686938,50.8,17961,41.8,50.3,2021-02-05
+Gender,Male,1583368,47.7,24850,57.8,49.7,2021-02-05
+Gender,Unknown,50556,1.5,207,0.5,0.0,2021-02-05
+Gender,Total,3320862,100.0,43018,100.0,100.0,2021-02-05
+Race Ethnicity,Latino,1395863,55.0,19407,46.1,38.9,2021-02-05
+Race Ethnicity,White,504843,19.9,13361,31.8,36.6,2021-02-05
+Race Ethnicity,Asian,170401,6.7,4850,11.5,15.4,2021-02-05
+Race Ethnicity,Black,102113,4.0,2662,6.3,6.0,2021-02-05
+Race Ethnicity,Multi-Race,36067,1.4,521,1.2,2.2,2021-02-05
+Race Ethnicity,American Indian or Alaska Native,8183,0.3,145,0.3,0.5,2021-02-05
+Race Ethnicity,Native Hawaiian and other Pacific Islander,14395,0.6,253,0.6,0.3,2021-02-05
+Race Ethnicity,Other,304040,12.0,863,2.1,0.0,2021-02-05
+Race Ethnicity,Total,2535905,100.0,42062,100.0,100.0,2021-02-05
+Age Group,0-17,426326,12.8,13,0.0,22.5,2021-02-06
+Age Group,18-49,1917098,57.5,2921,6.7,43.5,2021-02-06
+Age Group,50-64,636296,19.1,8214,18.9,18.4,2021-02-06
+Age Group,65+,354119,10.6,32298,74.3,15.6,2021-02-06
+Age Group,missing,2087,0.1,10,0.0,0.0,2021-02-06
+Age Group,Total,3335926,100.0,43456,100.0,100.0,2021-02-06
+Gender,Female,1694648,50.8,18124,41.7,50.3,2021-02-06
+Gender,Male,1590682,47.7,25117,57.8,49.7,2021-02-06
+Gender,Unknown,50596,1.5,215,0.5,0.0,2021-02-06
+Gender,Total,3335926,100.0,43456,100.0,100.0,2021-02-06
+Race Ethnicity,Latino,1402958,55.0,19624,46.2,38.9,2021-02-06
+Race Ethnicity,White,507681,19.9,13485,31.7,36.6,2021-02-06
+Race Ethnicity,Asian,171443,6.7,4894,11.5,15.4,2021-02-06
+Race Ethnicity,Black,102703,4.0,2677,6.3,6.0,2021-02-06
+Race Ethnicity,Multi-Race,36372,1.4,527,1.2,2.2,2021-02-06
+Race Ethnicity,American Indian or Alaska Native,8219,0.3,145,0.3,0.5,2021-02-06
+Race Ethnicity,Native Hawaiian and other Pacific Islander,14467,0.6,256,0.6,0.3,2021-02-06
+Race Ethnicity,Other,305167,12.0,878,2.1,0.0,2021-02-06
+Race Ethnicity,Total,2549010,100.0,42486,100.0,100.0,2021-02-06
+Age Group,0-17,427969,12.8,14,0.0,22.5,2021-02-07
+Age Group,18-49,1922508,57.5,2942,6.7,43.5,2021-02-07
+Age Group,50-64,638410,19.1,8262,18.9,18.4,2021-02-07
+Age Group,65+,355369,10.6,32506,74.3,15.6,2021-02-07
+Age Group,missing,2084,0.1,11,0.0,0.0,2021-02-07
+Age Group,Total,3346340,100.0,43735,100.0,100.0,2021-02-07
+Gender,Female,1699904,50.8,18233,41.7,50.3,2021-02-07
+Gender,Male,1595640,47.7,25289,57.8,49.7,2021-02-07
+Gender,Unknown,50796,1.5,213,0.5,0.0,2021-02-07
+Gender,Total,3346340,100.0,43735,100.0,100.0,2021-02-07
+Race Ethnicity,Latino,1407969,55.0,19756,46.2,38.9,2021-02-07
+Race Ethnicity,White,509892,19.9,13578,31.7,36.6,2021-02-07
+Race Ethnicity,Asian,172315,6.7,4923,11.5,15.4,2021-02-07
+Race Ethnicity,Black,103111,4.0,2699,6.3,6.0,2021-02-07
+Race Ethnicity,Multi-Race,36630,1.4,532,1.2,2.2,2021-02-07
+Race Ethnicity,American Indian or Alaska Native,8252,0.3,145,0.3,0.5,2021-02-07
+Race Ethnicity,Native Hawaiian and other Pacific Islander,14527,0.6,257,0.6,0.3,2021-02-07
+Race Ethnicity,Other,305970,12.0,884,2.1,0.0,2021-02-07
+Race Ethnicity,Total,2558666,100.0,42774,100.0,100.0,2021-02-07
+Age Group,0-17,429257,12.8,13,0.0,22.5,2021-02-08
+Age Group,18-49,1926874,57.4,2955,6.7,43.5,2021-02-08
+Age Group,50-64,640035,19.1,8301,18.9,18.4,2021-02-08
+Age Group,65+,356332,10.6,32625,74.3,15.6,2021-02-08
+Age Group,missing,2093,0.1,11,0.0,0.0,2021-02-08
+Age Group,Total,3354591,100.0,43905,100.0,100.0,2021-02-08
+Gender,Female,1704207,50.8,18296,41.7,50.3,2021-02-08
+Gender,Male,1599569,47.7,25395,57.8,49.7,2021-02-08
+Gender,Unknown,50815,1.5,214,0.5,0.0,2021-02-08
+Gender,Total,3354591,100.0,43905,100.0,100.0,2021-02-08
+Race Ethnicity,Latino,1411997,55.0,19846,46.2,38.9,2021-02-08
+Race Ethnicity,White,511462,19.9,13628,31.7,36.6,2021-02-08
+Race Ethnicity,Asian,172934,6.7,4938,11.5,15.4,2021-02-08
+Race Ethnicity,Black,103481,4.0,2713,6.3,6.0,2021-02-08
+Race Ethnicity,Multi-Race,36799,1.4,534,1.2,2.2,2021-02-08
+Race Ethnicity,American Indian or Alaska Native,8284,0.3,146,0.3,0.5,2021-02-08
+Race Ethnicity,Native Hawaiian and other Pacific Islander,14553,0.6,257,0.6,0.3,2021-02-08
+Race Ethnicity,Other,306386,11.9,883,2.1,0.0,2021-02-08
+Race Ethnicity,Total,2565896,100.0,42945,100.0,100.0,2021-02-08
+Age Group,0-17,430453,12.8,13,0.0,22.5,2021-02-09
+Age Group,18-49,1931294,57.4,2985,6.7,43.5,2021-02-09
+Age Group,50-64,641686,19.1,8418,18.9,18.4,2021-02-09
+Age Group,65+,357449,10.6,33000,74.3,15.6,2021-02-09
+Age Group,missing,2099,0.1,9,0.0,0.0,2021-02-09
+Age Group,Total,3362981,100.0,44425,100.0,100.0,2021-02-09
+Gender,Female,1708439,50.8,18493,41.6,50.3,2021-02-09
+Gender,Male,1603715,47.7,25717,57.9,49.7,2021-02-09
+Gender,Unknown,50827,1.5,215,0.5,0.0,2021-02-09
+Gender,Total,3362981,100.0,44425,100.0,100.0,2021-02-09
+Race Ethnicity,Latino,1415893,55.0,20125,46.3,38.9,2021-02-09
+Race Ethnicity,White,513077,19.9,13744,31.6,36.6,2021-02-09
+Race Ethnicity,Asian,173673,6.7,5009,11.5,15.4,2021-02-09
+Race Ethnicity,Black,103870,4.0,2749,6.3,6.0,2021-02-09
+Race Ethnicity,Multi-Race,36970,1.4,535,1.2,2.2,2021-02-09
+Race Ethnicity,American Indian or Alaska Native,8320,0.3,150,0.3,0.5,2021-02-09
+Race Ethnicity,Native Hawaiian and other Pacific Islander,14589,0.6,258,0.6,0.3,2021-02-09
+Race Ethnicity,Other,306671,11.9,887,2.0,0.0,2021-02-09
+Race Ethnicity,Total,2573063,100.0,43457,100.0,100.0,2021-02-09
+Age Group,0-17,431804,12.8,13,0.0,22.5,2021-02-10
+Age Group,18-49,1935819,57.4,3021,6.7,43.5,2021-02-10
+Age Group,50-64,643344,19.1,8537,19.0,18.4,2021-02-10
+Age Group,65+,358485,10.6,33409,74.3,15.6,2021-02-10
+Age Group,missing,2104,0.1,10,0.0,0.0,2021-02-10
+Age Group,Total,3371556,100.0,44990,100.0,100.0,2021-02-10
+Gender,Female,1712835,50.8,18710,41.6,50.3,2021-02-10
+Gender,Male,1607931,47.7,26063,57.9,49.7,2021-02-10
+Gender,Unknown,50790,1.5,217,0.5,0.0,2021-02-10
+Gender,Total,3371556,100.0,44990,100.0,100.0,2021-02-10
+Race Ethnicity,Latino,1421616,55.1,20364,46.3,38.9,2021-02-10
+Race Ethnicity,White,515005,19.9,13918,31.6,36.6,2021-02-10
+Race Ethnicity,Asian,174482,6.8,5054,11.5,15.4,2021-02-10
+Race Ethnicity,Black,104332,4.0,2783,6.3,6.0,2021-02-10
+Race Ethnicity,Multi-Race,37350,1.4,546,1.2,2.2,2021-02-10
+Race Ethnicity,American Indian or Alaska Native,8351,0.3,153,0.3,0.5,2021-02-10
+Race Ethnicity,Native Hawaiian and other Pacific Islander,14640,0.6,263,0.6,0.3,2021-02-10
+Race Ethnicity,Other,306608,11.9,918,2.1,0.0,2021-02-10
+Race Ethnicity,Total,2582384,100.0,43999,100.0,100.0,2021-02-10
+Age Group,0-17,433159,12.8,13,0.0,22.5,2021-02-11
+Age Group,18-49,1941204,57.4,3050,6.7,43.5,2021-02-11
+Age Group,50-64,645327,19.1,8663,19.0,18.4,2021-02-11
+Age Group,65+,359817,10.6,33785,74.2,15.6,2021-02-11
+Age Group,missing,2108,0.1,9,0.0,0.0,2021-02-11
+Age Group,Total,3381615,100.0,45520,100.0,100.0,2021-02-11
+Gender,Female,1717877,50.8,18920,41.6,50.3,2021-02-11
+Gender,Male,1612786,47.7,26374,57.9,49.7,2021-02-11
+Gender,Unknown,50952,1.5,226,0.5,0.0,2021-02-11
+Gender,Total,3381615,100.0,45520,100.0,100.0,2021-02-11
+Race Ethnicity,Latino,1427192,55.1,20596,46.3,38.9,2021-02-11
+Race Ethnicity,White,517166,20.0,14068,31.6,36.6,2021-02-11
+Race Ethnicity,Asian,175198,6.8,5110,11.5,15.4,2021-02-11
+Race Ethnicity,Black,104756,4.0,2810,6.3,6.0,2021-02-11
+Race Ethnicity,Multi-Race,37667,1.5,549,1.2,2.2,2021-02-11
+Race Ethnicity,American Indian or Alaska Native,8392,0.3,154,0.3,0.5,2021-02-11
+Race Ethnicity,Native Hawaiian and other Pacific Islander,14723,0.6,270,0.6,0.3,2021-02-11
+Race Ethnicity,Other,306842,11.8,962,2.2,0.0,2021-02-11
+Race Ethnicity,Total,2591936,100.0,44519,100.0,100.0,2021-02-11
+Age Group,0-17,434526,12.8,13,0.0,22.5,2021-02-12
+Age Group,18-49,1946247,57.4,3069,6.7,43.5,2021-02-12
+Age Group,50-64,647161,19.1,8762,19.1,18.4,2021-02-12
+Age Group,65+,360993,10.6,34133,74.2,15.6,2021-02-12
+Age Group,missing,2109,0.1,9,0.0,0.0,2021-02-12
+Age Group,Total,3391036,100.0,45986,100.0,100.0,2021-02-12
+Gender,Female,1722603,50.8,19103,41.5,50.3,2021-02-12
+Gender,Male,1617383,47.7,26653,58.0,49.7,2021-02-12
+Gender,Unknown,51050,1.5,230,0.5,0.0,2021-02-12
+Gender,Total,3391036,100.0,45986,100.0,100.0,2021-02-12
+Race Ethnicity,Latino,1432099,55.1,20782,46.2,38.9,2021-02-12
+Race Ethnicity,White,519168,20.0,14216,31.6,36.6,2021-02-12
+Race Ethnicity,Asian,175922,6.8,5175,11.5,15.4,2021-02-12
+Race Ethnicity,Black,105179,4.0,2828,6.3,6.0,2021-02-12
+Race Ethnicity,Multi-Race,37976,1.5,558,1.2,2.2,2021-02-12
+Race Ethnicity,American Indian or Alaska Native,8456,0.3,158,0.4,0.5,2021-02-12
+Race Ethnicity,Native Hawaiian and other Pacific Islander,14778,0.6,272,0.6,0.3,2021-02-12
+Race Ethnicity,Other,307134,11.8,973,2.2,0.0,2021-02-12
+Race Ethnicity,Total,2600712,100.0,44962,100.0,100.0,2021-02-12
+Age Group,0-17,435945,12.8,13,0.0,22.5,2021-02-13
+Age Group,18-49,1950953,57.4,3100,6.7,43.5,2021-02-13
+Age Group,50-64,648871,19.1,8853,19.1,18.4,2021-02-13
+Age Group,65+,361993,10.6,34483,74.2,15.6,2021-02-13
+Age Group,missing,2116,0.1,8,0.0,0.0,2021-02-13
+Age Group,Total,3399878,100.0,46457,100.0,100.0,2021-02-13
+Gender,Female,1727045,50.8,19298,41.5,50.3,2021-02-13
+Gender,Male,1621806,47.7,26931,58.0,49.7,2021-02-13
+Gender,Unknown,51027,1.5,228,0.5,0.0,2021-02-13
+Gender,Total,3399878,100.0,46457,100.0,100.0,2021-02-13
+Race Ethnicity,Latino,1437235,55.1,20989,46.2,38.9,2021-02-13
+Race Ethnicity,White,521073,20.0,14348,31.6,36.6,2021-02-13
+Race Ethnicity,Asian,176589,6.8,5241,11.5,15.4,2021-02-13
+Race Ethnicity,Black,105625,4.0,2857,6.3,6.0,2021-02-13
+Race Ethnicity,Multi-Race,38297,1.5,560,1.2,2.2,2021-02-13
+Race Ethnicity,American Indian or Alaska Native,8506,0.3,158,0.3,0.5,2021-02-13
+Race Ethnicity,Native Hawaiian and other Pacific Islander,14826,0.6,276,0.6,0.3,2021-02-13
+Race Ethnicity,Other,307185,11.8,997,2.2,0.0,2021-02-13
+Race Ethnicity,Total,2609336,100.0,45426,100.0,100.0,2021-02-13
+Age Group,0-17,436921,12.8,13,0.0,22.5,2021-02-14
+Age Group,18-49,1954321,57.4,3113,6.7,43.5,2021-02-14
+Age Group,50-64,650118,19.1,8903,19.1,18.4,2021-02-14
+Age Group,65+,362882,10.7,34683,74.2,15.6,2021-02-14
+Age Group,missing,2123,0.1,7,0.0,0.0,2021-02-14
+Age Group,Total,3406365,100.0,46719,100.0,100.0,2021-02-14
+Gender,Female,1730360,50.8,19394,41.5,50.3,2021-02-14
+Gender,Male,1624937,47.7,27097,58.0,49.7,2021-02-14
+Gender,Unknown,51068,1.5,228,0.5,0.0,2021-02-14
+Gender,Total,3406365,100.0,46719,100.0,100.0,2021-02-14
+Race Ethnicity,Latino,1441312,55.1,21098,46.2,38.9,2021-02-14
+Race Ethnicity,White,522663,20.0,14425,31.6,36.6,2021-02-14
+Race Ethnicity,Asian,177100,6.8,5271,11.5,15.4,2021-02-14
+Race Ethnicity,Black,105960,4.1,2863,6.3,6.0,2021-02-14
+Race Ethnicity,Multi-Race,38562,1.5,569,1.2,2.2,2021-02-14
+Race Ethnicity,American Indian or Alaska Native,8537,0.3,160,0.4,0.5,2021-02-14
+Race Ethnicity,Native Hawaiian and other Pacific Islander,14855,0.6,277,0.6,0.3,2021-02-14
+Race Ethnicity,Other,307163,11.7,1007,2.2,0.0,2021-02-14
+Race Ethnicity,Total,2616152,100.0,45670,100.0,100.0,2021-02-14
+Age Group,0-17,437865,12.8,13,0.0,22.5,2021-02-15
+Age Group,18-49,1957294,57.4,3118,6.7,43.5,2021-02-15
+Age Group,50-64,651225,19.1,8926,19.1,18.4,2021-02-15
+Age Group,65+,363548,10.7,34731,74.2,15.6,2021-02-15
+Age Group,missing,2125,0.1,7,0.0,0.0,2021-02-15
+Age Group,Total,3412057,100.0,46795,100.0,100.0,2021-02-15
+Gender,Female,1733301,50.8,19427,41.5,50.3,2021-02-15
+Gender,Male,1627698,47.7,27139,58.0,49.7,2021-02-15
+Gender,Unknown,51058,1.5,229,0.5,0.0,2021-02-15
+Gender,Total,3412057,100.0,46795,100.0,100.0,2021-02-15
+Race Ethnicity,Latino,1444316,55.1,21139,46.2,38.9,2021-02-15
+Race Ethnicity,White,523927,20.0,14453,31.6,36.6,2021-02-15
+Race Ethnicity,Asian,177576,6.8,5279,11.5,15.4,2021-02-15
+Race Ethnicity,Black,106201,4.1,2865,6.3,6.0,2021-02-15
+Race Ethnicity,Multi-Race,38680,1.5,570,1.2,2.2,2021-02-15
+Race Ethnicity,American Indian or Alaska Native,8549,0.3,160,0.3,0.5,2021-02-15
+Race Ethnicity,Native Hawaiian and other Pacific Islander,14874,0.6,277,0.6,0.3,2021-02-15
+Race Ethnicity,Other,307410,11.7,1007,2.2,0.0,2021-02-15
+Race Ethnicity,Total,2621533,100.0,45750,100.0,100.0,2021-02-15
+Age Group,0-17,438493,12.8,13,0.0,22.5,2021-02-16
+Age Group,18-49,1959463,57.4,3138,6.7,43.5,2021-02-16
+Age Group,50-64,652016,19.1,8986,19.1,18.4,2021-02-16
+Age Group,65+,364046,10.7,34942,74.2,15.6,2021-02-16
+Age Group,missing,2129,0.1,7,0.0,0.0,2021-02-16
+Age Group,Total,3416147,100.0,47086,100.0,100.0,2021-02-16
+Gender,Female,1735351,50.8,19549,41.5,50.3,2021-02-16
+Gender,Male,1629733,47.7,27308,58.0,49.7,2021-02-16
+Gender,Unknown,51063,1.5,229,0.5,0.0,2021-02-16
+Gender,Total,3416147,100.0,47086,100.0,100.0,2021-02-16
+Race Ethnicity,Latino,1446427,55.1,21267,46.2,38.9,2021-02-16
+Race Ethnicity,White,524753,20.0,14542,31.6,36.6,2021-02-16
+Race Ethnicity,Asian,177919,6.8,5309,11.5,15.4,2021-02-16
+Race Ethnicity,Black,106400,4.1,2876,6.2,6.0,2021-02-16
+Race Ethnicity,Multi-Race,38784,1.5,575,1.2,2.2,2021-02-16
+Race Ethnicity,American Indian or Alaska Native,8561,0.3,162,0.4,0.5,2021-02-16
+Race Ethnicity,Native Hawaiian and other Pacific Islander,14897,0.6,277,0.6,0.3,2021-02-16
+Race Ethnicity,Other,307324,11.7,1015,2.2,0.0,2021-02-16
+Race Ethnicity,Total,2625065,100.0,46023,100.0,100.0,2021-02-16
+Age Group,0-17,439176,12.8,14,0.0,22.5,2021-02-17
+Age Group,18-49,1962504,57.4,3157,6.6,43.5,2021-02-17
+Age Group,50-64,653133,19.1,9089,19.1,18.4,2021-02-17
+Age Group,65+,364781,10.7,35269,74.2,15.6,2021-02-17
+Age Group,missing,2126,0.1,8,0.0,0.0,2021-02-17
+Age Group,Total,3421720,100.0,47537,100.0,100.0,2021-02-17
+Gender,Female,1738179,50.8,19713,41.5,50.3,2021-02-17
+Gender,Male,1632464,47.7,27593,58.0,49.7,2021-02-17
+Gender,Unknown,51077,1.5,231,0.5,0.0,2021-02-17
+Gender,Total,3421720,100.0,47537,100.0,100.0,2021-02-17
+Race Ethnicity,Latino,1449831,55.1,21466,46.2,38.9,2021-02-17
+Race Ethnicity,White,526046,20.0,14689,31.6,36.6,2021-02-17
+Race Ethnicity,Asian,178375,6.8,5371,11.6,15.4,2021-02-17
+Race Ethnicity,Black,106708,4.1,2891,6.2,6.0,2021-02-17
+Race Ethnicity,Multi-Race,39026,1.5,578,1.2,2.2,2021-02-17
+Race Ethnicity,American Indian or Alaska Native,8574,0.3,163,0.4,0.5,2021-02-17
+Race Ethnicity,Native Hawaiian and other Pacific Islander,14915,0.6,280,0.6,0.3,2021-02-17
+Race Ethnicity,Other,307116,11.7,1028,2.2,0.0,2021-02-17
+Race Ethnicity,Total,2630591,100.0,46466,100.0,100.0,2021-02-17
+Age Group,0-17,440098,12.8,14,0.0,22.5,2021-02-18
+Age Group,18-49,1966284,57.4,3183,6.6,43.5,2021-02-18
+Age Group,50-64,654421,19.1,9173,19.1,18.4,2021-02-18
+Age Group,65+,365575,10.7,35596,74.2,15.6,2021-02-18
+Age Group,missing,2140,0.1,7,0.0,0.0,2021-02-18
+Age Group,Total,3428518,100.0,47973,100.0,100.0,2021-02-18
+Gender,Female,1741520,50.8,19866,41.4,50.3,2021-02-18
+Gender,Male,1635830,47.7,27871,58.1,49.7,2021-02-18
+Gender,Unknown,51168,1.5,236,0.5,0.0,2021-02-18
+Gender,Total,3428518,100.0,47973,100.0,100.0,2021-02-18
+Race Ethnicity,Latino,1454195,55.1,21677,46.2,38.9,2021-02-18
+Race Ethnicity,White,527690,20.0,14819,31.6,36.6,2021-02-18
+Race Ethnicity,Asian,179040,6.8,5413,11.5,15.4,2021-02-18
+Race Ethnicity,Black,107081,4.1,2918,6.2,6.0,2021-02-18
+Race Ethnicity,Multi-Race,39322,1.5,580,1.2,2.2,2021-02-18
+Race Ethnicity,American Indian or Alaska Native,8612,0.3,163,0.3,0.5,2021-02-18
+Race Ethnicity,Native Hawaiian and other Pacific Islander,14936,0.6,283,0.6,0.3,2021-02-18
+Race Ethnicity,Other,306950,11.6,1036,2.2,0.0,2021-02-18
+Race Ethnicity,Total,2637826,100.0,46889,100.0,100.0,2021-02-18
+Age Group,0-17,440968,12.8,14,0.0,22.5,2021-02-19
+Age Group,18-49,1969895,57.3,3221,6.7,43.5,2021-02-19
+Age Group,50-64,655764,19.1,9265,19.1,18.4,2021-02-19
+Age Group,65+,366399,10.7,35906,74.2,15.6,2021-02-19
+Age Group,missing,2160,0.1,8,0.0,0.0,2021-02-19
+Age Group,Total,3435186,100.0,48414,100.0,100.0,2021-02-19
+Gender,Female,1744886,50.8,20049,41.4,50.3,2021-02-19
+Gender,Male,1639066,47.7,28126,58.1,49.7,2021-02-19
+Gender,Unknown,51234,1.5,239,0.5,0.0,2021-02-19
+Gender,Total,3435186,100.0,48414,100.0,100.0,2021-02-19
+Race Ethnicity,Latino,1458771,55.1,21866,46.2,38.9,2021-02-19
+Race Ethnicity,White,529334,20.0,14958,31.6,36.6,2021-02-19
+Race Ethnicity,Asian,179671,6.8,5464,11.5,15.4,2021-02-19
+Race Ethnicity,Black,107436,4.1,2946,6.2,6.0,2021-02-19
+Race Ethnicity,Multi-Race,39616,1.5,586,1.2,2.2,2021-02-19
+Race Ethnicity,American Indian or Alaska Native,8653,0.3,165,0.3,0.5,2021-02-19
+Race Ethnicity,Native Hawaiian and other Pacific Islander,14965,0.6,286,0.6,0.3,2021-02-19
+Race Ethnicity,Other,306751,11.6,1055,2.2,0.0,2021-02-19
+Race Ethnicity,Total,2645197,100.0,47326,100.0,100.0,2021-02-19
+Age Group,0-17,441978,12.8,14,0.0,22.5,2021-02-20
+Age Group,18-49,1973516,57.3,3245,6.6,43.5,2021-02-20
+Age Group,50-64,657076,19.1,9364,19.2,18.4,2021-02-20
+Age Group,65+,367229,10.7,36177,74.1,15.6,2021-02-20
+Age Group,missing,2147,0.1,7,0.0,0.0,2021-02-20
+Age Group,Total,3441946,100.0,48807,100.0,100.0,2021-02-20
+Gender,Female,1748322,50.8,20205,41.4,50.3,2021-02-20
+Gender,Male,1642318,47.7,28359,58.1,49.7,2021-02-20
+Gender,Unknown,51306,1.5,243,0.5,0.0,2021-02-20
+Gender,Total,3441946,100.0,48807,100.0,100.0,2021-02-20
+Race Ethnicity,Latino,1462751,55.2,22030,46.2,38.9,2021-02-20
+Race Ethnicity,White,530958,20.0,15083,31.6,36.6,2021-02-20
+Race Ethnicity,Asian,180258,6.8,5504,11.5,15.4,2021-02-20
+Race Ethnicity,Black,107741,4.1,2972,6.2,6.0,2021-02-20
+Race Ethnicity,Multi-Race,39910,1.5,599,1.3,2.2,2021-02-20
+Race Ethnicity,American Indian or Alaska Native,8681,0.3,166,0.3,0.5,2021-02-20
+Race Ethnicity,Native Hawaiian and other Pacific Islander,14996,0.6,289,0.6,0.3,2021-02-20
+Race Ethnicity,Other,306877,11.6,1062,2.2,0.0,2021-02-20
+Race Ethnicity,Total,2652172,100.0,47705,100.0,100.0,2021-02-20
+Age Group,0-17,442690,12.8,14,0.0,22.5,2021-02-21
+Age Group,18-49,1976055,57.3,3269,6.7,43.5,2021-02-21
+Age Group,50-64,657968,19.1,9427,19.2,18.4,2021-02-21
+Age Group,65+,367754,10.7,36322,74.1,15.6,2021-02-21
+Age Group,missing,2144,0.1,7,0.0,0.0,2021-02-21
+Age Group,Total,3446611,100.0,49039,100.0,100.0,2021-02-21
+Gender,Female,1750671,50.8,20294,41.4,50.3,2021-02-21
+Gender,Male,1644578,47.7,28502,58.1,49.7,2021-02-21
+Gender,Unknown,51362,1.5,243,0.5,0.0,2021-02-21
+Gender,Total,3446611,100.0,49039,100.0,100.0,2021-02-21
+Race Ethnicity,Latino,1466824,55.2,22114,46.1,38.9,2021-02-21
+Race Ethnicity,White,532295,20.0,15170,31.7,36.6,2021-02-21
+Race Ethnicity,Asian,180788,6.8,5536,11.6,15.4,2021-02-21
+Race Ethnicity,Black,108013,4.1,2982,6.2,6.0,2021-02-21
+Race Ethnicity,Multi-Race,40154,1.5,603,1.3,2.2,2021-02-21
+Race Ethnicity,American Indian or Alaska Native,8701,0.3,165,0.3,0.5,2021-02-21
+Race Ethnicity,Native Hawaiian and other Pacific Islander,15021,0.6,288,0.6,0.3,2021-02-21
+Race Ethnicity,Other,306878,11.5,1069,2.2,0.0,2021-02-21
+Race Ethnicity,Total,2658674,100.0,47927,100.0,100.0,2021-02-21
+Age Group,0-17,443234,12.8,14,0.0,22.5,2021-02-22
+Age Group,18-49,1977904,57.3,3273,6.7,43.5,2021-02-22
+Age Group,50-64,658650,19.1,9441,19.2,18.4,2021-02-22
+Age Group,65+,368121,10.7,36394,74.1,15.6,2021-02-22
+Age Group,missing,2149,0.1,7,0.0,0.0,2021-02-22
+Age Group,Total,3450058,100.0,49129,100.0,100.0,2021-02-22
+Gender,Female,1752452,50.8,20327,41.4,50.3,2021-02-22
+Gender,Male,1646261,47.7,28559,58.1,49.7,2021-02-22
+Gender,Unknown,51345,1.5,243,0.5,0.0,2021-02-22
+Gender,Total,3450058,100.0,49129,100.0,100.0,2021-02-22
+Race Ethnicity,Latino,1469005,55.2,22141,46.1,38.9,2021-02-22
+Race Ethnicity,White,533145,20.0,15205,31.7,36.6,2021-02-22
+Race Ethnicity,Asian,181145,6.8,5548,11.6,15.4,2021-02-22
+Race Ethnicity,Black,108204,4.1,2984,6.2,6.0,2021-02-22
+Race Ethnicity,Multi-Race,40300,1.5,610,1.3,2.2,2021-02-22
+Race Ethnicity,American Indian or Alaska Native,8714,0.3,165,0.3,0.5,2021-02-22
+Race Ethnicity,Native Hawaiian and other Pacific Islander,15041,0.6,290,0.6,0.3,2021-02-22
+Race Ethnicity,Other,306830,11.5,1072,2.2,0.0,2021-02-22
+Race Ethnicity,Total,2662384,100.0,48015,100.0,100.0,2021-02-22
+Age Group,0-17,443900,12.8,14,0.0,22.5,2021-02-23
+Age Group,18-49,1980770,57.3,3302,6.7,43.5,2021-02-23
+Age Group,50-64,659757,19.1,9517,19.2,18.4,2021-02-23
+Age Group,65+,368784,10.7,36631,74.0,15.6,2021-02-23
+Age Group,missing,2150,0.1,6,0.0,0.0,2021-02-23
+Age Group,Total,3455361,100.0,49470,100.0,100.0,2021-02-23
+Gender,Female,1755203,50.8,20480,41.4,50.3,2021-02-23
+Gender,Male,1648874,47.7,28748,58.1,49.7,2021-02-23
+Gender,Unknown,51284,1.5,242,0.5,0.0,2021-02-23
+Gender,Total,3455361,100.0,49470,100.0,100.0,2021-02-23
+Race Ethnicity,Latino,1472040,55.2,22371,46.3,38.9,2021-02-23
+Race Ethnicity,White,534330,20.0,15249,31.5,36.6,2021-02-23
+Race Ethnicity,Asian,181664,6.8,5590,11.6,15.4,2021-02-23
+Race Ethnicity,Black,108479,4.1,3004,6.2,6.0,2021-02-23
+Race Ethnicity,Multi-Race,40426,1.5,612,1.3,2.2,2021-02-23
+Race Ethnicity,American Indian or Alaska Native,8740,0.3,165,0.3,0.5,2021-02-23
+Race Ethnicity,Native Hawaiian and other Pacific Islander,15066,0.6,292,0.6,0.3,2021-02-23
+Race Ethnicity,Other,307021,11.5,1064,2.2,0.0,2021-02-23
+Race Ethnicity,Total,2667766,100.0,48347,100.0,100.0,2021-02-23
+Age Group,0-17,444547,12.8,14,0.0,22.5,2021-02-24
+Age Group,18-49,1983548,57.3,3377,6.7,43.5,2021-02-24
+Age Group,50-64,660785,19.1,9741,19.2,18.4,2021-02-24
+Age Group,65+,369313,10.7,37510,74.1,15.6,2021-02-24
+Age Group,missing,2133,0.1,6,0.0,0.0,2021-02-24
+Age Group,Total,3460326,100.0,50648,100.0,100.0,2021-02-24
+Gender,Female,1757746,50.8,20985,41.4,50.3,2021-02-24
+Gender,Male,1651296,47.7,29420,58.1,49.7,2021-02-24
+Gender,Unknown,51284,1.5,243,0.5,0.0,2021-02-24
+Gender,Total,3460326,100.0,50648,100.0,100.0,2021-02-24
+Race Ethnicity,Latino,1476643,55.2,22893,46.2,38.9,2021-02-24
+Race Ethnicity,White,535706,20.0,15648,31.6,36.6,2021-02-24
+Race Ethnicity,Asian,182235,6.8,5752,11.6,15.4,2021-02-24
+Race Ethnicity,Black,108739,4.1,3089,6.2,6.0,2021-02-24
+Race Ethnicity,Multi-Race,40752,1.5,626,1.3,2.2,2021-02-24
+Race Ethnicity,American Indian or Alaska Native,8770,0.3,167,0.3,0.5,2021-02-24
+Race Ethnicity,Native Hawaiian and other Pacific Islander,15097,0.6,302,0.6,0.3,2021-02-24
+Race Ethnicity,Other,306466,11.5,1084,2.2,0.0,2021-02-24
+Race Ethnicity,Total,2674408,100.0,49561,100.0,100.0,2021-02-24
+Age Group,0-17,445314,12.8,14,0.0,22.5,2021-02-25
+Age Group,18-49,1986471,57.3,3413,6.7,43.5,2021-02-25
+Age Group,50-64,661836,19.1,9841,19.3,18.4,2021-02-25
+Age Group,65+,369969,10.7,37847,74.0,15.6,2021-02-25
+Age Group,missing,2136,0.1,6,0.0,0.0,2021-02-25
+Age Group,Total,3465726,100.0,51121,100.0,100.0,2021-02-25
+Gender,Female,1758322,50.7,21092,41.3,50.3,2021-02-25
+Gender,Male,1651774,47.7,29608,57.9,49.7,2021-02-25
+Gender,Unknown,55630,1.6,421,0.8,0.0,2021-02-25
+Gender,Total,3465726,100.0,51121,100.0,100.0,2021-02-25
+Race Ethnicity,Latino,1479012,55.2,23046,46.1,38.9,2021-02-25
+Race Ethnicity,White,537448,20.1,15836,31.7,36.6,2021-02-25
+Race Ethnicity,Asian,182779,6.8,5792,11.6,15.4,2021-02-25
+Race Ethnicity,Black,109065,4.1,3119,6.2,6.0,2021-02-25
+Race Ethnicity,Multi-Race,41093,1.5,644,1.3,2.2,2021-02-25
+Race Ethnicity,American Indian or Alaska Native,8813,0.3,171,0.3,0.5,2021-02-25
+Race Ethnicity,Native Hawaiian and other Pacific Islander,15126,0.6,304,0.6,0.3,2021-02-25
+Race Ethnicity,Other,306803,11.4,1117,2.2,0.0,2021-02-25
+Race Ethnicity,Total,2680139,100.0,50029,100.0,100.0,2021-02-25
+Age Group,0-17,446057,12.9,14,0.0,22.5,2021-02-26
+Age Group,18-49,1989308,57.3,3428,6.7,43.5,2021-02-26
+Age Group,50-64,662816,19.1,9931,19.3,18.4,2021-02-26
+Age Group,65+,370554,10.7,38126,74.0,15.6,2021-02-26
+Age Group,missing,2142,0.1,6,0.0,0.0,2021-02-26
+Age Group,Total,3470877,100.0,51505,100.0,100.0,2021-02-26
+Gender,Female,1763115,50.8,21340,41.4,50.3,2021-02-26
+Gender,Male,1656448,47.7,29918,58.1,49.7,2021-02-26
+Gender,Unknown,51314,1.5,247,0.5,0.0,2021-02-26
+Gender,Total,3470877,100.0,51505,100.0,100.0,2021-02-26
+Race Ethnicity,Latino,1484054,55.2,23307,46.2,38.9,2021-02-26
+Race Ethnicity,White,538323,20.0,15908,31.5,36.6,2021-02-26
+Race Ethnicity,Asian,183305,6.8,5848,11.6,15.4,2021-02-26
+Race Ethnicity,Black,109352,4.1,3142,6.2,6.0,2021-02-26
+Race Ethnicity,Multi-Race,41164,1.5,647,1.3,2.2,2021-02-26
+Race Ethnicity,American Indian or Alaska Native,8835,0.3,172,0.3,0.5,2021-02-26
+Race Ethnicity,Native Hawaiian and other Pacific Islander,15156,0.6,304,0.6,0.3,2021-02-26
+Race Ethnicity,Other,306058,11.4,1096,2.2,0.0,2021-02-26
+Race Ethnicity,Total,2686247,100.0,50424,100.0,100.0,2021-02-26
+Age Group,0-17,446763,12.9,14,0.0,22.5,2021-02-27
+Age Group,18-49,1991839,57.3,3441,6.6,43.5,2021-02-27
+Age Group,50-64,663739,19.1,9991,19.3,18.4,2021-02-27
+Age Group,65+,371071,10.7,38342,74.0,15.6,2021-02-27
+Age Group,missing,2150,0.1,6,0.0,0.0,2021-02-27
+Age Group,Total,3475562,100.0,51794,100.0,100.0,2021-02-27
+Gender,Female,1765523,50.8,21452,41.4,50.3,2021-02-27
+Gender,Male,1658745,47.7,30093,58.1,49.7,2021-02-27
+Gender,Unknown,51294,1.5,249,0.5,0.0,2021-02-27
+Gender,Total,3475562,100.0,51794,100.0,100.0,2021-02-27
+Race Ethnicity,Latino,1487225,55.3,23435,46.2,38.9,2021-02-27
+Race Ethnicity,White,539466,20.0,16017,31.6,36.6,2021-02-27
+Race Ethnicity,Asian,183711,6.8,5875,11.6,15.4,2021-02-27
+Race Ethnicity,Black,109591,4.1,3161,6.2,6.0,2021-02-27
+Race Ethnicity,Multi-Race,41370,1.5,647,1.3,2.2,2021-02-27
+Race Ethnicity,American Indian or Alaska Native,8861,0.3,173,0.3,0.5,2021-02-27
+Race Ethnicity,Native Hawaiian and other Pacific Islander,15175,0.6,306,0.6,0.3,2021-02-27
+Race Ethnicity,Other,305942,11.4,1103,2.2,0.0,2021-02-27
+Race Ethnicity,Total,2691341,100.0,50717,100.0,100.0,2021-02-27
+Age Group,0-17,447354,12.9,14,0.0,22.5,2021-02-28
+Age Group,18-49,1993740,57.3,3459,6.6,43.5,2021-02-28
+Age Group,50-64,664406,19.1,10056,19.3,18.4,2021-02-28
+Age Group,65+,371427,10.7,38498,74.0,15.6,2021-02-28
+Age Group,missing,2151,0.1,5,0.0,0.0,2021-02-28
+Age Group,Total,3479078,100.0,52032,100.0,100.0,2021-02-28
+Gender,Female,1767316,50.8,21531,41.4,50.3,2021-02-28
+Gender,Male,1660484,47.7,30253,58.1,49.7,2021-02-28
+Gender,Unknown,51278,1.5,248,0.5,0.0,2021-02-28
+Gender,Total,3479078,100.0,52032,100.0,100.0,2021-02-28
+Race Ethnicity,Latino,1490539,55.3,23571,46.3,38.9,2021-02-28
+Race Ethnicity,White,540449,20.0,16075,31.5,36.6,2021-02-28
+Race Ethnicity,Asian,184102,6.8,5903,11.6,15.4,2021-02-28
+Race Ethnicity,Black,109810,4.1,3179,6.2,6.0,2021-02-28
+Race Ethnicity,Multi-Race,41631,1.5,651,1.3,2.2,2021-02-28
+Race Ethnicity,American Indian or Alaska Native,8882,0.3,174,0.3,0.5,2021-02-28
+Race Ethnicity,Native Hawaiian and other Pacific Islander,15201,0.6,307,0.6,0.3,2021-02-28
+Race Ethnicity,Other,305675,11.3,1102,2.2,0.0,2021-02-28
+Race Ethnicity,Total,2696289,100.0,50962,100.0,100.0,2021-02-28
+Age Group,0-17,447770,12.9,14,0.0,22.5,2021-03-01
+Age Group,18-49,1995109,57.3,3467,6.7,43.5,2021-03-01
+Age Group,50-64,664879,19.1,10069,19.3,18.4,2021-03-01
+Age Group,65+,371704,10.7,38574,74.0,15.6,2021-03-01
+Age Group,missing,2149,0.1,5,0.0,0.0,2021-03-01
+Age Group,Total,3481611,100.0,52129,100.0,100.0,2021-03-01
+Gender,Female,1768628,50.8,21572,41.4,50.3,2021-03-01
+Gender,Male,1661717,47.7,30309,58.1,49.7,2021-03-01
+Gender,Unknown,51266,1.5,248,0.5,0.0,2021-03-01
+Gender,Total,3481611,100.0,52129,100.0,100.0,2021-03-01
+Race Ethnicity,Latino,1492186,55.3,23608,46.2,38.9,2021-03-01
+Race Ethnicity,White,541113,20.0,16111,31.6,36.6,2021-03-01
+Race Ethnicity,Asian,184371,6.8,5910,11.6,15.4,2021-03-01
+Race Ethnicity,Black,109920,4.1,3188,6.2,6.0,2021-03-01
+Race Ethnicity,Multi-Race,41740,1.5,655,1.3,2.2,2021-03-01
+Race Ethnicity,American Indian or Alaska Native,8894,0.3,174,0.3,0.5,2021-03-01
+Race Ethnicity,Native Hawaiian and other Pacific Islander,15214,0.6,309,0.6,0.3,2021-03-01
+Race Ethnicity,Other,305643,11.3,1102,2.2,0.0,2021-03-01
+Race Ethnicity,Total,2699081,100.0,51057,100.0,100.0,2021-03-01
+Age Group,0-17,448193,12.9,14,0.0,22.5,2021-03-02
+Age Group,18-49,1996925,57.3,3482,6.6,43.5,2021-03-02
+Age Group,50-64,665595,19.1,10127,19.3,18.4,2021-03-02
+Age Group,65+,372106,10.7,38801,74.0,15.6,2021-03-02
+Age Group,missing,2144,0.1,5,0.0,0.0,2021-03-02
+Age Group,Total,3484963,100.0,52429,100.0,100.0,2021-03-02
+Gender,Female,1770397,50.8,21698,41.4,50.3,2021-03-02
+Gender,Male,1663374,47.7,30495,58.2,49.7,2021-03-02
+Gender,Unknown,51192,1.5,236,0.5,0.0,2021-03-02
+Gender,Total,3484963,100.0,52429,100.0,100.0,2021-03-02
+Race Ethnicity,Latino,1494376,55.3,23768,46.3,38.9,2021-03-02
+Race Ethnicity,White,541927,20.1,16205,31.5,36.6,2021-03-02
+Race Ethnicity,Asian,184765,6.8,5958,11.6,15.4,2021-03-02
+Race Ethnicity,Black,110115,4.1,3209,6.2,6.0,2021-03-02
+Race Ethnicity,Multi-Race,41858,1.5,658,1.3,2.2,2021-03-02
+Race Ethnicity,American Indian or Alaska Native,8915,0.3,173,0.3,0.5,2021-03-02
+Race Ethnicity,Native Hawaiian and other Pacific Islander,15228,0.6,311,0.6,0.3,2021-03-02
+Race Ethnicity,Other,305557,11.3,1092,2.1,0.0,2021-03-02
+Race Ethnicity,Total,2702741,100.0,51374,100.0,100.0,2021-03-02
+Age Group,0-17,448653,12.9,14,0.0,22.5,2021-03-03
+Age Group,18-49,1998780,57.3,3515,6.7,43.5,2021-03-03
+Age Group,50-64,666332,19.1,10232,19.4,18.4,2021-03-03
+Age Group,65+,372554,10.7,39056,73.9,15.6,2021-03-03
+Age Group,missing,2148,0.1,6,0.0,0.0,2021-03-03
+Age Group,Total,3488467,100.0,52823,100.0,100.0,2021-03-03
+Gender,Female,1772224,50.8,21866,41.4,50.3,2021-03-03
+Gender,Male,1665042,47.7,30722,58.2,49.7,2021-03-03
+Gender,Unknown,51201,1.5,235,0.4,0.0,2021-03-03
+Gender,Total,3488467,100.0,52823,100.0,100.0,2021-03-03
+Race Ethnicity,Latino,1498006,55.3,23976,46.3,38.9,2021-03-03
+Race Ethnicity,White,542988,20.1,16317,31.5,36.6,2021-03-03
+Race Ethnicity,Asian,185183,6.8,5997,11.6,15.4,2021-03-03
+Race Ethnicity,Black,110397,4.1,3222,6.2,6.0,2021-03-03
+Race Ethnicity,Multi-Race,42134,1.6,673,1.3,2.2,2021-03-03
+Race Ethnicity,American Indian or Alaska Native,8929,0.3,176,0.3,0.5,2021-03-03
+Race Ethnicity,Native Hawaiian and other Pacific Islander,15242,0.6,314,0.6,0.3,2021-03-03
+Race Ethnicity,Other,305072,11.3,1094,2.1,0.0,2021-03-03
+Race Ethnicity,Total,2707951,100.0,51769,100.0,100.0,2021-03-03
+Age Group,0-17,449313,12.9,14,0.0,22.5,2021-03-04
+Age Group,18-49,2001313,57.3,3534,6.6,43.5,2021-03-04
+Age Group,50-64,667234,19.1,10301,19.4,18.4,2021-03-04
+Age Group,65+,373112,10.7,39339,74.0,15.6,2021-03-04
+Age Group,missing,2154,0.1,6,0.0,0.0,2021-03-04
+Age Group,Total,3493126,100.0,53194,100.0,100.0,2021-03-04
+Gender,Female,1774589,50.8,22021,41.4,50.3,2021-03-04
+Gender,Male,1667291,47.7,30936,58.2,49.7,2021-03-04
+Gender,Unknown,51246,1.5,237,0.4,0.0,2021-03-04
+Gender,Total,3493126,100.0,53194,100.0,100.0,2021-03-04
+Race Ethnicity,Latino,1501574,55.3,24150,46.3,38.9,2021-03-04
+Race Ethnicity,White,544198,20.1,16410,31.5,36.6,2021-03-04
+Race Ethnicity,Asian,185631,6.8,6041,11.6,15.4,2021-03-04
+Race Ethnicity,Black,110700,4.1,3237,6.2,6.0,2021-03-04
+Race Ethnicity,Multi-Race,42391,1.6,690,1.3,2.2,2021-03-04
+Race Ethnicity,American Indian or Alaska Native,8972,0.3,180,0.3,0.5,2021-03-04
+Race Ethnicity,Native Hawaiian and other Pacific Islander,15249,0.6,318,0.6,0.3,2021-03-04
+Race Ethnicity,Other,304856,11.2,1109,2.1,0.0,2021-03-04
+Race Ethnicity,Total,2713571,100.0,52135,100.0,100.0,2021-03-04
+Age Group,0-17,449972,12.9,14,0.0,22.5,2021-03-05
+Age Group,18-49,2003731,57.3,3550,6.6,43.5,2021-03-05
+Age Group,50-64,668098,19.1,10369,19.4,18.4,2021-03-05
+Age Group,65+,373601,10.7,39525,73.9,15.6,2021-03-05
+Age Group,missing,2176,0.1,6,0.0,0.0,2021-03-05
+Age Group,Total,3497578,100.0,53464,100.0,100.0,2021-03-05
+Gender,Female,1776841,50.8,22155,41.4,50.3,2021-03-05
+Gender,Male,1669485,47.7,31070,58.1,49.7,2021-03-05
+Gender,Unknown,51252,1.5,239,0.4,0.0,2021-03-05
+Gender,Total,3497578,100.0,53464,100.0,100.0,2021-03-05
+Race Ethnicity,Latino,1505360,55.4,24282,46.3,38.9,2021-03-05
+Race Ethnicity,White,545388,20.1,16505,31.5,36.6,2021-03-05
+Race Ethnicity,Asian,186096,6.8,6073,11.6,15.4,2021-03-05
+Race Ethnicity,Black,110994,4.1,3262,6.2,6.0,2021-03-05
+Race Ethnicity,Multi-Race,42607,1.6,686,1.3,2.2,2021-03-05
+Race Ethnicity,American Indian or Alaska Native,9004,0.3,183,0.3,0.5,2021-03-05
+Race Ethnicity,Native Hawaiian and other Pacific Islander,15263,0.6,319,0.6,0.3,2021-03-05
+Race Ethnicity,Other,304635,11.2,1105,2.1,0.0,2021-03-05
+Race Ethnicity,Total,2719347,100.0,52415,100.0,100.0,2021-03-05
+Age Group,0-17,450519,12.9,14,0.0,22.5,2021-03-06
+Age Group,18-49,2005831,57.3,3565,6.6,43.5,2021-03-06
+Age Group,50-64,668847,19.1,10429,19.4,18.4,2021-03-06
+Age Group,65+,374031,10.7,39708,73.9,15.6,2021-03-06
+Age Group,missing,2166,0.1,6,0.0,0.0,2021-03-06
+Age Group,Total,3501394,100.0,53722,100.0,100.0,2021-03-06
+Gender,Female,1778826,50.8,22242,41.4,50.3,2021-03-06
+Gender,Male,1671356,47.7,31236,58.1,49.7,2021-03-06
+Gender,Unknown,51212,1.5,244,0.5,0.0,2021-03-06
+Gender,Total,3501394,100.0,53722,100.0,100.0,2021-03-06
+Race Ethnicity,Latino,1509103,55.4,24402,46.3,38.9,2021-03-06
+Race Ethnicity,White,546630,20.1,16586,31.5,36.6,2021-03-06
+Race Ethnicity,Asian,186562,6.8,6105,11.6,15.4,2021-03-06
+Race Ethnicity,Black,111279,4.1,3275,6.2,6.0,2021-03-06
+Race Ethnicity,Multi-Race,42824,1.6,693,1.3,2.2,2021-03-06
+Race Ethnicity,American Indian or Alaska Native,9025,0.3,184,0.3,0.5,2021-03-06
+Race Ethnicity,Native Hawaiian and other Pacific Islander,15281,0.6,322,0.6,0.3,2021-03-06
+Race Ethnicity,Other,304477,11.2,1103,2.1,0.0,2021-03-06
+Race Ethnicity,Total,2725181,100.0,52670,100.0,100.0,2021-03-06
+Age Group,0-17,451015,12.9,14,0.0,22.5,2021-03-07
+Age Group,18-49,2007650,57.3,3567,6.6,43.5,2021-03-07
+Age Group,50-64,669481,19.1,10447,19.4,18.4,2021-03-07
+Age Group,65+,374342,10.7,39793,73.9,15.6,2021-03-07
+Age Group,missing,2164,0.1,7,0.0,0.0,2021-03-07
+Age Group,Total,3504652,100.0,53828,100.0,100.0,2021-03-07
+Gender,Female,1780520,50.8,22290,41.4,50.3,2021-03-07
+Gender,Male,1672907,47.7,31292,58.1,49.7,2021-03-07
+Gender,Unknown,51225,1.5,246,0.5,0.0,2021-03-07
+Gender,Total,3504652,100.0,53828,100.0,100.0,2021-03-07
+Race Ethnicity,Latino,1511539,55.4,24429,46.3,38.9,2021-03-07
+Race Ethnicity,White,547503,20.1,16622,31.5,36.6,2021-03-07
+Race Ethnicity,Asian,186929,6.8,6132,11.6,15.4,2021-03-07
+Race Ethnicity,Black,111452,4.1,3279,6.2,6.0,2021-03-07
+Race Ethnicity,Multi-Race,43025,1.6,702,1.3,2.2,2021-03-07
+Race Ethnicity,American Indian or Alaska Native,9045,0.3,184,0.3,0.5,2021-03-07
+Race Ethnicity,Native Hawaiian and other Pacific Islander,15304,0.6,323,0.6,0.3,2021-03-07
+Race Ethnicity,Other,304365,11.2,1105,2.1,0.0,2021-03-07
+Race Ethnicity,Total,2729162,100.0,52776,100.0,100.0,2021-03-07
+Age Group,0-17,451462,12.9,14,0.0,22.5,2021-03-08
+Age Group,18-49,2009104,57.3,3572,6.6,43.5,2021-03-08
+Age Group,50-64,669976,19.1,10458,19.4,18.4,2021-03-08
+Age Group,65+,374560,10.7,39827,73.9,15.6,2021-03-08
+Age Group,missing,2164,0.1,7,0.0,0.0,2021-03-08
+Age Group,Total,3507266,100.0,53878,100.0,100.0,2021-03-08
+Gender,Female,1781806,50.8,22314,41.4,50.3,2021-03-08
+Gender,Male,1674247,47.7,31317,58.1,49.7,2021-03-08
+Gender,Unknown,51213,1.5,247,0.5,0.0,2021-03-08
+Gender,Total,3507266,100.0,53878,100.0,100.0,2021-03-08
+Race Ethnicity,Latino,1513632,55.4,24441,46.3,38.9,2021-03-08
+Race Ethnicity,White,548193,20.1,16645,31.5,36.6,2021-03-08
+Race Ethnicity,Asian,187197,6.9,6143,11.6,15.4,2021-03-08
+Race Ethnicity,Black,111621,4.1,3278,6.2,6.0,2021-03-08
+Race Ethnicity,Multi-Race,43158,1.6,702,1.3,2.2,2021-03-08
+Race Ethnicity,American Indian or Alaska Native,9053,0.3,185,0.4,0.5,2021-03-08
+Race Ethnicity,Native Hawaiian and other Pacific Islander,15313,0.6,323,0.6,0.3,2021-03-08
+Race Ethnicity,Other,304294,11.1,1107,2.1,0.0,2021-03-08
+Race Ethnicity,Total,2732461,100.0,52824,100.0,100.0,2021-03-08
+Age Group,0-17,451984,12.9,14,0.0,22.5,2021-03-09
+Age Group,18-49,2012786,57.3,3601,6.6,43.5,2021-03-09
+Age Group,50-64,671260,19.1,10544,19.4,18.4,2021-03-09
+Age Group,65+,375480,10.7,40153,73.9,15.6,2021-03-09
+Age Group,missing,2168,0.1,8,0.0,0.0,2021-03-09
+Age Group,Total,3513678,100.0,54320,100.0,100.0,2021-03-09
+Gender,Female,1784884,50.8,22485,41.4,50.3,2021-03-09
+Gender,Male,1677509,47.7,31587,58.1,49.7,2021-03-09
+Gender,Unknown,51285,1.5,248,0.5,0.0,2021-03-09
+Gender,Total,3513678,100.0,54320,100.0,100.0,2021-03-09
+Race Ethnicity,Latino,1517144,55.4,24687,46.3,38.9,2021-03-09
+Race Ethnicity,White,550247,20.1,16739,31.4,36.6,2021-03-09
+Race Ethnicity,Asian,187815,6.9,6209,11.7,15.4,2021-03-09
+Race Ethnicity,Black,111916,4.1,3309,6.2,6.0,2021-03-09
+Race Ethnicity,Multi-Race,43357,1.6,707,1.3,2.2,2021-03-09
+Race Ethnicity,American Indian or Alaska Native,9163,0.3,187,0.4,0.5,2021-03-09
+Race Ethnicity,Native Hawaiian and other Pacific Islander,15402,0.6,326,0.6,0.3,2021-03-09
+Race Ethnicity,Other,304266,11.1,1118,2.1,0.0,2021-03-09
+Race Ethnicity,Total,2739310,100.0,53282,100.0,100.0,2021-03-09
+Age Group,0-17,452443,12.9,14,0.0,22.5,2021-03-10
+Age Group,18-49,2014716,57.3,3620,6.6,43.5,2021-03-10
+Age Group,50-64,671794,19.1,10593,19.4,18.4,2021-03-10
+Age Group,65+,375736,10.7,40354,73.9,15.6,2021-03-10
+Age Group,missing,2173,0.1,9,0.0,0.0,2021-03-10
+Age Group,Total,3516862,100.0,54590,100.0,100.0,2021-03-10
+Gender,Female,1786504,50.8,22601,41.4,50.3,2021-03-10
+Gender,Male,1679075,47.7,31737,58.1,49.7,2021-03-10
+Gender,Unknown,51283,1.5,252,0.5,0.0,2021-03-10
+Gender,Total,3516862,100.0,54590,100.0,100.0,2021-03-10
+Race Ethnicity,Latino,1519953,55.4,24810,46.3,38.9,2021-03-10
+Race Ethnicity,White,550982,20.1,16834,31.4,36.6,2021-03-10
+Race Ethnicity,Asian,188068,6.9,6246,11.7,15.4,2021-03-10
+Race Ethnicity,Black,112115,4.1,3329,6.2,6.0,2021-03-10
+Race Ethnicity,Multi-Race,43554,1.6,712,1.3,2.2,2021-03-10
+Race Ethnicity,American Indian or Alaska Native,9183,0.3,188,0.4,0.5,2021-03-10
+Race Ethnicity,Native Hawaiian and other Pacific Islander,15407,0.6,324,0.6,0.3,2021-03-10
+Race Ethnicity,Other,304006,11.1,1122,2.1,0.0,2021-03-10
+Race Ethnicity,Total,2743268,100.0,53565,100.0,100.0,2021-03-10
+Age Group,0-17,452919,12.9,14,0.0,22.5,2021-03-11
+Age Group,18-49,2016747,57.3,3636,6.6,43.5,2021-03-11
+Age Group,50-64,672444,19.1,10665,19.4,18.4,2021-03-11
+Age Group,65+,376063,10.7,40556,73.9,15.6,2021-03-11
+Age Group,missing,2160,0.1,7,0.0,0.0,2021-03-11
+Age Group,Total,3520333,100.0,54878,100.0,100.0,2021-03-11
+Gender,Female,1788199,50.8,22722,41.4,50.3,2021-03-11
+Gender,Male,1680865,47.7,31902,58.1,49.7,2021-03-11
+Gender,Unknown,51269,1.5,254,0.5,0.0,2021-03-11
+Gender,Total,3520333,100.0,54878,100.0,100.0,2021-03-11
+Race Ethnicity,Latino,1523141,55.4,24975,46.4,38.9,2021-03-11
+Race Ethnicity,White,552040,20.1,16906,31.4,36.6,2021-03-11
+Race Ethnicity,Asian,188440,6.9,6279,11.7,15.4,2021-03-11
+Race Ethnicity,Black,112357,4.1,3349,6.2,6.0,2021-03-11
+Race Ethnicity,Multi-Race,43752,1.6,718,1.3,2.2,2021-03-11
+Race Ethnicity,American Indian or Alaska Native,9208,0.3,191,0.4,0.5,2021-03-11
+Race Ethnicity,Native Hawaiian and other Pacific Islander,15422,0.6,325,0.6,0.3,2021-03-11
+Race Ethnicity,Other,303622,11.0,1118,2.1,0.0,2021-03-11
+Race Ethnicity,Total,2747982,100.0,53861,100.0,100.0,2021-03-11
+Age Group,0-17,453368,12.9,14,0.0,22.5,2021-03-12
+Age Group,18-49,2018557,57.3,3656,6.6,43.5,2021-03-12
+Age Group,50-64,673006,19.1,10708,19.4,18.4,2021-03-12
+Age Group,65+,376467,10.7,40710,73.9,15.6,2021-03-12
+Age Group,missing,2165,0.1,7,0.0,0.0,2021-03-12
+Age Group,Total,3523563,100.0,55095,100.0,100.0,2021-03-12
+Gender,Female,1789858,50.8,22807,41.4,50.3,2021-03-12
+Gender,Male,1682434,47.7,32031,58.1,49.7,2021-03-12
+Gender,Unknown,51271,1.5,257,0.5,0.0,2021-03-12
+Gender,Total,3523563,100.0,55095,100.0,100.0,2021-03-12
+Race Ethnicity,Latino,1525777,55.4,25078,46.4,38.9,2021-03-12
+Race Ethnicity,White,553035,20.1,16972,31.4,36.6,2021-03-12
+Race Ethnicity,Asian,188777,6.9,6318,11.7,15.4,2021-03-12
+Race Ethnicity,Black,112580,4.1,3360,6.2,6.0,2021-03-12
+Race Ethnicity,Multi-Race,43942,1.6,714,1.3,2.2,2021-03-12
+Race Ethnicity,American Indian or Alaska Native,9237,0.3,193,0.4,0.5,2021-03-12
+Race Ethnicity,Native Hawaiian and other Pacific Islander,15439,0.6,326,0.6,0.3,2021-03-12
+Race Ethnicity,Other,303393,11.0,1119,2.1,0.0,2021-03-12
+Race Ethnicity,Total,2752180,100.0,54080,100.0,100.0,2021-03-12
+Age Group,0-17,453803,12.9,14,0.0,22.5,2021-03-13
+Age Group,18-49,2020118,57.3,3674,6.7,43.5,2021-03-13
+Age Group,50-64,673527,19.1,10762,19.5,18.4,2021-03-13
+Age Group,65+,376712,10.7,40778,73.8,15.6,2021-03-13
+Age Group,missing,2175,0.1,7,0.0,0.0,2021-03-13
+Age Group,Total,3526335,100.0,55235,100.0,100.0,2021-03-13
+Gender,Female,1791231,50.8,22857,41.4,50.3,2021-03-13
+Gender,Male,1683830,47.8,32118,58.1,49.7,2021-03-13
+Gender,Unknown,51274,1.5,260,0.5,0.0,2021-03-13
+Gender,Total,3526335,100.0,55235,100.0,100.0,2021-03-13
+Race Ethnicity,Latino,1528371,55.5,25161,46.4,38.9,2021-03-13
+Race Ethnicity,White,553898,20.1,16995,31.3,36.6,2021-03-13
+Race Ethnicity,Asian,189059,6.9,6344,11.7,15.4,2021-03-13
+Race Ethnicity,Black,112784,4.1,3373,6.2,6.0,2021-03-13
+Race Ethnicity,Multi-Race,44132,1.6,715,1.3,2.2,2021-03-13
+Race Ethnicity,American Indian or Alaska Native,9255,0.3,192,0.4,0.5,2021-03-13
+Race Ethnicity,Native Hawaiian and other Pacific Islander,15449,0.6,325,0.6,0.3,2021-03-13
+Race Ethnicity,Other,303122,11.0,1118,2.1,0.0,2021-03-13
+Race Ethnicity,Total,2756070,100.0,54223,100.0,100.0,2021-03-13
+Age Group,0-17,454207,12.9,14,0.0,22.5,2021-03-14
+Age Group,18-49,2021468,57.3,3684,6.7,43.5,2021-03-14
+Age Group,50-64,673988,19.1,10794,19.5,18.4,2021-03-14
+Age Group,65+,376953,10.7,40831,73.8,15.6,2021-03-14
+Age Group,missing,2179,0.1,7,0.0,0.0,2021-03-14
+Age Group,Total,3528795,100.0,55330,100.0,100.0,2021-03-14
+Gender,Female,1792486,50.8,22906,41.4,50.3,2021-03-14
+Gender,Male,1685050,47.8,32165,58.1,49.7,2021-03-14
+Gender,Unknown,51259,1.5,259,0.5,0.0,2021-03-14
+Gender,Total,3528795,100.0,55330,100.0,100.0,2021-03-14
+Race Ethnicity,Latino,1530227,55.5,25222,46.4,38.9,2021-03-14
+Race Ethnicity,White,554628,20.1,17010,31.3,36.6,2021-03-14
+Race Ethnicity,Asian,189333,6.9,6359,11.7,15.4,2021-03-14
+Race Ethnicity,Black,112973,4.1,3373,6.2,6.0,2021-03-14
+Race Ethnicity,Multi-Race,44347,1.6,721,1.3,2.2,2021-03-14
+Race Ethnicity,American Indian or Alaska Native,9262,0.3,192,0.4,0.5,2021-03-14
+Race Ethnicity,Native Hawaiian and other Pacific Islander,15458,0.6,326,0.6,0.3,2021-03-14
+Race Ethnicity,Other,302938,11.0,1117,2.1,0.0,2021-03-14
+Race Ethnicity,Total,2759166,100.0,54320,100.0,100.0,2021-03-14
+Age Group,0-17,454381,12.9,14,0.0,22.5,2021-03-15
+Age Group,18-49,2022221,57.3,3688,6.7,43.5,2021-03-15
+Age Group,50-64,674213,19.1,10801,19.5,18.4,2021-03-15
+Age Group,65+,377062,10.7,40862,73.8,15.6,2021-03-15
+Age Group,missing,2178,0.1,7,0.0,0.0,2021-03-15
+Age Group,Total,3530055,100.0,55372,100.0,100.0,2021-03-15
+Gender,Female,1793122,50.8,22920,41.4,50.3,2021-03-15
+Gender,Male,1685718,47.8,32191,58.1,49.7,2021-03-15
+Gender,Unknown,51215,1.5,261,0.5,0.0,2021-03-15
+Gender,Total,3530055,100.0,55372,100.0,100.0,2021-03-15
+Race Ethnicity,Latino,1531667,55.5,25236,46.4,38.9,2021-03-15
+Race Ethnicity,White,555045,20.1,17028,31.3,36.6,2021-03-15
+Race Ethnicity,Asian,189477,6.9,6367,11.7,15.4,2021-03-15
+Race Ethnicity,Black,113064,4.1,3374,6.2,6.0,2021-03-15
+Race Ethnicity,Multi-Race,44464,1.6,725,1.3,2.2,2021-03-15
+Race Ethnicity,American Indian or Alaska Native,9267,0.3,192,0.4,0.5,2021-03-15
+Race Ethnicity,Native Hawaiian and other Pacific Islander,15453,0.6,326,0.6,0.3,2021-03-15
+Race Ethnicity,Other,302676,11.0,1116,2.1,0.0,2021-03-15
+Race Ethnicity,Total,2761113,100.0,54364,100.0,100.0,2021-03-15
