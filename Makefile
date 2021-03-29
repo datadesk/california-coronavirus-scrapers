@@ -13,6 +13,7 @@ scrape: ## Verify that our notebooks can be parsed and run. Example: make scrape
 	@$(MAKE) --no-print-directory -f cases-deaths-tests/Makefile
 	@$(MAKE) --no-print-directory -f vaccine-doses-on-hand/Makefile
 	@$(MAKE) --no-print-directory -f vaccine-doses-administered/Makefile
+	@$(MAKE) --no-print-directory -f vaccine-doses-progresss/Makefile    
 	@$(MAKE) --no-print-directory -f school-reopenings/Makefile
 
 
