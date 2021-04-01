@@ -1,45 +1,72 @@
-date,hpi_quartile,pct_partially_vaccinated,pct_fully_vaccinated
-1/9/21,4,0.284266561388651,0.3551221838996111
-1/16/21,4,0.3154413663773259,0.3436128240348365
-1/23/21,4,0.3339233085490472,0.3202824815855418
-1/30/21,4,0.3165526526884189,0.3058912152888853
-2/6/21,4,0.3005378258898329,0.2857073735617539
-2/13/21,4,0.3069416830916903,0.3371738952956156
-2/20/21,4,0.3078291643296267,0.332031103489766
-2/27/21,4,0.2903389713529581,0.3314420347231611
-3/6/21,4,0.2829217641239823,0.3085991639390622
-3/13/21,4,0.2625711545536848,0.304838269245091
-3/20/21,4,0.2661454874786186,0.2973466673089108
-1/9/21,3,0.2675611052918122,0.2802340940779336
-1/16/21,3,0.2673576409553861,0.2903001432036707
-1/23/21,3,0.2755304116908317,0.2780317412104184
-1/30/21,3,0.2757276820891179,0.2690156541839083
-2/6/21,3,0.2828928247960035,0.2752174908794147
-2/13/21,3,0.2707853716511656,0.27081780867366
-2/20/21,3,0.2665024881723957,0.2786246772555356
-2/27/21,3,0.2486821218373899,0.2804387709777718
-3/6/21,3,0.2511604431211899,0.2765048956883784
-3/13/21,3,0.245295635027263,0.26947968125512
-3/20/21,3,0.2426482657030712,0.255626737609938
-1/9/21,2,0.2477195954013035,0.2344334776546562
-1/16/21,2,0.234764690689814,0.2244322997340503
-1/23/21,2,0.219649237760012,0.244855342091275
-1/30/21,2,0.2372228229876789,0.2427894785722394
-2/6/21,2,0.2418208508196323,0.2465122430349695
-2/13/21,2,0.2374071071393967,0.220965195232909
-2/20/21,2,0.2291902380404419,0.229731047529889
-2/27/21,2,0.2211869590154766,0.234087149082997
-3/6/21,2,0.2297335435728452,0.2367808013977282
-3/13/21,2,0.2371704774227687,0.2332621701462156
-3/20/21,2,0.2443062853943463,0.2196573627728148
-1/9/21,1,0.2004527379182334,0.1302102443677992
-1/16/21,1,0.1824363019774741,0.1416547330274425
-1/23/21,1,0.1708970420001092,0.1568304351127648
-1/30/21,1,0.1704968422347844,0.1823036519549672
-2/6/21,1,0.1747484984945314,0.1925628925238619
-2/13/21,1,0.1848658381177475,0.1710431007978155
-2/20/21,1,0.1964781094575357,0.1596131717248094
-2/27/21,1,0.2397919477941754,0.1540320452160703
-3/6/21,1,0.2361842491819827,0.1781151389748314
-3/13/21,1,0.2549627329962837,0.1924198793535735
-3/20/21,1,0.246899961423964,0.2273692323083365
+MCE/LHJ/LTCF-value,MCE/LHJ/LTCF-alias,Type-value,Type-alias,AGG(Total On Hand Tiberius)-alias
+Adventist Health,Adventist Health,MCE,Multi-County Entity,13390
+AHMC,AHMC,MCE,Multi-County Entity,6238
+Alameda County Public Health Department,Alameda County Public Health Department,LHJ,Local Health Jurisdiction,52022
+Alpine County Health and Human Services,Alpine County Health and Human Services,LHJ,Local Health Jurisdiction,620
+"Amador County, Health and Human Services Agency","Amador County, Health and Human Services Agency",LHJ,Local Health Jurisdiction,2330
+Berkeley City Public Health Department,Berkeley City Public Health Department,LHJ,Local Health Jurisdiction,4735
+Butte County Department of Public Health,Butte County Department of Public Health,LHJ,Local Health Jurisdiction,27088
+Calaveras County Public Health Department,Calaveras County Public Health Department,LHJ,Local Health Jurisdiction,7722
+CDCR,CDCR,MCE,Multi-County Entity,15154
+City of Pasadena Public Health Department,City of Pasadena Public Health Department,LHJ,Local Health Jurisdiction,9721
+Colusa County Public health,Colusa County Public health,LHJ,Local Health Jurisdiction,2020
+Contra Costa County Local Health Department,Contra Costa County Local Health Department,LHJ,Local Health Jurisdiction,23285
+Del Norte County Public Health,Del Norte County Public Health,LHJ,Local Health Jurisdiction,1875
+Dignity Health,Dignity Health,MCE,Multi-County Entity,46759
+DSH,DSH,MCE,Multi-County Entity,4515
+El Dorado County Public Health Division,El Dorado County Public Health Division,LHJ,Local Health Jurisdiction,26550
+FEMA,FEMA,MCE,Multi-County Entity,129486
+Fresno County Department of Public Health,Fresno County Department of Public Health,LHJ,Local Health Jurisdiction,57142
+Glenn County Health Department,Glenn County Health Department,LHJ,Local Health Jurisdiction,1035
+Humboldt County Department of Health and Human Services,Humboldt County Department of Health and Human Services,LHJ,Local Health Jurisdiction,3238
+Imperial County Health Department,Imperial County Health Department,LHJ,Local Health Jurisdiction,15111
+Inyo County Health Department,Inyo County Health Department,LHJ,Local Health Jurisdiction,1606
+Kaiser,Kaiser *,MCE,Multi-County Entity,411431
+Kern County Health Department,Kern County Health Department,LHJ,Local Health Jurisdiction,71578
+Kern County Public Health Services Department - Provider Account,Kern County Public Health Services Department - Provider Account,LHJ,Local Health Jurisdiction,100
+Kings County Health Department,Kings County Health Department,LHJ,Local Health Jurisdiction,13965
+Lake County Department of Health Services,Lake County Department of Health Services,LHJ,Local Health Jurisdiction,7032
+Lassen County Department of Health and Social Services,Lassen County Department of Health and Social Services,LHJ,Local Health Jurisdiction,3040
+Long Beach City Department of Health and Human Services,Long Beach City Department of Health and Human Services,LHJ,Local Health Jurisdiction,23752
+Los Angeles County Department of Public Health,Los Angeles County Department of Public Health,LHJ,Local Health Jurisdiction,341969
+Madera County Public Health,Madera County Public Health,LHJ,Local Health Jurisdiction,20910
+Marin County Health and Human Services,Marin County Health and Human Services,LHJ,Local Health Jurisdiction,7967
+Mariposa County Health Department,Mariposa County Health Department,LHJ,Local Health Jurisdiction,955
+Mendocino County Dept of Public Health,Mendocino County Dept of Public Health,LHJ,Local Health Jurisdiction,5157
+Modoc County Public Health Department,Modoc County Public Health Department,LHJ,Local Health Jurisdiction,1000
+Mono County Health Department,Mono County Health Department,LHJ,Local Health Jurisdiction,2431
+Monterey County Health Department,Monterey County Health Department,LHJ,Local Health Jurisdiction,51015
+MULTI,MULTI,LHJ,Local Health Jurisdiction,%null%
+Napa County Health and Human Services Agency,Napa County Health and Human Services Agency,LHJ,Local Health Jurisdiction,1648
+Nevada County Public Health Department,Nevada County Public Health Department,LHJ,Local Health Jurisdiction,8819
+Orange County Health Care Agency,Orange County Health Care Agency,LHJ,Local Health Jurisdiction,92430
+Placer County Public Health Division,Placer County Public Health Division,LHJ,Local Health Jurisdiction,8490
+Plumas County Public Health Agency,Plumas County Public Health Agency,LHJ,Local Health Jurisdiction,1430
+Providence,Providence,MCE,Multi-County Entity,23912
+Riverside County Department of Health,Riverside County Department of Health,LHJ,Local Health Jurisdiction,110317
+Sacramento Department of Health Services,Sacramento Department of Health Services,LHJ,Local Health Jurisdiction,22633
+San Benito County Public Health Services,San Benito County Public Health Services,LHJ,Local Health Jurisdiction,2825
+San Bernardino County Department of Public Health,San Bernardino County Department of Public Health,LHJ,Local Health Jurisdiction,67510
+San Diego Department of Environmental Health,San Diego Department of Environmental Health,LHJ,Local Health Jurisdiction,71250
+San Francisco Department of Public Health,San Francisco Department of Public Health,LHJ,Local Health Jurisdiction,26535
+San Joaquin County Public Health Services,San Joaquin County Public Health Services,LHJ,Local Health Jurisdiction,48639
+San Luis Obispo County Health Department,San Luis Obispo County Health Department,LHJ,Local Health Jurisdiction,21913
+San Mateo County Health Service Department,San Mateo County Health Service Department,LHJ,Local Health Jurisdiction,13514
+Santa Barbara County Public Health Department,Santa Barbara County Public Health Department,LHJ,Local Health Jurisdiction,15310
+Santa Clara County Public Health Department,Santa Clara County Public Health Department,LHJ,Local Health Jurisdiction,53133
+Santa Cruz County Local Health Department,Santa Cruz County Local Health Department,LHJ,Local Health Jurisdiction,15025
+Shasta County Public Health,Shasta County Public Health,LHJ,Local Health Jurisdiction,16748
+Sierra County Health Department,Sierra County Health Department,LHJ,Local Health Jurisdiction,370
+Siskiyou County Public Health Department,Siskiyou County Public Health Department,LHJ,Local Health Jurisdiction,6887
+Solano County Health and Social Services Dept. - Public Health,Solano County Health and Social Services Dept. - Public Health,LHJ,Local Health Jurisdiction,13650
+Sonoma County Department of Health Services,Sonoma County Department of Health Services,LHJ,Local Health Jurisdiction,10194
+Stanislaus County Public Health Department,Stanislaus County Public Health Department,LHJ,Local Health Jurisdiction,38310
+Sutter County Health Department,Sutter County Health Department,LHJ,Local Health Jurisdiction,6596
+Sutter Health,Sutter Health,MCE,Multi-County Entity,71244
+Tehama County Health Services Agency,Tehama County Health Services Agency,LHJ,Local Health Jurisdiction,9517
+Trinity County Health and Human Services,Trinity County Health and Human Services,LHJ,Local Health Jurisdiction,2805
+Tulare County Health and Human Services,Tulare County Health and Human Services,LHJ,Local Health Jurisdiction,56450
+Tuolumne County Health Department,Tuolumne County Health Department,LHJ,Local Health Jurisdiction,7088
+UC Health,UC Health,MCE,Multi-County Entity,80662
+Ventura County Health Department,Ventura County Health Department,LHJ,Local Health Jurisdiction,20637
+Yolo County Health and Human Services Agency,Yolo County Health and Human Services Agency,LHJ,Local Health Jurisdiction,4791
