@@ -1,12 +1,14 @@
 import requests,pathlib
-from datetime import date
+from datetime import datetime
+import pytz
 import pandas as pd
 
 data_dir = pathlib.Path(__file__).parent.absolute().joinpath('data')
 
 def main():
-    today = date.today()
-    now=today.strftime("%Y-%m-%d")
+    today = datetime.now(tz=pytz.utc)
+    today= today.astimezone(pytz.timezone('US/Pacific'))
+    now = today.strftime("%Y-%m-%d")
 
     query="query?f=json&returnGeometry=false&outFields=*&where=1=1"
 
