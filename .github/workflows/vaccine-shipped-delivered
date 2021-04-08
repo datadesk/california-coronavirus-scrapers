@@ -1,4 +1,4 @@
-name: Vaccine doses delivered and shipped
+name: Vaccine doses shipped and delivered
 on:
   schedule:
     - cron: '40 */4 * * *'
@@ -18,11 +18,11 @@ jobs:
       - name: Install dependencies
         uses: ./.github/actions/install-pipenv
       - name: Run
-        run: make -f ./vaccine-delivered-shipped/Makefile
+        run: make -f ./vaccine-shipped-delivered/Makefile
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit
         uses: ./.github/actions/commit
         if: always()
         with:
-            message: vaccine-delivered-shipped scrape
+            message: vaccine-shipped-delivered scrape
