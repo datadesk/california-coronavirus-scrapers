@@ -10,6 +10,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+       
       - name: Install Python
         uses: actions/setup-python@v2
         with:
@@ -17,10 +18,12 @@ jobs:
       
       - name: Install dependencies
         uses: ./.github/actions/install-pipenv
+      
       - name: Run
         run: make -f ./vaccine-shipped-delivered/Makefile
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit
         uses: ./.github/actions/commit
         if: always()
