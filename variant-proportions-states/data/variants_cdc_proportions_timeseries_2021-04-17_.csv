@@ -1,157 +1,27 @@
-state,variable,value
-Wisconsin,Total Available Sequences,425.0
-West Virginia,Total Available Sequences,550.0
-Virginia,Total Available Sequences,1028.0
-Texas,Total Available Sequences,2425.0
-Tennessee,Total Available Sequences,741.0
-Rhode Island,Total Available Sequences,503.0
-Pennsylvania,Total Available Sequences,2895.0
-Ohio,Total Available Sequences,1103.0
-North Carolina,Total Available Sequences,1415.0
-New York,Total Available Sequences,1586.0
-New Jersey,Total Available Sequences,2468.0
-New Hampshire,Total Available Sequences,500.0
-Minnesota,Total Available Sequences,1176.0
-Michigan,Total Available Sequences,2066.0
-Massachusetts,Total Available Sequences,2351.0
-Maryland,Total Available Sequences,839.0
-Louisiana,Total Available Sequences,311.0
-Kentucky,Total Available Sequences,326.0
-Indiana,Total Available Sequences,912.0
-Illinois,Total Available Sequences,1477.0
-Georgia,Total Available Sequences,1642.0
-Florida,Total Available Sequences,6093.0
-Connecticut,Total Available Sequences,651.0
-Colorado,Total Available Sequences,915.0
-California,Total Available Sequences,6919.0
-Arizona,Total Available Sequences,411.0
-Wisconsin,Other lineages,61.9
-West Virginia,Other lineages,65.3
-Virginia,Other lineages,58.8
-Texas,Other lineages,48.5
-Tennessee,Other lineages,36.0
-Rhode Island,Other lineages,74.6
-Pennsylvania,Other lineages,66.9
-Ohio,Other lineages,65.4
-North Carolina,Other lineages,68.3
-New York,Other lineages,68.2
-New Jersey,Other lineages,64.9
-New Hampshire,Other lineages,74.8
-Minnesota,Other lineages,30.3
-Michigan,Other lineages,36.4
-Massachusetts,Other lineages,63.6
-Maryland,Other lineages,55.7
-Louisiana,Other lineages,57.2
-Kentucky,Other lineages,76.4
-Indiana,Other lineages,66.0
-Illinois,Other lineages,46.2
-Georgia,Other lineages,47.8
-Florida,Other lineages,37.6
-Connecticut,Other lineages,61.8
-Colorado,Other lineages,42.0
-California,Other lineages,28.4
-Arizona,Other lineages,49.2
-Wisconsin,P.1,1.4
-West Virginia,P.1,
-Virginia,P.1,
-Texas,P.1,0.5
-Tennessee,P.1,0.1
-Rhode Island,P.1,0.4
-Pennsylvania,P.1,0.1
-Ohio,P.1,0.8
-North Carolina,P.1,
-New York,P.1,0.1
-New Jersey,P.1,0.5
-New Hampshire,P.1,0.4
-Minnesota,P.1,0.3
-Michigan,P.1,0.2
-Massachusetts,P.1,3.1
-Maryland,P.1,0.1
-Louisiana,P.1,
-Kentucky,P.1,0.3
-Indiana,P.1,0.6
-Illinois,P.1,7.9
-Georgia,P.1,0.2
-Florida,P.1,2.4
-Connecticut,P.1,0.8
-Colorado,P.1,0.8
-California,P.1,1.6
-Arizona,P.1,0.7
-Wisconsin,B.1.427/B.1.429,11.1
-West Virginia,B.1.427/B.1.429,11.6
-Virginia,B.1.427/B.1.429,7.9
-Texas,B.1.427/B.1.429,8.0
-Tennessee,B.1.427/B.1.429,3.2
-Rhode Island,B.1.427/B.1.429,7.6
-Pennsylvania,B.1.427/B.1.429,4.7
-Ohio,B.1.427/B.1.429,6.6
-North Carolina,B.1.427/B.1.429,7.0
-New York,B.1.427/B.1.429,3.5
-New Jersey,B.1.427/B.1.429,1.8
-New Hampshire,B.1.427/B.1.429,3.4
-Minnesota,B.1.427/B.1.429,13.8
-Michigan,B.1.427/B.1.429,5.8
-Massachusetts,B.1.427/B.1.429,3.9
-Maryland,B.1.427/B.1.429,2.9
-Louisiana,B.1.427/B.1.429,8.4
-Kentucky,B.1.427/B.1.429,4.6
-Indiana,B.1.427/B.1.429,9.2
-Illinois,B.1.427/B.1.429,15.3
-Georgia,B.1.427/B.1.429,4.5
-Florida,B.1.427/B.1.429,7.5
-Connecticut,B.1.427/B.1.429,7.5
-Colorado,B.1.427/B.1.429,28.1
-California,B.1.427/B.1.429,53.8
-Arizona,B.1.427/B.1.429,36.0
-Wisconsin,B.1.351,1.9
-West Virginia,B.1.351,0.2
-Virginia,B.1.351,2.6
-Texas,B.1.351,0.3
-Tennessee,B.1.351,0.1
-Rhode Island,B.1.351,
-Pennsylvania,B.1.351,0.3
-Ohio,B.1.351,1.4
-North Carolina,B.1.351,3.6
-New York,B.1.351,0.1
-New Jersey,B.1.351,0.0
-New Hampshire,B.1.351,
-Minnesota,B.1.351,0.1
-Michigan,B.1.351,0.1
-Massachusetts,B.1.351,
-Maryland,B.1.351,2.4
-Louisiana,B.1.351,
-Kentucky,B.1.351,
-Indiana,B.1.351,0.4
-Illinois,B.1.351,0.5
-Georgia,B.1.351,2.0
-Florida,B.1.351,0.3
-Connecticut,B.1.351,0.8
-Colorado,B.1.351,0.1
-California,B.1.351,0.3
-Arizona,B.1.351,
-Wisconsin,B.1.1.7,23.8
-West Virginia,B.1.1.7,22.9
-Virginia,B.1.1.7,30.7
-Texas,B.1.1.7,42.7
-Tennessee,B.1.1.7,60.5
-Rhode Island,B.1.1.7,17.5
-Pennsylvania,B.1.1.7,28.0
-Ohio,B.1.1.7,25.8
-North Carolina,B.1.1.7,21.1
-New York,B.1.1.7,28.1
-New Jersey,B.1.1.7,32.8
-New Hampshire,B.1.1.7,21.4
-Minnesota,B.1.1.7,55.6
-Michigan,B.1.1.7,57.6
-Massachusetts,B.1.1.7,29.4
-Maryland,B.1.1.7,39.0
-Louisiana,B.1.1.7,34.4
-Kentucky,B.1.1.7,18.7
-Indiana,B.1.1.7,23.8
-Illinois,B.1.1.7,30.1
-Georgia,B.1.1.7,45.6
-Florida,B.1.1.7,52.2
-Connecticut,B.1.1.7,29.2
-Colorado,B.1.1.7,29.1
-California,B.1.1.7,15.9
-Arizona,B.1.1.7,14.1
+state,b117,b1351,b1427_b1429,other_lineages,p1,total_available_sequences,update_date
+Arizona,14.1,,36.0,49.2,0.7,411.0,2021-04-17
+California,15.9,0.3,53.8,28.4,1.6,6919.0,2021-04-17
+Colorado,29.1,0.1,28.1,42.0,0.8,915.0,2021-04-17
+Connecticut,29.2,0.8,7.5,61.8,0.8,651.0,2021-04-17
+Florida,52.2,0.3,7.5,37.6,2.4,6093.0,2021-04-17
+Georgia,45.6,2.0,4.5,47.8,0.2,1642.0,2021-04-17
+Illinois,30.1,0.5,15.3,46.2,7.9,1477.0,2021-04-17
+Indiana,23.8,0.4,9.2,66.0,0.6,912.0,2021-04-17
+Kentucky,18.7,,4.6,76.4,0.3,326.0,2021-04-17
+Louisiana,34.4,,8.4,57.2,,311.0,2021-04-17
+Maryland,39.0,2.4,2.9,55.7,0.1,839.0,2021-04-17
+Massachusetts,29.4,,3.9,63.6,3.1,2351.0,2021-04-17
+Michigan,57.6,0.1,5.8,36.4,0.2,2066.0,2021-04-17
+Minnesota,55.6,0.1,13.8,30.3,0.3,1176.0,2021-04-17
+New Hampshire,21.4,,3.4,74.8,0.4,500.0,2021-04-17
+New Jersey,32.8,0.0,1.8,64.9,0.5,2468.0,2021-04-17
+New York,28.1,0.1,3.5,68.2,0.1,1586.0,2021-04-17
+North Carolina,21.1,3.6,7.0,68.3,,1415.0,2021-04-17
+Ohio,25.8,1.4,6.6,65.4,0.8,1103.0,2021-04-17
+Pennsylvania,28.0,0.3,4.7,66.9,0.1,2895.0,2021-04-17
+Rhode Island,17.5,,7.6,74.6,0.4,503.0,2021-04-17
+Tennessee,60.5,0.1,3.2,36.0,0.1,741.0,2021-04-17
+Texas,42.7,0.3,8.0,48.5,0.5,2425.0,2021-04-17
+Virginia,30.7,2.6,7.9,58.8,,1028.0,2021-04-17
+West Virginia,22.9,0.2,11.6,65.3,,550.0,2021-04-17
+Wisconsin,23.8,1.9,11.1,61.9,1.4,425.0,2021-04-17
