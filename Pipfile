@@ -9,14 +9,14 @@ verify_ssl = true
 jupyterlab = "*"
 pandas = "*"
 geopandas = "*"
+lxml="*"
+html5lib = "*"
 click = "*"
 nb-black = "*"
 bs4 = "*"
 pytz = "*"
 appnope = "*"
 tableauscraper = "==0.1.10"
-lxml="*"
-
 
 [requires]
 python_version = "3.8"
