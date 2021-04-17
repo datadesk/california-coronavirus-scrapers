@@ -1,4 +1,4 @@
-name: Variants totals in CA
+name: Variant totals in CA
 on:
   schedule:
     - cron: '0 */4 * * *'
@@ -21,7 +21,7 @@ jobs:
         uses: ./.github/actions/install-pipenv
 
       - name: Run
-        run: make -f ./variants-toplines-ca/Makefile
+        run: make -f ./variant-toplines-ca/Makefile
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -29,4 +29,4 @@ jobs:
         uses: ./.github/actions/commit
         if: always()
         with:
-            message: variants-toplines-ca scrape
+            message: variant-toplines-ca scrape
