@@ -82,3 +82,8 @@ define jupyter
     @echo "🐍🗒️ $(OBJ_COLOR)Executing Jupyter notebook $(1)$(NO_COLOR)\r";
     @$(JUPYTER) $(1)
 endef
+
+define make
+    @echo "🔨🗒️ $(OBJ_COLOR)Executing Makefile $(1)$(NO_COLOR)\r";
+    @$(MAKE) --no-print-directory -f $(1)
+endef
