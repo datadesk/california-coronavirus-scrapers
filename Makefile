@@ -10,13 +10,16 @@ all: scrape          \
 
 scrape: ## Verify that our notebooks can be parsed and run. Example: make scrape
 	$(call banner,🔪 Scraping data 🔪)
-	@$(MAKE) --no-print-directory -f cases-deaths-tests/Makefile
-	@$(MAKE) --no-print-directory -f vaccine-doses-on-hand/Makefile
-	@$(MAKE) --no-print-directory -f vaccine-progress/Makefile    
-	@$(MAKE) --no-print-directory -f vaccine-hpi/Makefile     
-	@$(MAKE) --no-print-directory -f vaccine-demographics/Makefile     
-	@$(MAKE) --no-print-directory -f vaccine-shipped-delivered/Makefile     
-	@$(MAKE) --no-print-directory -f school-reopenings/Makefile
+	$(call make,cases-deaths-demographics/Makefile)
+	$(call make,cases-deaths-tests/Makefile)
+	$(call make,school-reopenings/Makefile)
+	$(call make,vaccine-demographics/Makefile)
+	$(call make,vaccine-doses-on-hand/Makefile)
+	$(call make,vaccine-hpi/Makefile)
+	$(call make,vaccine-progress/Makefile)
+	$(call make,vaccine-shipped-delivered/Makefile)
+	$(call make,variant-proportions-states/Makefile)
+	$(call make,variant-toplines-ca/Makefile)
 
 
 clean_notebooks: ## Remove all temporary notebook outputs created by the our commands. Example: make clean_notebooks
