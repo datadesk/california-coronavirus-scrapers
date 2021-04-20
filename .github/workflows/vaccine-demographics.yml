@@ -1,7 +1,7 @@
 name: Vaccine demographics
 on:
   schedule:
-    - cron: '40 */4 * * *'
+    - cron: '0 */4 * * *'
   workflow_dispatch:
 concurrency: scrapers
 

@@ -1,7 +1,7 @@
 name: Cases, deaths and tests
 on:
   schedule:
-    - cron: '30 */4 * * *'
+    - cron: '0 */4 * * *'
   workflow_dispatch:
 concurrency: scrapers
 
