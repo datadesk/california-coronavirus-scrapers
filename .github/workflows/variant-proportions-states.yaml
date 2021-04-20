@@ -1,8 +1,9 @@
-name: Variants proportions by state
+name: Variants by state
 on:
   schedule:
     - cron: '0 */4 * * *'
   workflow_dispatch:
+concurrency: scrapers
 
 jobs:
   scrape:

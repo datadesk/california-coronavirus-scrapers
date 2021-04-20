@@ -1,8 +1,9 @@
-name: Variant totals in CA
+name: Variant in California
 on:
   schedule:
     - cron: '0 */4 * * *'
   workflow_dispatch:
+concurrency: scrapers
 
 jobs:
   scrape:
