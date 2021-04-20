@@ -1,4 +1,4 @@
-name: Variant in California
+name: Variants in California
 on:
   schedule:
     - cron: '0 */4 * * *'
