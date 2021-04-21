@@ -1,7 +1,7 @@
-name: Hopkins
+name: Bed surges
 on:
   schedule:
-    - cron: '50 */4 * * *'
+    - cron: '10 */4 * * *'
   workflow_dispatch:
 
 jobs:
@@ -21,7 +21,7 @@ jobs:
         uses: ./.github/actions/install-pipenv
 
       - name: Run
-        run: make -f ./hopkins/Makefile
+        run: make -f ./bed-surges/Makefile
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -29,4 +29,4 @@ jobs:
         uses: ./.github/actions/commit
         if: always()
         with:
-            message: hopkins scrape
+            message: bed-surges scrape

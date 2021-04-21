@@ -10,6 +10,7 @@ all: scrape          \
 
 scrape: ## Verify that our notebooks can be parsed and run. Example: make scrape
 	$(call banner,🔪 Scraping data 🔪)
+	$(call make,bed-surges/Makefile)
 	$(call make,cases-deaths-demographics/Makefile)
 	$(call make,cases-deaths-tests/Makefile)
 	$(call make,hopkins/Makefile)

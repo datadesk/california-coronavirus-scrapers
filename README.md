@@ -6,6 +6,7 @@ An experiment in open-sourcing the web scrapers that feed the [Los Angeles Times
 
 | module                  | status                                                                                                                                                                                                                                                   | maintainer  |
 |:----------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------|
+| [bed-surges](https://github.com/datadesk/california-coronavirus-scrapers/tree/main/bed-surges) | [![C](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/bed-surges.yaml/badge.svg)](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/bed-surges.yaml) | [Ben Welsh](https://www.latimes.com/people/ben-welsh) |
 | [cases-deaths-demographics](https://github.com/datadesk/california-coronavirus-scrapers/tree/main/cases-deaths-demographics) | [![](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/cases-deaths-demographics.yaml/badge.svg)](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/cases-deaths-demographics.yaml) | [Ben Welsh](https://www.latimes.com/people/ben-welsh) |
 | [cases-deaths-tests](https://github.com/datadesk/california-coronavirus-scrapers/tree/main/cases-deaths-tests) | [![C](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/cases-deaths-tests.yaml/badge.svg)](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/cases-deaths-tests.yaml) | [Sean Greene](https://www.latimes.com/people/sean-greene) |
 | [hopkins](https://github.com/datadesk/california-coronavirus-scrapers/tree/main/hopkins) | [![](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/hopkins.yaml/badge.svg)](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/hopkins.yaml) | [Ben Welsh](https://www.latimes.com/people/ben-welsh) |
@@ -36,5 +37,5 @@ make
 Run one of the scraper commands.
 
 ```zsh
-make -f vaccine-doses-on-hand/Makefile
+make -f vaccine-hpi/Makefile
 ```
