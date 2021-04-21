@@ -17,6 +17,7 @@ scrape: ## Verify that our notebooks can be parsed and run. Example: make scrape
 	$(call make,school-reopenings/Makefile)
 	$(call make,vaccine-demographics/Makefile)
 	$(call make,vaccine-doses-on-hand/Makefile)
+	$(call make,hospital-capacity/Makefile)
 	$(call make,hospital-patients/Makefile)
 	$(call make,vaccine-hpi/Makefile)
 	$(call make,vaccine-progress/Makefile)
