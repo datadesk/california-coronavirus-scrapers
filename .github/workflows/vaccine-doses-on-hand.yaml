@@ -3,7 +3,6 @@ on:
   schedule:
     - cron: '20 */4 * * *'
   workflow_dispatch:
-concurrency: scrapers
 
 jobs:
   scrape:
