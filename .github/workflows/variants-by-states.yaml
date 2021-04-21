@@ -1,7 +1,7 @@
 name: Variants by state
 on:
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '50 */4 * * *'
   workflow_dispatch:
 concurrency: scrapers
 
