@@ -1,4 +1,4 @@
-name: Hopkins
+name: Hospital patients
 on:
   schedule:
     - cron: '50 */4 * * *'
