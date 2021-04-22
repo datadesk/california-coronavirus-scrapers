@@ -1,7 +1,7 @@
 """
 Download the California Department of Public Health's dataset of vaccines administered by ZIP code.
 
-Source: https://data.ca.gov/dataset/covid-19-vaccine-progress-dashboard-data-by-zip-code/resource/637687ca-18fb-413e-a179-b58efa26aca1
+Source: https://data.ca.gov/dataset/covid-19-vaccine-progress-dashboard-data-by-zip-code
 """
 import os
 import json
