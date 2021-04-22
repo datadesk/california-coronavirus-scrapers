@@ -6,6 +6,7 @@ MAKENAME = variant-zip-codes
 scrape: ## Scrape data files. Example: make -f ./vaccine-zip-codes/Makefile
 	$(call start,$(MAKENAME))
 	$(call python,./vaccine-zip-codes/scrape.py)
+	$(call jupyter,./vaccine-zip-codes/concatenate.ipynb)    
 	$(call finish)
 
 help: ## Show this help. Example: make -f ./vaccine-zip-codes/Makefile help

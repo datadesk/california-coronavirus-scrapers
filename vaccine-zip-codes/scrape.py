@@ -29,10 +29,10 @@ def main():
     tz = pytz.timezone("America/Los_Angeles")
     today = datetime.now(tz).date()
     data_dir = os.path.join(os.path.abspath(""), "data")
+    df["date"] = today
     # Save it to the raw data folder
-    df.to_csv(DATA_DIR / f"timeseries/{today}.csv", index=False)
-    df.to_csv(DATA_DIR / "latest/latest.csv", index=False)
-
+    df.to_csv(DATA_DIR / f"raw/{today}.csv", index=False)
+    df.to_csv(DATA_DIR / "latest.csv", index=False)
 
 if __name__ == '__main__':
     main()
