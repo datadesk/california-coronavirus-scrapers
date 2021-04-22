@@ -14,7 +14,9 @@ def main():
 
     url_list={"districts":"https://services3.arcgis.com/uknczv4rpevve42E/arcgis/rest/services/CA_Trailer_Bill_Districts_Snapshot_Stg/FeatureServer/0/",
         "charters":"https://services3.arcgis.com/uknczv4rpevve42E/ArcGIS/rest/services/CA_Trailer_Bill_Charter_Schools_Snapshot_Stg/FeatureServer/0/",
-        "private":"https://services3.arcgis.com/uknczv4rpevve42E/ArcGIS/rest/services/CA_Trailer_Bill_Private_Schools_Snapshot_Stg/FeatureServer/0/"}
+        "private":"https://services3.arcgis.com/uknczv4rpevve42E/ArcGIS/rest/services/CA_Trailer_Bill_Private_Schools_Snapshot_Stg/FeatureServer/0/",
+        "prod":"https://services3.arcgis.com/uknczv4rpevve42E/ArcGIS/rest/services/CA_TB_Districts_Join_Prod/FeatureServer/0/"
+             }
 
     for slug, u in url_list.items():
         url = u+query
