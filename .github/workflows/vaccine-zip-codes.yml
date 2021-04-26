@@ -1,0 +1,28 @@
+name: Vaccine ZIP codes
+on:
+  schedule:
+    - cron: '40 */4 * * *'
+  workflow_dispatch:
+jobs:
+  scrape:
+    name: Scrape
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Install Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      
+      - name: Install dependencies
+        uses: ./.github/actions/install-pipenv
+      - name: Run
+        run: make -f ./vaccine-zip-codes/Makefile
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit
+        uses: ./.github/actions/commit
+        if: always()
+        with:
+            message: vaccine-zip-codes scrape

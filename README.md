@@ -1,8 +1,10 @@
 # california-coronavirus-scrapers
 
-An experiment in open-sourcing the web scrapers that feed the [Los Angeles Times' California coronavirus tracker](https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/). The scrapers are written using Python and Jupyter notebooks, scheduled and run via GitHub Actions and then archived using git.
+The open-source web scrapers that feed the [Los Angeles Times' California coronavirus tracker](https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/).
 
 ## Scrapers
+
+The scrapers are written using Python and Jupyter notebooks, scheduled and run via GitHub Actions and then archived using git.
 
 | module                  | status                                                                                                                                                                                                                                                   | maintainer  |
 |:----------------------- |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------|
@@ -26,6 +28,7 @@ An experiment in open-sourcing the web scrapers that feed the [Los Angeles Times
 | [vaccine-shipped-delivered](https://github.com/datadesk/california-coronavirus-scrapers/tree/main/vaccine-shipped-delivered) | [![](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/vaccine-shipped-delivered.yaml/badge.svg)](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/vaccine-shipped-delivered.yaml) | [Sean Greene](https://www.latimes.com/people/sean-greene) |
 | [variant-proportions-states](https://github.com/datadesk/california-coronavirus-scrapers/tree/main/variant-proportions-states) | [![](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/vaccine-shipped-delivered.yaml/badge.svg)](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/variant-proportions-states.yaml) | [Matt Stiles](https://www.latimes.com/people/matt-stiles) |
 | [variant-toplines-ca](https://github.com/datadesk/california-coronavirus-scrapers/tree/main/variant-toplines-ca) | [![](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/variants-in-ca.yaml/badge.svg)](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/variants-in-ca.yaml) | [Matt Stiles](https://www.latimes.com/people/matt-stiles) |
+| [vaccine-zip-codes](https://github.com/datadesk/california-coronavirus-scrapers/tree/main/vaccine-zip-codes) | [![](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/vaccine-zip-codes.yaml/badge.svg)](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/vaccine-zip-codes.yaml) | [Sean Greene](https://www.latimes.com/people/sean-greene) |
 
 ## Installation
 
