@@ -20,7 +20,7 @@ def main():
     Download the Tableau export as a CSV.
     """
     # Download the data
-    url = 'https://data.ca.gov/api/3/action/datastore_search?resource_id=637687ca-18fb-413e-a179-b58efa26aca1&limit=5000'  
+    url = 'https://data.chhs.ca.gov/api/3/action/datastore_search?resource_id=1fd9be93-8c39-47ac-a60b-b189e34dda51&limit=5000'  
     fileobj = urllib.request.urlopen(url)
     response_dict = json.loads(fileobj.read())
     data = response_dict['result']['records']
