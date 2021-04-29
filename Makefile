@@ -32,6 +32,8 @@ scrape: ## Verify that our notebooks can be parsed and run. Example: make scrape
 	$(call make,variant-proportions-states/Makefile)
 	$(call make,variant-toplines-ca/Makefile)
 	$(call make,vaccine-zip-codes/Makefile)
+	$(call make,homeless-impact/Makefile)
+    
 
 clean_notebooks: ## Remove all temporary notebook outputs created by the our commands. Example: make clean_notebooks
 	@find . -type f -name '*-output.ipynb' -delete
