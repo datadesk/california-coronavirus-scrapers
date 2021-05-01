@@ -73,6 +73,11 @@ define finish
     @echo "\r";
 endef
 
+define dataproofer
+    @echo "🐍🤖 $(OBJ_COLOR)Verifying with dataproofer $(1)$(NO_COLOR)\r";
+    @npx dataproofer $(1) --sampleRatio 1 --verbose
+endef
+
 define python
     @echo "🐍🤖 $(OBJ_COLOR)Executing Python script $(1)$(NO_COLOR)\r";
     @$(PYTHON) $(1)
@@ -85,5 +90,6 @@ endef
 
 define make
     @echo "🔨🗒️ $(OBJ_COLOR)Executing Makefile $(1)$(NO_COLOR)\r";
+	$(call start,$(MAKENAME))
     @$(MAKE) --no-print-directory -f $(1)
 endef

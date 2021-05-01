@@ -39,6 +39,12 @@ Clone the repository and install the Python dependencies.
 pipenv install
 ```
 
+Then install the Node.js dependencies.
+
+```zsh
+npm install
+```
+
 Run all of the scraper commands.
 
 ```zsh
