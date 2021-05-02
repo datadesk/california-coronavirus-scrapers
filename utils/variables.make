@@ -74,7 +74,7 @@ define finish
 endef
 
 define dataproofer
-    @echo "🐍🤖 $(OBJ_COLOR)Verifying with dataproofer $(1)$(NO_COLOR)\r";
+    @echo "🧐🔢 $(OBJ_COLOR)Verifying with dataproofer $(1)$(NO_COLOR)\r";
     @npx dataproofer $(1) --sampleRatio 1 --verbose
 endef
 
