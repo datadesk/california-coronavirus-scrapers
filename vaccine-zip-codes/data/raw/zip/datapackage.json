@@ -1,0 +1,234 @@
+{
+  "accrual_periodicity": "weekly",
+  "additional_limitations": "",
+  "citation": "",
+  "contact_email": "opendata@cdph.ca.gov",
+  "data_collection_tool": "",
+  "data_license": "Terms of Use",
+  "de_identification_method": "",
+  "description": "This dataset shows full, partial, and at least 1 dose coverage rates by zip code tabulation area (ZCTA) for the state of California. Data sources include the California Immunization Registry and the American Community Survey’s 2015-2019 5-Year data.\r\n\r\nThis is the data table for the [LHJ Vaccine Equity Performance dashboard](https://public.tableau.com/profile/ca.open.data#!/vizhome/LHJVaccineEquityPerformance/MapView?publish=yes).\r\n\r\nThis dataset also includes Vaccine Equity Metric score quartiles, which combine the Public Health Alliance of Southern California’s Healthy Places Index (HPI) measure with CDPH-derived scores to estimate factors that impact health, like income, education, and access to health care. Zip codes range from less healthy community conditions in Quartile 1 to more healthy community conditions in Quartile 4.\r\n\r\nThe Vaccine Equity Metric is for weekly vaccination allocation and reporting purposes only. CDPH-derived quartiles should not be considered as indicative of the HPI score for these zip codes. CDPH-derived quartiles were assigned to zip codes excluded from the HPI score produced by the Public Health Alliance of Southern California due to concerns with statistical reliability and validity in populations smaller than 1,500 or where more than 50% of the population resides in a group setting.",
+  "geo_coverage": "California",
+  "geographic_granularity": "zip code",
+  "keywords": [
+    "COVID",
+    "COVID-19",
+    "COVID19",
+    "ZIP code",
+    "vaccines"
+  ],
+  "limitations": "Limitations",
+  "name": "covid-19-vaccine-progress-dashboard-data-by-zip-code",
+  "program_web_page": "https://covid19.ca.gov/vaccines/",
+  "related_resources": "",
+  "resources": [
+    {
+      "description": "COVID-19 Vaccines by ZIP Code Data Dictionary",
+      "format": "XLSX",
+      "name": "covid-19-vaccines-by-zip-code-data-dictionary",
+      "path": "covid-19-vaccines-by-zip-code-data-dictionary.xlsx",
+      "schema": {
+        "fields": [
+          {
+            "name": "Variable",
+            "type": "string"
+          },
+          {
+            "name": "Definition",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/ead44d40-fd63-4f9f-950a-3b0111074de8/resource/2a4f06d3-4017-44b0-a934-b7d90934e2f0/download/covid-19_vaccines_by_zip_code-dd.xlsx",
+          "title": "COVID-19 Vaccines by ZIP Code Data Dictionary"
+        }
+      ],
+      "title": "COVID-19 Vaccines by ZIP Code Data Dictionary"
+    },
+    {
+      "description": "COVID-19 Vaccines by ZIP Code 4-14-21",
+      "format": "CSV",
+      "name": "covid-19-vaccines-by-zip-code-4-14-21",
+      "schema": {
+        "fields": [
+          {
+            "name": "Zip Code Tabulation Area",
+            "type": "string"
+          },
+          {
+            "name": "Local Health Jurisdiction",
+            "type": "string"
+          },
+          {
+            "name": "Vaccine Equity Metric Quartile",
+            "type": "string"
+          },
+          {
+            "name": "VEM Source",
+            "type": "string"
+          },
+          {
+            "name": "16+ Population",
+            "type": "string"
+          },
+          {
+            "name": "Persons Fully Vaccinated",
+            "type": "string"
+          },
+          {
+            "name": "Persons Partially Vaccinated",
+            "type": "string"
+          },
+          {
+            "name": "Percent of Population Fully Vaccinated",
+            "type": "string"
+          },
+          {
+            "name": "Percent of Population Partially Vaccinated",
+            "type": "string"
+          },
+          {
+            "name": "Percent of Population with 1+ Dose",
+            "type": "string"
+          },
+          {
+            "name": "Redacted",
+            "type": "string"
+          }
+        ]
+      },
+      "title": "COVID-19 Vaccines by ZIP Code 4-14-21"
+    },
+    {
+      "description": "COVID-19 Vaccines by ZIP Code 4-21-21",
+      "format": "CSV",
+      "name": "covid-19-vaccines-by-zip-code-4-21-21",
+      "path": "covid-19-vaccines-by-zip-code-4-21-21.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Zip Code Tabulation Area",
+            "type": "string"
+          },
+          {
+            "name": "Local Health Jurisdiction",
+            "type": "string"
+          },
+          {
+            "name": "Vaccine Equity Metric Quartile",
+            "type": "string"
+          },
+          {
+            "name": "VEM Source",
+            "type": "string"
+          },
+          {
+            "name": "16+ Population",
+            "type": "string"
+          },
+          {
+            "name": "Persons Fully Vaccinated",
+            "type": "string"
+          },
+          {
+            "name": "Persons Partially Vaccinated",
+            "type": "string"
+          },
+          {
+            "name": "Percent of Population Fully Vaccinated",
+            "type": "string"
+          },
+          {
+            "name": "Percent of Population Partially Vaccinated",
+            "type": "string"
+          },
+          {
+            "name": "Percent of Population with 1+ Dose",
+            "type": "string"
+          },
+          {
+            "name": "Redacted",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/ead44d40-fd63-4f9f-950a-3b0111074de8/resource/c8ad049b-4ee1-4435-bf44-7fd8ff7f2af1/download/coveragebyzip_od-table-1.csv",
+          "title": "COVID-19 Vaccines by ZIP Code 4-21-21"
+        }
+      ],
+      "title": "COVID-19 Vaccines by ZIP Code 4-21-21"
+    },
+    {
+      "description": "COVID-19 Vaccines by ZIP Code 4-28-21",
+      "format": "CSV",
+      "name": "covid-19-vaccines-by-zip-code-4-28-21",
+      "path": "covid-19-vaccines-by-zip-code-4-28-21.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Zip Code Tabulation Area",
+            "type": "string"
+          },
+          {
+            "name": "Local Health Jurisdiction",
+            "type": "string"
+          },
+          {
+            "name": "Vaccine Equity Metric Quartile",
+            "type": "string"
+          },
+          {
+            "name": "VEM Source",
+            "type": "string"
+          },
+          {
+            "name": "16+ Population",
+            "type": "string"
+          },
+          {
+            "name": "Persons Fully Vaccinated",
+            "type": "string"
+          },
+          {
+            "name": "Persons Partially Vaccinated",
+            "type": "string"
+          },
+          {
+            "name": "Percent of Population Fully Vaccinated",
+            "type": "string"
+          },
+          {
+            "name": "Percent of Population Partially Vaccinated",
+            "type": "string"
+          },
+          {
+            "name": "Percent of Population with 1+ Dose",
+            "type": "string"
+          },
+          {
+            "name": "Redacted",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/ead44d40-fd63-4f9f-950a-3b0111074de8/resource/1fd9be93-8c39-47ac-a60b-b189e34dda51/download/coveragebyzip_od-table-1.csv",
+          "title": "COVID-19 Vaccines by ZIP Code 4-28-21"
+        }
+      ],
+      "title": "COVID-19 Vaccines by ZIP Code 4-28-21"
+    }
+  ],
+  "secondary_sources": "",
+  "sources": [
+    {
+      "name": "California COVID-19 Vaccination Program"
+    }
+  ],
+  "temporal_coverage": "December 2020-present",
+  "title": "COVID-19 Vaccine Progress Dashboard Data by ZIP Code"
+}
