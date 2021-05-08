@@ -11,10 +11,15 @@ jobs:
       - name: Checkout the repo
         uses: actions/checkout@v2
 
-      - name: Set up Python
+      - name: Install Python
         uses: actions/setup-python@v2
         with:
           python-version: 3.8
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 14
 
       - name: Install system dependencies
         run: | 
@@ -22,7 +27,7 @@ jobs:
           sudo apt install -y poppler-utils
 
       - name: Install dependencies
-        uses: ./.github/actions/install-pipenv
+        uses: ./.github/actions/install-deps
 
       - name: Lint notebooks
         run: make lint_notebooks

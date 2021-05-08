@@ -11,6 +11,7 @@ The scrapers are written using Python and Jupyter notebooks, scheduled and run v
 | [bed-surges](https://github.com/datadesk/california-coronavirus-scrapers/tree/main/bed-surges) | [![C](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/bed-surges.yaml/badge.svg)](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/bed-surges.yaml) | [Ben Welsh](https://www.latimes.com/people/ben-welsh) |
 | [cases-deaths-demographics](https://github.com/datadesk/california-coronavirus-scrapers/tree/main/cases-deaths-demographics) | [![](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/cases-deaths-demographics.yaml/badge.svg)](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/cases-deaths-demographics.yaml) | [Ben Welsh](https://www.latimes.com/people/ben-welsh) |
 | [cases-deaths-tests](https://github.com/datadesk/california-coronavirus-scrapers/tree/main/cases-deaths-tests) | [![C](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/cases-deaths-tests.yaml/badge.svg)](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/cases-deaths-tests.yaml) | [Sean Greene](https://www.latimes.com/people/sean-greene) |
+| [homeless-impact](https://github.com/datadesk/california-coronavirus-scrapers/tree/main/homeless-impact) | [![](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/homeless-impact.yaml/badge.svg)](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/homeless-impact.yaml) | [Jennifer Lu](https://www.latimes.com/people/jennifer-lu) |
 | [hopkins](https://github.com/datadesk/california-coronavirus-scrapers/tree/main/hopkins) | [![](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/hopkins.yaml/badge.svg)](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/hopkins.yaml) | [Ben Welsh](https://www.latimes.com/people/ben-welsh) |
 | [hospital-patients](https://github.com/datadesk/california-coronavirus-scrapers/tree/main/hospital-patients) | [![](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/hospital-patients.yaml/badge.svg)](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/hospital-patients.yaml) | [Ben Welsh](https://www.latimes.com/people/ben-welsh) |
 | [hospital-capacity](https://github.com/datadesk/california-coronavirus-scrapers/tree/main/hospital-capacity) | [![](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/hospital-capacity.yaml/badge.svg)](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/hospital-capacity.yaml) | [Ben Welsh](https://www.latimes.com/people/ben-welsh) |
@@ -29,6 +30,7 @@ The scrapers are written using Python and Jupyter notebooks, scheduled and run v
 | [variant-proportions-states](https://github.com/datadesk/california-coronavirus-scrapers/tree/main/variant-proportions-states) | [![](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/vaccine-shipped-delivered.yaml/badge.svg)](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/variant-proportions-states.yaml) | [Matt Stiles](https://www.latimes.com/people/matt-stiles) |
 | [variant-toplines-ca](https://github.com/datadesk/california-coronavirus-scrapers/tree/main/variant-toplines-ca) | [![](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/variants-in-ca.yaml/badge.svg)](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/variants-in-ca.yaml) | [Matt Stiles](https://www.latimes.com/people/matt-stiles) |
 | [vaccine-zip-codes](https://github.com/datadesk/california-coronavirus-scrapers/tree/main/vaccine-zip-codes) | [![](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/vaccine-zip-codes.yaml/badge.svg)](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/vaccine-zip-codes.yaml) | [Sean Greene](https://www.latimes.com/people/sean-greene) |
+| [vaccine-zip-codes](https://github.com/datadesk/california-coronavirus-scrapers/tree/main/vaccine-zip-codes) | [![](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/vaccine-zip-codes.yaml/badge.svg)](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/vaccine-zip-codes.yaml) | [Matt Stiles](https://www.latimes.com/people/matt-stiles) |
 | [vaccine-demographics-by-county](https://github.com/datadesk/california-coronavirus-scrapers/tree/main/vaccine-demographics-by-county) | [![](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/vaccine-demographics-by-county.yaml/badge.svg)](https://github.com/datadesk/california-coronavirus-scrapers/actions/workflows/vaccine-demographics-by-county.yaml) | [Sean Greene](https://www.latimes.com/people/sean-greene) |
 
 ## Installation
@@ -37,6 +39,12 @@ Clone the repository and install the Python dependencies.
 
 ```zsh
 pipenv install
+```
+
+Then install the Node.js dependencies.
+
+```zsh
+npm install
 ```
 
 Run all of the scraper commands.
