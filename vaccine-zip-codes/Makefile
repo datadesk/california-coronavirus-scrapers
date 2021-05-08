@@ -1,7 +1,7 @@
 # Import aliases
 include ./utils/variables.make
 
-MAKENAME = variant-zip-codes
+MAKENAME = vaccine-zip-codes
 
 scrape: ## Scrape data files. Example: make -f ./vaccine-zip-codes/Makefile
 	$(call start,$(MAKENAME))
