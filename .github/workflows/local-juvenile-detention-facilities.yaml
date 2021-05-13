@@ -1,7 +1,8 @@
 name: Local juvenile detention facilities
+concurrency: scrapers
 on:
   schedule:
-    - cron: '10 */4 * * *'
+    - cron: '0 */3 * * *'
   workflow_dispatch:
 
 jobs:
