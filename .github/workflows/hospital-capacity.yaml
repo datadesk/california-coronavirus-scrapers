@@ -1,4 +1,5 @@
 name: Hospital capacity
+concurrency: scrapers
 on:
   schedule:
     - cron: '50 */4 * * *'
