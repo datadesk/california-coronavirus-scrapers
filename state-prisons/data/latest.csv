@@ -311,7 +311,6 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,5,0,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2020-03-18,310,0,0
 0,2,0,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2020-03-18,311,0,0
 0,1,0,San Quentin State Prison (SQ),-122.49029,,37.943365,2020-03-18,312,0,0
-0,0,0,Calipatria State Prison (CAL),-115.51208,,33.131763999999997,2020-03-24,493,0,0
 0,0,0,Salinas Valley State Prison (SVSP),-121.42556999999999,,36.518179000000003,2020-03-18,313,0,0
 0,2,0,Valley State Prison (VSP),-120.50574,,37.127524999999999,2020-03-18,314,0,0
 0,1,0,Wasco State Prison (WSP),-119.37143,,35.605044999999997,2020-03-18,315,0,0
@@ -363,7 +362,6 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,0,0,California Men's Colony (CMC),-120.636399,,35.221085000000002,2020-03-20,361,0,0
 0,0,0,California Medical Facility (CMF),-121.90832399999999,,38.348959999999998,2020-03-20,362,0,0
 0,0,0,California State Prison-Corcoran (COR),-119.5548,,36.085341999999997,2020-03-20,363,0,0
-0,1,0,Ironwood State Prison (ISP),-114.652517,,33.598689999999998,2020-03-25,545,0,0
 0,1,0,California Rehabilitation Center (CRC),-117.55978,,33.925885000000001,2020-03-20,364,0,0
 0,0,0,Correctional Training Facility (CTF),-121.32617,,36.411760000000001,2020-03-20,365,0,0
 0,0,0,Chuckawalla Valley State Prison (CVSP),-114.61905,,33.628332999999998,2020-03-20,366,0,0
@@ -401,6 +399,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,0,0,California State Prison-Corcoran (COR),-119.5548,,36.085341999999997,2020-03-21,398,0,0
 0,0,0,California Rehabilitation Center (CRC),-117.55978,,33.925885000000001,2020-03-21,399,0,0
 0,0,0,Correctional Training Facility (CTF),-121.32617,,36.411760000000001,2020-03-21,400,0,0
+0,0,0,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2020-03-25,555,0,0
 0,0,0,Chuckawalla Valley State Prison (CVSP),-114.61905,,33.628332999999998,2020-03-21,401,0,0
 0,0,0,Deuel Vocational Institution (DVI),-121.42399,,37.728417,2020-03-21,402,0,0
 0,0,0,Folsom State Prison (FSP),-121.15783,,38.672127000000003,2020-03-21,403,0,0
@@ -467,7 +466,6 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,2,0,California Institution for Men (CIM),-117.68737,,34.015962999999999,2020-03-23,464,0,0
 0,0,0,California Institution for Women (CIW),-117.60221,,33.903803000000003,2020-03-23,465,0,0
 0,0,0,California Men's Colony (CMC),-120.636399,,35.221085000000002,2020-03-23,466,0,0
-0,0,0,Folsom State Prison (FSP),-121.15783,,38.672127000000003,2020-03-28,648,0,0
 0,1,0,California Medical Facility (CMF),-121.90832399999999,,38.348959999999998,2020-03-23,467,0,0
 0,0,0,California State Prison-Corcoran (COR),-119.5548,,36.085341999999997,2020-03-23,468,0,0
 0,3,0,California Rehabilitation Center (CRC),-117.55978,,33.925885000000001,2020-03-23,469,0,0
@@ -494,6 +492,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,0,0,Wasco State Prison (WSP),-119.37143,,35.605044999999997,2020-03-23,490,0,0
 0,1,0,Avenal State Prison (ASP),-120.10057,,35.930765999999998,2020-03-24,491,0,0
 0,1,0,California City Correctional Facility (CAC),-117.91473000000001,,35.139327000000002,2020-03-24,492,0,0
+0,0,0,Calipatria State Prison (CAL),-115.51208,,33.131763999999997,2020-03-24,493,0,0
 0,0,0,California Correctional Center (CCC),-120.664132,,40.446063000000002,2020-03-24,494,0,0
 0,4,0,California Correctional Institution (CCI),-118.50781000000001,,35.132672999999997,2020-03-24,495,0,0
 0,0,0,Central California Women's Facility (CCWF),-120.27864,,37.100417,2020-03-24,496,0,0
@@ -545,6 +544,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,1,0,Deuel Vocational Institution (DVI),-121.42399,,37.728417,2020-03-25,542,0,0
 0,0,0,Folsom State Prison (FSP),-121.15783,,38.672127000000003,2020-03-25,543,0,0
 0,0,0,High Desert State Prison (HDSP),-120.67685,,40.474950999999997,2020-03-25,544,0,0
+0,1,0,Ironwood State Prison (ISP),-114.652517,,33.598689999999998,2020-03-25,545,0,0
 0,0,0,Kern Valley State Prison (KVSP),-119.26984,,35.771875999999999,2020-03-25,546,0,0
 0,0,0,California State Prison-Los Angeles County (LAC),-118.32683,,34.728856999999998,2020-03-25,547,1,1
 0,0,0,Mule Creek State Prison (MCSP),-120.94516,,38.346131999999997,2020-03-25,548,0,0
@@ -554,7 +554,6 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,1,0,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2020-03-25,552,0,0
 0,1,0,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2020-03-25,553,0,0
 0,0,0,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2020-03-25,554,0,0
-0,0,0,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2020-03-25,555,0,0
 0,0,0,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2020-03-25,556,0,0
 0,2,0,San Quentin State Prison (SQ),-122.49029,,37.943365,2020-03-25,557,0,0
 0,0,0,Salinas Valley State Prison (SVSP),-121.42556999999999,,36.518179000000003,2020-03-25,558,0,0
@@ -621,7 +620,6 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,0,0,North Kern State Prison (NKSP),-119.23371,,35.774966999999997,2020-03-27,619,0,0
 0,2,0,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2020-03-27,620,0,0
 0,1,0,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2020-03-27,621,0,0
-0,0,0,Avenal State Prison (ASP),-120.10057,,35.930765999999998,2020-03-30,701,0,0
 0,0,0,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2020-03-27,622,0,0
 0,0,0,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2020-03-27,623,0,0
 0,0,0,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2020-03-27,624,0,0
@@ -648,6 +646,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,0,0,Correctional Training Facility (CTF),-121.32617,,36.411760000000001,2020-03-28,645,0,0
 0,0,0,Chuckawalla Valley State Prison (CVSP),-114.61905,,33.628332999999998,2020-03-28,646,0,0
 0,0,0,Deuel Vocational Institution (DVI),-121.42399,,37.728417,2020-03-28,647,0,0
+0,0,0,Folsom State Prison (FSP),-121.15783,,38.672127000000003,2020-03-28,648,0,0
 0,0,0,High Desert State Prison (HDSP),-120.67685,,40.474950999999997,2020-03-28,649,0,0
 0,0,0,Ironwood State Prison (ISP),-114.652517,,33.598689999999998,2020-03-28,650,0,0
 0,0,0,Kern Valley State Prison (KVSP),-119.26984,,35.771875999999999,2020-03-28,651,0,0
@@ -700,6 +699,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,0,0,Salinas Valley State Prison (SVSP),-121.42556999999999,,36.518179000000003,2020-03-29,698,0,0
 0,0,0,Valley State Prison (VSP),-120.50574,,37.127524999999999,2020-03-29,699,0,0
 0,0,0,Wasco State Prison (WSP),-119.37143,,35.605044999999997,2020-03-29,700,1,1
+0,0,0,Avenal State Prison (ASP),-120.10057,,35.930765999999998,2020-03-30,701,0,0
 0,0,0,California City Correctional Facility (CAC),-117.91473000000001,,35.139327000000002,2020-03-30,702,0,0
 0,0,0,Calipatria State Prison (CAL),-115.51208,,33.131763999999997,2020-03-30,703,0,0
 0,0,0,California Correctional Center (CCC),-120.664132,,40.446063000000002,2020-03-30,704,0,0
@@ -708,6 +708,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,1,0,California State Prison-Centinela (CEN),-115.58942,,32.853470999999999,2020-03-30,707,0,0
 0,0,0,California Health Care Facility (CHCF),-121.19064,,37.955474000000002,2020-03-30,708,0,0
 0,1,0,California Institution for Men (CIM),-117.68737,,34.015962999999999,2020-03-30,709,1,1
+0,0,0,Avenal State Prison (ASP),-120.10057,,35.930765999999998,2020-03-31,736,0,0
 0,0,0,California Institution for Women (CIW),-117.60221,,33.903803000000003,2020-03-30,710,0,0
 0,0,0,California Men's Colony (CMC),-120.636399,,35.221085000000002,2020-03-30,711,0,0
 0,0,0,California Medical Facility (CMF),-121.90832399999999,,38.348959999999998,2020-03-30,712,0,0
@@ -725,7 +726,6 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,3,0,North Kern State Prison (NKSP),-119.23371,,35.774966999999997,2020-03-30,724,1,1
 0,0,0,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2020-03-30,725,0,0
 0,1,0,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2020-03-30,726,0,0
-0,0,0,Deuel Vocational Institution (DVI),-121.42399,,37.728417,2020-03-31,752,0,0
 0,0,0,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2020-03-30,727,0,0
 0,1,0,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2020-03-30,728,0,0
 0,0,0,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2020-03-30,729,0,0
@@ -735,7 +735,6 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,0,0,Salinas Valley State Prison (SVSP),-121.42556999999999,,36.518179000000003,2020-03-30,733,0,0
 0,0,0,Valley State Prison (VSP),-120.50574,,37.127524999999999,2020-03-30,734,0,0
 0,1,0,Wasco State Prison (WSP),-119.37143,,35.605044999999997,2020-03-30,735,1,1
-0,0,0,Avenal State Prison (ASP),-120.10057,,35.930765999999998,2020-03-31,736,0,0
 0,0,0,California City Correctional Facility (CAC),-117.91473000000001,,35.139327000000002,2020-03-31,737,0,0
 0,0,0,Calipatria State Prison (CAL),-115.51208,,33.131763999999997,2020-03-31,738,0,0
 0,1,0,California Correctional Center (CCC),-120.664132,,40.446063000000002,2020-03-31,739,0,0
@@ -751,6 +750,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,0,0,California Rehabilitation Center (CRC),-117.55978,,33.925885000000001,2020-03-31,749,0,0
 0,0,0,Correctional Training Facility (CTF),-121.32617,,36.411760000000001,2020-03-31,750,0,0
 0,0,0,Chuckawalla Valley State Prison (CVSP),-114.61905,,33.628332999999998,2020-03-31,751,0,0
+0,0,0,Deuel Vocational Institution (DVI),-121.42399,,37.728417,2020-03-31,752,0,0
 0,0,0,Folsom State Prison (FSP),-121.15783,,38.672127000000003,2020-03-31,753,0,0
 0,0,0,High Desert State Prison (HDSP),-120.67685,,40.474950999999997,2020-03-31,754,0,0
 0,0,0,Ironwood State Prison (ISP),-114.652517,,33.598689999999998,2020-03-31,755,0,0
@@ -812,6 +812,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,0,0,Central California Women's Facility (CCWF),-120.27864,,37.100417,2020-04-02,811,0,0
 0,0,0,California State Prison-Centinela (CEN),-115.58942,,32.853470999999999,2020-04-02,812,0,0
 0,0,0,California Health Care Facility (CHCF),-121.19064,,37.955474000000002,2020-04-02,813,0,0
+0,0,0,Wasco State Prison (WSP),-119.37143,,35.605044999999997,2020-04-02,840,1,1
 0,3,0,California Institution for Men (CIM),-117.68737,,34.015962999999999,2020-04-02,814,6,6
 0,0,0,California Institution for Women (CIW),-117.60221,,33.903803000000003,2020-04-02,815,0,0
 0,1,0,California Men's Colony (CMC),-120.636399,,35.221085000000002,2020-04-02,816,0,0
@@ -838,7 +839,6 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,1,0,San Quentin State Prison (SQ),-122.49029,,37.943365,2020-04-02,837,0,0
 0,0,0,Salinas Valley State Prison (SVSP),-121.42556999999999,,36.518179000000003,2020-04-02,838,0,0
 0,1,0,Valley State Prison (VSP),-120.50574,,37.127524999999999,2020-04-02,839,0,0
-0,0,0,Wasco State Prison (WSP),-119.37143,,35.605044999999997,2020-04-02,840,1,1
 0,0,0,Avenal State Prison (ASP),-120.10057,,35.930765999999998,2020-04-03,841,0,0
 0,0,0,California City Correctional Facility (CAC),-117.91473000000001,,35.139327000000002,2020-04-03,842,0,0
 0,0,0,Calipatria State Prison (CAL),-115.51208,,33.131763999999997,2020-04-03,843,0,0
@@ -1592,7 +1592,6 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,0,0,Chuckawalla Valley State Prison (CVSP),-114.61905,,33.628332999999998,2020-04-24,1591,0,0
 0,0,0,Deuel Vocational Institution (DVI),-121.42399,,37.728417,2020-04-24,1592,0,0
 0,0,0,Folsom State Prison (FSP),-121.15783,,38.672127000000003,2020-04-24,1593,0,0
-0,0,0,Valley State Prison (VSP),-120.50574,,37.127524999999999,2020-04-25,1644,0,0
 0,0,0,High Desert State Prison (HDSP),-120.67685,,40.474950999999997,2020-04-24,1594,0,0
 0,0,0,Ironwood State Prison (ISP),-114.652517,,33.598689999999998,2020-04-24,1595,0,0
 0,0,0,Kern Valley State Prison (KVSP),-119.26984,,35.771875999999999,2020-04-24,1596,0,0
@@ -1643,6 +1642,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,1,0,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2020-04-25,1641,0,0
 0,0,0,San Quentin State Prison (SQ),-122.49029,,37.943365,2020-04-25,1642,0,0
 0,0,0,Salinas Valley State Prison (SVSP),-121.42556999999999,,36.518179000000003,2020-04-25,1643,0,0
+0,0,0,Valley State Prison (VSP),-120.50574,,37.127524999999999,2020-04-25,1644,0,0
 0,0,0,Wasco State Prison (WSP),-119.37143,,35.605044999999997,2020-04-25,1645,0,1
 0,0,0,Avenal State Prison (ASP),-120.10057,,35.930765999999998,2020-04-26,1646,0,0
 0,0,0,California City Correctional Facility (CAC),-117.91473000000001,,35.139327000000002,2020-04-26,1647,0,0
@@ -1668,7 +1668,6 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,1,0,California State Prison-Los Angeles County (LAC),-118.32683,,34.728856999999998,2020-04-26,1667,68,83
 0,0,0,Mule Creek State Prison (MCSP),-120.94516,,38.346131999999997,2020-04-26,1668,0,0
 0,1,0,North Kern State Prison (NKSP),-119.23371,,35.774966999999997,2020-04-26,1669,0,1
-0,0,0,Folsom State Prison (FSP),-121.15783,,38.672127000000003,2020-05-02,1873,0,0
 0,0,0,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2020-04-26,1670,0,0
 0,0,0,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2020-04-26,1671,0,0
 0,0,0,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2020-04-26,1672,0,0
@@ -1806,6 +1805,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,0,0,High Desert State Prison (HDSP),-120.67685,,40.474950999999997,2020-04-30,1804,0,0
 0,1,0,Ironwood State Prison (ISP),-114.652517,,33.598689999999998,2020-04-30,1805,0,0
 0,0,0,Kern Valley State Prison (KVSP),-119.26984,,35.771875999999999,2020-04-30,1806,0,0
+0,0,0,California Medical Facility (CMF),-121.90832399999999,,38.348959999999998,2020-05-01,1832,0,0
 0,23,0,California State Prison-Los Angeles County (LAC),-118.32683,,34.728856999999998,2020-04-30,1807,78,101
 0,2,0,Mule Creek State Prison (MCSP),-120.94516,,38.346131999999997,2020-04-30,1808,0,0
 0,0,0,North Kern State Prison (NKSP),-119.23371,,35.774966999999997,2020-04-30,1809,0,1
@@ -1831,7 +1831,6 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 1,223,1,California Institution for Men (CIM),-117.68737,,34.015962999999999,2020-05-01,1829,205,264
 0,1,0,California Institution for Women (CIW),-117.60221,,33.903803000000003,2020-05-01,1830,0,2
 0,17,0,California Men's Colony (CMC),-120.636399,,35.221085000000002,2020-05-01,1831,10,11
-0,0,0,California Medical Facility (CMF),-121.90832399999999,,38.348959999999998,2020-05-01,1832,0,0
 0,0,0,California State Prison-Corcoran (COR),-119.5548,,36.085341999999997,2020-05-01,1833,0,0
 0,0,0,California Rehabilitation Center (CRC),-117.55978,,33.925885000000001,2020-05-01,1834,0,0
 0,1,0,Correctional Training Facility (CTF),-121.32617,,36.411760000000001,2020-05-01,1835,0,0
@@ -1872,6 +1871,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,0,0,Correctional Training Facility (CTF),-121.32617,,36.411760000000001,2020-05-02,1870,0,0
 0,3,0,Chuckawalla Valley State Prison (CVSP),-114.61905,,33.628332999999998,2020-05-02,1871,0,0
 0,0,0,Deuel Vocational Institution (DVI),-121.42399,,37.728417,2020-05-02,1872,0,0
+0,0,0,Folsom State Prison (FSP),-121.15783,,38.672127000000003,2020-05-02,1873,0,0
 0,0,0,High Desert State Prison (HDSP),-120.67685,,40.474950999999997,2020-05-02,1874,0,0
 0,0,0,Ironwood State Prison (ISP),-114.652517,,33.598689999999998,2020-05-02,1875,0,0
 0,0,0,Kern Valley State Prison (KVSP),-119.26984,,35.771875999999999,2020-05-02,1876,0,0
@@ -1947,7 +1947,6 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,0,0,Kern Valley State Prison (KVSP),-119.26984,,35.771875999999999,2020-05-04,1946,0,0
 0,77,0,California State Prison-Los Angeles County (LAC),-118.32683,,34.728856999999998,2020-05-04,1947,47,109
 0,1,0,Mule Creek State Prison (MCSP),-120.94516,,38.346131999999997,2020-05-04,1948,0,0
-0,0,0,Deuel Vocational Institution (DVI),-121.42399,,37.728417,2020-05-10,2152,0,0
 0,0,0,North Kern State Prison (NKSP),-119.23371,,35.774966999999997,2020-05-04,1949,0,1
 0,0,0,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2020-05-04,1950,0,0
 0,0,0,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2020-05-04,1951,0,0
@@ -2086,6 +2085,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,0,0,High Desert State Prison (HDSP),-120.67685,,40.474950999999997,2020-05-08,2084,0,0
 0,0,0,Ironwood State Prison (ISP),-114.652517,,33.598689999999998,2020-05-08,2085,0,0
 0,0,0,Kern Valley State Prison (KVSP),-119.26984,,35.771875999999999,2020-05-08,2086,0,0
+0,1,0,California Medical Facility (CMF),-121.90832399999999,,38.348959999999998,2020-05-09,2112,0,0
 0,5,0,California State Prison-Los Angeles County (LAC),-118.32683,,34.728856999999998,2020-05-08,2087,36,114
 0,0,0,Mule Creek State Prison (MCSP),-120.94516,,38.346131999999997,2020-05-08,2088,0,0
 0,0,0,North Kern State Prison (NKSP),-119.23371,,35.774966999999997,2020-05-08,2089,0,1
@@ -2111,7 +2111,6 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 5,1,4,California Institution for Men (CIM),-117.68737,,34.015962999999999,2020-05-09,2109,297,397
 0,13,0,California Institution for Women (CIW),-117.60221,,33.903803000000003,2020-05-09,2110,42,44
 0,0,0,California Men's Colony (CMC),-120.636399,,35.221085000000002,2020-05-09,2111,8,11
-0,1,0,California Medical Facility (CMF),-121.90832399999999,,38.348959999999998,2020-05-09,2112,0,0
 0,0,0,California State Prison-Corcoran (COR),-119.5548,,36.085341999999997,2020-05-09,2113,0,0
 0,0,0,California Rehabilitation Center (CRC),-117.55978,,33.925885000000001,2020-05-09,2114,0,0
 0,1,0,Correctional Training Facility (CTF),-121.32617,,36.411760000000001,2020-05-09,2115,0,0
@@ -2151,6 +2150,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,0,0,California Rehabilitation Center (CRC),-117.55978,,33.925885000000001,2020-05-10,2149,0,0
 0,0,0,Correctional Training Facility (CTF),-121.32617,,36.411760000000001,2020-05-10,2150,0,0
 0,1,0,Chuckawalla Valley State Prison (CVSP),-114.61905,,33.628332999999998,2020-05-10,2151,0,0
+0,0,0,Deuel Vocational Institution (DVI),-121.42399,,37.728417,2020-05-10,2152,0,0
 0,0,0,Folsom State Prison (FSP),-121.15783,,38.672127000000003,2020-05-10,2153,0,0
 0,0,0,High Desert State Prison (HDSP),-120.67685,,40.474950999999997,2020-05-10,2154,0,0
 0,0,0,Ironwood State Prison (ISP),-114.652517,,33.598689999999998,2020-05-10,2155,0,0
@@ -2812,6 +2812,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,8,0,California Men's Colony (CMC),-120.636399,,35.221085000000002,2020-05-29,2811,0,11
 0,18,0,California Medical Facility (CMF),-121.90832399999999,,38.348959999999998,2020-05-29,2812,0,0
 0,34,0,California State Prison-Corcoran (COR),-119.5548,,36.085341999999997,2020-05-29,2813,1,1
+0,0,0,Valley State Prison (VSP),-120.50574,,37.127524999999999,2020-06-01,2939,0,0
 0,29,0,California Rehabilitation Center (CRC),-117.55978,,33.925885000000001,2020-05-29,2814,0,0
 0,40,0,Correctional Training Facility (CTF),-121.32617,,36.411760000000001,2020-05-29,2815,0,0
 0,364,0,Chuckawalla Valley State Prison (CVSP),-114.61905,,33.628332999999998,2020-05-29,2816,790,794
@@ -2904,7 +2905,6 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,0,0,Salinas Valley State Prison (SVSP),-121.42556999999999,,36.518179000000003,2020-05-31,2903,0,0
 0,1,0,Valley State Prison (VSP),-120.50574,,37.127524999999999,2020-05-31,2904,0,0
 0,0,0,Wasco State Prison (WSP),-119.37143,,35.605044999999997,2020-05-31,2905,0,1
-0,5,0,Valley State Prison (VSP),-120.50574,,37.127524999999999,2020-06-05,3079,0,0
 0,4,5,Avenal State Prison (ASP),-120.10057,,35.930765999999998,2020-06-01,2906,601,601
 0,59,0,California City Correctional Facility (CAC),-117.91473000000001,,35.139327000000002,2020-06-01,2907,1,1
 0,2,0,Calipatria State Prison (CAL),-115.51208,,33.131763999999997,2020-06-01,2908,0,0
@@ -2938,7 +2938,6 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,1,0,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2020-06-01,2936,0,0
 0,2,0,San Quentin State Prison (SQ),-122.49029,,37.943365,2020-06-01,2937,2,2
 0,6,0,Salinas Valley State Prison (SVSP),-121.42556999999999,,36.518179000000003,2020-06-01,2938,0,0
-0,0,0,Valley State Prison (VSP),-120.50574,,37.127524999999999,2020-06-01,2939,0,0
 0,138,0,Wasco State Prison (WSP),-119.37143,,35.605044999999997,2020-06-01,2940,5,6
 0,325,6,Avenal State Prison (ASP),-120.10057,,35.930765999999998,2020-06-02,2941,805,839
 0,1,0,California City Correctional Facility (CAC),-117.91473000000001,,35.139327000000002,2020-06-02,2942,1,1
@@ -2954,7 +2953,6 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,13,0,California Medical Facility (CMF),-121.90832399999999,,38.348959999999998,2020-06-02,2952,0,0
 0,43,0,California State Prison-Corcoran (COR),-119.5548,,36.085341999999997,2020-06-02,2953,7,7
 0,16,0,California Rehabilitation Center (CRC),-117.55978,,33.925885000000001,2020-06-02,2954,0,0
-0,0,0,Calipatria State Prison (CAL),-115.51208,,33.131763999999997,2020-06-13,3328,0,0
 0,6,0,Correctional Training Facility (CTF),-121.32617,,36.411760000000001,2020-06-02,2955,0,0
 0,186,0,Chuckawalla Valley State Prison (CVSP),-114.61905,,33.628332999999998,2020-06-02,2956,923,987
 0,0,0,Deuel Vocational Institution (DVI),-121.42399,,37.728417,2020-06-02,2957,0,0
@@ -3004,7 +3002,6 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,2,0,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2020-06-03,3001,0,0
 0,15,0,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2020-06-03,3002,0,0
 0,4,0,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2020-06-03,3003,0,0
-0,4,0,Valley State Prison (VSP),-120.50574,,37.127524999999999,2020-08-01,5074,0,0
 0,5,0,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2020-06-03,3004,0,1
 0,20,0,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2020-06-03,3005,1,1
 0,16,0,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2020-06-03,3006,0,0
@@ -3039,6 +3036,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,8,0,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2020-06-04,3035,0,0
 0,13,0,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2020-06-04,3036,0,0
 0,21,0,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2020-06-04,3037,0,0
+0,12,0,Deuel Vocational Institution (DVI),-121.42399,,37.728417,2020-06-05,3062,0,0
 0,12,0,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2020-06-04,3038,0,0
 0,7,0,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2020-06-04,3039,0,1
 0,15,0,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2020-06-04,3040,1,1
@@ -3063,7 +3061,6 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,11,0,California Rehabilitation Center (CRC),-117.55978,,33.925885000000001,2020-06-05,3059,0,0
 0,8,0,Correctional Training Facility (CTF),-121.32617,,36.411760000000001,2020-06-05,3060,0,0
 0,188,2,Chuckawalla Valley State Prison (CVSP),-114.61905,,33.628332999999998,2020-06-05,3061,895,993
-0,12,0,Deuel Vocational Institution (DVI),-121.42399,,37.728417,2020-06-05,3062,0,0
 0,26,0,Folsom State Prison (FSP),-121.15783,,38.672127000000003,2020-06-05,3063,0,0
 0,5,0,High Desert State Prison (HDSP),-120.67685,,40.474950999999997,2020-06-05,3064,0,0
 0,26,0,Ironwood State Prison (ISP),-114.652517,,33.598689999999998,2020-06-05,3065,0,0
@@ -3080,6 +3077,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,25,0,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2020-06-05,3076,0,0
 0,192,0,San Quentin State Prison (SQ),-122.49029,,37.943365,2020-06-05,3077,17,17
 0,15,0,Salinas Valley State Prison (SVSP),-121.42556999999999,,36.518179000000003,2020-06-05,3078,0,0
+0,5,0,Valley State Prison (VSP),-120.50574,,37.127524999999999,2020-06-05,3079,0,0
 0,66,0,Wasco State Prison (WSP),-119.37143,,35.605044999999997,2020-06-05,3080,5,6
 0,2,9,Avenal State Prison (ASP),-120.10057,,35.930765999999998,2020-06-06,3081,645,844
 0,0,0,California City Correctional Facility (CAC),-117.91473000000001,,35.139327000000002,2020-06-06,3082,0,1
@@ -3213,6 +3211,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,23,0,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2020-06-09,3210,0,0
 0,2,0,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2020-06-09,3211,0,0
 0,8,0,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2020-06-09,3212,0,0
+0,0,0,Wasco State Prison (WSP),-119.37143,,35.605044999999997,2020-06-13,3360,6,7
 0,12,0,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2020-06-09,3213,0,0
 0,6,0,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2020-06-09,3214,0,1
 0,16,0,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2020-06-09,3215,0,1
@@ -3303,7 +3302,6 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 1,31,0,California Institution for Women (CIW),-117.60221,,33.903803000000003,2020-06-12,3300,2,163
 0,28,0,California Men's Colony (CMC),-120.636399,,35.221085000000002,2020-06-12,3301,0,11
 0,40,0,California Medical Facility (CMF),-121.90832399999999,,38.348959999999998,2020-06-12,3302,0,0
-0,1,0,Deuel Vocational Institution (DVI),-121.42399,,37.728417,2020-08-09,5337,0,1
 0,19,0,California State Prison-Corcoran (COR),-119.5548,,36.085341999999997,2020-06-12,3303,98,98
 0,9,0,California Rehabilitation Center (CRC),-117.55978,,33.925885000000001,2020-06-12,3304,46,46
 0,8,0,Correctional Training Facility (CTF),-121.32617,,36.411760000000001,2020-06-12,3305,0,0
@@ -3329,6 +3327,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,35,0,Wasco State Prison (WSP),-119.37143,,35.605044999999997,2020-06-12,3325,6,7
 0,10,10,Avenal State Prison (ASP),-120.10057,,35.930765999999998,2020-06-13,3326,316,916
 0,0,0,California City Correctional Facility (CAC),-117.91473000000001,,35.139327000000002,2020-06-13,3327,0,1
+0,0,0,Calipatria State Prison (CAL),-115.51208,,33.131763999999997,2020-06-13,3328,0,0
 0,0,0,California Correctional Center (CCC),-120.664132,,40.446063000000002,2020-06-13,3329,0,0
 0,1,0,California Correctional Institution (CCI),-118.50781000000001,,35.132672999999997,2020-06-13,3330,0,0
 0,1,0,Central California Women's Facility (CCWF),-120.27864,,37.100417,2020-06-13,3331,0,0
@@ -3360,7 +3359,6 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,0,0,San Quentin State Prison (SQ),-122.49029,,37.943365,2020-06-13,3357,49,49
 0,1,0,Salinas Valley State Prison (SVSP),-121.42556999999999,,36.518179000000003,2020-06-13,3358,0,0
 0,2,0,Valley State Prison (VSP),-120.50574,,37.127524999999999,2020-06-13,3359,0,0
-0,0,0,Wasco State Prison (WSP),-119.37143,,35.605044999999997,2020-06-13,3360,6,7
 0,0,11,Avenal State Prison (ASP),-120.10057,,35.930765999999998,2020-06-14,3361,316,916
 0,0,0,California City Correctional Facility (CAC),-117.91473000000001,,35.139327000000002,2020-06-14,3362,0,1
 0,0,0,Calipatria State Prison (CAL),-115.51208,,33.131763999999997,2020-06-14,3363,0,0
@@ -3452,7 +3450,6 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,12,0,High Desert State Prison (HDSP),-120.67685,,40.474950999999997,2020-06-16,3449,0,0
 0,38,0,Ironwood State Prison (ISP),-114.652517,,33.598689999999998,2020-06-16,3450,10,10
 0,7,0,Kern Valley State Prison (KVSP),-119.26984,,35.771875999999999,2020-06-16,3451,0,0
-0,6,0,California Men's Colony (CMC),-120.636399,,35.221085000000002,2020-06-17,3476,0,11
 0,6,1,California State Prison-Los Angeles County (LAC),-118.32683,,34.728856999999998,2020-06-16,3452,0,128
 0,13,0,Mule Creek State Prison (MCSP),-120.94516,,38.346131999999997,2020-06-16,3453,0,0
 0,11,0,North Kern State Prison (NKSP),-119.23371,,35.774966999999997,2020-06-16,3454,2,3
@@ -3477,6 +3474,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,16,0,California Health Care Facility (CHCF),-121.19064,,37.955474000000002,2020-06-17,3473,0,0
 16,15,20,California Institution for Men (CIM),-117.68737,,34.015962999999999,2020-06-17,3474,137,845
 1,9,0,California Institution for Women (CIW),-117.60221,,33.903803000000003,2020-06-17,3475,2,163
+0,6,0,California Men's Colony (CMC),-120.636399,,35.221085000000002,2020-06-17,3476,0,11
 0,32,0,California Medical Facility (CMF),-121.90832399999999,,38.348959999999998,2020-06-17,3477,0,0
 0,6,0,California State Prison-Corcoran (COR),-119.5548,,36.085341999999997,2020-06-17,3478,147,154
 0,97,0,California Rehabilitation Center (CRC),-117.55978,,33.925885000000001,2020-06-17,3479,68,68
@@ -3507,6 +3505,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,33,0,California Correctional Center (CCC),-120.664132,,40.446063000000002,2020-06-18,3504,3,3
 0,26,0,California Correctional Institution (CCI),-118.50781000000001,,35.132672999999997,2020-06-18,3505,2,2
 0,18,0,Central California Women's Facility (CCWF),-120.27864,,37.100417,2020-06-18,3506,0,0
+0,73,0,Ironwood State Prison (ISP),-114.652517,,33.598689999999998,2020-06-19,3555,17,17
 0,3,0,California State Prison-Centinela (CEN),-115.58942,,32.853470999999999,2020-06-18,3507,4,9
 0,50,0,California Health Care Facility (CHCF),-121.19064,,37.955474000000002,2020-06-18,3508,0,0
 16,12,20,California Institution for Men (CIM),-117.68737,,34.015962999999999,2020-06-18,3509,131,846
@@ -3555,7 +3554,6 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,30,0,Deuel Vocational Institution (DVI),-121.42399,,37.728417,2020-06-19,3552,0,0
 0,13,0,Folsom State Prison (FSP),-121.15783,,38.672127000000003,2020-06-19,3553,0,0
 0,10,0,High Desert State Prison (HDSP),-120.67685,,40.474950999999997,2020-06-19,3554,0,0
-0,73,0,Ironwood State Prison (ISP),-114.652517,,33.598689999999998,2020-06-19,3555,17,17
 0,7,0,Kern Valley State Prison (KVSP),-119.26984,,35.771875999999999,2020-06-19,3556,0,0
 0,2,1,California State Prison-Los Angeles County (LAC),-118.32683,,34.728856999999998,2020-06-19,3557,0,128
 0,14,0,Mule Creek State Prison (MCSP),-120.94516,,38.346131999999997,2020-06-19,3558,0,0
@@ -3599,7 +3597,6 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,3,0,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2020-06-20,3596,0,0
 0,3,0,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2020-06-20,3597,0,0
 0,0,0,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2020-06-20,3598,3,3
-0,0,0,High Desert State Prison (HDSP),-120.67685,,40.474950999999997,2020-06-21,3624,0,0
 0,5,0,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2020-06-20,3599,0,1
 0,0,0,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2020-06-20,3600,0,1
 0,2,0,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2020-06-20,3601,1,1
@@ -3625,6 +3622,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 1,0,9,Chuckawalla Valley State Prison (CVSP),-114.61905,,33.628332999999998,2020-06-21,3621,20,1013
 0,0,0,Deuel Vocational Institution (DVI),-121.42399,,37.728417,2020-06-21,3622,0,0
 0,0,0,Folsom State Prison (FSP),-121.15783,,38.672127000000003,2020-06-21,3623,0,0
+0,0,0,High Desert State Prison (HDSP),-120.67685,,40.474950999999997,2020-06-21,3624,0,0
 0,0,0,Ironwood State Prison (ISP),-114.652517,,33.598689999999998,2020-06-21,3625,17,17
 0,3,0,Kern Valley State Prison (KVSP),-119.26984,,35.771875999999999,2020-06-21,3626,0,0
 0,1,1,California State Prison-Los Angeles County (LAC),-118.32683,,34.728856999999998,2020-06-21,3627,0,128
@@ -3697,7 +3695,6 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,4,0,High Desert State Prison (HDSP),-120.67685,,40.474950999999997,2020-06-23,3694,1,1
 0,680,0,Ironwood State Prison (ISP),-114.652517,,33.598689999999998,2020-06-23,3695,15,19
 0,3,0,Kern Valley State Prison (KVSP),-119.26984,,35.771875999999999,2020-06-23,3696,0,0
-0,8,0,California Men's Colony (CMC),-120.636399,,35.221085000000002,2020-06-24,3721,0,11
 0,27,1,California State Prison-Los Angeles County (LAC),-118.32683,,34.728856999999998,2020-06-23,3697,0,128
 0,14,0,Mule Creek State Prison (MCSP),-120.94516,,38.346131999999997,2020-06-23,3698,0,0
 0,5,0,North Kern State Prison (NKSP),-119.23371,,35.774966999999997,2020-06-23,3699,4,6
@@ -3722,6 +3719,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,35,0,California Health Care Facility (CHCF),-121.19064,,37.955474000000002,2020-06-24,3718,0,0
 16,29,20,California Institution for Men (CIM),-117.68737,,34.015962999999999,2020-06-24,3719,101,893
 1,23,0,California Institution for Women (CIW),-117.60221,,33.903803000000003,2020-06-24,3720,1,164
+0,8,0,California Men's Colony (CMC),-120.636399,,35.221085000000002,2020-06-24,3721,0,11
 0,2,0,California Medical Facility (CMF),-121.90832399999999,,38.348959999999998,2020-06-24,3722,0,0
 0,25,0,California State Prison-Corcoran (COR),-119.5548,,36.085341999999997,2020-06-24,3723,62,155
 0,38,0,California Rehabilitation Center (CRC),-117.55978,,33.925885000000001,2020-06-24,3724,71,85
@@ -3746,7 +3744,6 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,106,0,Salinas Valley State Prison (SVSP),-121.42556999999999,,36.518179000000003,2020-06-24,3743,3,3
 0,2,0,Valley State Prison (VSP),-120.50574,,37.127524999999999,2020-06-24,3744,0,0
 0,30,0,Wasco State Prison (WSP),-119.37143,,35.605044999999997,2020-06-24,3745,17,24
-0,3,0,Valley State Prison (VSP),-120.50574,,37.127524999999999,2020-07-01,3989,0,0
 2,5,16,Avenal State Prison (ASP),-120.10057,,35.930765999999998,2020-06-25,3746,38,935
 0,24,0,California City Correctional Facility (CAC),-117.91473000000001,,35.139327000000002,2020-06-25,3747,0,1
 0,11,0,Calipatria State Prison (CAL),-115.51208,,33.131763999999997,2020-06-25,3748,1,1
@@ -3923,6 +3920,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,10,0,Valley State Prison (VSP),-120.50574,,37.127524999999999,2020-06-29,3919,0,0
 0,11,0,Wasco State Prison (WSP),-119.37143,,35.605044999999997,2020-06-29,3920,21,28
 3,3,18,Avenal State Prison (ASP),-120.10057,,35.930765999999998,2020-06-30,3921,21,939
+0,40,0,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2020-06-30,3946,0,0
 0,126,0,California City Correctional Facility (CAC),-117.91473000000001,,35.139327000000002,2020-06-30,3922,0,1
 0,108,0,Calipatria State Prison (CAL),-115.51208,,33.131763999999997,2020-06-30,3923,1,1
 0,239,1,California Correctional Center (CCC),-120.664132,,40.446063000000002,2020-06-30,3924,225,225
@@ -3942,13 +3940,11 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,6,0,Folsom State Prison (FSP),-121.15783,,38.672127000000003,2020-06-30,3938,0,0
 0,7,0,High Desert State Prison (HDSP),-120.67685,,40.474950999999997,2020-06-30,3939,4,4
 0,8,0,Ironwood State Prison (ISP),-114.652517,,33.598689999999998,2020-06-30,3940,22,31
-0,36,0,Valley State Prison (VSP),-120.50574,,37.127524999999999,2020-07-10,4304,0,0
 0,3,0,Kern Valley State Prison (KVSP),-119.26984,,35.771875999999999,2020-06-30,3941,0,0
 0,3,1,California State Prison-Los Angeles County (LAC),-118.32683,,34.728856999999998,2020-06-30,3942,0,128
 0,9,0,Mule Creek State Prison (MCSP),-120.94516,,38.346131999999997,2020-06-30,3943,0,0
 0,139,0,North Kern State Prison (NKSP),-119.23371,,35.774966999999997,2020-06-30,3944,3,6
 0,2,0,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2020-06-30,3945,0,0
-0,40,0,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2020-06-30,3946,0,0
 0,15,0,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2020-06-30,3947,0,0
 0,49,0,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2020-06-30,3948,1,4
 0,6,0,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2020-06-30,3949,0,1
@@ -3991,11 +3987,13 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,37,0,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2020-07-01,3986,0,1
 2,316,8,San Quentin State Prison (SQ),-122.49029,,37.943365,2020-07-01,3987,1229,1548
 0,8,0,Salinas Valley State Prison (SVSP),-121.42556999999999,,36.518179000000003,2020-07-01,3988,3,3
+0,3,0,Valley State Prison (VSP),-120.50574,,37.127524999999999,2020-07-01,3989,0,0
 0,29,0,Wasco State Prison (WSP),-119.37143,,35.605044999999997,2020-07-01,3990,23,33
 3,7,18,Avenal State Prison (ASP),-120.10057,,35.930765999999998,2020-07-02,3991,20,943
 0,177,0,California City Correctional Facility (CAC),-117.91473000000001,,35.139327000000002,2020-07-02,3992,0,1
 0,16,0,Calipatria State Prison (CAL),-115.51208,,33.131763999999997,2020-07-02,3993,1,2
 0,74,2,California Correctional Center (CCC),-120.664132,,40.446063000000002,2020-07-02,3994,225,225
+0,1,0,Deuel Vocational Institution (DVI),-121.42399,,37.728417,2020-08-09,5337,0,1
 0,24,1,California Correctional Institution (CCI),-118.50781000000001,,35.132672999999997,2020-07-02,3995,142,144
 0,2,0,Central California Women's Facility (CCWF),-120.27864,,37.100417,2020-07-02,3996,0,0
 0,99,0,California State Prison-Centinela (CEN),-115.58942,,32.853470999999999,2020-07-02,3997,11,20
@@ -4305,6 +4303,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,23,0,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2020-07-10,4301,1,2
 9,216,22,San Quentin State Prison (SQ),-122.49029,,37.943365,2020-07-10,4302,897,2067
 0,5,0,Salinas Valley State Prison (SVSP),-121.42556999999999,,36.518179000000003,2020-07-10,4303,0,3
+0,36,0,Valley State Prison (VSP),-120.50574,,37.127524999999999,2020-07-10,4304,0,0
 0,112,1,Wasco State Prison (WSP),-119.37143,,35.605044999999997,2020-07-10,4305,23,50
 3,0,22,Avenal State Prison (ASP),-120.10057,,35.930765999999998,2020-07-11,4306,16,954
 0,0,0,California City Correctional Facility (CAC),-117.91473000000001,,35.139327000000002,2020-07-11,4307,0,1
@@ -4377,7 +4376,6 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,1,0,Valley State Prison (VSP),-120.50574,,37.127524999999999,2020-07-12,4374,0,0
 0,0,7,Wasco State Prison (WSP),-119.37143,,35.605044999999997,2020-07-12,4375,82,110
 4,17,22,Avenal State Prison (ASP),-120.10057,,35.930765999999998,2020-07-13,4376,18,956
-0,8,0,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2020-07-13,4401,0,0
 0,161,0,California City Correctional Facility (CAC),-117.91473000000001,,35.139327000000002,2020-07-13,4377,0,1
 0,5,2,Calipatria State Prison (CAL),-115.51208,,33.131763999999997,2020-07-13,4378,19,20
 0,36,8,California Correctional Center (CCC),-120.664132,,40.446063000000002,2020-07-13,4379,233,450
@@ -4402,6 +4400,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,32,0,Mule Creek State Prison (MCSP),-120.94516,,38.346131999999997,2020-07-13,4398,0,0
 0,97,0,North Kern State Prison (NKSP),-119.23371,,35.774966999999997,2020-07-13,4399,3,9
 0,4,0,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2020-07-13,4400,0,0
+0,8,0,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2020-07-13,4401,0,0
 0,5,0,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2020-07-13,4402,0,0
 0,11,0,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2020-07-13,4403,0,4
 0,16,0,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2020-07-13,4404,1,2
@@ -4665,7 +4664,6 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,194,0,California State Prison-Centinela (CEN),-115.58942,,32.853470999999999,2020-07-21,4662,15,36
 0,107,0,California Health Care Facility (CHCF),-121.19064,,37.955474000000002,2020-07-21,4663,2,3
 19,134,22,California Institution for Men (CIM),-117.68737,,34.015962999999999,2020-07-21,4664,115,1060
-0,48,0,Valley State Prison (VSP),-120.50574,,37.127524999999999,2020-07-21,4689,0,0
 1,396,0,California Institution for Women (CIW),-117.60221,,33.903803000000003,2020-07-21,4665,118,284
 0,10,0,California Men's Colony (CMC),-120.636399,,35.221085000000002,2020-07-21,4666,0,11
 0,85,0,California Medical Facility (CMF),-121.90832399999999,,38.348959999999998,2020-07-21,4667,5,5
@@ -4690,6 +4688,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,17,0,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2020-07-21,4686,1,2
 16,225,32,San Quentin State Prison (SQ),-122.49029,,37.943365,2020-07-21,4687,328,2141
 0,10,0,Salinas Valley State Prison (SVSP),-121.42556999999999,,36.518179000000003,2020-07-21,4688,0,3
+0,48,0,Valley State Prison (VSP),-120.50574,,37.127524999999999,2020-07-21,4689,0,0
 0,104,14,Wasco State Prison (WSP),-119.37143,,35.605044999999997,2020-07-21,4690,123,160
 4,89,25,Avenal State Prison (ASP),-120.10057,,35.930765999999998,2020-07-22,4691,157,1103
 0,52,0,California City Correctional Facility (CAC),-117.91473000000001,,35.139327000000002,2020-07-22,4692,0,1
@@ -5074,6 +5073,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,5,0,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2020-08-01,5071,0,2
 20,4,40,San Quentin State Prison (SQ),-122.49029,,37.943365,2020-08-01,5072,108,2223
 0,90,0,Salinas Valley State Prison (SVSP),-121.42556999999999,,36.518179000000003,2020-08-01,5073,0,3
+0,4,0,Valley State Prison (VSP),-120.50574,,37.127524999999999,2020-08-01,5074,0,0
 0,115,18,Wasco State Prison (WSP),-119.37143,,35.605044999999997,2020-08-01,5075,47,167
 5,1,40,Avenal State Prison (ASP),-120.10057,,35.930765999999998,2020-08-02,5076,351,1417
 0,2,0,California City Correctional Facility (CAC),-117.91473000000001,,35.139327000000002,2020-08-02,5077,0,1
@@ -10422,7 +10422,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,3,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-01-01,10420,31,194
 3,0,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-01-01,10421,86,1975
 10,4,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-01-01,10422,260,941
-1,5,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-01,10423,67,232
+1,6,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-01,10423,68,233
 6,0,14,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-01-01,10424,64,2988
 0,1,10,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-01-01,10425,577,1122
 1,2,5,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-01-01,10426,338,659
@@ -10457,7 +10457,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,0,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-01-02,10455,31,194
 3,0,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-01-02,10456,85,1975
 11,317,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-01-02,10457,259,943
-1,2,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-02,10458,55,233
+1,2,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-02,10458,56,234
 6,2,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-01-02,10459,62,2989
 0,2,10,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-01-02,10460,247,1122
 1,0,5,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-01-02,10461,338,659
@@ -10492,7 +10492,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,5,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-01-03,10490,30,194
 3,1,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-01-03,10491,86,1976
 11,4,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-01-03,10492,260,944
-1,5,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-03,10493,56,234
+1,5,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-03,10493,57,235
 6,3,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-01-03,10494,62,2989
 0,3,10,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-01-03,10495,247,1122
 1,2,5,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-01-03,10496,326,661
@@ -10526,7 +10526,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,336,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-01-04,10525,30,195
 3,4,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-01-04,10526,86,1976
 11,7,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-01-04,10527,257,946
-1,12,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-04,10528,56,234
+1,12,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-04,10528,57,235
 6,436,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-01-04,10529,71,2999
 0,365,10,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-01-04,10530,282,1160
 1,436,5,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-01-04,10531,337,672
@@ -10561,7 +10561,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,753,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-01-05,10560,16,198
 3,773,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-01-05,10561,90,1982
 11,462,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-01-05,10562,214,984
-1,1115,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-05,10563,68,247
+1,1115,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-05,10563,69,248
 6,854,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-01-05,10564,35,2999
 0,673,10,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-01-05,10565,192,1161
 1,833,6,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-01-05,10566,375,721
@@ -10596,7 +10596,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,19,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-01-06,10595,15,198
 3,14,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-01-06,10596,36,1982
 11,792,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-01-06,10597,192,990
-1,35,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-06,10598,58,249
+1,35,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-06,10598,59,250
 6,374,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-01-06,10599,35,2999
 0,168,10,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-01-06,10600,198,1171
 1,548,6,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-01-06,10601,282,736
@@ -10631,7 +10631,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,675,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-01-07,10630,16,199
 3,2,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-01-07,10631,34,1982
 12,64,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-01-07,10632,187,998
-1,14,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-07,10633,58,249
+1,14,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-07,10633,59,250
 6,1,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-01-07,10634,35,2999
 0,1,10,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-01-07,10635,171,1171
 1,377,8,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-01-07,10636,285,746
@@ -10666,7 +10666,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,6,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-01-08,10665,16,199
 3,0,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-01-08,10666,34,1982
 14,10,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-01-08,10667,174,998
-1,311,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-08,10668,52,252
+1,311,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-08,10668,53,253
 6,3,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-01-08,10669,35,2999
 0,129,10,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-01-08,10670,146,1178
 1,799,8,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-01-08,10671,254,750
@@ -10701,7 +10701,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,3,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-01-09,10700,17,200
 3,1,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-01-09,10701,34,1982
 15,3,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-01-09,10702,173,998
-1,13,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-09,10703,51,252
+1,13,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-09,10703,52,253
 6,0,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-01-09,10704,35,2999
 0,108,10,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-01-09,10705,145,1178
 1,1,9,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-01-09,10706,254,750
@@ -10736,7 +10736,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,1,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-01-10,10735,17,200
 3,1,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-01-10,10736,34,1982
 15,3,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-01-10,10737,172,998
-1,14,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-10,10738,51,252
+1,14,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-10,10738,52,253
 6,0,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-01-10,10739,35,2999
 0,0,10,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-01-10,10740,141,1178
 1,5,9,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-01-10,10741,254,750
@@ -10772,7 +10772,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 3,9,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-01-11,10771,34,1982
 0,10,1,Central California Women's Facility (CCWF),-120.27864,,37.100417,2021-01-15,10891,184,696
 16,75,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-01-11,10772,174,1001
-1,17,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-11,10773,50,253
+1,17,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-11,10773,51,254
 6,430,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-01-11,10774,41,3005
 0,288,10,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-01-11,10775,152,1189
 1,307,9,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-01-11,10776,278,774
@@ -10808,7 +10808,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,679,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-01-12,10805,9,201
 3,1,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-01-12,10806,34,1982
 16,437,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-01-12,10807,173,1002
-1,1117,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-12,10808,53,256
+1,1117,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-12,10808,54,257
 6,867,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-01-12,10809,18,3006
 0,763,10,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-01-12,10810,81,1190
 2,738,9,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-01-12,10811,276,781
@@ -10842,7 +10842,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,122,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-01-13,10840,9,201
 3,817,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-01-13,10841,9,1984
 16,521,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-01-13,10842,125,1003
-1,31,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-13,10843,36,257
+1,31,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-13,10843,37,258
 6,368,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-01-13,10844,18,3006
 0,90,10,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-01-13,10845,102,1211
 2,789,9,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-01-13,10846,191,781
@@ -10877,7 +10877,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,678,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-01-14,10875,11,203
 3,6,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-01-14,10876,9,1984
 16,519,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-01-14,10877,68,1004
-1,24,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-14,10878,36,258
+1,24,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-14,10878,37,259
 6,5,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-01-14,10879,18,3006
 0,107,10,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-01-14,10880,90,1211
 2,383,9,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-01-14,10881,182,792
@@ -10911,7 +10911,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,11,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-01-15,10910,9,203
 3,1,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-01-15,10911,9,1984
 17,10,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-01-15,10912,64,1004
-1,254,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-15,10913,33,265
+1,254,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-15,10913,34,266
 6,7,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-01-15,10914,18,3006
 0,18,10,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-01-15,10915,92,1213
 2,354,9,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-01-15,10916,170,829
@@ -10946,7 +10946,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,2,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-01-16,10945,10,204
 3,5,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-01-16,10946,9,1984
 17,5,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-01-16,10947,64,1005
-1,14,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-16,10948,33,265
+1,14,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-16,10948,33,266
 6,0,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-01-16,10949,18,3006
 0,168,11,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-01-16,10950,92,1214
 6,39,6,Kern Valley State Prison (KVSP),-119.26984,,35.771875999999999,2021-01-18,11011,44,878
@@ -10982,7 +10982,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,1,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-01-17,10980,10,204
 3,0,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-01-17,10981,9,1984
 17,4,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-01-17,10982,63,1006
-1,3,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-17,10983,32,265
+1,3,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-17,10983,32,266
 6,3,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-01-17,10984,17,3006
 0,2,11,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-01-17,10985,92,1214
 2,4,9,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-01-17,10986,170,829
@@ -11016,7 +11016,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,3,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-01-18,11015,10,204
 3,5,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-01-18,11016,9,1985
 17,63,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-01-18,11017,62,1006
-1,15,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-18,11018,31,265
+1,15,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-18,11018,31,266
 6,3,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-01-18,11019,17,3006
 0,136,11,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-01-18,11020,93,1215
 2,2,9,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-01-18,11021,168,829
@@ -11051,7 +11051,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,332,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-01-19,11050,9,204
 3,5,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-01-19,11051,9,1985
 17,447,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-01-19,11052,62,1008
-1,93,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-19,11053,35,269
+1,93,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-19,11053,35,270
 6,433,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-01-19,11054,8,3007
 0,113,11,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-01-19,11055,57,1217
 2,625,9,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-01-19,11056,195,867
@@ -11086,7 +11086,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,339,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-01-20,11085,6,204
 3,816,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-01-20,11086,3,1985
 17,149,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-01-20,11087,24,1008
-1,37,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-20,11088,22,269
+1,37,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-20,11088,22,270
 6,849,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-01-20,11089,11,3010
 0,139,11,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-01-20,11090,57,1218
 2,811,9,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-01-20,11091,211,932
@@ -11121,7 +11121,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,5,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-01-21,11120,6,204
 3,2,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-01-21,11121,3,1985
 17,863,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-01-21,11122,18,1008
-1,1064,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-21,11123,26,275
+1,1064,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-21,11123,26,276
 6,360,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-01-21,11124,11,3010
 0,40,11,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-01-21,11125,48,1219
 2,621,9,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-01-21,11126,218,954
@@ -11156,7 +11156,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,1130,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-01-22,11155,6,205
 3,7,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-01-22,11156,3,1985
 17,20,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-01-22,11157,10,1008
-1,12,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-22,11158,26,275
+1,12,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-22,11158,26,276
 6,20,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-01-22,11159,11,3010
 0,34,11,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-01-22,11160,50,1221
 2,616,9,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-01-22,11161,256,1002
@@ -11191,7 +11191,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,0,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-01-23,11190,6,205
 3,7,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-01-23,11191,3,1985
 17,8,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-01-23,11192,10,1008
-1,12,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-23,11193,24,276
+1,12,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-23,11193,24,277
 6,2,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-01-23,11194,11,3010
 0,42,11,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-01-23,11195,67,1245
 2,22,9,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-01-23,11196,263,1013
@@ -11226,7 +11226,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,6,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-01-24,11225,5,205
 3,2,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-01-24,11226,3,1985
 17,18,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-01-24,11227,10,1008
-1,11,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-24,11228,25,277
+1,11,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-24,11228,25,278
 6,0,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-01-24,11229,11,3010
 0,20,11,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-01-24,11230,67,1245
 2,17,9,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-01-24,11231,263,1013
@@ -11261,7 +11261,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,347,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-01-25,11260,7,207
 3,16,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-01-25,11261,3,1985
 18,99,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-01-25,11262,10,1008
-1,10,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-25,11263,25,277
+1,10,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-25,11263,25,278
 6,959,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-01-25,11264,12,3011
 0,40,11,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-01-25,11265,67,1245
 2,488,9,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-01-25,11266,277,1027
@@ -11296,7 +11296,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,761,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-01-26,11295,6,207
 3,4,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-01-26,11296,3,1985
 18,423,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-01-26,11297,9,1010
-1,1017,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-26,11298,28,281
+1,1017,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-26,11298,28,282
 6,550,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-01-26,11299,6,3011
 0,185,11,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-01-26,11300,59,1248
 3,650,9,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-01-26,11301,306,1080
@@ -11331,7 +11331,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,246,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-01-27,11330,6,207
 3,818,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-01-27,11331,4,1986
 18,638,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-01-27,11332,8,1010
-1,22,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-27,11333,26,282
+1,22,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-27,11333,26,283
 6,365,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-01-27,11334,5,3011
 0,18,11,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-01-27,11335,59,1249
 3,672,10,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-01-27,11336,302,1083
@@ -11366,7 +11366,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,463,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-01-28,11365,6,207
 3,11,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-01-28,11366,2,1986
 18,521,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-01-28,11367,7,1010
-1,15,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-28,11368,26,283
+1,15,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-28,11368,26,284
 6,11,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-01-28,11369,5,3011
 0,30,11,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-01-28,11370,38,1249
 3,557,10,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-01-28,11371,325,1106
@@ -11401,7 +11401,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,7,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-01-29,11400,4,207
 3,3,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-01-29,11401,2,1986
 18,13,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-01-29,11402,6,1010
-1,10,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-29,11403,26,284
+1,10,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-29,11403,26,285
 6,17,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-01-29,11404,5,3011
 0,7,11,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-01-29,11405,38,1249
 3,273,10,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-01-29,11406,328,1120
@@ -11436,7 +11436,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,0,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-01-30,11435,4,207
 3,0,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-01-30,11436,2,1986
 18,9,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-01-30,11437,6,1010
-1,6,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-30,11438,19,284
+1,6,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-30,11438,19,285
 6,10,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-01-30,11439,5,3011
 0,40,13,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-01-30,11440,39,1252
 3,181,10,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-01-30,11441,292,1121
@@ -11471,7 +11471,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,16,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-01-31,11470,3,207
 3,0,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-01-31,11471,2,1986
 18,3,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-01-31,11472,5,1010
-1,291,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-31,11473,19,284
+1,291,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-01-31,11473,19,285
 6,24,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-01-31,11474,5,3011
 0,17,13,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-01-31,11475,40,1254
 3,12,10,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-01-31,11476,292,1121
@@ -11506,7 +11506,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,325,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-02-01,11505,3,207
 3,10,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-02-01,11506,2,1986
 18,81,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-02-01,11507,4,1010
-1,81,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-01,11508,19,284
+1,81,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-01,11508,19,285
 6,982,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-02-01,11509,5,3011
 0,180,13,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-02-01,11510,51,1265
 3,456,10,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-02-01,11511,299,1128
@@ -11541,7 +11541,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,772,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-02-02,11540,3,207
 3,9,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-02-02,11541,1,1986
 18,411,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-02-02,11542,4,1010
-1,41,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-02,11543,20,285
+1,41,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-02,11543,20,286
 6,677,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-02-02,11544,5,3011
 0,30,13,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-02-02,11545,52,1267
 3,585,10,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-02-02,11546,302,1131
@@ -11576,7 +11576,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,139,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-02-03,11575,3,207
 3,843,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-02-03,11576,2,1987
 18,613,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-02-03,11577,2,1010
-1,20,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-03,11578,16,285
+1,20,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-03,11578,16,286
 6,481,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-02-03,11579,4,3011
 0,52,13,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-02-03,11580,53,1270
 4,698,10,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-02-03,11581,266,1133
@@ -11611,7 +11611,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,582,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-02-04,11610,6,210
 3,11,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-02-04,11611,2,1987
 18,464,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-02-04,11612,2,1010
-1,52,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-04,11613,16,285
+1,52,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-04,11613,16,286
 6,7,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-02-04,11614,1,3011
 0,17,13,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-02-04,11615,53,1271
 4,529,10,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-02-04,11616,205,1137
@@ -11646,7 +11646,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,16,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-02-05,11645,6,210
 3,8,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-02-05,11646,2,1987
 18,27,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-02-05,11647,3,1011
-1,47,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-05,11648,10,285
+1,47,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-05,11648,10,286
 6,5,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-02-05,11649,1,3011
 0,118,13,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-02-05,11650,85,1304
 4,376,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-02-05,11651,183,1137
@@ -11681,7 +11681,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,0,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-02-06,11680,5,210
 3,2,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-02-06,11681,2,1987
 18,9,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-02-06,11682,3,1011
-1,7,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-06,11683,10,285
+1,7,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-06,11683,10,286
 6,13,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-02-06,11684,1,3011
 0,74,13,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-02-06,11685,108,1329
 4,384,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-02-06,11686,136,1138
@@ -11716,7 +11716,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,9,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-02-07,11715,5,210
 3,1,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-02-07,11716,2,1987
 18,2,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-02-07,11717,3,1011
-1,5,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-07,11718,9,285
+1,5,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-07,11718,9,286
 6,30,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-02-07,11719,1,3011
 0,26,14,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-02-07,11720,87,1332
 4,2,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-02-07,11721,125,1138
@@ -11751,7 +11751,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,310,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-02-08,11750,6,211
 3,9,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-02-08,11751,2,1987
 18,107,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-02-08,11752,3,1011
-1,20,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-08,11753,8,285
+1,20,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-08,11753,8,286
 6,1025,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-02-08,11754,1,3011
 0,65,14,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-02-08,11755,97,1342
 4,436,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-02-08,11756,126,1139
@@ -11786,7 +11786,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,778,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-02-09,11785,6,213
 3,12,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-02-09,11786,2,1987
 18,146,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-02-09,11787,3,1011
-1,954,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-09,11788,8,285
+1,954,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-09,11788,8,286
 6,797,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-02-09,11789,0,3011
 0,41,14,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-02-09,11790,99,1344
 5,572,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-02-09,11791,114,1141
@@ -11821,7 +11821,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,23,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-02-10,11820,6,213
 3,848,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-02-10,11821,3,1988
 18,115,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-02-10,11822,1,1011
-1,22,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-10,11823,4,285
+1,22,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-10,11823,4,286
 6,570,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-02-10,11824,0,3011
 0,43,14,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-02-10,11825,110,1358
 5,631,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-02-10,11826,66,1146
@@ -11856,7 +11856,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,581,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-02-11,11855,7,214
 3,12,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-02-11,11856,2,1988
 18,21,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-02-11,11857,1,1011
-1,249,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-11,11858,3,285
+1,249,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-11,11858,3,286
 6,14,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-02-11,11859,0,3011
 0,42,14,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-02-11,11860,112,1361
 5,443,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-02-11,11861,63,1146
@@ -11891,7 +11891,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,121,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-02-12,11890,7,214
 3,12,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-02-12,11891,2,1988
 18,23,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-02-12,11892,1,1011
-1,14,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-12,11893,2,285
+1,14,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-12,11893,2,286
 6,14,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-02-12,11894,0,3011
 0,183,14,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-02-12,11895,140,1389
 5,386,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-02-12,11896,40,1146
@@ -11913,7 +11913,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 10,6,3,California Medical Facility (CMF),-121.90832399999999,,38.348959999999998,2021-02-13,11912,12,710
 4,24,5,California State Prison-Corcoran (COR),-119.5548,,36.085341999999997,2021-02-13,11913,52,1061
 1,3,58,California Rehabilitation Center (CRC),-117.55978,,33.925885000000001,2021-02-13,11914,3,1993
-19,976,29,Correctional Training Facility (CTF),-121.32617,,36.411760000000001,2021-02-13,11915,14,2718
+19,975,29,Correctional Training Facility (CTF),-121.32617,,36.411760000000001,2021-02-13,11915,14,2718
 9,0,20,Chuckawalla Valley State Prison (CVSP),-114.61905,,33.628332999999998,2021-02-13,11916,1,1782
 0,12,3,Deuel Vocational Institution (DVI),-121.42399,,37.728417,2021-02-13,11917,164,518
 2,5,12,Folsom State Prison (FSP),-121.15783,,38.672127000000003,2021-02-13,11918,4,1368
@@ -11926,7 +11926,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,1,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-02-13,11925,7,214
 3,4,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-02-13,11926,2,1988
 18,2,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-02-13,11927,1,1011
-1,13,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-13,11928,1,285
+1,13,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-13,11928,1,286
 6,15,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-02-13,11929,0,3011
 0,30,14,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-02-13,11930,140,1389
 5,7,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-02-13,11931,27,1147
@@ -11961,7 +11961,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,28,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-02-14,11960,7,214
 3,2,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-02-14,11961,2,1988
 18,8,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-02-14,11962,1,1011
-1,7,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-14,11963,1,285
+1,7,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-14,11963,1,286
 6,13,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-02-14,11964,0,3011
 0,4,14,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-02-14,11965,137,1389
 6,36,6,Kern Valley State Prison (KVSP),-119.26984,,35.771875999999999,2021-02-16,12026,8,893
@@ -11997,7 +11997,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,256,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-02-15,11995,8,215
 3,15,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-02-15,11996,3,1989
 18,14,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-02-15,11997,1,1011
-1,29,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-15,11998,1,285
+1,29,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-15,11998,1,286
 6,37,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-02-15,11999,0,3011
 0,20,14,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-02-15,12000,135,1389
 5,241,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-02-15,12001,27,1148
@@ -12031,7 +12031,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,441,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-02-16,12030,8,215
 3,18,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-02-16,12031,3,1989
 18,69,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-02-16,12032,1,1011
-1,24,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-16,12033,1,285
+1,24,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-16,12033,1,286
 6,18,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-02-16,12034,0,3011
 0,66,14,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-02-16,12035,129,1394
 5,148,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-02-16,12036,20,1148
@@ -12066,7 +12066,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,353,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-02-17,12065,10,217
 3,15,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-02-17,12066,3,1989
 18,146,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-02-17,12067,1,1011
-1,23,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-17,12068,0,285
+1,23,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-17,12068,0,286
 6,31,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-02-17,12069,0,3011
 0,37,15,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-02-17,12070,127,1394
 5,278,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-02-17,12071,17,1148
@@ -12101,7 +12101,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,646,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-02-18,12100,11,218
 3,1140,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-02-18,12101,2,1989
 18,31,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-02-18,12102,1,1011
-1,19,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-18,12103,0,285
+1,19,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-18,12103,0,286
 6,19,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-02-18,12104,0,3011
 0,26,15,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-02-18,12105,124,1394
 5,239,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-02-18,12106,15,1148
@@ -12136,7 +12136,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,146,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-02-19,12135,8,218
 3,44,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-02-19,12136,2,1989
 18,31,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-02-19,12137,1,1011
-1,11,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-19,12138,0,285
+1,11,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-19,12138,0,286
 6,44,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-02-19,12139,0,3011
 0,105,16,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-02-19,12140,153,1424
 5,15,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-02-19,12141,11,1148
@@ -12171,7 +12171,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,1,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-02-20,12170,8,218
 3,5,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-02-20,12171,2,1989
 18,4,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-02-20,12172,0,1011
-1,14,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-20,12173,0,285
+1,14,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-20,12173,0,286
 6,21,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-02-20,12174,0,3011
 0,32,16,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-02-20,12175,120,1424
 5,158,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-02-20,12176,11,1148
@@ -12206,7 +12206,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,2,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-02-21,12205,8,218
 3,2,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-02-21,12206,2,1989
 18,5,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-02-21,12207,0,1011
-1,57,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-21,12208,0,285
+1,57,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-21,12208,0,286
 6,22,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-02-21,12209,0,3011
 0,50,16,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-02-21,12210,95,1424
 5,12,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-02-21,12211,10,1148
@@ -12241,7 +12241,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,317,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-02-22,12240,8,218
 3,24,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-02-22,12241,2,1989
 18,46,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-02-22,12242,0,1011
-1,39,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-22,12243,0,285
+1,39,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-22,12243,0,286
 6,70,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-02-22,12244,0,3011
 0,624,17,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-02-22,12245,93,1425
 5,159,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-02-22,12246,10,1148
@@ -12276,7 +12276,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,720,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-02-23,12275,7,218
 3,1221,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-02-23,12276,2,1989
 18,95,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-02-23,12277,0,1011
-1,28,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-23,12278,0,285
+1,28,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-23,12278,0,286
 6,35,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-02-23,12279,0,3011
 0,189,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-02-23,12280,84,1426
 5,58,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-02-23,12281,9,1148
@@ -12311,7 +12311,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,20,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-02-24,12310,5,218
 3,13,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-02-24,12311,2,1989
 18,136,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-02-24,12312,0,1011
-1,72,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-24,12313,0,285
+1,72,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-24,12313,0,286
 6,45,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-02-24,12314,0,3011
 0,110,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-02-24,12315,82,1426
 5,139,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-02-24,12316,7,1148
@@ -12346,7 +12346,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,703,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-02-25,12345,5,218
 3,7,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-02-25,12346,1,1989
 18,39,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-02-25,12347,0,1011
-1,14,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-25,12348,0,285
+1,14,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-25,12348,0,286
 6,16,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-02-25,12349,0,3011
 0,23,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-02-25,12350,68,1426
 5,209,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-02-25,12351,2,1148
@@ -12381,7 +12381,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,5,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-02-26,12380,4,218
 3,10,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-02-26,12381,1,1989
 18,27,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-02-26,12382,0,1011
-1,16,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-26,12383,0,285
+1,16,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-26,12383,0,286
 2,4,6,High Desert State Prison (HDSP),-120.67685,,40.474950999999997,2021-02-28,12444,13,2032
 6,30,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-02-26,12384,0,3011
 0,59,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-02-26,12385,66,1427
@@ -12417,7 +12417,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,1,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-02-27,12415,4,218
 3,3,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-02-27,12416,1,1989
 18,2,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-02-27,12417,0,1011
-1,6,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-27,12418,0,285
+1,6,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-27,12418,0,286
 6,18,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-02-27,12419,0,3011
 0,4,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-02-27,12420,38,1427
 5,43,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-02-27,12421,2,1148
@@ -12451,7 +12451,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,3,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-02-28,12450,4,218
 3,4,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-02-28,12451,1,1989
 18,4,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-02-28,12452,0,1011
-1,7,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-28,12453,0,285
+1,7,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-02-28,12453,0,286
 6,21,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-02-28,12454,0,3011
 0,25,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-02-28,12455,38,1427
 5,5,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-02-28,12456,1,1148
@@ -12486,7 +12486,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,341,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-03-01,12485,5,219
 3,18,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-03-01,12486,1,1989
 18,54,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-03-01,12487,0,1011
-1,23,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-01,12488,1,286
+1,23,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-01,12488,1,287
 6,36,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-03-01,12489,0,3011
 0,598,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-03-01,12490,38,1427
 5,149,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-03-01,12491,1,1148
@@ -12521,7 +12521,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,707,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-03-02,12520,4,219
 3,16,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-03-02,12521,0,1989
 18,163,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-03-02,12522,0,1011
-1,950,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-02,12523,1,286
+1,950,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-02,12523,1,287
 6,28,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-03-02,12524,0,3011
 0,349,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-03-02,12525,38,1427
 5,109,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-03-02,12526,0,1148
@@ -12556,7 +12556,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,20,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-03-03,12555,4,219
 3,1833,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-03-03,12556,0,1989
 18,107,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-03-03,12557,0,1011
-1,37,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-03,12558,1,286
+1,37,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-03,12558,1,287
 6,30,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-03-03,12559,0,3011
 0,116,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-03-03,12560,34,1428
 5,167,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-03-03,12561,0,1148
@@ -12591,7 +12591,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,683,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-03-04,12590,2,219
 3,17,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-03-04,12591,0,1989
 18,42,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-03-04,12592,0,1011
-1,15,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-04,12593,1,286
+1,15,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-04,12593,1,287
 6,35,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-03-04,12594,0,3011
 0,18,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-03-04,12595,34,1428
 5,68,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-03-04,12596,0,1148
@@ -12626,7 +12626,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,21,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-03-05,12625,1,219
 3,20,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-03-05,12626,0,1989
 18,45,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-03-05,12627,0,1011
-1,17,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-05,12628,1,286
+1,17,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-05,12628,1,287
 6,28,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-03-05,12629,0,3011
 0,32,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-03-05,12630,34,1428
 5,144,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-03-05,12631,0,1148
@@ -12661,7 +12661,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,3,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-03-06,12660,1,219
 3,0,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-03-06,12661,0,1989
 18,7,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-03-06,12662,0,1011
-1,30,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-06,12663,1,286
+1,30,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-06,12663,1,287
 7,8,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-03-06,12664,0,3011
 0,31,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-03-06,12665,4,1428
 5,1,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-03-06,12666,0,1148
@@ -12696,7 +12696,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,2,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-03-07,12695,1,219
 3,1,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-03-07,12696,0,1989
 18,6,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-03-07,12697,0,1011
-1,12,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-07,12698,1,286
+1,12,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-07,12698,1,287
 7,13,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-03-07,12699,0,3011
 0,24,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-03-07,12700,4,1428
 5,2,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-03-07,12701,0,1148
@@ -12731,7 +12731,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,377,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-03-08,12730,1,219
 3,155,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-03-08,12731,0,1989
 18,50,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-03-08,12732,0,1011
-1,69,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-08,12733,1,286
+1,69,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-08,12733,1,287
 7,65,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-03-08,12734,0,3011
 0,157,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-03-08,12735,5,1429
 5,108,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-03-08,12736,0,1148
@@ -12766,7 +12766,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,662,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-03-09,12765,1,219
 3,18,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-03-09,12766,0,1989
 18,80,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-03-09,12767,0,1011
-1,8,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-09,12768,1,286
+1,8,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-09,12768,1,287
 7,58,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-03-09,12769,0,3011
 0,574,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-03-09,12770,4,1429
 5,221,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-03-09,12771,0,1148
@@ -12801,7 +12801,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,82,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-03-10,12800,1,219
 3,17,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-03-10,12801,0,1989
 18,143,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-03-10,12802,0,1011
-1,81,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-10,12803,1,286
+1,81,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-10,12803,1,287
 7,67,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-03-10,12804,0,3011
 0,245,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-03-10,12805,3,1429
 5,92,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-03-10,12806,0,1148
@@ -12836,7 +12836,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,675,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-03-11,12835,1,219
 3,313,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-03-11,12836,0,1989
 18,39,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-03-11,12837,0,1011
-1,11,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-11,12838,1,286
+1,11,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-11,12838,1,287
 7,25,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-03-11,12839,0,3011
 0,14,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-03-11,12840,3,1429
 5,153,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-03-11,12841,0,1148
@@ -12871,7 +12871,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,29,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-03-12,12870,1,219
 3,17,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-03-12,12871,0,1989
 18,28,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-03-12,12872,0,1011
-1,15,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-12,12873,1,286
+1,15,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-12,12873,1,287
 7,37,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-03-12,12874,0,3011
 0,53,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-03-12,12875,3,1429
 5,21,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-03-12,12876,0,1148
@@ -12906,7 +12906,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,2,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-03-13,12905,1,219
 3,3,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-03-13,12906,0,1989
 18,12,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-03-13,12907,0,1011
-1,5,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-13,12908,1,286
+1,5,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-13,12908,1,287
 7,12,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-03-13,12909,0,3011
 0,20,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-03-13,12910,2,1429
 5,1,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-03-13,12911,0,1148
@@ -12941,7 +12941,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,22,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-03-14,12940,1,219
 3,5,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-03-14,12941,0,1989
 18,4,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-03-14,12942,0,1011
-1,21,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-14,12943,1,286
+1,21,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-14,12943,1,287
 7,22,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-03-14,12944,0,3011
 0,26,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-03-14,12945,2,1429
 5,22,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-03-14,12946,0,1148
@@ -12976,7 +12976,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,374,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-03-15,12975,2,220
 3,147,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-03-15,12976,0,1989
 18,47,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-03-15,12977,0,1011
-1,87,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-15,12978,1,286
+1,87,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-15,12978,1,287
 7,78,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-03-15,12979,0,3011
 0,441,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-03-15,12980,2,1429
 5,135,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-03-15,12981,0,1148
@@ -13011,7 +13011,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,502,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-03-16,13010,1,220
 3,11,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-03-16,13011,0,1989
 18,148,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-03-16,13012,0,1011
-1,106,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-16,13013,0,286
+1,106,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-16,13013,0,287
 7,59,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-03-16,13014,0,3011
 0,623,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-03-16,13015,2,1429
 5,263,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-03-16,13016,1,1149
@@ -13046,7 +13046,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,22,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-03-17,13045,1,220
 3,403,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-03-17,13046,0,1989
 18,118,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-03-17,13047,0,1011
-1,51,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-17,13048,1,287
+1,51,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-17,13048,1,288
 7,72,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-03-17,13049,0,3011
 0,287,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-03-17,13050,2,1429
 5,151,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-03-17,13051,1,1149
@@ -13081,7 +13081,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,368,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-03-18,13080,1,220
 3,11,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-03-18,13081,0,1989
 18,32,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-03-18,13082,0,1011
-1,38,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-18,13083,1,287
+1,38,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-18,13083,1,288
 7,45,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-03-18,13084,0,3011
 0,71,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-03-18,13085,1,1429
 5,16,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-03-18,13086,1,1149
@@ -13116,7 +13116,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,16,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-03-19,13115,1,220
 3,13,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-03-19,13116,0,1989
 18,35,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-03-19,13117,0,1011
-1,31,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-19,13118,1,287
+1,31,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-19,13118,1,288
 7,49,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-03-19,13119,0,3011
 0,27,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-03-19,13120,1,1429
 5,73,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-03-19,13121,1,1149
@@ -13151,7 +13151,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,3,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-03-20,13150,1,220
 3,2,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-03-20,13151,0,1989
 18,11,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-03-20,13152,0,1011
-1,7,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-20,13153,1,287
+1,7,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-20,13153,1,288
 7,38,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-03-20,13154,0,3011
 0,8,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-03-20,13155,1,1429
 5,55,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-03-20,13156,1,1149
@@ -13186,7 +13186,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,19,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-03-21,13185,1,220
 3,2,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-03-21,13186,0,1989
 18,11,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-03-21,13187,0,1011
-1,10,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-21,13188,1,287
+1,10,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-21,13188,1,288
 7,30,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-03-21,13189,0,3011
 0,29,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-03-21,13190,1,1429
 5,1,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-03-21,13191,1,1149
@@ -13221,7 +13221,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,278,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-03-22,13220,1,220
 3,22,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-03-22,13221,0,1989
 18,52,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-03-22,13222,0,1011
-1,28,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-22,13223,2,288
+1,28,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-22,13223,2,289
 7,76,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-03-22,13224,0,3011
 0,730,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-03-22,13225,1,1429
 5,43,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-03-22,13226,1,1149
@@ -13256,7 +13256,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,424,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-03-23,13255,1,220
 3,23,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-03-23,13256,0,1989
 18,106,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-03-23,13257,0,1011
-1,81,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-23,13258,2,288
+1,81,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-23,13258,2,289
 7,63,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-03-23,13259,0,3011
 0,640,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-03-23,13260,0,1429
 5,171,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-03-23,13261,1,1149
@@ -13291,7 +13291,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,44,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-03-24,13290,1,220
 3,398,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-03-24,13291,0,1989
 18,174,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-03-24,13292,0,1011
-1,199,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-24,13293,2,288
+1,199,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-24,13293,2,289
 7,80,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-03-24,13294,0,3011
 0,311,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-03-24,13295,0,1429
 5,222,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-03-24,13296,1,1149
@@ -13326,7 +13326,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,396,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-03-25,13325,1,220
 3,9,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-03-25,13326,0,1989
 18,45,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-03-25,13327,0,1011
-1,456,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-25,13328,3,289
+1,456,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-25,13328,3,290
 7,43,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-03-25,13329,0,3011
 0,22,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-03-25,13330,0,1429
 5,125,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-03-25,13331,1,1149
@@ -13361,7 +13361,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,32,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-03-26,13360,1,220
 3,54,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-03-26,13361,0,1989
 18,36,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-03-26,13362,0,1011
-1,31,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-26,13363,3,289
+1,31,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-26,13363,3,290
 7,39,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-03-26,13364,0,3011
 0,14,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-03-26,13365,0,1429
 5,133,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-03-26,13366,2,1150
@@ -13396,7 +13396,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,4,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-03-27,13395,1,220
 3,90,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-03-27,13396,0,1989
 18,20,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-03-27,13397,0,1011
-1,32,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-27,13398,3,289
+1,32,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-27,13398,3,290
 7,37,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-03-27,13399,0,3011
 0,2,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-03-27,13400,0,1429
 5,71,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-03-27,13401,2,1150
@@ -13431,7 +13431,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,18,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-03-28,13430,1,220
 3,8,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-03-28,13431,0,1989
 18,12,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-03-28,13432,0,1011
-1,7,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-28,13433,3,289
+1,7,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-28,13433,3,290
 7,39,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-03-28,13434,0,3011
 0,9,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-03-28,13435,0,1429
 5,5,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-03-28,13436,2,1150
@@ -13466,7 +13466,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,329,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-03-29,13465,1,220
 3,26,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-03-29,13466,0,1989
 18,51,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-03-29,13467,0,1011
-1,52,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-29,13468,3,289
+1,52,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-29,13468,3,290
 7,64,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-03-29,13469,0,3011
 0,768,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-03-29,13470,0,1429
 5,23,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-03-29,13471,2,1150
@@ -13501,7 +13501,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,458,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-03-30,13500,0,220
 3,780,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-03-30,13501,0,1989
 18,173,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-03-30,13502,0,1011
-1,455,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-30,13503,4,290
+1,455,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-30,13503,4,291
 7,153,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-03-30,13504,0,3011
 0,674,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-03-30,13505,0,1429
 5,301,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-03-30,13506,2,1150
@@ -13537,7 +13537,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,23,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-03-31,13535,0,220
 3,23,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-03-31,13536,0,1989
 18,66,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-03-31,13537,0,1011
-1,21,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-31,13538,4,290
+1,21,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-03-31,13538,4,291
 7,49,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-03-31,13539,0,3011
 0,17,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-03-31,13540,0,1429
 5,224,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-03-31,13541,1,1150
@@ -13572,7 +13572,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,332,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-04-01,13570,0,220
 3,5,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-04-01,13571,0,1989
 18,53,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-04-01,13572,0,1011
-1,47,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-01,13573,3,290
+1,47,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-01,13573,3,291
 7,49,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-04-01,13574,0,3011
 0,55,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-04-01,13575,0,1429
 5,56,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-04-01,13576,1,1150
@@ -13606,7 +13606,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,55,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-04-02,13605,0,220
 3,27,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-04-02,13606,0,1989
 18,72,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-04-02,13607,0,1011
-1,125,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-02,13608,3,290
+1,125,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-02,13608,3,291
 7,41,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-04-02,13609,0,3011
 0,186,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-04-02,13610,0,1429
 5,82,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-04-02,13611,1,1150
@@ -13641,7 +13641,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,11,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-04-03,13640,0,220
 3,23,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-04-03,13641,1,1990
 18,15,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-04-03,13642,0,1011
-1,227,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-03,13643,3,290
+1,227,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-03,13643,3,291
 7,22,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-04-03,13644,0,3011
 0,34,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-04-03,13645,0,1429
 5,4,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-04-03,13646,1,1150
@@ -13676,7 +13676,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,17,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-04-04,13675,0,220
 3,3,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-04-04,13676,1,1990
 18,7,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-04-04,13677,0,1011
-1,2,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-04,13678,4,291
+1,2,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-04,13678,4,292
 7,36,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-04-04,13679,0,3011
 0,16,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-04-04,13680,0,1429
 5,5,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-04-04,13681,1,1150
@@ -13711,7 +13711,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,288,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-04-05,13710,0,220
 3,15,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-04-05,13711,1,1990
 18,80,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-04-05,13712,0,1011
-1,43,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-05,13713,4,291
+1,43,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-05,13713,4,292
 7,87,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-04-05,13714,0,3011
 0,44,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-04-05,13715,0,1429
 5,91,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-04-05,13716,1,1150
@@ -13746,7 +13746,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,470,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-04-06,13745,0,220
 3,863,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-04-06,13746,1,1990
 18,96,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-04-06,13747,0,1011
-1,34,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-06,13748,3,291
+1,34,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-06,13748,3,292
 7,129,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-04-06,13749,0,3011
 0,115,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-04-06,13750,0,1429
 6,177,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-04-06,13751,1,1150
@@ -13781,7 +13781,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,28,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-04-07,13780,0,220
 3,31,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-04-07,13781,1,1990
 18,64,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-04-07,13782,0,1011
-1,204,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-07,13783,3,291
+1,204,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-07,13783,3,292
 7,118,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-04-07,13784,0,3011
 0,87,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-04-07,13785,0,1429
 6,78,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-04-07,13786,1,1150
@@ -13816,7 +13816,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,396,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-04-08,13815,0,220
 3,88,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-04-08,13816,1,1990
 18,54,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-04-08,13817,0,1011
-1,49,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-08,13818,3,291
+1,49,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-08,13818,3,292
 7,134,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-04-08,13819,0,3011
 0,48,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-04-08,13820,0,1429
 6,79,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-04-08,13821,1,1150
@@ -13851,7 +13851,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,32,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-04-09,13850,0,220
 3,9,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-04-09,13851,1,1990
 18,169,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-04-09,13852,0,1011
-1,439,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-09,13853,2,291
+1,439,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-09,13853,2,292
 7,32,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-04-09,13854,0,3011
 0,72,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-04-09,13855,0,1429
 6,98,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-04-09,13856,1,1150
@@ -13887,7 +13887,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,14,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-04-10,13885,0,220
 3,20,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-04-10,13886,1,1990
 18,3,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-04-10,13887,0,1011
-1,84,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-10,13888,2,291
+1,84,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-10,13888,2,292
 7,56,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-04-10,13889,0,3011
 0,11,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-04-10,13890,0,1429
 6,1,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-04-10,13891,0,1150
@@ -13922,7 +13922,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,4,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-04-11,13920,0,220
 3,18,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-04-11,13921,1,1990
 18,13,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-04-11,13922,0,1011
-1,7,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-11,13923,2,291
+1,7,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-11,13923,2,292
 7,43,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-04-11,13924,0,3011
 0,33,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-04-11,13925,0,1429
 6,13,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-04-11,13926,0,1150
@@ -13956,7 +13956,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,261,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-04-12,13955,0,220
 3,57,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-04-12,13956,1,1990
 18,65,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-04-12,13957,0,1011
-1,65,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-12,13958,2,291
+1,65,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-12,13958,2,292
 7,67,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-04-12,13959,0,3011
 0,40,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-04-12,13960,0,1429
 6,87,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-04-12,13961,0,1150
@@ -13991,7 +13991,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,405,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-04-13,13990,1,221
 3,459,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-04-13,13991,1,1990
 18,104,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-04-13,13992,0,1011
-1,164,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-13,13993,2,291
+1,164,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-13,13993,2,292
 7,142,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-04-13,13994,0,3011
 0,132,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-04-13,13995,0,1429
 6,137,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-04-13,13996,0,1150
@@ -14026,7 +14026,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,346,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-04-14,14025,1,221
 3,43,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-04-14,14026,1,1990
 18,136,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-04-14,14027,0,1011
-1,120,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-14,14028,1,291
+1,120,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-14,14028,1,292
 7,84,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-04-14,14029,0,3011
 0,128,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-04-14,14030,0,1429
 6,151,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-04-14,14031,0,1150
@@ -14061,7 +14061,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,80,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-04-15,14060,1,221
 3,172,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-04-15,14061,1,1990
 18,53,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-04-15,14062,0,1011
-1,395,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-15,14063,1,291
+1,395,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-15,14063,1,292
 7,203,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-04-15,14064,0,3011
 0,78,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-04-15,14065,0,1429
 6,80,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-04-15,14066,0,1150
@@ -14096,7 +14096,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,54,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-04-16,14095,1,221
 3,13,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-04-16,14096,1,1990
 18,144,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-04-16,14097,0,1011
-1,342,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-16,14098,1,291
+1,342,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-16,14098,1,292
 7,24,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-04-16,14099,0,3011
 0,112,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-04-16,14100,0,1429
 6,127,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-04-16,14101,0,1150
@@ -14131,7 +14131,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,44,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-04-17,14130,1,221
 3,43,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-04-17,14131,1,1990
 18,10,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-04-17,14132,0,1011
-1,7,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-17,14133,1,291
+1,7,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-17,14133,1,292
 7,73,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-04-17,14134,0,3011
 0,48,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-04-17,14135,0,1429
 6,14,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-04-17,14136,0,1150
@@ -14166,7 +14166,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,9,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-04-18,14165,1,221
 3,44,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-04-18,14166,0,1990
 18,9,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-04-18,14167,0,1011
-1,25,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-18,14168,1,291
+1,25,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-18,14168,1,292
 7,53,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-04-18,14169,0,3011
 0,23,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-04-18,14170,0,1429
 6,8,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-04-18,14171,0,1150
@@ -14201,7 +14201,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,290,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-04-19,14200,1,221
 3,52,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-04-19,14201,0,1990
 18,66,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-04-19,14202,0,1011
-1,23,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-19,14203,0,291
+1,23,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-19,14203,0,292
 7,73,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-04-19,14204,0,3011
 0,63,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-04-19,14205,0,1429
 6,90,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-04-19,14206,0,1150
@@ -14236,7 +14236,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,460,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-04-20,14235,1,221
 3,524,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-04-20,14236,0,1990
 18,583,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-04-20,14237,0,1011
-1,513,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-20,14238,0,291
+1,513,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-20,14238,0,292
 7,180,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-04-20,14239,0,3011
 0,47,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-04-20,14240,0,1429
 6,147,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-04-20,14241,0,1150
@@ -14271,7 +14271,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,286,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-04-21,14270,1,221
 3,23,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-04-21,14271,0,1990
 18,352,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-04-21,14272,0,1011
-1,40,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-21,14273,0,291
+1,40,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-21,14273,0,292
 7,78,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-04-21,14274,0,3011
 0,168,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-04-21,14275,0,1429
 6,160,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-04-21,14276,0,1150
@@ -14306,7 +14306,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,395,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-04-22,14305,1,221
 3,175,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-04-22,14306,0,1990
 18,198,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-04-22,14307,0,1011
-1,33,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-22,14308,0,291
+1,33,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-22,14308,0,292
 7,198,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-04-22,14309,0,3011
 0,29,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-04-22,14310,0,1429
 6,55,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-04-22,14311,0,1150
@@ -14341,7 +14341,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,106,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-04-23,14340,1,221
 3,54,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-04-23,14341,0,1990
 18,536,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-04-23,14342,0,1011
-1,306,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-23,14343,0,291
+1,306,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-23,14343,0,292
 7,70,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-04-23,14344,0,3011
 0,164,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-04-23,14345,1,1430
 6,166,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-04-23,14346,0,1150
@@ -14376,7 +14376,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,11,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-04-24,14375,1,221
 3,13,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-04-24,14376,0,1990
 18,11,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-04-24,14377,0,1011
-1,20,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-24,14378,0,291
+1,20,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-24,14378,0,292
 7,35,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-04-24,14379,0,3011
 0,53,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-04-24,14380,1,1430
 6,52,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-04-24,14381,0,1150
@@ -14411,7 +14411,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,7,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-04-25,14410,1,221
 3,31,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-04-25,14411,0,1990
 18,12,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-04-25,14412,0,1011
-1,478,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-25,14413,0,291
+1,478,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-25,14413,0,292
 7,79,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-04-25,14414,0,3011
 0,10,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-04-25,14415,1,1430
 6,9,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-04-25,14416,0,1150
@@ -14446,11 +14446,11 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,316,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-04-26,14445,1,221
 3,49,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-04-26,14446,0,1990
 18,689,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-04-26,14447,0,1011
-1,35,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-26,14448,0,291
+1,35,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-26,14448,0,292
 7,59,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-04-26,14449,0,3011
 0,92,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-04-26,14450,1,1430
 6,55,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-04-26,14451,0,1150
-28,36,44,San Quentin State Prison (SQ),-122.49029,,37.943365,2021-04-26,14452,0,2241
+28,37,44,San Quentin State Prison (SQ),-122.49029,,37.943365,2021-04-26,14452,0,2241
 5,60,6,Salinas Valley State Prison (SVSP),-121.42556999999999,,36.518179000000003,2021-04-26,14453,0,679
 2,351,15,Valley State Prison (VSP),-120.50574,,37.127524999999999,2021-04-26,14454,0,1730
 1,348,43,Wasco State Prison (WSP),-119.37143,,35.605044999999997,2021-04-26,14455,2,1763
@@ -14482,7 +14482,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 3,548,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-04-27,14481,0,1990
 1,149,1,Central California Women's Facility (CCWF),-120.27864,,37.100417,2021-05-01,14601,1,809
 18,230,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-04-27,14482,0,1011
-1,39,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-27,14483,0,291
+1,39,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-27,14483,0,292
 7,178,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-04-27,14484,0,3011
 0,132,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-04-27,14485,1,1430
 6,199,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-04-27,14486,0,1150
@@ -14517,7 +14517,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,375,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-04-28,14515,0,221
 3,33,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-04-28,14516,0,1990
 18,105,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-04-28,14517,0,1011
-1,408,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-28,14518,1,292
+1,408,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-28,14518,1,293
 7,74,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-04-28,14519,0,3011
 0,186,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-04-28,14520,1,1430
 6,149,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-04-28,14521,0,1150
@@ -14552,7 +14552,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,58,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-04-29,14550,0,221
 3,175,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-04-29,14551,0,1990
 18,51,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-04-29,14552,0,1011
-1,49,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-29,14553,1,292
+1,49,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-29,14553,1,293
 7,244,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-04-29,14554,0,3011
 0,112,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-04-29,14555,1,1430
 6,97,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-04-29,14556,0,1150
@@ -14587,7 +14587,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,51,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-04-30,14585,0,221
 3,46,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-04-30,14586,0,1990
 18,95,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-04-30,14587,0,1011
-1,153,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-30,14588,1,292
+1,153,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-04-30,14588,1,293
 7,46,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-04-30,14589,0,3011
 0,120,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-04-30,14590,1,1430
 6,195,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-04-30,14591,0,1150
@@ -14621,7 +14621,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,34,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-05-01,14620,0,221
 3,39,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-05-01,14621,0,1990
 18,8,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-05-01,14622,0,1011
-1,11,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-05-01,14623,1,292
+1,11,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-05-01,14623,1,293
 7,52,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-05-01,14624,0,3011
 0,179,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-05-01,14625,1,1430
 6,32,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-05-01,14626,0,1150
@@ -14656,7 +14656,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,40,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-05-02,14655,0,221
 3,52,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-05-02,14656,0,1990
 18,6,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-05-02,14657,0,1011
-1,7,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-05-02,14658,1,292
+1,7,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-05-02,14658,1,293
 7,61,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-05-02,14659,0,3011
 0,52,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-05-02,14660,1,1430
 6,18,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-05-02,14661,0,1150
@@ -14691,7 +14691,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,107,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-05-03,14690,0,221
 3,23,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-05-03,14691,0,1990
 18,110,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-05-03,14692,0,1011
-1,42,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-05-03,14693,1,292
+1,42,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-05-03,14693,1,293
 7,68,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-05-03,14694,0,3011
 0,183,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-05-03,14695,1,1430
 6,59,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-05-03,14696,0,1150
@@ -14726,7 +14726,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,375,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-05-04,14725,0,221
 3,530,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-05-04,14726,0,1990
 18,116,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-05-04,14727,0,1011
-1,59,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-05-04,14728,2,293
+1,59,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-05-04,14728,2,294
 7,225,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-05-04,14729,0,3011
 0,141,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-05-04,14730,1,1430
 6,92,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-05-04,14731,0,1150
@@ -14742,7 +14742,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 1,452,1,Central California Women's Facility (CCWF),-120.27864,,37.100417,2021-05-05,14741,1,809
 1,214,7,California State Prison-Centinela (CEN),-115.58942,,32.853470999999999,2021-05-05,14742,0,864
 14,215,3,California Health Care Facility (CHCF),-121.19064,,37.955474000000002,2021-05-05,14743,1,622
-27,595,32,California Institution for Men (CIM),-117.68737,,34.015962999999999,2021-05-05,14744,0,1499
+27,596,32,California Institution for Men (CIM),-117.68737,,34.015962999999999,2021-05-05,14744,0,1499
 1,178,10,California Institution for Women (CIW),-117.60221,,33.903803000000003,2021-05-05,14745,0,489
 10,355,23,California Men's Colony (CMC),-120.636399,,35.221085000000002,2021-05-05,14746,0,2470
 11,136,3,California Medical Facility (CMF),-121.90832399999999,,38.348959999999998,2021-05-05,14747,0,710
@@ -14761,7 +14761,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,167,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-05-05,14760,0,221
 3,57,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-05-05,14761,0,1990
 18,119,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-05-05,14762,0,1011
-1,298,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-05-05,14763,2,293
+1,298,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-05-05,14763,2,294
 7,96,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-05-05,14764,0,3011
 0,134,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-05-05,14765,1,1430
 6,145,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-05-05,14766,0,1150
@@ -14788,7 +14788,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,95,5,Deuel Vocational Institution (DVI),-121.42399,,37.728417,2021-05-06,14787,0,543
 2,127,12,Folsom State Prison (FSP),-121.15783,,38.672127000000003,2021-05-06,14788,0,1369
 2,67,6,High Desert State Prison (HDSP),-120.67685,,40.474950999999997,2021-05-06,14789,0,2032
-1,308,11,Ironwood State Prison (ISP),-114.652517,,33.598689999999998,2021-05-06,14790,0,1568
+1,309,11,Ironwood State Prison (ISP),-114.652517,,33.598689999999998,2021-05-06,14790,0,1568
 6,106,7,Kern Valley State Prison (KVSP),-119.26984,,35.771875999999999,2021-05-06,14791,0,895
 13,130,10,California State Prison-Los Angeles County (LAC),-118.32683,,34.728856999999998,2021-05-06,14792,0,1511
 9,173,2,Mule Creek State Prison (MCSP),-120.94516,,38.346131999999997,2021-05-06,14793,1,1847
@@ -14796,7 +14796,7 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,220,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-05-06,14795,0,221
 3,222,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-05-06,14796,0,1990
 18,52,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-05-06,14797,0,1011
-1,43,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-05-06,14798,2,293
+1,43,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-05-06,14798,2,294
 7,156,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-05-06,14799,0,3011
 0,122,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-05-06,14800,1,1430
 6,74,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-05-06,14801,0,1150
@@ -14811,12 +14811,12 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 4,83,63,California Correctional Institution (CCI),-118.50781000000001,,35.132672999999997,2021-05-07,14810,0,1384
 1,78,1,Central California Women's Facility (CCWF),-120.27864,,37.100417,2021-05-07,14811,1,809
 1,105,7,California State Prison-Centinela (CEN),-115.58942,,32.853470999999999,2021-05-07,14812,0,864
-14,70,3,California Health Care Facility (CHCF),-121.19064,,37.955474000000002,2021-05-07,14813,1,622
+14,72,3,California Health Care Facility (CHCF),-121.19064,,37.955474000000002,2021-05-07,14813,1,622
 27,114,32,California Institution for Men (CIM),-117.68737,,34.015962999999999,2021-05-07,14814,0,1499
 1,47,10,California Institution for Women (CIW),-117.60221,,33.903803000000003,2021-05-07,14815,0,489
 10,75,23,California Men's Colony (CMC),-120.636399,,35.221085000000002,2021-05-07,14816,0,2470
 11,120,3,California Medical Facility (CMF),-121.90832399999999,,38.348959999999998,2021-05-07,14817,0,710
-4,83,5,California State Prison-Corcoran (COR),-119.5548,,36.085341999999997,2021-05-07,14818,1,1076
+4,83,5,California State Prison-Corcoran (COR),-119.5548,,36.085341999999997,2021-05-07,14818,0,1075
 1,194,58,California Rehabilitation Center (CRC),-117.55978,,33.925885000000001,2021-05-07,14819,0,1993
 19,165,29,Correctional Training Facility (CTF),-121.32617,,36.411760000000001,2021-05-07,14820,2,2721
 9,51,20,Chuckawalla Valley State Prison (CVSP),-114.61905,,33.628332999999998,2021-05-07,14821,0,1784
@@ -14831,13 +14831,13 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 0,55,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-05-07,14830,0,221
 3,28,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-05-07,14831,0,1990
 18,62,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-05-07,14832,0,1011
-1,95,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-05-07,14833,2,293
+1,95,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-05-07,14833,2,294
 7,54,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-05-07,14834,0,3011
 0,165,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-05-07,14835,2,1431
 6,174,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-05-07,14836,0,1150
 28,141,44,San Quentin State Prison (SQ),-122.49029,,37.943365,2021-05-07,14837,1,2242
 5,65,6,Salinas Valley State Prison (SVSP),-121.42556999999999,,36.518179000000003,2021-05-07,14838,0,679
-2,23,15,Valley State Prison (VSP),-120.50574,,37.127524999999999,2021-05-07,14839,0,1730
+2,24,15,Valley State Prison (VSP),-120.50574,,37.127524999999999,2021-05-07,14839,0,1730
 1,187,43,Wasco State Prison (WSP),-119.37143,,35.605044999999997,2021-05-07,14840,2,1765
 8,0,68,Avenal State Prison (ASP),-120.10057,,35.930765999999998,2021-05-08,14841,0,3107
 2,2,9,California City Correctional Facility (CAC),-117.91473000000001,,35.139327000000002,2021-05-08,14842,0,999
@@ -14851,9 +14851,9 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 1,15,10,California Institution for Women (CIW),-117.60221,,33.903803000000003,2021-05-08,14850,0,489
 10,1,23,California Men's Colony (CMC),-120.636399,,35.221085000000002,2021-05-08,14851,0,2470
 11,6,3,California Medical Facility (CMF),-121.90832399999999,,38.348959999999998,2021-05-08,14852,0,710
-4,33,5,California State Prison-Corcoran (COR),-119.5548,,36.085341999999997,2021-05-08,14853,1,1076
+4,33,5,California State Prison-Corcoran (COR),-119.5548,,36.085341999999997,2021-05-08,14853,0,1075
 1,7,58,California Rehabilitation Center (CRC),-117.55978,,33.925885000000001,2021-05-08,14854,0,1993
-19,35,29,Correctional Training Facility (CTF),-121.32617,,36.411760000000001,2021-05-08,14855,2,2721
+19,36,29,Correctional Training Facility (CTF),-121.32617,,36.411760000000001,2021-05-08,14855,2,2721
 9,2,20,Chuckawalla Valley State Prison (CVSP),-114.61905,,33.628332999999998,2021-05-08,14856,0,1784
 0,4,5,Deuel Vocational Institution (DVI),-121.42399,,37.728417,2021-05-08,14857,0,543
 2,1,12,Folsom State Prison (FSP),-121.15783,,38.672127000000003,2021-05-08,14858,0,1369
@@ -14864,9 +14864,9 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 9,35,2,Mule Creek State Prison (MCSP),-120.94516,,38.346131999999997,2021-05-08,14863,0,1847
 4,68,10,North Kern State Prison (NKSP),-119.23371,,35.774966999999997,2021-05-08,14864,2,924
 0,36,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-05-08,14865,0,221
-3,28,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-05-08,14866,0,1990
+3,31,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-05-08,14866,0,1990
 18,9,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-05-08,14867,0,1011
-1,8,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-05-08,14868,2,293
+1,8,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-05-08,14868,2,294
 7,67,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-05-08,14869,0,3011
 0,95,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-05-08,14870,1,1431
 6,13,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-05-08,14871,0,1150
@@ -14881,12 +14881,12 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 4,18,63,California Correctional Institution (CCI),-118.50781000000001,,35.132672999999997,2021-05-09,14880,0,1384
 1,62,1,Central California Women's Facility (CCWF),-120.27864,,37.100417,2021-05-09,14881,1,809
 1,18,7,California State Prison-Centinela (CEN),-115.58942,,32.853470999999999,2021-05-09,14882,0,864
-14,15,3,California Health Care Facility (CHCF),-121.19064,,37.955474000000002,2021-05-09,14883,1,622
-27,45,32,California Institution for Men (CIM),-117.68737,,34.015962999999999,2021-05-09,14884,0,1499
+14,16,3,California Health Care Facility (CHCF),-121.19064,,37.955474000000002,2021-05-09,14883,1,622
+27,47,32,California Institution for Men (CIM),-117.68737,,34.015962999999999,2021-05-09,14884,0,1499
 1,13,10,California Institution for Women (CIW),-117.60221,,33.903803000000003,2021-05-09,14885,0,489
 10,8,23,California Men's Colony (CMC),-120.636399,,35.221085000000002,2021-05-09,14886,0,2470
 11,13,3,California Medical Facility (CMF),-121.90832399999999,,38.348959999999998,2021-05-09,14887,0,710
-4,23,5,California State Prison-Corcoran (COR),-119.5548,,36.085341999999997,2021-05-09,14888,1,1076
+4,23,5,California State Prison-Corcoran (COR),-119.5548,,36.085341999999997,2021-05-09,14888,0,1075
 1,10,58,California Rehabilitation Center (CRC),-117.55978,,33.925885000000001,2021-05-09,14889,0,1993
 19,16,29,Correctional Training Facility (CTF),-121.32617,,36.411760000000001,2021-05-09,14890,2,2721
 9,4,20,Chuckawalla Valley State Prison (CVSP),-114.61905,,33.628332999999998,2021-05-09,14891,0,1784
@@ -14899,118 +14899,153 @@ TotalDeaths,DistinctPatientsTested,TotalReleasedWhileActive,InstitutionName,Long
 9,33,2,Mule Creek State Prison (MCSP),-120.94516,,38.346131999999997,2021-05-09,14898,0,1847
 4,132,10,North Kern State Prison (NKSP),-119.23371,,35.774966999999997,2021-05-09,14899,2,924
 0,16,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-05-09,14900,0,221
-3,81,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-05-09,14901,0,1990
+3,86,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-05-09,14901,0,1990
 18,10,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-05-09,14902,0,1011
-1,25,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-05-09,14903,2,293
+1,27,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-05-09,14903,2,294
 7,64,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-05-09,14904,0,3011
 0,87,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-05-09,14905,1,1431
 6,22,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-05-09,14906,0,1150
 28,1,44,San Quentin State Prison (SQ),-122.49029,,37.943365,2021-05-09,14907,1,2242
 5,21,6,Salinas Valley State Prison (SVSP),-121.42556999999999,,36.518179000000003,2021-05-09,14908,0,679
-2,204,15,Valley State Prison (VSP),-120.50574,,37.127524999999999,2021-05-09,14909,0,1730
+2,208,15,Valley State Prison (VSP),-120.50574,,37.127524999999999,2021-05-09,14909,0,1730
 1,82,43,Wasco State Prison (WSP),-119.37143,,35.605044999999997,2021-05-09,14910,2,1765
-8,142,68,Avenal State Prison (ASP),-120.10057,,35.930765999999998,2021-05-10,14911,0,3107
+8,143,68,Avenal State Prison (ASP),-120.10057,,35.930765999999998,2021-05-10,14911,0,3107
 2,58,9,California City Correctional Facility (CAC),-117.91473000000001,,35.139327000000002,2021-05-10,14912,0,999
-2,234,10,Calipatria State Prison (CAL),-115.51208,,33.131763999999997,2021-05-10,14913,0,1123
+2,244,10,Calipatria State Prison (CAL),-115.51208,,33.131763999999997,2021-05-10,14913,0,1123
 0,110,33,California Correctional Center (CCC),-120.664132,,40.446063000000002,2021-05-10,14914,0,1365
-4,93,63,California Correctional Institution (CCI),-118.50781000000001,,35.132672999999997,2021-05-10,14915,0,1384
-1,113,1,Central California Women's Facility (CCWF),-120.27864,,37.100417,2021-05-10,14916,0,809
-1,244,7,California State Prison-Centinela (CEN),-115.58942,,32.853470999999999,2021-05-10,14917,0,864
-14,88,3,California Health Care Facility (CHCF),-121.19064,,37.955474000000002,2021-05-10,14918,2,623
-27,61,32,California Institution for Men (CIM),-117.68737,,34.015962999999999,2021-05-10,14919,0,1499
-1,38,10,California Institution for Women (CIW),-117.60221,,33.903803000000003,2021-05-10,14920,1,490
-10,91,23,California Men's Colony (CMC),-120.636399,,35.221085000000002,2021-05-10,14921,0,2470
-11,66,3,California Medical Facility (CMF),-121.90832399999999,,38.348959999999998,2021-05-10,14922,0,710
-4,63,5,California State Prison-Corcoran (COR),-119.5548,,36.085341999999997,2021-05-10,14923,1,1076
-1,139,58,California Rehabilitation Center (CRC),-117.55978,,33.925885000000001,2021-05-10,14924,0,1993
-19,58,29,Correctional Training Facility (CTF),-121.32617,,36.411760000000001,2021-05-10,14925,2,2721
+4,96,63,California Correctional Institution (CCI),-118.50781000000001,,35.132672999999997,2021-05-10,14915,0,1384
+1,126,1,Central California Women's Facility (CCWF),-120.27864,,37.100417,2021-05-10,14916,0,809
+1,250,7,California State Prison-Centinela (CEN),-115.58942,,32.853470999999999,2021-05-10,14917,0,864
+14,118,3,California Health Care Facility (CHCF),-121.19064,,37.955474000000002,2021-05-10,14918,3,624
+27,91,32,California Institution for Men (CIM),-117.68737,,34.015962999999999,2021-05-10,14919,0,1499
+1,38,10,California Institution for Women (CIW),-117.60221,,33.903803000000003,2021-05-10,14920,0,489
+10,94,23,California Men's Colony (CMC),-120.636399,,35.221085000000002,2021-05-10,14921,0,2470
+11,69,3,California Medical Facility (CMF),-121.90832399999999,,38.348959999999998,2021-05-10,14922,0,710
+4,66,5,California State Prison-Corcoran (COR),-119.5548,,36.085341999999997,2021-05-10,14923,0,1075
+1,150,58,California Rehabilitation Center (CRC),-117.55978,,33.925885000000001,2021-05-10,14924,0,1993
+19,85,29,Correctional Training Facility (CTF),-121.32617,,36.411760000000001,2021-05-10,14925,2,2721
 9,81,20,Chuckawalla Valley State Prison (CVSP),-114.61905,,33.628332999999998,2021-05-10,14926,0,1784
 0,27,5,Deuel Vocational Institution (DVI),-121.42399,,37.728417,2021-05-10,14927,1,544
-2,75,12,Folsom State Prison (FSP),-121.15783,,38.672127000000003,2021-05-10,14928,0,1369
-2,78,6,High Desert State Prison (HDSP),-120.67685,,40.474950999999997,2021-05-10,14929,0,2032
+2,77,12,Folsom State Prison (FSP),-121.15783,,38.672127000000003,2021-05-10,14928,0,1369
+2,187,6,High Desert State Prison (HDSP),-120.67685,,40.474950999999997,2021-05-10,14929,0,2032
 1,49,11,Ironwood State Prison (ISP),-114.652517,,33.598689999999998,2021-05-10,14930,0,1568
-6,36,7,Kern Valley State Prison (KVSP),-119.26984,,35.771875999999999,2021-05-10,14931,0,895
+6,40,7,Kern Valley State Prison (KVSP),-119.26984,,35.771875999999999,2021-05-10,14931,0,895
 13,57,10,California State Prison-Los Angeles County (LAC),-118.32683,,34.728856999999998,2021-05-10,14932,0,1511
-9,55,2,Mule Creek State Prison (MCSP),-120.94516,,38.346131999999997,2021-05-10,14933,0,1847
+9,58,2,Mule Creek State Prison (MCSP),-120.94516,,38.346131999999997,2021-05-10,14933,0,1847
 4,658,10,North Kern State Prison (NKSP),-119.23371,,35.774966999999997,2021-05-10,14934,2,924
-0,39,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-05-10,14935,0,221
-3,27,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-05-10,14936,0,1990
-18,54,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-05-10,14937,0,1011
-1,49,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-05-10,14938,3,294
+0,133,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-05-10,14935,0,221
+3,29,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-05-10,14936,0,1990
+18,56,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-05-10,14937,0,1011
+1,96,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-05-10,14938,3,295
 7,138,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-05-10,14939,0,3011
-0,86,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-05-10,14940,1,1431
-6,95,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-05-10,14941,0,1150
+0,88,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-05-10,14940,1,1431
+6,119,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-05-10,14941,0,1150
 28,19,44,San Quentin State Prison (SQ),-122.49029,,37.943365,2021-05-10,14942,1,2242
-5,55,6,Salinas Valley State Prison (SVSP),-121.42556999999999,,36.518179000000003,2021-05-10,14943,0,679
-2,14,15,Valley State Prison (VSP),-120.50574,,37.127524999999999,2021-05-10,14944,0,1730
-1,594,43,Wasco State Prison (WSP),-119.37143,,35.605044999999997,2021-05-10,14945,5,1768
-8,20,68,Avenal State Prison (ASP),-120.10057,,35.930765999999998,2021-05-11,14946,0,3107
-2,15,9,California City Correctional Facility (CAC),-117.91473000000001,,35.139327000000002,2021-05-11,14947,0,999
-2,22,10,Calipatria State Prison (CAL),-115.51208,,33.131763999999997,2021-05-11,14948,0,1123
-0,27,33,California Correctional Center (CCC),-120.664132,,40.446063000000002,2021-05-11,14949,0,1365
-4,33,63,California Correctional Institution (CCI),-118.50781000000001,,35.132672999999997,2021-05-11,14950,0,1384
-1,38,1,Central California Women's Facility (CCWF),-120.27864,,37.100417,2021-05-11,14951,0,809
-1,17,7,California State Prison-Centinela (CEN),-115.58942,,32.853470999999999,2021-05-11,14952,0,864
-14,26,3,California Health Care Facility (CHCF),-121.19064,,37.955474000000002,2021-05-11,14953,2,623
-27,31,32,California Institution for Men (CIM),-117.68737,,34.015962999999999,2021-05-11,14954,0,1499
-1,18,10,California Institution for Women (CIW),-117.60221,,33.903803000000003,2021-05-11,14955,1,490
-10,40,23,California Men's Colony (CMC),-120.636399,,35.221085000000002,2021-05-11,14956,0,2470
-11,59,3,California Medical Facility (CMF),-121.90832399999999,,38.348959999999998,2021-05-11,14957,0,710
-4,37,5,California State Prison-Corcoran (COR),-119.5548,,36.085341999999997,2021-05-11,14958,1,1076
-1,26,58,California Rehabilitation Center (CRC),-117.55978,,33.925885000000001,2021-05-11,14959,0,1993
-19,28,29,Correctional Training Facility (CTF),-121.32617,,36.411760000000001,2021-05-11,14960,2,2721
-9,12,20,Chuckawalla Valley State Prison (CVSP),-114.61905,,33.628332999999998,2021-05-11,14961,0,1784
-0,12,5,Deuel Vocational Institution (DVI),-121.42399,,37.728417,2021-05-11,14962,1,544
-2,47,12,Folsom State Prison (FSP),-121.15783,,38.672127000000003,2021-05-11,14963,0,1369
-2,27,6,High Desert State Prison (HDSP),-120.67685,,40.474950999999997,2021-05-11,14964,0,2032
-1,20,11,Ironwood State Prison (ISP),-114.652517,,33.598689999999998,2021-05-11,14965,0,1568
-6,75,7,Kern Valley State Prison (KVSP),-119.26984,,35.771875999999999,2021-05-11,14966,0,895
-13,40,10,California State Prison-Los Angeles County (LAC),-118.32683,,34.728856999999998,2021-05-11,14967,0,1511
-9,40,2,Mule Creek State Prison (MCSP),-120.94516,,38.346131999999997,2021-05-11,14968,0,1847
-4,90,10,North Kern State Prison (NKSP),-119.23371,,35.774966999999997,2021-05-11,14969,2,924
-0,22,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-05-11,14970,0,221
-3,27,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-05-11,14971,0,1990
-18,32,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-05-11,14972,0,1011
-1,21,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-05-11,14973,4,295
-7,55,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-05-11,14974,0,3011
-0,32,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-05-11,14975,1,1431
-6,14,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-05-11,14976,0,1150
-28,20,44,San Quentin State Prison (SQ),-122.49029,,37.943365,2021-05-11,14977,1,2242
-5,53,6,Salinas Valley State Prison (SVSP),-121.42556999999999,,36.518179000000003,2021-05-11,14978,0,679
+5,56,6,Salinas Valley State Prison (SVSP),-121.42556999999999,,36.518179000000003,2021-05-10,14943,0,679
+2,54,15,Valley State Prison (VSP),-120.50574,,37.127524999999999,2021-05-10,14944,0,1730
+1,604,43,Wasco State Prison (WSP),-119.37143,,35.605044999999997,2021-05-10,14945,5,1768
+8,46,68,Avenal State Prison (ASP),-120.10057,,35.930765999999998,2021-05-11,14946,0,3107
+2,163,9,California City Correctional Facility (CAC),-117.91473000000001,,35.139327000000002,2021-05-11,14947,0,999
+2,148,10,Calipatria State Prison (CAL),-115.51208,,33.131763999999997,2021-05-11,14948,0,1123
+0,171,33,California Correctional Center (CCC),-120.664132,,40.446063000000002,2021-05-11,14949,0,1365
+4,84,63,California Correctional Institution (CCI),-118.50781000000001,,35.132672999999997,2021-05-11,14950,0,1384
+1,173,1,Central California Women's Facility (CCWF),-120.27864,,37.100417,2021-05-11,14951,0,809
+1,155,7,California State Prison-Centinela (CEN),-115.58942,,32.853470999999999,2021-05-11,14952,0,864
+14,219,3,California Health Care Facility (CHCF),-121.19064,,37.955474000000002,2021-05-11,14953,3,624
+27,106,32,California Institution for Men (CIM),-117.68737,,34.015962999999999,2021-05-11,14954,0,1499
+1,22,10,California Institution for Women (CIW),-117.60221,,33.903803000000003,2021-05-11,14955,0,489
+10,547,23,California Men's Colony (CMC),-120.636399,,35.221085000000002,2021-05-11,14956,0,2470
+11,93,3,California Medical Facility (CMF),-121.90832399999999,,38.348959999999998,2021-05-11,14957,0,710
+4,76,5,California State Prison-Corcoran (COR),-119.5548,,36.085341999999997,2021-05-11,14958,0,1075
+1,149,58,California Rehabilitation Center (CRC),-117.55978,,33.925885000000001,2021-05-11,14959,0,1993
+19,72,29,Correctional Training Facility (CTF),-121.32617,,36.411760000000001,2021-05-11,14960,2,2721
+9,67,20,Chuckawalla Valley State Prison (CVSP),-114.61905,,33.628332999999998,2021-05-11,14961,0,1784
+0,26,5,Deuel Vocational Institution (DVI),-121.42399,,37.728417,2021-05-11,14962,1,544
+2,101,12,Folsom State Prison (FSP),-121.15783,,38.672127000000003,2021-05-11,14963,0,1369
+2,136,6,High Desert State Prison (HDSP),-120.67685,,40.474950999999997,2021-05-11,14964,0,2032
+1,104,11,Ironwood State Prison (ISP),-114.652517,,33.598689999999998,2021-05-11,14965,0,1568
+6,210,7,Kern Valley State Prison (KVSP),-119.26984,,35.771875999999999,2021-05-11,14966,0,895
+13,62,10,California State Prison-Los Angeles County (LAC),-118.32683,,34.728856999999998,2021-05-11,14967,0,1511
+9,65,2,Mule Creek State Prison (MCSP),-120.94516,,38.346131999999997,2021-05-11,14968,0,1847
+4,335,10,North Kern State Prison (NKSP),-119.23371,,35.774966999999997,2021-05-11,14969,2,924
+0,120,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-05-11,14970,0,221
+3,418,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-05-11,14971,0,1990
+18,52,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-05-11,14972,0,1011
+1,48,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-05-11,14973,4,296
+7,244,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-05-11,14974,0,3011
+0,50,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-05-11,14975,1,1431
+6,89,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-05-11,14976,0,1150
+28,107,44,San Quentin State Prison (SQ),-122.49029,,37.943365,2021-05-11,14977,1,2242
+5,79,6,Salinas Valley State Prison (SVSP),-121.42556999999999,,36.518179000000003,2021-05-11,14978,0,679
 2,14,15,Valley State Prison (VSP),-120.50574,,37.127524999999999,2021-05-11,14979,0,1730
-1,51,43,Wasco State Prison (WSP),-119.37143,,35.605044999999997,2021-05-11,14980,5,1768
-8,0,68,Avenal State Prison (ASP),-120.10057,3031,35.930765999999998,2021-05-12,14981,0,3107
-2,0,9,California City Correctional Facility (CAC),-117.91473000000001,988,35.139327000000002,2021-05-12,14982,0,999
-2,0,10,Calipatria State Prison (CAL),-115.51208,1111,33.131763999999997,2021-05-12,14983,0,1123
-0,0,33,California Correctional Center (CCC),-120.664132,1332,40.446063000000002,2021-05-12,14984,0,1365
-4,0,63,California Correctional Institution (CCI),-118.50781000000001,1317,35.132672999999997,2021-05-12,14985,0,1384
-1,0,1,Central California Women's Facility (CCWF),-120.27864,807,37.100417,2021-05-12,14986,0,809
-1,0,7,California State Prison-Centinela (CEN),-115.58942,856,32.853470999999999,2021-05-12,14987,0,864
-14,2,3,California Health Care Facility (CHCF),-121.19064,604,37.955474000000002,2021-05-12,14988,2,623
-27,0,32,California Institution for Men (CIM),-117.68737,1440,34.015962999999999,2021-05-12,14989,0,1499
-1,0,10,California Institution for Women (CIW),-117.60221,478,33.903803000000003,2021-05-12,14990,1,490
-10,0,23,California Men's Colony (CMC),-120.636399,2437,35.221085000000002,2021-05-12,14991,0,2470
-11,0,3,California Medical Facility (CMF),-121.90832399999999,696,38.348959999999998,2021-05-12,14992,0,710
-4,0,5,California State Prison-Corcoran (COR),-119.5548,1066,36.085341999999997,2021-05-12,14993,1,1076
-1,4,58,California Rehabilitation Center (CRC),-117.55978,1934,33.925885000000001,2021-05-12,14994,0,1993
-19,0,29,Correctional Training Facility (CTF),-121.32617,2671,36.411760000000001,2021-05-12,14995,2,2721
-9,0,20,Chuckawalla Valley State Prison (CVSP),-114.61905,1755,33.628332999999998,2021-05-12,14996,0,1784
-0,0,5,Deuel Vocational Institution (DVI),-121.42399,538,37.728417,2021-05-12,14997,1,544
-2,0,12,Folsom State Prison (FSP),-121.15783,1355,38.672127000000003,2021-05-12,14998,0,1369
-2,0,6,High Desert State Prison (HDSP),-120.67685,2024,40.474950999999997,2021-05-12,14999,0,2032
-1,0,11,Ironwood State Prison (ISP),-114.652517,1556,33.598689999999998,2021-05-12,15000,0,1568
-6,0,7,Kern Valley State Prison (KVSP),-119.26984,882,35.771875999999999,2021-05-12,15001,0,895
-13,0,10,California State Prison-Los Angeles County (LAC),-118.32683,1488,34.728856999999998,2021-05-12,15002,0,1511
-9,0,2,Mule Creek State Prison (MCSP),-120.94516,1836,38.346131999999997,2021-05-12,15003,0,1847
-4,0,10,North Kern State Prison (NKSP),-119.23371,908,35.774966999999997,2021-05-12,15004,2,924
-0,0,5,Pelican Bay State Prison (PBSP),-124.16703,216,41.782680999999997,2021-05-12,15005,0,221
-3,0,13,Pleasant Valley State Prison (PVSP),-120.30865,1974,36.194735999999999,2021-05-12,15006,0,1990
-18,0,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,992,32.572602000000003,2021-05-12,15007,0,1011
-1,0,2,California State Prison-Sacramento (SAC),-121.152413,288,38.694032999999997,2021-05-12,15008,4,295
-7,0,15,Substance Abuse Treatment Facility (SATF),-119.82042,2989,36.177360999999998,2021-05-12,15009,0,3011
-0,0,18,Sierra Conservation Center (SCC),-120.49157,1412,37.867243000000002,2021-05-12,15010,1,1431
-6,0,11,California State Prison-Solano (SOL),-121.95332999999999,1133,38.344009999999997,2021-05-12,15011,0,1150
-28,0,44,San Quentin State Prison (SQ),-122.49029,2169,37.943365,2021-05-12,15012,1,2242
-5,0,6,Salinas Valley State Prison (SVSP),-121.42556999999999,668,36.518179000000003,2021-05-12,15013,0,679
-2,0,15,Valley State Prison (VSP),-120.50574,1713,37.127524999999999,2021-05-12,15014,0,1730
-1,0,43,Wasco State Prison (WSP),-119.37143,1719,35.605044999999997,2021-05-12,15015,5,1768
+1,384,43,Wasco State Prison (WSP),-119.37143,,35.605044999999997,2021-05-11,14980,5,1768
+8,18,68,Avenal State Prison (ASP),-120.10057,,35.930765999999998,2021-05-12,14981,0,3107
+2,37,9,California City Correctional Facility (CAC),-117.91473000000001,,35.139327000000002,2021-05-12,14982,0,999
+2,24,10,Calipatria State Prison (CAL),-115.51208,,33.131763999999997,2021-05-12,14983,0,1123
+0,27,33,California Correctional Center (CCC),-120.664132,,40.446063000000002,2021-05-12,14984,0,1365
+4,32,63,California Correctional Institution (CCI),-118.50781000000001,,35.132672999999997,2021-05-12,14985,0,1384
+1,29,1,Central California Women's Facility (CCWF),-120.27864,,37.100417,2021-05-12,14986,0,809
+1,41,7,California State Prison-Centinela (CEN),-115.58942,,32.853470999999999,2021-05-12,14987,0,864
+14,37,3,California Health Care Facility (CHCF),-121.19064,,37.955474000000002,2021-05-12,14988,3,624
+27,39,32,California Institution for Men (CIM),-117.68737,,34.015962999999999,2021-05-12,14989,0,1499
+1,19,10,California Institution for Women (CIW),-117.60221,,33.903803000000003,2021-05-12,14990,0,489
+10,31,23,California Men's Colony (CMC),-120.636399,,35.221085000000002,2021-05-12,14991,0,2470
+11,56,3,California Medical Facility (CMF),-121.90832399999999,,38.348959999999998,2021-05-12,14992,0,710
+4,19,5,California State Prison-Corcoran (COR),-119.5548,,36.085341999999997,2021-05-12,14993,0,1075
+1,21,58,California Rehabilitation Center (CRC),-117.55978,,33.925885000000001,2021-05-12,14994,0,1993
+19,29,29,Correctional Training Facility (CTF),-121.32617,,36.411760000000001,2021-05-12,14995,2,2721
+9,28,20,Chuckawalla Valley State Prison (CVSP),-114.61905,,33.628332999999998,2021-05-12,14996,0,1784
+0,13,5,Deuel Vocational Institution (DVI),-121.42399,,37.728417,2021-05-12,14997,1,544
+2,28,12,Folsom State Prison (FSP),-121.15783,,38.672127000000003,2021-05-12,14998,0,1369
+2,33,6,High Desert State Prison (HDSP),-120.67685,,40.474950999999997,2021-05-12,14999,0,2032
+1,16,11,Ironwood State Prison (ISP),-114.652517,,33.598689999999998,2021-05-12,15000,0,1568
+6,43,7,Kern Valley State Prison (KVSP),-119.26984,,35.771875999999999,2021-05-12,15001,0,895
+13,30,10,California State Prison-Los Angeles County (LAC),-118.32683,,34.728856999999998,2021-05-12,15002,0,1511
+9,59,2,Mule Creek State Prison (MCSP),-120.94516,,38.346131999999997,2021-05-12,15003,0,1847
+4,129,10,North Kern State Prison (NKSP),-119.23371,,35.774966999999997,2021-05-12,15004,2,924
+0,44,5,Pelican Bay State Prison (PBSP),-124.16703,,41.782680999999997,2021-05-12,15005,0,221
+3,28,13,Pleasant Valley State Prison (PVSP),-120.30865,,36.194735999999999,2021-05-12,15006,0,1990
+18,21,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,,32.572602000000003,2021-05-12,15007,1,1012
+1,143,2,California State Prison-Sacramento (SAC),-121.152413,,38.694032999999997,2021-05-12,15008,7,299
+7,41,15,Substance Abuse Treatment Facility (SATF),-119.82042,,36.177360999999998,2021-05-12,15009,0,3011
+0,23,18,Sierra Conservation Center (SCC),-120.49157,,37.867243000000002,2021-05-12,15010,1,1431
+6,27,11,California State Prison-Solano (SOL),-121.95332999999999,,38.344009999999997,2021-05-12,15011,0,1150
+28,21,44,San Quentin State Prison (SQ),-122.49029,,37.943365,2021-05-12,15012,1,2242
+5,47,6,Salinas Valley State Prison (SVSP),-121.42556999999999,,36.518179000000003,2021-05-12,15013,2,681
+2,15,15,Valley State Prison (VSP),-120.50574,,37.127524999999999,2021-05-12,15014,0,1730
+1,57,43,Wasco State Prison (WSP),-119.37143,,35.605044999999997,2021-05-12,15015,5,1768
+8,0,68,Avenal State Prison (ASP),-120.10057,3031,35.930765999999998,2021-05-13,15016,0,3107
+2,0,9,California City Correctional Facility (CAC),-117.91473000000001,988,35.139327000000002,2021-05-13,15017,0,999
+2,0,10,Calipatria State Prison (CAL),-115.51208,1111,33.131763999999997,2021-05-13,15018,0,1123
+0,0,33,California Correctional Center (CCC),-120.664132,1332,40.446063000000002,2021-05-13,15019,0,1365
+4,0,63,California Correctional Institution (CCI),-118.50781000000001,1317,35.132672999999997,2021-05-13,15020,0,1384
+1,0,1,Central California Women's Facility (CCWF),-120.27864,807,37.100417,2021-05-13,15021,0,809
+1,0,7,California State Prison-Centinela (CEN),-115.58942,856,32.853470999999999,2021-05-13,15022,0,864
+14,2,3,California Health Care Facility (CHCF),-121.19064,604,37.955474000000002,2021-05-13,15023,3,624
+27,0,32,California Institution for Men (CIM),-117.68737,1440,34.015962999999999,2021-05-13,15024,0,1499
+1,0,10,California Institution for Women (CIW),-117.60221,478,33.903803000000003,2021-05-13,15025,0,489
+10,0,23,California Men's Colony (CMC),-120.636399,2437,35.221085000000002,2021-05-13,15026,0,2470
+11,0,3,California Medical Facility (CMF),-121.90832399999999,696,38.348959999999998,2021-05-13,15027,0,710
+4,0,5,California State Prison-Corcoran (COR),-119.5548,1066,36.085341999999997,2021-05-13,15028,0,1075
+1,0,58,California Rehabilitation Center (CRC),-117.55978,1934,33.925885000000001,2021-05-13,15029,0,1993
+19,0,29,Correctional Training Facility (CTF),-121.32617,2671,36.411760000000001,2021-05-13,15030,2,2721
+9,0,20,Chuckawalla Valley State Prison (CVSP),-114.61905,1755,33.628332999999998,2021-05-13,15031,0,1784
+0,0,5,Deuel Vocational Institution (DVI),-121.42399,538,37.728417,2021-05-13,15032,1,544
+2,0,12,Folsom State Prison (FSP),-121.15783,1355,38.672127000000003,2021-05-13,15033,0,1369
+2,0,6,High Desert State Prison (HDSP),-120.67685,2024,40.474950999999997,2021-05-13,15034,0,2032
+1,0,11,Ironwood State Prison (ISP),-114.652517,1556,33.598689999999998,2021-05-13,15035,0,1568
+6,0,7,Kern Valley State Prison (KVSP),-119.26984,882,35.771875999999999,2021-05-13,15036,0,895
+13,0,10,California State Prison-Los Angeles County (LAC),-118.32683,1488,34.728856999999998,2021-05-13,15037,0,1511
+9,0,2,Mule Creek State Prison (MCSP),-120.94516,1836,38.346131999999997,2021-05-13,15038,0,1847
+4,0,10,North Kern State Prison (NKSP),-119.23371,908,35.774966999999997,2021-05-13,15039,2,924
+0,0,5,Pelican Bay State Prison (PBSP),-124.16703,216,41.782680999999997,2021-05-13,15040,0,221
+3,0,13,Pleasant Valley State Prison (PVSP),-120.30865,1974,36.194735999999999,2021-05-13,15041,0,1990
+18,0,1,Richard J. Donovan Correctional Facility (RJD),-116.918724,992,32.572602000000003,2021-05-13,15042,1,1012
+1,1,2,California State Prison-Sacramento (SAC),-121.152413,290,38.694032999999997,2021-05-13,15043,6,299
+7,0,15,Substance Abuse Treatment Facility (SATF),-119.82042,2989,36.177360999999998,2021-05-13,15044,0,3011
+0,0,18,Sierra Conservation Center (SCC),-120.49157,1412,37.867243000000002,2021-05-13,15045,1,1431
+6,0,11,California State Prison-Solano (SOL),-121.95332999999999,1133,38.344009999999997,2021-05-13,15046,0,1150
+28,0,44,San Quentin State Prison (SQ),-122.49029,2169,37.943365,2021-05-13,15047,1,2242
+5,1,6,Salinas Valley State Prison (SVSP),-121.42556999999999,668,36.518179000000003,2021-05-13,15048,2,681
+2,0,15,Valley State Prison (VSP),-120.50574,1713,37.127524999999999,2021-05-13,15049,0,1730
+1,0,43,Wasco State Prison (WSP),-119.37143,1720,35.605044999999997,2021-05-13,15050,4,1768
