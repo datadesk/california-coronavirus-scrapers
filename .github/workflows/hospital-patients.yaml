@@ -1,7 +1,8 @@
 name: Hospital patients
+concurrency: scrapers
 on:
   schedule:
-    - cron: '50 */4 * * *'
+    - cron: '0 */3 * * *'
   workflow_dispatch:
 
 jobs:
