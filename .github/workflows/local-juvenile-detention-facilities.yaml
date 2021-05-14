@@ -1,5 +1,4 @@
 name: Local juvenile detention facilities
-concurrency: scrapers
 on:
   schedule:
     - cron: '0 */3 * * *'
