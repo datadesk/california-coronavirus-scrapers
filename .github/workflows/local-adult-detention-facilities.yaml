@@ -1,5 +1,4 @@
 name: Local adult detention facilities
-concurrency: scrapers
 on:
   schedule:
     - cron: '0 */3 * * *'
