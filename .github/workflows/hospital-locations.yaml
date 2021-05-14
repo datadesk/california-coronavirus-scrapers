@@ -1,5 +1,4 @@
 name: Hospital locations
-concurrency: scrapers
 on:
   schedule:
     - cron: '0 */3 * * *'
