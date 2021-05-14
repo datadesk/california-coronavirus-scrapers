@@ -1,5 +1,4 @@
 name: Hospital patients
-concurrency: scrapers
 on:
   schedule:
     - cron: '0 */3 * * *'
