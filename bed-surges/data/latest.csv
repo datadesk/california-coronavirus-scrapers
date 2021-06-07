@@ -4656,8 +4656,8 @@ ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-03-09
 Ready,Residential Alternate Care Site,Orange,3.0,3,0.0,2021-03-09
 WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-03-09
 WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-03-09
-WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-03-09
 Ready,Alternate Care Site,Orange,13.0,12,155.0,2021-03-09
+WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-03-09
 ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-03-09
 ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-03-09
 Ready,Alternate Care Site,Imperial,35.0,0,90.0,2021-03-09
@@ -4683,124 +4683,125 @@ WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-03-10
 Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-03-10
 ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-03-10
 WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-03-11
-WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-03-11
 ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-03-11
+WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-03-11
 ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-03-11
 WARM Status,Alternate Care Site,Sacramento,20.0,0,224.0,2021-03-11
 ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-03-11
-Ready,Alternate Care Site,Los Angeles,25.0,21,0.0,2021-03-11
-WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-03-11
-Ready,Alternate Care Site,Orange,17.0,8,155.0,2021-03-11
-Ready,Residential Alternate Care Site,Orange,3.0,3,0.0,2021-03-11
-ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-03-11
-ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-03-11
+WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-03-11
+ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-03-11
 ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-03-11
 ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-03-11
-ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-03-11
-WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-03-11
-Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-03-11
-WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-03-11
+ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-03-11
+ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-03-11
+Ready,Residential Alternate Care Site,Orange,3.0,3,0.0,2021-03-11
+Ready,Alternate Care Site,Orange,17.0,8,155.0,2021-03-11
+WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-03-11
+Ready,Alternate Care Site,Los Angeles,25.0,21,0.0,2021-03-11
 WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-03-11
-ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-03-12
-ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-03-12
+Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-03-11
+WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-03-11
 ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-03-12
 Ready,Residential Alternate Care Site,Orange,3.0,3,0.0,2021-03-12
 Ready,Alternate Care Site,Orange,19.0,6,155.0,2021-03-12
-ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-03-12
-ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-03-12
-WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-03-12
-ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-03-12
-ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-03-12
 WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-03-12
-ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-03-12
-Ready,Alternate Care Site,Los Angeles,18.0,28,0.0,2021-03-12
-WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-03-12
-WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-03-12
-Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-03-12
-WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-03-12
-WARM Status,Alternate Care Site,Sacramento,20.0,0,224.0,2021-03-12
+ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-03-12
+WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-03-12
+ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-03-12
+ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-03-12
 WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-03-12
-WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-03-13
+WARM Status,Alternate Care Site,Sacramento,20.0,0,224.0,2021-03-12
+WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-03-12
+Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-03-12
+WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-03-12
+ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-03-12
+WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-03-12
+Ready,Alternate Care Site,Los Angeles,18.0,28,0.0,2021-03-12
+ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-03-12
+ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-03-12
+ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-03-12
+WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-03-13
+WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-03-13
+Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-03-13
+WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-03-13
+WARM Status,Alternate Care Site,Sacramento,20.0,0,224.0,2021-03-13
+WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-03-13
+ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-03-13
 ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-03-13
 Ready,Alternate Care Site,Orange,19.0,6,155.0,2021-03-13
-ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-03-13
-WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-03-13
-WARM Status,Alternate Care Site,Sacramento,20.0,0,224.0,2021-03-13
-WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-03-13
-Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-03-13
-WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-03-13
-Ready,Residential Alternate Care Site,Orange,3.0,3,0.0,2021-03-13
-ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-03-13
-ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-03-13
-ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-03-13
-ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-03-13
-ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-03-13
-Ready,Alternate Care Site,Los Angeles,17.0,29,0.0,2021-03-13
-WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-03-13
 ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-03-13
-WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-03-13
-WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-03-14
-WARM Status,Alternate Care Site,Sacramento,20.0,0,224.0,2021-03-14
-WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-03-14
-WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-03-14
-WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-03-14
-Ready,Residential Alternate Care Site,Orange,3.0,3,0.0,2021-03-14
-Ready,Alternate Care Site,Orange,19.0,6,155.0,2021-03-14
+WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-03-13
+Ready,Alternate Care Site,Los Angeles,17.0,29,0.0,2021-03-13
+ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-03-13
+ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-03-13
+ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-03-13
+ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-03-13
+ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-03-13
+Ready,Residential Alternate Care Site,Orange,3.0,3,0.0,2021-03-13
+WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-03-13
 WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-03-14
-Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-03-14
+WARM Status,Alternate Care Site,Sacramento,20.0,0,224.0,2021-03-14
+Ready,Alternate Care Site,Orange,19.0,6,155.0,2021-03-14
+Ready,Residential Alternate Care Site,Orange,3.0,3,0.0,2021-03-14
+WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-03-14
+WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-03-14
+WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-03-14
+WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-03-14
+ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-03-14
 ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-03-14
 ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-03-14
 ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-03-14
-ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-03-14
 ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-03-14
 ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-03-14
 ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-03-14
 Ready,Alternate Care Site,Los Angeles,18.0,28,0.0,2021-03-14
 ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-03-14
 WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-03-14
-WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-03-15
-ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-03-15
-ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-03-15
-ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-03-15
-ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-03-15
-ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-03-15
-ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-03-15
-Ready,Alternate Care Site,Los Angeles,18.0,28,0.0,2021-03-15
-ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-03-15
-WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-03-15
+Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-03-14
 Ready,Alternate Care Site,Orange,20.0,5,155.0,2021-03-15
+ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-03-15
 Ready,Residential Alternate Care Site,Orange,3.0,3,0.0,2021-03-15
 WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-03-15
 ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-03-15
+ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-03-15
+ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-03-15
+ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-03-15
+ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-03-15
+WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-03-15
+ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-03-15
 WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-03-15
 WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-03-15
-WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-03-15
+Ready,Alternate Care Site,Los Angeles,18.0,28,0.0,2021-03-15
+ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-03-15
 WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-03-15
+WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-03-15
+WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-03-15
 Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-03-15
-ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-03-16
-WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-03-16
-Ready,Alternate Care Site,Orange,25.0,0,155.0,2021-03-16
-ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-03-16
-WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-03-16
-WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-03-16
-Ready,Residential Alternate Care Site,Orange,5.0,1,0.0,2021-03-16
-WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-03-16
-ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-03-16
-Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-03-16
-WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-03-16
-WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-03-16
-ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-03-16
-ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-03-16
-WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-03-16
 Ready,Alternate Care Site,Los Angeles,18.0,28,0.0,2021-03-16
 ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-03-16
-ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-03-16
+WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-03-16
+Ready,Alternate Care Site,Orange,25.0,0,155.0,2021-03-16
+Ready,Residential Alternate Care Site,Orange,5.0,1,0.0,2021-03-16
+ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-03-16
+ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-03-16
 ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-03-16
-Ready,Alternate Care Site,Orange,25.0,0,155.0,2021-03-17
-WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-03-17
-Ready,Residential Alternate Care Site,Orange,5.0,1,0.0,2021-03-17
+ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-03-16
+ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-03-16
+WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-03-16
+ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-03-16
+WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-03-16
+WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-03-16
+Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-03-16
+WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-03-16
+WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-03-16
+WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-03-16
+ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-03-16
+ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-03-17
 ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-03-17
+WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-03-17
 ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-03-17
+Ready,Residential Alternate Care Site,Orange,5.0,1,0.0,2021-03-17
+Ready,Alternate Care Site,Orange,25.0,0,155.0,2021-03-17
 WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-03-17
 ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-03-17
 ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-03-17
@@ -4813,34 +4814,31 @@ WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-03-17
 WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-03-17
 Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-03-17
 WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-03-17
-WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-03-17
-ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-03-17
-Ready,Alternate Care Site,Los Angeles,7.0,39,0.0,2021-03-18
-ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-03-18
-ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-03-18
-WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-03-18
-WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-03-18
-Ready,Residential Alternate Care Site,Orange,6.0,0,0.0,2021-03-18
-ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-03-18
-ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-03-18
+WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-03-17
+WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-03-18
 ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-03-18
-ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-03-18
-ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-03-18
+WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-03-18
+WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-03-18
+Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-03-18
+WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-03-18
+WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-03-18
 ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-03-18
 WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-03-18
-WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-03-18
-WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-03-18
-Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-03-18
-WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-03-18
-WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-03-18
-WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-03-18
-Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-03-19
-WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-03-19
-ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-03-19
+ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-03-18
+ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-03-18
+ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-03-18
+ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-03-18
+Ready,Residential Alternate Care Site,Orange,6.0,0,0.0,2021-03-18
+WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-03-18
+WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-03-18
+ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-03-18
+Ready,Alternate Care Site,Los Angeles,7.0,39,0.0,2021-03-18
+ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-03-18
+WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-03-19
 WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-03-19
-WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-03-19
-WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-03-19
 ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-03-19
+WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-03-19
+ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-03-19
 Ready,Residential Alternate Care Site,Orange,6.0,0,0.0,2021-03-19
 ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-03-19
 ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-03-19
@@ -4848,34 +4846,43 @@ ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-03-19
 ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-03-19
 ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-03-19
 Ready,Alternate Care Site,Los Angeles,2.0,44,0.0,2021-03-19
-WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-03-19
-WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-03-19
-WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-03-19
-ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-03-19
+ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-03-19
+WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-03-19
+Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-03-19
 WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-03-19
-ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-03-20
+WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-03-19
+WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-03-19
+WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-03-19
+Ready,Alternate Care Site,Los Angeles,3.0,43,0.0,2021-03-20
+ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-03-20
+ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-03-20
+ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-03-20
+ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-03-20
+ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-03-20
 WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-03-20
 WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-03-20
 Ready,Residential Alternate Care Site,Orange,6.0,0,0.0,2021-03-20
 ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-03-20
-ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-03-20
-ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-03-20
-WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-03-20
-WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-03-20
-WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-03-20
+ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-03-20
 Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-03-20
-Ready,Alternate Care Site,Los Angeles,3.0,43,0.0,2021-03-20
-ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-03-20
-ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-03-20
-ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-03-20
+WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-03-20
+WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-03-20
+WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-03-20
 ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-03-20
 WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-03-20
 WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-03-20
 WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-03-20
 WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-03-21
-WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-03-21
-ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-03-21
 Ready,Alternate Care Site,Los Angeles,2.0,44,0.0,2021-03-21
+ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-03-21
+ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-03-21
+ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-03-21
+Ready,Residential Alternate Care Site,Orange,6.0,0,0.0,2021-03-21
+WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-03-21
+ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-03-21
+ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-03-21
+ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-03-21
+ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-03-21
 WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-03-21
 ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-03-21
 WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-03-21
@@ -4883,14 +4890,7 @@ WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-03-21
 Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-03-21
 WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-03-21
 WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-03-21
-ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-03-21
-ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-03-21
-ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-03-21
-ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-03-21
-ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-03-21
-Ready,Residential Alternate Care Site,Orange,6.0,0,0.0,2021-03-21
-WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-03-21
-ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-03-21
+WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-03-21
 Ready,Residential Alternate Care Site,Orange,6.0,0,0.0,2021-03-22
 ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-03-22
 ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-03-22
@@ -4923,9 +4923,9 @@ ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-03-23
 WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-03-23
 WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-03-23
 Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-03-23
+WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-03-23
 ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-03-23
 ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-03-23
-WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-03-23
 WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-03-23
 WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-03-23
 ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-03-23
@@ -4944,8 +4944,8 @@ WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-03-24
 ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-03-24
 WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-03-24
 Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-03-24
-WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-03-24
 WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-03-24
+WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-03-24
 WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-03-24
 ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-03-24
 ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-03-25
@@ -4986,35 +4986,33 @@ ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-03-26
 Ready,Alternate Care Site,Los Angeles,3.0,43,0.0,2021-03-26
 WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-03-26
 ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-03-26
-ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-03-27
 ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-03-27
 WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-03-27
 ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-03-27
 WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-03-27
 WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-03-27
 WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-03-27
+ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-03-27
 ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-03-27
 ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-03-27
 ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-03-27
+ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-03-27
 Ready,Alternate Care Site,Los Angeles,31.0,15,0.0,2021-03-27
 WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-03-27
-ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-03-27
 ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-03-27
 WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-03-27
 Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-03-27
-WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-03-27
-WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-03-27
 WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-03-27
+WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-03-27
+WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-03-27
+ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-03-28
+WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-03-28
 ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-03-28
-ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-03-28
+ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-03-28
 ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-03-28
 ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-03-28
 ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-03-28
-WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-03-28
 WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-03-28
-ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-03-28
-WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-03-28
-ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-03-28
 Ready,Alternate Care Site,Los Angeles,31.0,15,0.0,2021-03-28
 WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-03-28
 ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-03-28
@@ -5024,6 +5022,8 @@ Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-03-28
 WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-03-28
 WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-03-28
 WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-03-28
+WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-03-28
+ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-03-28
 ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-03-29
 WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-03-29
 ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-03-29
@@ -5110,23 +5110,23 @@ WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-04-02
 WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-04-02
 Ready,Alternate Care Site,Los Angeles,27.0,19,0.0,2021-04-02
 ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-04-02
-WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-04-02
-ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-04-02
-WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-04-02
-WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-04-02
-Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-04-02
 ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-04-02
-WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-04-02
 WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-04-02
 ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-04-02
-WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-04-03
-Ready,Alternate Care Site,Los Angeles,25.0,21,0.0,2021-04-03
-Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-04-03
-WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-04-03
-WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-04-03
-WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-04-03
-ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-04-03
+WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-04-02
+Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-04-02
+WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-04-02
+WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-04-02
+ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-04-02
+WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-04-02
 ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-04-03
+Ready,Alternate Care Site,Los Angeles,25.0,21,0.0,2021-04-03
+WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-04-03
+WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-04-03
+WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-04-03
+Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-04-03
+WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-04-03
+ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-04-03
 WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-04-03
 ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-04-03
 WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-04-03
@@ -5137,7 +5137,7 @@ WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-04-03
 WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-04-03
 WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-04-03
 ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-04-03
-ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-04-03
+ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-04-03
 ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-04-04
 WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-04-04
 WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-04-04
@@ -5153,10 +5153,10 @@ ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-04-04
 ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-04-04
 WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-04-04
 WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-04-04
+ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-04-04
 WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-04-04
 ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-04-04
 Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-04-04
-ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-04-04
 WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-04-05
 WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-04-05
 Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-04-05
@@ -5829,30 +5829,23 @@ WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-10
 ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-10
 WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-10
 WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-10
-WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-10
-ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-10
-ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-10
-ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-10
-WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-10
 ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-10
-Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-10
-WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-10
-ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-10
-WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-10
-Ready,Alternate Care Site,Los Angeles,28.0,18,0.0,2021-05-10
 ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-10
+Ready,Alternate Care Site,Los Angeles,28.0,18,0.0,2021-05-10
+WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-10
+ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-10
+WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-10
+Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-10
+WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-10
+ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-10
+ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-10
+ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-10
+WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-10
 WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-11
-WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-11
-WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-11
-WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-11
-WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-11
-ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-05-11
-ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-11
-ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-11
-ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-11
-Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-11
-ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-11
 WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-11
+ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-11
+WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-11
+ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-11
 Ready,Alternate Care Site,Los Angeles,28.0,18,0.0,2021-05-11
 ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-11
 ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-11
@@ -5860,37 +5853,32 @@ ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-11
 WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-11
 WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-11
 WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-11
-ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-12
-WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-12
-ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-12
-ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-12
-ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-12
-WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-12
+ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-11
+WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-11
+WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-11
+ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-05-11
+ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-11
+Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-11
+WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-11
 ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-12
-WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-12
+ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-12
+WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-12
+ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-12
+ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-12
+ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-12
+WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-12
+WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-12
+WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-12
+WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-12
+Ready,Alternate Care Site,Los Angeles,38.0,8,0.0,2021-05-12
 Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-12
 WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-12
 WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-12
 WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-12
 ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-05-12
-WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-12
-Ready,Alternate Care Site,Los Angeles,38.0,8,0.0,2021-05-12
-ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-12
+WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-12
 ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-12
-WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-12
-WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-12
-ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-13
-WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-13
-ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-13
-ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-13
-ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-13
-ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-13
-Ready,Alternate Care Site,Los Angeles,80.0,14,0.0,2021-05-13
-WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-13
-WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-13
-Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-13
-WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-13
-ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-05-13
+ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-12
 WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-13
 WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-13
 ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-13
@@ -5898,164 +5886,176 @@ ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-13
 WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-13
 WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-13
 WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-13
-Ready,Alternate Care Site,Los Angeles,74.0,20,0.0,2021-05-14
-WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-14
-WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-14
+ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-13
+ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-13
+ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-13
+WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-13
+ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-05-13
+WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-13
+Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-13
+WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-13
+ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-13
+WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-13
+Ready,Alternate Care Site,Los Angeles,80.0,14,0.0,2021-05-13
+ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-13
+WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-14
 Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-14
+WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-14
+WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-14
+Ready,Alternate Care Site,Los Angeles,74.0,20,0.0,2021-05-14
+ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-14
+ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-14
+ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-14
+ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-14
+WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-14
+WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-14
+WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-14
+ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-14
+ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-14
+ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-14
+WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-14
+WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-14
 WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-14
 ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-05-14
-ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-14
-WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-14
-WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-14
-WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-14
-WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-14
-ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-14
-ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-14
-ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-14
-ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-14
-ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-14
-WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-14
-WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-14
-ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-14
+WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-15
+WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-15
 ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-05-15
 WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-15
 WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-15
+WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-15
+WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-15
+Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-15
+WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-15
+WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-15
+WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-15
+Ready,Alternate Care Site,Los Angeles,74.0,20,0.0,2021-05-15
+ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-15
+ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-15
+ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-15
+ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-15
+ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-15
 ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-15
 ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-15
-ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-15
-WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-15
-WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-15
-WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-15
-ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-15
-WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-15
-Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-15
-WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-15
-ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-15
-ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-15
-Ready,Alternate Care Site,Los Angeles,74.0,20,0.0,2021-05-15
-WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-15
-WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-15
-ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-15
-WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-16
-ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-16
-WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-16
-WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-16
-ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-16
-ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-16
-ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-16
-ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-16
-ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-16
-WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-16
 WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-16
-Ready,Alternate Care Site,Los Angeles,74.0,20,0.0,2021-05-16
-ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-16
-ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-05-16
+WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-16
+WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-16
 WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-16
 WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-16
+WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-16
 Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-16
 WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-16
 WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-16
-WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-17
-WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-17
-ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-17
-ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-17
-ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-17
-ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-17
+ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-16
+ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-16
+ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-16
+ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-16
+ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-16
+ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-05-16
+ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-16
+ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-16
+WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-16
+Ready,Alternate Care Site,Los Angeles,74.0,20,0.0,2021-05-16
 Ready,Alternate Care Site,Los Angeles,74.0,20,0.0,2021-05-17
-WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-17
-WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-17
-Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-17
-WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-17
-WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-17
-WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-17
 ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-05-17
-ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-17
+WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-17
+WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-17
+WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-17
+Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-17
+WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-17
+WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-17
+ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-17
 WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-17
 ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-17
 ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-17
 WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-17
-ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-18
+ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-17
+ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-17
+ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-17
+ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-17
+WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-17
+WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-17
 ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-18
+WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-18
+WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-18
+ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-18
+ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-18
+WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-18
+ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-18
+WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-18
+WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-18
 ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-05-18
 WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-18
 WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-18
-Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-18
 WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-18
 ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-18
 WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-18
 Ready,Alternate Care Site,Los Angeles,74.0,20,0.0,2021-05-18
-ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-18
-ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-18
-WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-18
-WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-18
-ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-18
+ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-18
 ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-18
-WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-18
-WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-18
-WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-18
-WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-19
-ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-05-19
-WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-19
-ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-19
-ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-19
-ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-19
-Ready,Alternate Care Site,Los Angeles,82.0,12,0.0,2021-05-19
-WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-19
-WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-19
-WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-19
-WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-19
-ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-19
+Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-18
 ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-19
-ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-19
 ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-19
-WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-19
-WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-19
-WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-19
+WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-19
+Ready,Alternate Care Site,Los Angeles,82.0,12,0.0,2021-05-19
+ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-19
+ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-19
+WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-19
+WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-19
+WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-19
+ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-19
+ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-19
 Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-19
+WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-19
+WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-19
+WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-19
+ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-05-19
+WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-19
+ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-19
+WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-19
+Ready,Alternate Care Site,Los Angeles,78.0,16,0.0,2021-05-20
 WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-20
 ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-05-20
+WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-20
+WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-20
 WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-20
 ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-20
-WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-20
-WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-20
-WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-20
-WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-20
-WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-20
-WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-20
-Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-20
 ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-20
-Ready,Alternate Care Site,Los Angeles,78.0,16,0.0,2021-05-20
 ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-20
 ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-20
 ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-20
 ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-20
 WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-20
 ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-20
-ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-21
-Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-21
+WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-20
+Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-20
+WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-20
+WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-20
+WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-20
+ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-21
+WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-21
 WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-21
-Ready,Alternate Care Site,Los Angeles,72.0,22,0.0,2021-05-21
 WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-21
-ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-21
-WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-21
-WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-21
+ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-05-21
 WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-21
 WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-21
 ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-21
-ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-21
+Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-21
 ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-21
 ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-21
+ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-21
 ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-21
-ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-05-21
-WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-21
-WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-21
 WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-21
-WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-22
-WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-22
-ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-22
-WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-22
+WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-21
+WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-21
+WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-21
+ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-21
+Ready,Alternate Care Site,Los Angeles,72.0,22,0.0,2021-05-21
 ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-05-22
 Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-22
+WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-22
+WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-22
+ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-22
+WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-22
 WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-22
 WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-22
 ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-22
@@ -6069,112 +6069,110 @@ ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-22
 WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-22
 WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-22
 WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-22
-Ready,Alternate Care Site,Los Angeles,72.0,22,0.0,2021-05-23
-WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-23
-ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-05-23
-WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-23
-WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-23
-WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-23
-Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-23
-WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-23
-ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-23
-ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-23
-ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-23
-ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-23
-WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-23
-WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-23
-WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-23
 ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-23
 ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-23
 ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-23
+WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-23
 WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-23
-WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-24
-ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-24
+ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-05-23
+WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-23
+WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-23
+WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-23
+ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-23
+ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-23
+ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-23
+ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-23
+Ready,Alternate Care Site,Los Angeles,72.0,22,0.0,2021-05-23
+WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-23
+Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-23
+WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-23
+WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-23
+WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-23
 WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-24
-WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-24
+ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-24
+WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-24
+WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-24
+WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-24
+ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-24
+ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-24
+ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-24
 ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-24
 ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-24
 Ready,Alternate Care Site,Los Angeles,72.0,22,0.0,2021-05-24
-ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-24
-ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-24
-ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-24
 WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-24
 ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-24
 WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-24
 Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-24
 WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-24
 WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-24
+WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-24
 ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-05-24
-WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-24
-WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-24
-ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-25
 WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-25
-WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-25
+ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-05-25
+ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-25
+ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-25
 WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-25
 Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-25
 WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-25
 WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-25
 ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-25
+WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-25
 WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-25
 Ready,Alternate Care Site,Los Angeles,72.0,22,0.0,2021-05-25
-ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-25
-ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-05-25
-ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-25
-WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-25
-ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-25
+ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-25
 ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-25
-WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-25
-WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-25
 ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-25
+WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-25
+WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-25
+ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-25
+WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-25
+WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-26
+ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-26
+ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-26
 WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-26
 ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-05-26
-ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-26
-WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-26
-WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-26
 WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-26
-WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-26
-ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-26
-ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-26
-ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-26
-ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-26
-ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-26
-Ready,Alternate Care Site,Los Angeles,84.0,10,0.0,2021-05-26
-ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-26
-WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-26
-WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-26
-Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-26
-WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-26
+WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-26
 WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-26
-ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-27
-Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-27
-ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-27
-WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-27
-WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-27
-ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-05-27
-WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-27
-ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-27
-WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-27
-Ready,Alternate Care Site,Los Angeles,84.0,10,0.0,2021-05-27
-WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-27
-ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-27
-ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-27
+WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-26
+Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-26
+WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-26
+WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-26
+ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-26
+Ready,Alternate Care Site,Los Angeles,84.0,10,0.0,2021-05-26
+ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-26
+ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-26
+ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-26
+ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-26
+WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-26
 WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-27
-WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-27
-WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-27
 WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-27
+ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-05-27
+WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-27
+WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-27
 ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-27
 ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-27
-WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-28
-ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-28
-Ready,Alternate Care Site,Los Angeles,79.0,15,0.0,2021-05-28
-WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-28
-WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-28
-WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-28
-ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-28
-ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-28
-ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-28
+WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-27
+ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-27
+WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-27
+WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-27
+ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-27
+ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-27
+ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-27
+Ready,Alternate Care Site,Los Angeles,84.0,10,0.0,2021-05-27
+WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-27
+ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-27
+WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-27
+Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-27
 ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-28
+ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-28
+ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-28
+ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-28
+WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-28
+WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-28
+WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-28
 ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-28
+WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-28
 ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-28
 WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-28
 Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-28
@@ -6182,16 +6180,18 @@ WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-28
 WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-28
 WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-28
 ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-05-28
-WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-28
-WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-29
-ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-29
-WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-29
-WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-29
-Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-29
-WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-29
-WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-29
-WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-29
+WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-28
+Ready,Alternate Care Site,Los Angeles,79.0,15,0.0,2021-05-28
+ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-28
 ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-05-29
+WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-29
+WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-29
+WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-29
+Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-29
+WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-29
+WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-29
+ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-29
+WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-29
 Ready,Alternate Care Site,Los Angeles,76.0,18,0.0,2021-05-29
 ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-29
 ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-29
@@ -6202,18 +6202,8 @@ WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-29
 WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-29
 ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-29
 WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-29
-Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-30
-WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-30
-WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-30
-WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-30
-ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-30
-ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-30
-ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-30
-WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-30
-ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-30
-WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-30
 WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-30
-ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-05-30
+WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-30
 ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-30
 ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-30
 ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-30
@@ -6221,22 +6211,127 @@ Ready,Alternate Care Site,Los Angeles,77.0,17,0.0,2021-05-30
 WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-30
 WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-30
 WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-30
-Ready,Alternate Care Site,Los Angeles,77.0,17,0.0,2021-05-31
-WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-31
-ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-31
-ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-31
-ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-31
-ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-31
-WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-31
-ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-31
-WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-31
-ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-31
-WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-31
-WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-31
-WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-31
-WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-31
-WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-31
-WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-31
-Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-31
-ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-05-31
+ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-05-30
+WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-30
+WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-30
+ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-30
+ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-30
+ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-30
+WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-30
+Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-30
+WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-30
+ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-30
 ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-05-31
+ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-05-31
+ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-05-31
+Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-05-31
+WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-05-31
+WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-05-31
+WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-05-31
+WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-05-31
+WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-05-31
+WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-05-31
+ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-05-31
+ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-05-31
+ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-05-31
+ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-05-31
+Ready,Alternate Care Site,Los Angeles,77.0,17,0.0,2021-05-31
+ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-05-31
+WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-05-31
+WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-05-31
+WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-05-31
+WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-06-01
+ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-06-01
+ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-06-01
+WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-06-01
+WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-06-01
+ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-06-01
+ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-06-01
+WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-06-01
+WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-06-01
+WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-06-01
+ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-06-01
+ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-06-01
+ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-06-01
+Ready,Alternate Care Site,Los Angeles,77.0,17,0.0,2021-06-01
+WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-06-01
+ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-06-01
+WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-06-01
+WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-06-01
+Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-06-01
+WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-06-02
+ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-06-02
+WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-06-02
+WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-06-02
+Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-06-02
+WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-06-02
+WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-06-02
+WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-06-02
+ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-06-02
+WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-06-02
+ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-06-02
+ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-06-02
+WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-06-02
+WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-06-02
+Ready,Alternate Care Site,Los Angeles,87.0,7,0.0,2021-06-02
+ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-06-02
+ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-06-02
+ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-06-02
+ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-06-02
+ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-06-03
+WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-06-03
+WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-06-03
+WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-06-03
+ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-06-03
+WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-06-03
+WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-06-03
+WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-06-03
+ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-06-03
+ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-06-03
+ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-06-03
+ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-06-03
+ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-06-03
+Ready,Alternate Care Site,Los Angeles,82.0,12,0.0,2021-06-03
+WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-06-03
+ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-06-03
+Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-06-03
+WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-06-03
+WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-06-03
+WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-06-04
+ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-06-04
+ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-06-04
+ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-06-04
+WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-06-04
+Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-06-04
+WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-06-04
+WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-06-04
+WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-06-04
+ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-06-04
+ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-06-04
+WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-06-04
+WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-06-04
+ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-06-04
+ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-06-04
+Ready,Alternate Care Site,Los Angeles,78.0,16,0.0,2021-06-04
+ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-06-04
+WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-06-04
+WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-06-04
+ColdStatus,Residential Alternate Care Site,Stanislaus,0.0,0,0.0,2021-06-05
+WARM Status,Alternate Care Site,Imperial,35.0,0,90.0,2021-06-05
+ColdStatus,Federal Medical Station,San Francisco,0.0,0,0.0,2021-06-05
+ColdStatus,Alternate Care Site,San Mateo,0.0,0,0.0,2021-06-05
+WARM Status,Federal Medical Station,Fresno,0.0,0,125.0,2021-06-05
+WARM Status,Alternate Care Site,Sacramento,0.0,0,244.0,2021-06-05
+WARM Status,Alternate Care Site,Tulare,15.0,0,108.0,2021-06-05
+ColdStatus,Residential Alternate Care Site,Los Angeles,-4.0,4,0.0,2021-06-05
+WARM Status,Federal Medical Station,Riverside,0.0,0,250.0,2021-06-05
+WARM Status,Alternate Care Site,Orange,25.0,0,155.0,2021-06-05
+ColdStatus,Residential Alternate Care Site,Madera,0.0,0,0.0,2021-06-05
+WARM Status,Residential Alternate Care Site,Orange,0.0,0,25.0,2021-06-05
+WARM Status,Federal Medical Station,Contra Costa,0.0,0,250.0,2021-06-05
+Ready,Alternate Care Site,San Diego,24.0,6,170.0,2021-06-05
+WARM Status,Federal Medical Station,San Francisco,0.0,0,125.0,2021-06-05
+Ready,Alternate Care Site,Los Angeles,77.0,17,0.0,2021-06-05
+ColdStatus,Residential Alternate Care Site,San Joaquin,0.0,0,0.0,2021-06-05
+ColdStatus,Residential Alternate Care Site,Riverside,0.0,0,0.0,2021-06-05
+ColdStatus,Residential Alternate Care Site,Sacramento,0.0,0,0.0,2021-06-05
