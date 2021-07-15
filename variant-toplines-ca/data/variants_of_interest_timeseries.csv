@@ -2,386 +2,337 @@ variant_name,cases_caused_by_variant,update_date,filename,who_label
 B.1.526,78,2021-04-20,variants_of_interest_ca_2021-04-20_.csv,
 B.1.525,5,2021-04-20,variants_of_interest_ca_2021-04-20_.csv,
 P.2,33,2021-04-20,variants_of_interest_ca_2021-04-20_.csv,
-B.1.526,321,2021-05-14,variants_of_interest_ca_2021-05-14_.csv,
-​B.1.526. 1,​206,2021-05-14,variants_of_interest_ca_2021-05-14_.csv,
-B.1.525,36,2021-05-14,variants_of_interest_ca_2021-05-14_.csv,
-P.2,61,2021-05-14,variants_of_interest_ca_2021-05-14_.csv,
-B.1.617*​,​104,2021-05-14,variants_of_interest_ca_2021-05-14_.csv,
-​B.1.526,606,2021-06-19,variants_of_interest_ca_2021-06-19_.csv,​Iota
-​B.1.526.1,522,2021-06-19,variants_of_interest_ca_2021-06-19_.csv,​Not available
-​B.1.525,​51,2021-06-19,variants_of_interest_ca_2021-06-19_.csv,​Eta
-​P.2,​81,2021-06-19,variants_of_interest_ca_2021-06-19_.csv,​Zeta
-​B.1.617.1,​60,2021-06-19,variants_of_interest_ca_2021-06-19_.csv,Kappa
-​B.1.617.3,​1,2021-06-19,variants_of_interest_ca_2021-06-19_.csv,​Not available
-​B.1.526,606,2021-06-22,variants_of_interest_ca_2021-06-22_.csv,​Iota
-​B.1.526.1,522,2021-06-22,variants_of_interest_ca_2021-06-22_.csv,​Not available
-​B.1.525,​51,2021-06-22,variants_of_interest_ca_2021-06-22_.csv,​Eta
-​P.2,​81,2021-06-22,variants_of_interest_ca_2021-06-22_.csv,​Zeta
-​B.1.617.1,​60,2021-06-22,variants_of_interest_ca_2021-06-22_.csv,Kappa
-​B.1.617.3,​1,2021-06-22,variants_of_interest_ca_2021-06-22_.csv,​Not available
-​B.1.427 and B.1.429,23464,2021-07-10,variants_of_interest_ca_2021-07-10_.csv,Epsilon
-​P.2,​91,2021-07-10,variants_of_interest_ca_2021-07-10_.csv,Zeta
-​B.1.525,​56,2021-07-10,variants_of_interest_ca_2021-07-10_.csv,​Eta
-B.1.526,"​1,579",2021-07-10,variants_of_interest_ca_2021-07-10_.csv,​Iota
-​B.1.617.1,​61,2021-07-10,variants_of_interest_ca_2021-07-10_.csv,Kappa
-​B.1.617.3,​1,2021-07-10,variants_of_interest_ca_2021-07-10_.csv,​Not available
-B.1.526,431,2021-05-20,variants_of_interest_ca_2021-05-20_.csv,
-​B.1.526. 1,​ 297,2021-05-20,variants_of_interest_ca_2021-05-20_.csv,
-B.1.525,43,2021-05-20,variants_of_interest_ca_2021-05-20_.csv,
-P.2,61,2021-05-20,variants_of_interest_ca_2021-05-20_.csv,
-B.1.617*​,​ 163,2021-05-20,variants_of_interest_ca_2021-05-20_.csv,
-​B.1.526,​532,2021-06-07,variants_of_interest_ca_2021-06-07_.csv,​Iota
-​B.1.526.1,​442,2021-06-07,variants_of_interest_ca_2021-06-07_.csv,​Not available
-​B.1.525,​48,2021-06-07,variants_of_interest_ca_2021-06-07_.csv,​Eta
-​P.2,​78,2021-06-07,variants_of_interest_ca_2021-06-07_.csv,​Zeta
-​B.1.617*,​258,2021-06-07,variants_of_interest_ca_2021-06-07_.csv,"​Delta, Kappa"
-​B.1.427 and B.1.429,23464,2021-07-14,variants_of_interest_ca_2021-07-14_.csv,Epsilon
-​P.2,​91,2021-07-14,variants_of_interest_ca_2021-07-14_.csv,Zeta
-​B.1.525,​56,2021-07-14,variants_of_interest_ca_2021-07-14_.csv,​Eta
-B.1.526,"​1,579",2021-07-14,variants_of_interest_ca_2021-07-14_.csv,​Iota
-​B.1.617.1,​61,2021-07-14,variants_of_interest_ca_2021-07-14_.csv,Kappa
-​B.1.617.3,​1,2021-07-14,variants_of_interest_ca_2021-07-14_.csv,​Not available
-B.1.526,493,2021-05-29,variants_of_interest_ca_2021-05-29_.csv,
-​B.1.526. 1,​ 372,2021-05-29,variants_of_interest_ca_2021-05-29_.csv,
-B.1.525,48,2021-05-29,variants_of_interest_ca_2021-05-29_.csv,
-P.2,62,2021-05-29,variants_of_interest_ca_2021-05-29_.csv,
-​B.1.617*,​216,2021-05-29,variants_of_interest_ca_2021-05-29_.csv,
-​B.1.526,​532,2021-06-06,variants_of_interest_ca_2021-06-06_.csv,​Iota
-​B.1.526.1,​442,2021-06-06,variants_of_interest_ca_2021-06-06_.csv,​Not available
-​B.1.525,​48,2021-06-06,variants_of_interest_ca_2021-06-06_.csv,​Eta
-​P.2,​78,2021-06-06,variants_of_interest_ca_2021-06-06_.csv,​Zeta
-​B.1.617*,​258,2021-06-06,variants_of_interest_ca_2021-06-06_.csv,"​Delta, Kappa"
-​B.1.427 and B.1.429,23464,2021-07-08,variants_of_interest_ca_2021-07-08_.csv,Epsilon
-​P.2,​91,2021-07-08,variants_of_interest_ca_2021-07-08_.csv,Zeta
-​B.1.525,​56,2021-07-08,variants_of_interest_ca_2021-07-08_.csv,​Eta
-B.1.526,"​1,579",2021-07-08,variants_of_interest_ca_2021-07-08_.csv,​Iota
-​B.1.617.1,​61,2021-07-08,variants_of_interest_ca_2021-07-08_.csv,Kappa
-​B.1.617.3,​1,2021-07-08,variants_of_interest_ca_2021-07-08_.csv,​Not available
-B.1.526,321,2021-05-17,variants_of_interest_ca_2021-05-17_.csv,
-​B.1.526. 1,​206,2021-05-17,variants_of_interest_ca_2021-05-17_.csv,
-B.1.525,36,2021-05-17,variants_of_interest_ca_2021-05-17_.csv,
-P.2,61,2021-05-17,variants_of_interest_ca_2021-05-17_.csv,
-B.1.617*​,​104,2021-05-17,variants_of_interest_ca_2021-05-17_.csv,
-​B.1.526,​532,2021-06-03,variants_of_interest_ca_2021-06-03_.csv,​Iota
-​B.1.526.1,​442,2021-06-03,variants_of_interest_ca_2021-06-03_.csv,​Not available
-​B.1.525,​48,2021-06-03,variants_of_interest_ca_2021-06-03_.csv,​Eta
-​P.2,​78,2021-06-03,variants_of_interest_ca_2021-06-03_.csv,​Zeta
-​B.1.617*,​258,2021-06-03,variants_of_interest_ca_2021-06-03_.csv,"​Delta, Kappa"
-B.1.526,431,2021-05-25,variants_of_interest_ca_2021-05-25_.csv,
-​B.1.526. 1,​ 297,2021-05-25,variants_of_interest_ca_2021-05-25_.csv,
-B.1.525,43,2021-05-25,variants_of_interest_ca_2021-05-25_.csv,
-P.2,61,2021-05-25,variants_of_interest_ca_2021-05-25_.csv,
-B.1.617*​,​ 163,2021-05-25,variants_of_interest_ca_2021-05-25_.csv,
-​B.1.427 and B.1.429,20585,2021-07-07,variants_of_interest_ca_2021-07-07_.csv,Epsilon
-​P.2,​80,2021-07-07,variants_of_interest_ca_2021-07-07_.csv,Zeta
-​B.1.525,​53,2021-07-07,variants_of_interest_ca_2021-07-07_.csv,​Eta
-B.1.526,"​1,410",2021-07-07,variants_of_interest_ca_2021-07-07_.csv,​Iota
-​B.1.617.1,​58,2021-07-07,variants_of_interest_ca_2021-07-07_.csv,Kappa
-​B.1.617.3,​1,2021-07-07,variants_of_interest_ca_2021-07-07_.csv,​Not available
-​B.1.526,625,2021-06-26,variants_of_interest_ca_2021-06-26_.csv,​Iota
-​B.1.526.1,522,2021-06-26,variants_of_interest_ca_2021-06-26_.csv,​Not available
-​B.1.525,​51,2021-06-26,variants_of_interest_ca_2021-06-26_.csv,​Eta
-​P.2,​82,2021-06-26,variants_of_interest_ca_2021-06-26_.csv,​Zeta
-​B.1.617.1,​61,2021-06-26,variants_of_interest_ca_2021-06-26_.csv,Kappa
-​B.1.617.3,​1,2021-06-26,variants_of_interest_ca_2021-06-26_.csv,​Not available
-​B.1.427 and B.1.429,23464,2021-07-13,variants_of_interest_ca_2021-07-13_.csv,Epsilon
-​P.2,​91,2021-07-13,variants_of_interest_ca_2021-07-13_.csv,Zeta
-​B.1.525,​56,2021-07-13,variants_of_interest_ca_2021-07-13_.csv,​Eta
-B.1.526,"​1,579",2021-07-13,variants_of_interest_ca_2021-07-13_.csv,​Iota
-​B.1.617.1,​61,2021-07-13,variants_of_interest_ca_2021-07-13_.csv,Kappa
-​B.1.617.3,​1,2021-07-13,variants_of_interest_ca_2021-07-13_.csv,​Not available
-​B.1.526,625,2021-06-28,variants_of_interest_ca_2021-06-28_.csv,​Iota
-​B.1.526.1,522,2021-06-28,variants_of_interest_ca_2021-06-28_.csv,​Not available
-​B.1.525,​51,2021-06-28,variants_of_interest_ca_2021-06-28_.csv,​Eta
-​P.2,​82,2021-06-28,variants_of_interest_ca_2021-06-28_.csv,​Zeta
-​B.1.617.1,​61,2021-06-28,variants_of_interest_ca_2021-06-28_.csv,Kappa
-​B.1.617.3,​1,2021-06-28,variants_of_interest_ca_2021-06-28_.csv,​Not available
-​B.1.526,​562,2021-06-12,variants_of_interest_ca_2021-06-12_.csv,​Iota
-​B.1.526.1,​464,2021-06-12,variants_of_interest_ca_2021-06-12_.csv,​Not available
-​B.1.525,​48,2021-06-12,variants_of_interest_ca_2021-06-12_.csv,​Eta
-​P.2,​79,2021-06-12,variants_of_interest_ca_2021-06-12_.csv,​Zeta
-​B.1.617*,​286,2021-06-12,variants_of_interest_ca_2021-06-12_.csv,"​Delta, Kappa"
-B.1.526,78,2021-04-17,variants_of_interest_ca_2021-04-17_.csv,
-B.1.525,5,2021-04-17,variants_of_interest_ca_2021-04-17_.csv,
-P.2,33,2021-04-17,variants_of_interest_ca_2021-04-17_.csv,
-​B.1.526,​532,2021-06-08,variants_of_interest_ca_2021-06-08_.csv,​Iota
-​B.1.526.1,​442,2021-06-08,variants_of_interest_ca_2021-06-08_.csv,​Not available
-​B.1.525,​48,2021-06-08,variants_of_interest_ca_2021-06-08_.csv,​Eta
-​P.2,​78,2021-06-08,variants_of_interest_ca_2021-06-08_.csv,​Zeta
-​B.1.617*,​258,2021-06-08,variants_of_interest_ca_2021-06-08_.csv,"​Delta, Kappa"
-​B.1.427 and B.1.429,23464,2021-07-12,variants_of_interest_ca_2021-07-12_.csv,Epsilon
-​P.2,​91,2021-07-12,variants_of_interest_ca_2021-07-12_.csv,Zeta
-​B.1.525,​56,2021-07-12,variants_of_interest_ca_2021-07-12_.csv,​Eta
-B.1.526,"​1,579",2021-07-12,variants_of_interest_ca_2021-07-12_.csv,​Iota
-​B.1.617.1,​61,2021-07-12,variants_of_interest_ca_2021-07-12_.csv,Kappa
-​B.1.617.3,​1,2021-07-12,variants_of_interest_ca_2021-07-12_.csv,​Not available
-B.1.526,78,2021-04-19,variants_of_interest_ca_2021-04-19_.csv,
-B.1.525,5,2021-04-19,variants_of_interest_ca_2021-04-19_.csv,
-P.2,33,2021-04-19,variants_of_interest_ca_2021-04-19_.csv,
-​B.1.526,​562,2021-06-10,variants_of_interest_ca_2021-06-10_.csv,​Iota
-​B.1.526.1,​464,2021-06-10,variants_of_interest_ca_2021-06-10_.csv,​Not available
-​B.1.525,​48,2021-06-10,variants_of_interest_ca_2021-06-10_.csv,​Eta
-​P.2,​79,2021-06-10,variants_of_interest_ca_2021-06-10_.csv,​Zeta
-​B.1.617*,​286,2021-06-10,variants_of_interest_ca_2021-06-10_.csv,"​Delta, Kappa"
-B.1.526,146,2021-04-25,variants_of_interest_ca_2021-04-25_.csv,
-B.1.525,8,2021-04-25,variants_of_interest_ca_2021-04-25_.csv,
-P.2,35,2021-04-25,variants_of_interest_ca_2021-04-25_.csv,
-B.1.526,281,2021-05-06,variants_of_interest_ca_2021-05-06_.csv,
-B.1.525,27,2021-05-06,variants_of_interest_ca_2021-05-06_.csv,
-P.2,61,2021-05-06,variants_of_interest_ca_2021-05-06_.csv,
-​B.1.526,606,2021-06-18,variants_of_interest_ca_2021-06-18_.csv,​Iota
-​B.1.526.1,522,2021-06-18,variants_of_interest_ca_2021-06-18_.csv,​Not available
-​B.1.525,​51,2021-06-18,variants_of_interest_ca_2021-06-18_.csv,​Eta
-​P.2,​81,2021-06-18,variants_of_interest_ca_2021-06-18_.csv,​Zeta
-​B.1.617.1,​60,2021-06-18,variants_of_interest_ca_2021-06-18_.csv,Kappa
-​B.1.617.3,​1,2021-06-18,variants_of_interest_ca_2021-06-18_.csv,​Not available
-B.1.526,281,2021-05-09,variants_of_interest_ca_2021-05-09_.csv,
-B.1.525,27,2021-05-09,variants_of_interest_ca_2021-05-09_.csv,
-P.2,61,2021-05-09,variants_of_interest_ca_2021-05-09_.csv,
-B.1.526,431,2021-05-24,variants_of_interest_ca_2021-05-24_.csv,
-​B.1.526. 1,​ 297,2021-05-24,variants_of_interest_ca_2021-05-24_.csv,
-B.1.525,43,2021-05-24,variants_of_interest_ca_2021-05-24_.csv,
-P.2,61,2021-05-24,variants_of_interest_ca_2021-05-24_.csv,
-B.1.617*​,​ 163,2021-05-24,variants_of_interest_ca_2021-05-24_.csv,
-B.1.526,146,2021-04-28,variants_of_interest_ca_2021-04-28_.csv,
-B.1.525,8,2021-04-28,variants_of_interest_ca_2021-04-28_.csv,
-P.2,35,2021-04-28,variants_of_interest_ca_2021-04-28_.csv,
-B.1.526,431,2021-05-22,variants_of_interest_ca_2021-05-22_.csv,
-​B.1.526. 1,​ 297,2021-05-22,variants_of_interest_ca_2021-05-22_.csv,
-B.1.525,43,2021-05-22,variants_of_interest_ca_2021-05-22_.csv,
-P.2,61,2021-05-22,variants_of_interest_ca_2021-05-22_.csv,
-B.1.617*​,​ 163,2021-05-22,variants_of_interest_ca_2021-05-22_.csv,
-B.1.526,431,2021-05-21,variants_of_interest_ca_2021-05-21_.csv,
-​B.1.526. 1,​ 297,2021-05-21,variants_of_interest_ca_2021-05-21_.csv,
-B.1.525,43,2021-05-21,variants_of_interest_ca_2021-05-21_.csv,
-P.2,61,2021-05-21,variants_of_interest_ca_2021-05-21_.csv,
-B.1.617*​,​ 163,2021-05-21,variants_of_interest_ca_2021-05-21_.csv,
-​B.1.526,​562,2021-06-16,variants_of_interest_ca_2021-06-16_.csv,​Iota
-​B.1.526.1,​464,2021-06-16,variants_of_interest_ca_2021-06-16_.csv,​Not available
-​B.1.525,​48,2021-06-16,variants_of_interest_ca_2021-06-16_.csv,​Eta
-​P.2,​79,2021-06-16,variants_of_interest_ca_2021-06-16_.csv,​Zeta
-​B.1.617*,​286,2021-06-16,variants_of_interest_ca_2021-06-16_.csv,"​Delta, Kappa"
-B.1.526,235,2021-04-29,variants_of_interest_ca_2021-04-29_.csv,
-B.1.525,15,2021-04-29,variants_of_interest_ca_2021-04-29_.csv,
-P.2,35,2021-04-29,variants_of_interest_ca_2021-04-29_.csv,
-​B.1.427 and B.1.429,20585,2021-07-02,variants_of_interest_ca_2021-07-02_.csv,Epsilon
-​P.2,​80,2021-07-02,variants_of_interest_ca_2021-07-02_.csv,Zeta
-​B.1.525,​53,2021-07-02,variants_of_interest_ca_2021-07-02_.csv,​Eta
-B.1.526,"​1,410",2021-07-02,variants_of_interest_ca_2021-07-02_.csv,​Iota
-​B.1.617.1,​58,2021-07-02,variants_of_interest_ca_2021-07-02_.csv,Kappa
-​B.1.617.3,​1,2021-07-02,variants_of_interest_ca_2021-07-02_.csv,​Not available
-​B.1.526,625,2021-06-25,variants_of_interest_ca_2021-06-25_.csv,​Iota
-​B.1.526.1,522,2021-06-25,variants_of_interest_ca_2021-06-25_.csv,​Not available
-​B.1.525,​51,2021-06-25,variants_of_interest_ca_2021-06-25_.csv,​Eta
-​P.2,​82,2021-06-25,variants_of_interest_ca_2021-06-25_.csv,​Zeta
-​B.1.617.1,​61,2021-06-25,variants_of_interest_ca_2021-06-25_.csv,Kappa
-​B.1.617.3,​1,2021-06-25,variants_of_interest_ca_2021-06-25_.csv,​Not available
-B.1.526,493,2021-05-28,variants_of_interest_ca_2021-05-28_.csv,
-​B.1.526. 1,​ 372,2021-05-28,variants_of_interest_ca_2021-05-28_.csv,
-B.1.525,48,2021-05-28,variants_of_interest_ca_2021-05-28_.csv,
-P.2,62,2021-05-28,variants_of_interest_ca_2021-05-28_.csv,
-​B.1.617*,​216,2021-05-28,variants_of_interest_ca_2021-05-28_.csv,
-B.1.526,281,2021-05-12,variants_of_interest_ca_2021-05-12_.csv,
-B.1.525,27,2021-05-12,variants_of_interest_ca_2021-05-12_.csv,
-P.2,61,2021-05-12,variants_of_interest_ca_2021-05-12_.csv,
-B.1.526,235,2021-05-03,variants_of_interest_ca_2021-05-03_.csv,
-B.1.525,15,2021-05-03,variants_of_interest_ca_2021-05-03_.csv,
-P.2,35,2021-05-03,variants_of_interest_ca_2021-05-03_.csv,
-​B.1.526,606,2021-06-21,variants_of_interest_ca_2021-06-21_.csv,​Iota
-​B.1.526.1,522,2021-06-21,variants_of_interest_ca_2021-06-21_.csv,​Not available
-​B.1.525,​51,2021-06-21,variants_of_interest_ca_2021-06-21_.csv,​Eta
-​P.2,​81,2021-06-21,variants_of_interest_ca_2021-06-21_.csv,​Zeta
-​B.1.617.1,​60,2021-06-21,variants_of_interest_ca_2021-06-21_.csv,Kappa
-​B.1.617.3,​1,2021-06-21,variants_of_interest_ca_2021-06-21_.csv,​Not available
-​B.1.526,606,2021-06-23,variants_of_interest_ca_2021-06-23_.csv,​Iota
-​B.1.526.1,522,2021-06-23,variants_of_interest_ca_2021-06-23_.csv,​Not available
-​B.1.525,​51,2021-06-23,variants_of_interest_ca_2021-06-23_.csv,​Eta
-​P.2,​81,2021-06-23,variants_of_interest_ca_2021-06-23_.csv,​Zeta
-​B.1.617.1,​60,2021-06-23,variants_of_interest_ca_2021-06-23_.csv,Kappa
-​B.1.617.3,​1,2021-06-23,variants_of_interest_ca_2021-06-23_.csv,​Not available
-​B.1.526,606,2021-06-20,variants_of_interest_ca_2021-06-20_.csv,​Iota
-​B.1.526.1,522,2021-06-20,variants_of_interest_ca_2021-06-20_.csv,​Not available
-​B.1.525,​51,2021-06-20,variants_of_interest_ca_2021-06-20_.csv,​Eta
-​P.2,​81,2021-06-20,variants_of_interest_ca_2021-06-20_.csv,​Zeta
-​B.1.617.1,​60,2021-06-20,variants_of_interest_ca_2021-06-20_.csv,Kappa
-​B.1.617.3,​1,2021-06-20,variants_of_interest_ca_2021-06-20_.csv,​Not available
-B.1.526,493,2021-05-31,variants_of_interest_ca_2021-05-31_.csv,
-​B.1.526. 1,​ 372,2021-05-31,variants_of_interest_ca_2021-05-31_.csv,
-B.1.525,48,2021-05-31,variants_of_interest_ca_2021-05-31_.csv,
-P.2,62,2021-05-31,variants_of_interest_ca_2021-05-31_.csv,
-​B.1.617*,​216,2021-05-31,variants_of_interest_ca_2021-05-31_.csv,
-B.1.526,78,2021-04-21,variants_of_interest_ca_2021-04-21_.csv,
-B.1.525,5,2021-04-21,variants_of_interest_ca_2021-04-21_.csv,
-P.2,33,2021-04-21,variants_of_interest_ca_2021-04-21_.csv,
-​B.1.526,606,2021-06-17,variants_of_interest_ca_2021-06-17_.csv,​Iota
-​B.1.526.1,522,2021-06-17,variants_of_interest_ca_2021-06-17_.csv,​Not available
-​B.1.525,​51,2021-06-17,variants_of_interest_ca_2021-06-17_.csv,​Eta
-​P.2,​81,2021-06-17,variants_of_interest_ca_2021-06-17_.csv,​Zeta
-​B.1.617.1,​60,2021-06-17,variants_of_interest_ca_2021-06-17_.csv,Kappa
-​B.1.617.3,​1,2021-06-17,variants_of_interest_ca_2021-06-17_.csv,​Not available
-​B.1.427 and B.1.429,23464,2021-07-11,variants_of_interest_ca_2021-07-11_.csv,Epsilon
-​P.2,​91,2021-07-11,variants_of_interest_ca_2021-07-11_.csv,Zeta
-​B.1.525,​56,2021-07-11,variants_of_interest_ca_2021-07-11_.csv,​Eta
-B.1.526,"​1,579",2021-07-11,variants_of_interest_ca_2021-07-11_.csv,​Iota
-​B.1.617.1,​61,2021-07-11,variants_of_interest_ca_2021-07-11_.csv,Kappa
-​B.1.617.3,​1,2021-07-11,variants_of_interest_ca_2021-07-11_.csv,​Not available
-B.1.526,281,2021-05-10,variants_of_interest_ca_2021-05-10_.csv,
-B.1.525,27,2021-05-10,variants_of_interest_ca_2021-05-10_.csv,
-P.2,61,2021-05-10,variants_of_interest_ca_2021-05-10_.csv,
-B.1.526,431,2021-05-23,variants_of_interest_ca_2021-05-23_.csv,
-​B.1.526. 1,​ 297,2021-05-23,variants_of_interest_ca_2021-05-23_.csv,
-B.1.525,43,2021-05-23,variants_of_interest_ca_2021-05-23_.csv,
-P.2,61,2021-05-23,variants_of_interest_ca_2021-05-23_.csv,
-B.1.617*​,​ 163,2021-05-23,variants_of_interest_ca_2021-05-23_.csv,
-B.1.526,321,2021-05-18,variants_of_interest_ca_2021-05-18_.csv,
-​B.1.526. 1,​206,2021-05-18,variants_of_interest_ca_2021-05-18_.csv,
-B.1.525,36,2021-05-18,variants_of_interest_ca_2021-05-18_.csv,
-P.2,61,2021-05-18,variants_of_interest_ca_2021-05-18_.csv,
-B.1.617*​,​104,2021-05-18,variants_of_interest_ca_2021-05-18_.csv,
-B.1.526,493,2021-05-30,variants_of_interest_ca_2021-05-30_.csv,
-​B.1.526. 1,​ 372,2021-05-30,variants_of_interest_ca_2021-05-30_.csv,
-B.1.525,48,2021-05-30,variants_of_interest_ca_2021-05-30_.csv,
-P.2,62,2021-05-30,variants_of_interest_ca_2021-05-30_.csv,
-​B.1.617*,​216,2021-05-30,variants_of_interest_ca_2021-05-30_.csv,
-​B.1.526,​562,2021-06-13,variants_of_interest_ca_2021-06-13_.csv,​Iota
-​B.1.526.1,​464,2021-06-13,variants_of_interest_ca_2021-06-13_.csv,​Not available
-​B.1.525,​48,2021-06-13,variants_of_interest_ca_2021-06-13_.csv,​Eta
-​P.2,​79,2021-06-13,variants_of_interest_ca_2021-06-13_.csv,​Zeta
-​B.1.617*,​286,2021-06-13,variants_of_interest_ca_2021-06-13_.csv,"​Delta, Kappa"
-​B.1.526,​562,2021-06-11,variants_of_interest_ca_2021-06-11_.csv,​Iota
-​B.1.526.1,​464,2021-06-11,variants_of_interest_ca_2021-06-11_.csv,​Not available
-​B.1.525,​48,2021-06-11,variants_of_interest_ca_2021-06-11_.csv,​Eta
-​P.2,​79,2021-06-11,variants_of_interest_ca_2021-06-11_.csv,​Zeta
-​B.1.617*,​286,2021-06-11,variants_of_interest_ca_2021-06-11_.csv,"​Delta, Kappa"
-​B.1.526,​532,2021-06-05,variants_of_interest_ca_2021-06-05_.csv,​Iota
-​B.1.526.1,​442,2021-06-05,variants_of_interest_ca_2021-06-05_.csv,​Not available
-​B.1.525,​48,2021-06-05,variants_of_interest_ca_2021-06-05_.csv,​Eta
-​P.2,​78,2021-06-05,variants_of_interest_ca_2021-06-05_.csv,​Zeta
-​B.1.617*,​258,2021-06-05,variants_of_interest_ca_2021-06-05_.csv,"​Delta, Kappa"
-B.1.526,235,2021-05-01,variants_of_interest_ca_2021-05-01_.csv,
-B.1.525,15,2021-05-01,variants_of_interest_ca_2021-05-01_.csv,
-P.2,35,2021-05-01,variants_of_interest_ca_2021-05-01_.csv,
-B.1.526,281,2021-05-08,variants_of_interest_ca_2021-05-08_.csv,
-B.1.525,27,2021-05-08,variants_of_interest_ca_2021-05-08_.csv,
-P.2,61,2021-05-08,variants_of_interest_ca_2021-05-08_.csv,
-​B.1.526,625,2021-06-24,variants_of_interest_ca_2021-06-24_.csv,​Iota
-​B.1.526.1,522,2021-06-24,variants_of_interest_ca_2021-06-24_.csv,​Not available
-​B.1.525,​51,2021-06-24,variants_of_interest_ca_2021-06-24_.csv,​Eta
-​P.2,​82,2021-06-24,variants_of_interest_ca_2021-06-24_.csv,​Zeta
-​B.1.617.1,​61,2021-06-24,variants_of_interest_ca_2021-06-24_.csv,Kappa
-​B.1.617.3,​1,2021-06-24,variants_of_interest_ca_2021-06-24_.csv,​Not available
-B.1.526,146,2021-04-24,variants_of_interest_ca_2021-04-24_.csv,
-B.1.525,8,2021-04-24,variants_of_interest_ca_2021-04-24_.csv,
-P.2,35,2021-04-24,variants_of_interest_ca_2021-04-24_.csv,
-​B.1.526,625,2021-06-29,variants_of_interest_ca_2021-06-29_.csv,​Iota
-​B.1.526.1,522,2021-06-29,variants_of_interest_ca_2021-06-29_.csv,​Not available
-​B.1.525,​51,2021-06-29,variants_of_interest_ca_2021-06-29_.csv,​Eta
-​P.2,​82,2021-06-29,variants_of_interest_ca_2021-06-29_.csv,​Zeta
-​B.1.617.1,​61,2021-06-29,variants_of_interest_ca_2021-06-29_.csv,Kappa
-​B.1.617.3,​1,2021-06-29,variants_of_interest_ca_2021-06-29_.csv,​Not available
-B.1.526,146,2021-04-23,variants_of_interest_ca_2021-04-23_.csv,
-B.1.525,8,2021-04-23,variants_of_interest_ca_2021-04-23_.csv,
-P.2,35,2021-04-23,variants_of_interest_ca_2021-04-23_.csv,
+B.1.526,321,2021-05-19,variants_of_interest_ca_2021-05-19_.csv,
+​B.1.526. 1,​206,2021-05-19,variants_of_interest_ca_2021-05-19_.csv,
+B.1.525,36,2021-05-19,variants_of_interest_ca_2021-05-19_.csv,
+P.2,61,2021-05-19,variants_of_interest_ca_2021-05-19_.csv,
+B.1.617*​,​104,2021-05-19,variants_of_interest_ca_2021-05-19_.csv,
 ​B.1.427 and B.1.429,20585,2021-07-03,variants_of_interest_ca_2021-07-03_.csv,Epsilon
 ​P.2,​80,2021-07-03,variants_of_interest_ca_2021-07-03_.csv,Zeta
 ​B.1.525,​53,2021-07-03,variants_of_interest_ca_2021-07-03_.csv,​Eta
 B.1.526,"​1,410",2021-07-03,variants_of_interest_ca_2021-07-03_.csv,​Iota
 ​B.1.617.1,​58,2021-07-03,variants_of_interest_ca_2021-07-03_.csv,Kappa
 ​B.1.617.3,​1,2021-07-03,variants_of_interest_ca_2021-07-03_.csv,​Not available
-B.1.526,235,2021-05-05,variants_of_interest_ca_2021-05-05_.csv,
-B.1.525,15,2021-05-05,variants_of_interest_ca_2021-05-05_.csv,
-P.2,35,2021-05-05,variants_of_interest_ca_2021-05-05_.csv,
-B.1.526,493,2021-06-02,variants_of_interest_ca_2021-06-02_.csv,
-​B.1.526. 1,​ 372,2021-06-02,variants_of_interest_ca_2021-06-02_.csv,
-B.1.525,48,2021-06-02,variants_of_interest_ca_2021-06-02_.csv,
-P.2,62,2021-06-02,variants_of_interest_ca_2021-06-02_.csv,
-​B.1.617*,​216,2021-06-02,variants_of_interest_ca_2021-06-02_.csv,
-B.1.526,281,2021-05-11,variants_of_interest_ca_2021-05-11_.csv,
-B.1.525,27,2021-05-11,variants_of_interest_ca_2021-05-11_.csv,
-P.2,61,2021-05-11,variants_of_interest_ca_2021-05-11_.csv,
-B.1.526,493,2021-05-27,variants_of_interest_ca_2021-05-27_.csv,
-​B.1.526. 1,​ 372,2021-05-27,variants_of_interest_ca_2021-05-27_.csv,
-B.1.525,48,2021-05-27,variants_of_interest_ca_2021-05-27_.csv,
-P.2,62,2021-05-27,variants_of_interest_ca_2021-05-27_.csv,
-​B.1.617*,​216,2021-05-27,variants_of_interest_ca_2021-05-27_.csv,
-B.1.526,281,2021-05-07,variants_of_interest_ca_2021-05-07_.csv,
-B.1.525,27,2021-05-07,variants_of_interest_ca_2021-05-07_.csv,
-P.2,61,2021-05-07,variants_of_interest_ca_2021-05-07_.csv,
+​B.1.427 and B.1.429,20585,2021-07-07,variants_of_interest_ca_2021-07-07_.csv,Epsilon
+​P.2,​80,2021-07-07,variants_of_interest_ca_2021-07-07_.csv,Zeta
+​B.1.525,​53,2021-07-07,variants_of_interest_ca_2021-07-07_.csv,​Eta
+B.1.526,"​1,410",2021-07-07,variants_of_interest_ca_2021-07-07_.csv,​Iota
+​B.1.617.1,​58,2021-07-07,variants_of_interest_ca_2021-07-07_.csv,Kappa
+​B.1.617.3,​1,2021-07-07,variants_of_interest_ca_2021-07-07_.csv,​Not available
+B.1.526,281,2021-05-09,variants_of_interest_ca_2021-05-09_.csv,
+B.1.525,27,2021-05-09,variants_of_interest_ca_2021-05-09_.csv,
+P.2,61,2021-05-09,variants_of_interest_ca_2021-05-09_.csv,
+​B.1.526,​532,2021-06-03,variants_of_interest_ca_2021-06-03_.csv,​Iota
+​B.1.526.1,​442,2021-06-03,variants_of_interest_ca_2021-06-03_.csv,​Not available
+​B.1.525,​48,2021-06-03,variants_of_interest_ca_2021-06-03_.csv,​Eta
+​P.2,​78,2021-06-03,variants_of_interest_ca_2021-06-03_.csv,​Zeta
+​B.1.617*,​258,2021-06-03,variants_of_interest_ca_2021-06-03_.csv,"​Delta, Kappa"
+B.1.526,146,2021-04-27,variants_of_interest_ca_2021-04-27_.csv,
+B.1.525,8,2021-04-27,variants_of_interest_ca_2021-04-27_.csv,
+P.2,35,2021-04-27,variants_of_interest_ca_2021-04-27_.csv,
+B.1.526,235,2021-05-04,variants_of_interest_ca_2021-05-04_.csv,
+B.1.525,15,2021-05-04,variants_of_interest_ca_2021-05-04_.csv,
+P.2,35,2021-05-04,variants_of_interest_ca_2021-05-04_.csv,
+B.1.526,281,2021-05-12,variants_of_interest_ca_2021-05-12_.csv,
+B.1.525,27,2021-05-12,variants_of_interest_ca_2021-05-12_.csv,
+P.2,61,2021-05-12,variants_of_interest_ca_2021-05-12_.csv,
+​B.1.526,​532,2021-06-06,variants_of_interest_ca_2021-06-06_.csv,​Iota
+​B.1.526.1,​442,2021-06-06,variants_of_interest_ca_2021-06-06_.csv,​Not available
+​B.1.525,​48,2021-06-06,variants_of_interest_ca_2021-06-06_.csv,​Eta
+​P.2,​78,2021-06-06,variants_of_interest_ca_2021-06-06_.csv,​Zeta
+​B.1.617*,​258,2021-06-06,variants_of_interest_ca_2021-06-06_.csv,"​Delta, Kappa"
+​B.1.427 and B.1.429,23464,2021-07-14,variants_of_interest_ca_2021-07-14_.csv,Epsilon
+​P.2,​91,2021-07-14,variants_of_interest_ca_2021-07-14_.csv,Zeta
+​B.1.525,​56,2021-07-14,variants_of_interest_ca_2021-07-14_.csv,​Eta
+B.1.526,"​1,579",2021-07-14,variants_of_interest_ca_2021-07-14_.csv,​Iota
+​B.1.617.1,​61,2021-07-14,variants_of_interest_ca_2021-07-14_.csv,Kappa
+​B.1.617.3,​1,2021-07-14,variants_of_interest_ca_2021-07-14_.csv,​Not available
+B.1.526,235,2021-04-29,variants_of_interest_ca_2021-04-29_.csv,
+B.1.525,15,2021-04-29,variants_of_interest_ca_2021-04-29_.csv,
+P.2,35,2021-04-29,variants_of_interest_ca_2021-04-29_.csv,
+​B.1.427 and B.1.429,23464,2021-07-13,variants_of_interest_ca_2021-07-13_.csv,Epsilon
+​P.2,​91,2021-07-13,variants_of_interest_ca_2021-07-13_.csv,Zeta
+​B.1.525,​56,2021-07-13,variants_of_interest_ca_2021-07-13_.csv,​Eta
+B.1.526,"​1,579",2021-07-13,variants_of_interest_ca_2021-07-13_.csv,​Iota
+​B.1.617.1,​61,2021-07-13,variants_of_interest_ca_2021-07-13_.csv,Kappa
+​B.1.617.3,​1,2021-07-13,variants_of_interest_ca_2021-07-13_.csv,​Not available
+​B.1.526,​532,2021-06-04,variants_of_interest_ca_2021-06-04_.csv,​Iota
+​B.1.526.1,​442,2021-06-04,variants_of_interest_ca_2021-06-04_.csv,​Not available
+​B.1.525,​48,2021-06-04,variants_of_interest_ca_2021-06-04_.csv,​Eta
+​P.2,​78,2021-06-04,variants_of_interest_ca_2021-06-04_.csv,​Zeta
+​B.1.617*,​258,2021-06-04,variants_of_interest_ca_2021-06-04_.csv,"​Delta, Kappa"
+B.1.526,78,2021-04-19,variants_of_interest_ca_2021-04-19_.csv,
+B.1.525,5,2021-04-19,variants_of_interest_ca_2021-04-19_.csv,
+P.2,33,2021-04-19,variants_of_interest_ca_2021-04-19_.csv,
+​B.1.427 and B.1.429,23464,2021-07-09,variants_of_interest_ca_2021-07-09_.csv,Epsilon
+​P.2,​91,2021-07-09,variants_of_interest_ca_2021-07-09_.csv,Zeta
+​B.1.525,​56,2021-07-09,variants_of_interest_ca_2021-07-09_.csv,​Eta
+B.1.526,"​1,579",2021-07-09,variants_of_interest_ca_2021-07-09_.csv,​Iota
+​B.1.617.1,​61,2021-07-09,variants_of_interest_ca_2021-07-09_.csv,Kappa
+​B.1.617.3,​1,2021-07-09,variants_of_interest_ca_2021-07-09_.csv,​Not available
+B.1.526,146,2021-04-23,variants_of_interest_ca_2021-04-23_.csv,
+B.1.525,8,2021-04-23,variants_of_interest_ca_2021-04-23_.csv,
+P.2,35,2021-04-23,variants_of_interest_ca_2021-04-23_.csv,
+​B.1.526,​562,2021-06-14,variants_of_interest_ca_2021-06-14_.csv,​Iota
+​B.1.526.1,​464,2021-06-14,variants_of_interest_ca_2021-06-14_.csv,​Not available
+​B.1.525,​48,2021-06-14,variants_of_interest_ca_2021-06-14_.csv,​Eta
+​P.2,​79,2021-06-14,variants_of_interest_ca_2021-06-14_.csv,​Zeta
+​B.1.617*,​286,2021-06-14,variants_of_interest_ca_2021-06-14_.csv,"​Delta, Kappa"
+B.1.526,431,2021-05-23,variants_of_interest_ca_2021-05-23_.csv,
+​B.1.526. 1,​ 297,2021-05-23,variants_of_interest_ca_2021-05-23_.csv,
+B.1.525,43,2021-05-23,variants_of_interest_ca_2021-05-23_.csv,
+P.2,61,2021-05-23,variants_of_interest_ca_2021-05-23_.csv,
+B.1.617*​,​ 163,2021-05-23,variants_of_interest_ca_2021-05-23_.csv,
+B.1.526,321,2021-05-16,variants_of_interest_ca_2021-05-16_.csv,
+​B.1.526. 1,​206,2021-05-16,variants_of_interest_ca_2021-05-16_.csv,
+B.1.525,36,2021-05-16,variants_of_interest_ca_2021-05-16_.csv,
+P.2,61,2021-05-16,variants_of_interest_ca_2021-05-16_.csv,
+B.1.617*​,​104,2021-05-16,variants_of_interest_ca_2021-05-16_.csv,
+B.1.526,281,2021-05-10,variants_of_interest_ca_2021-05-10_.csv,
+B.1.525,27,2021-05-10,variants_of_interest_ca_2021-05-10_.csv,
+P.2,61,2021-05-10,variants_of_interest_ca_2021-05-10_.csv,
+​B.1.427 and B.1.429,23464,2021-07-10,variants_of_interest_ca_2021-07-10_.csv,Epsilon
+​P.2,​91,2021-07-10,variants_of_interest_ca_2021-07-10_.csv,Zeta
+​B.1.525,​56,2021-07-10,variants_of_interest_ca_2021-07-10_.csv,​Eta
+B.1.526,"​1,579",2021-07-10,variants_of_interest_ca_2021-07-10_.csv,​Iota
+​B.1.617.1,​61,2021-07-10,variants_of_interest_ca_2021-07-10_.csv,Kappa
+​B.1.617.3,​1,2021-07-10,variants_of_interest_ca_2021-07-10_.csv,​Not available
+B.1.526,321,2021-05-18,variants_of_interest_ca_2021-05-18_.csv,
+​B.1.526. 1,​206,2021-05-18,variants_of_interest_ca_2021-05-18_.csv,
+B.1.525,36,2021-05-18,variants_of_interest_ca_2021-05-18_.csv,
+P.2,61,2021-05-18,variants_of_interest_ca_2021-05-18_.csv,
+B.1.617*​,​104,2021-05-18,variants_of_interest_ca_2021-05-18_.csv,
+​B.1.427 and B.1.429,23464,2021-07-11,variants_of_interest_ca_2021-07-11_.csv,Epsilon
+​P.2,​91,2021-07-11,variants_of_interest_ca_2021-07-11_.csv,Zeta
+​B.1.525,​56,2021-07-11,variants_of_interest_ca_2021-07-11_.csv,​Eta
+B.1.526,"​1,579",2021-07-11,variants_of_interest_ca_2021-07-11_.csv,​Iota
+​B.1.617.1,​61,2021-07-11,variants_of_interest_ca_2021-07-11_.csv,Kappa
+​B.1.617.3,​1,2021-07-11,variants_of_interest_ca_2021-07-11_.csv,​Not available
+​B.1.526,606,2021-06-22,variants_of_interest_ca_2021-06-22_.csv,​Iota
+​B.1.526.1,522,2021-06-22,variants_of_interest_ca_2021-06-22_.csv,​Not available
+​B.1.525,​51,2021-06-22,variants_of_interest_ca_2021-06-22_.csv,​Eta
+​P.2,​81,2021-06-22,variants_of_interest_ca_2021-06-22_.csv,​Zeta
+​B.1.617.1,​60,2021-06-22,variants_of_interest_ca_2021-06-22_.csv,Kappa
+​B.1.617.3,​1,2021-06-22,variants_of_interest_ca_2021-06-22_.csv,​Not available
+B.1.526,431,2021-05-26,variants_of_interest_ca_2021-05-26_.csv,
+​B.1.526. 1,​ 297,2021-05-26,variants_of_interest_ca_2021-05-26_.csv,
+B.1.525,43,2021-05-26,variants_of_interest_ca_2021-05-26_.csv,
+P.2,61,2021-05-26,variants_of_interest_ca_2021-05-26_.csv,
+B.1.617*​,​ 163,2021-05-26,variants_of_interest_ca_2021-05-26_.csv,
+​B.1.526,606,2021-06-18,variants_of_interest_ca_2021-06-18_.csv,​Iota
+​B.1.526.1,522,2021-06-18,variants_of_interest_ca_2021-06-18_.csv,​Not available
+​B.1.525,​51,2021-06-18,variants_of_interest_ca_2021-06-18_.csv,​Eta
+​P.2,​81,2021-06-18,variants_of_interest_ca_2021-06-18_.csv,​Zeta
+​B.1.617.1,​60,2021-06-18,variants_of_interest_ca_2021-06-18_.csv,Kappa
+​B.1.617.3,​1,2021-06-18,variants_of_interest_ca_2021-06-18_.csv,​Not available
+B.1.526,146,2021-04-26,variants_of_interest_ca_2021-04-26_.csv,
+B.1.525,8,2021-04-26,variants_of_interest_ca_2021-04-26_.csv,
+P.2,35,2021-04-26,variants_of_interest_ca_2021-04-26_.csv,
+​B.1.427 and B.1.429,23464,2021-07-08,variants_of_interest_ca_2021-07-08_.csv,Epsilon
+​P.2,​91,2021-07-08,variants_of_interest_ca_2021-07-08_.csv,Zeta
+​B.1.525,​56,2021-07-08,variants_of_interest_ca_2021-07-08_.csv,​Eta
+B.1.526,"​1,579",2021-07-08,variants_of_interest_ca_2021-07-08_.csv,​Iota
+​B.1.617.1,​61,2021-07-08,variants_of_interest_ca_2021-07-08_.csv,Kappa
+​B.1.617.3,​1,2021-07-08,variants_of_interest_ca_2021-07-08_.csv,​Not available
+B.1.526,493,2021-05-28,variants_of_interest_ca_2021-05-28_.csv,
+​B.1.526. 1,​ 372,2021-05-28,variants_of_interest_ca_2021-05-28_.csv,
+B.1.525,48,2021-05-28,variants_of_interest_ca_2021-05-28_.csv,
+P.2,62,2021-05-28,variants_of_interest_ca_2021-05-28_.csv,
+​B.1.617*,​216,2021-05-28,variants_of_interest_ca_2021-05-28_.csv,
+B.1.526,146,2021-04-25,variants_of_interest_ca_2021-04-25_.csv,
+B.1.525,8,2021-04-25,variants_of_interest_ca_2021-04-25_.csv,
+P.2,35,2021-04-25,variants_of_interest_ca_2021-04-25_.csv,
+B.1.526,146,2021-04-22,variants_of_interest_ca_2021-04-22_.csv,
+B.1.525,8,2021-04-22,variants_of_interest_ca_2021-04-22_.csv,
+P.2,35,2021-04-22,variants_of_interest_ca_2021-04-22_.csv,
 ​B.1.427 and B.1.429,20585,2021-07-05,variants_of_interest_ca_2021-07-05_.csv,Epsilon
 ​P.2,​80,2021-07-05,variants_of_interest_ca_2021-07-05_.csv,Zeta
 ​B.1.525,​53,2021-07-05,variants_of_interest_ca_2021-07-05_.csv,​Eta
 B.1.526,"​1,410",2021-07-05,variants_of_interest_ca_2021-07-05_.csv,​Iota
 ​B.1.617.1,​58,2021-07-05,variants_of_interest_ca_2021-07-05_.csv,Kappa
 ​B.1.617.3,​1,2021-07-05,variants_of_interest_ca_2021-07-05_.csv,​Not available
+B.1.526,321,2021-05-14,variants_of_interest_ca_2021-05-14_.csv,
+​B.1.526. 1,​206,2021-05-14,variants_of_interest_ca_2021-05-14_.csv,
+B.1.525,36,2021-05-14,variants_of_interest_ca_2021-05-14_.csv,
+P.2,61,2021-05-14,variants_of_interest_ca_2021-05-14_.csv,
+B.1.617*​,​104,2021-05-14,variants_of_interest_ca_2021-05-14_.csv,
 ​B.1.526,​532,2021-06-09,variants_of_interest_ca_2021-06-09_.csv,​Iota
 ​B.1.526.1,​442,2021-06-09,variants_of_interest_ca_2021-06-09_.csv,​Not available
 ​B.1.525,​48,2021-06-09,variants_of_interest_ca_2021-06-09_.csv,​Eta
 ​P.2,​78,2021-06-09,variants_of_interest_ca_2021-06-09_.csv,​Zeta
 ​B.1.617*,​258,2021-06-09,variants_of_interest_ca_2021-06-09_.csv,"​Delta, Kappa"
-B.1.526,146,2021-04-22,variants_of_interest_ca_2021-04-22_.csv,
-B.1.525,8,2021-04-22,variants_of_interest_ca_2021-04-22_.csv,
-P.2,35,2021-04-22,variants_of_interest_ca_2021-04-22_.csv,
-​B.1.526,625,2021-06-30,variants_of_interest_ca_2021-06-30_.csv,​Iota
-​B.1.526.1,522,2021-06-30,variants_of_interest_ca_2021-06-30_.csv,​Not available
-​B.1.525,​51,2021-06-30,variants_of_interest_ca_2021-06-30_.csv,​Eta
-​P.2,​82,2021-06-30,variants_of_interest_ca_2021-06-30_.csv,​Zeta
-​B.1.617.1,​61,2021-06-30,variants_of_interest_ca_2021-06-30_.csv,Kappa
-​B.1.617.3,​1,2021-06-30,variants_of_interest_ca_2021-06-30_.csv,​Not available
-​B.1.526,​562,2021-06-15,variants_of_interest_ca_2021-06-15_.csv,​Iota
-​B.1.526.1,​464,2021-06-15,variants_of_interest_ca_2021-06-15_.csv,​Not available
-​B.1.525,​48,2021-06-15,variants_of_interest_ca_2021-06-15_.csv,​Eta
-​P.2,​79,2021-06-15,variants_of_interest_ca_2021-06-15_.csv,​Zeta
-​B.1.617*,​286,2021-06-15,variants_of_interest_ca_2021-06-15_.csv,"​Delta, Kappa"
-B.1.526,235,2021-05-04,variants_of_interest_ca_2021-05-04_.csv,
-B.1.525,15,2021-05-04,variants_of_interest_ca_2021-05-04_.csv,
-P.2,35,2021-05-04,variants_of_interest_ca_2021-05-04_.csv,
-​B.1.526,625,2021-06-27,variants_of_interest_ca_2021-06-27_.csv,​Iota
-​B.1.526.1,522,2021-06-27,variants_of_interest_ca_2021-06-27_.csv,​Not available
-​B.1.525,​51,2021-06-27,variants_of_interest_ca_2021-06-27_.csv,​Eta
-​P.2,​82,2021-06-27,variants_of_interest_ca_2021-06-27_.csv,​Zeta
-​B.1.617.1,​61,2021-06-27,variants_of_interest_ca_2021-06-27_.csv,Kappa
-​B.1.617.3,​1,2021-06-27,variants_of_interest_ca_2021-06-27_.csv,​Not available
-​B.1.526,​562,2021-06-14,variants_of_interest_ca_2021-06-14_.csv,​Iota
-​B.1.526.1,​464,2021-06-14,variants_of_interest_ca_2021-06-14_.csv,​Not available
-​B.1.525,​48,2021-06-14,variants_of_interest_ca_2021-06-14_.csv,​Eta
-​P.2,​79,2021-06-14,variants_of_interest_ca_2021-06-14_.csv,​Zeta
-​B.1.617*,​286,2021-06-14,variants_of_interest_ca_2021-06-14_.csv,"​Delta, Kappa"
-​B.1.427 and B.1.429,20585,2021-07-01,variants_of_interest_ca_2021-07-01_.csv,Epsilon
-​P.2,​80,2021-07-01,variants_of_interest_ca_2021-07-01_.csv,Zeta
-​B.1.525,​53,2021-07-01,variants_of_interest_ca_2021-07-01_.csv,​Eta
-B.1.526,"​1,410",2021-07-01,variants_of_interest_ca_2021-07-01_.csv,​Iota
-​B.1.617.1,​58,2021-07-01,variants_of_interest_ca_2021-07-01_.csv,Kappa
-​B.1.617.3,​1,2021-07-01,variants_of_interest_ca_2021-07-01_.csv,​Not available
+B.1.526,431,2021-05-20,variants_of_interest_ca_2021-05-20_.csv,
+​B.1.526. 1,​ 297,2021-05-20,variants_of_interest_ca_2021-05-20_.csv,
+B.1.525,43,2021-05-20,variants_of_interest_ca_2021-05-20_.csv,
+P.2,61,2021-05-20,variants_of_interest_ca_2021-05-20_.csv,
+B.1.617*​,​ 163,2021-05-20,variants_of_interest_ca_2021-05-20_.csv,
+​B.1.526,606,2021-06-17,variants_of_interest_ca_2021-06-17_.csv,​Iota
+​B.1.526.1,522,2021-06-17,variants_of_interest_ca_2021-06-17_.csv,​Not available
+​B.1.525,​51,2021-06-17,variants_of_interest_ca_2021-06-17_.csv,​Eta
+​P.2,​81,2021-06-17,variants_of_interest_ca_2021-06-17_.csv,​Zeta
+​B.1.617.1,​60,2021-06-17,variants_of_interest_ca_2021-06-17_.csv,Kappa
+​B.1.617.3,​1,2021-06-17,variants_of_interest_ca_2021-06-17_.csv,​Not available
+​B.1.526,​562,2021-06-16,variants_of_interest_ca_2021-06-16_.csv,​Iota
+​B.1.526.1,​464,2021-06-16,variants_of_interest_ca_2021-06-16_.csv,​Not available
+​B.1.525,​48,2021-06-16,variants_of_interest_ca_2021-06-16_.csv,​Eta
+​P.2,​79,2021-06-16,variants_of_interest_ca_2021-06-16_.csv,​Zeta
+​B.1.617*,​286,2021-06-16,variants_of_interest_ca_2021-06-16_.csv,"​Delta, Kappa"
+B.1.526,493,2021-05-29,variants_of_interest_ca_2021-05-29_.csv,
+​B.1.526. 1,​ 372,2021-05-29,variants_of_interest_ca_2021-05-29_.csv,
+B.1.525,48,2021-05-29,variants_of_interest_ca_2021-05-29_.csv,
+P.2,62,2021-05-29,variants_of_interest_ca_2021-05-29_.csv,
+​B.1.617*,​216,2021-05-29,variants_of_interest_ca_2021-05-29_.csv,
+​B.1.526,​562,2021-06-11,variants_of_interest_ca_2021-06-11_.csv,​Iota
+​B.1.526.1,​464,2021-06-11,variants_of_interest_ca_2021-06-11_.csv,​Not available
+​B.1.525,​48,2021-06-11,variants_of_interest_ca_2021-06-11_.csv,​Eta
+​P.2,​79,2021-06-11,variants_of_interest_ca_2021-06-11_.csv,​Zeta
+​B.1.617*,​286,2021-06-11,variants_of_interest_ca_2021-06-11_.csv,"​Delta, Kappa"
 ​B.1.427 and B.1.429,20585,2021-07-06,variants_of_interest_ca_2021-07-06_.csv,Epsilon
 ​P.2,​80,2021-07-06,variants_of_interest_ca_2021-07-06_.csv,Zeta
 ​B.1.525,​53,2021-07-06,variants_of_interest_ca_2021-07-06_.csv,​Eta
 B.1.526,"​1,410",2021-07-06,variants_of_interest_ca_2021-07-06_.csv,​Iota
 ​B.1.617.1,​58,2021-07-06,variants_of_interest_ca_2021-07-06_.csv,Kappa
 ​B.1.617.3,​1,2021-07-06,variants_of_interest_ca_2021-07-06_.csv,​Not available
-B.1.526,493,2021-06-01,variants_of_interest_ca_2021-06-01_.csv,
-​B.1.526. 1,​ 372,2021-06-01,variants_of_interest_ca_2021-06-01_.csv,
-B.1.525,48,2021-06-01,variants_of_interest_ca_2021-06-01_.csv,
-P.2,62,2021-06-01,variants_of_interest_ca_2021-06-01_.csv,
-​B.1.617*,​216,2021-06-01,variants_of_interest_ca_2021-06-01_.csv,
-B.1.526,321,2021-05-16,variants_of_interest_ca_2021-05-16_.csv,
-​B.1.526. 1,​206,2021-05-16,variants_of_interest_ca_2021-05-16_.csv,
-B.1.525,36,2021-05-16,variants_of_interest_ca_2021-05-16_.csv,
-P.2,61,2021-05-16,variants_of_interest_ca_2021-05-16_.csv,
-B.1.617*​,​104,2021-05-16,variants_of_interest_ca_2021-05-16_.csv,
-B.1.526,235,2021-04-30,variants_of_interest_ca_2021-04-30_.csv,
-B.1.525,15,2021-04-30,variants_of_interest_ca_2021-04-30_.csv,
-P.2,35,2021-04-30,variants_of_interest_ca_2021-04-30_.csv,
-B.1.526,431,2021-05-26,variants_of_interest_ca_2021-05-26_.csv,
-​B.1.526. 1,​ 297,2021-05-26,variants_of_interest_ca_2021-05-26_.csv,
-B.1.525,43,2021-05-26,variants_of_interest_ca_2021-05-26_.csv,
-P.2,61,2021-05-26,variants_of_interest_ca_2021-05-26_.csv,
-B.1.617*​,​ 163,2021-05-26,variants_of_interest_ca_2021-05-26_.csv,
-​B.1.427 and B.1.429,20585,2021-07-04,variants_of_interest_ca_2021-07-04_.csv,Epsilon
-​P.2,​80,2021-07-04,variants_of_interest_ca_2021-07-04_.csv,Zeta
-​B.1.525,​53,2021-07-04,variants_of_interest_ca_2021-07-04_.csv,​Eta
-B.1.526,"​1,410",2021-07-04,variants_of_interest_ca_2021-07-04_.csv,​Iota
-​B.1.617.1,​58,2021-07-04,variants_of_interest_ca_2021-07-04_.csv,Kappa
-​B.1.617.3,​1,2021-07-04,variants_of_interest_ca_2021-07-04_.csv,​Not available
+​B.1.526,606,2021-06-21,variants_of_interest_ca_2021-06-21_.csv,​Iota
+​B.1.526.1,522,2021-06-21,variants_of_interest_ca_2021-06-21_.csv,​Not available
+​B.1.525,​51,2021-06-21,variants_of_interest_ca_2021-06-21_.csv,​Eta
+​P.2,​81,2021-06-21,variants_of_interest_ca_2021-06-21_.csv,​Zeta
+​B.1.617.1,​60,2021-06-21,variants_of_interest_ca_2021-06-21_.csv,Kappa
+​B.1.617.3,​1,2021-06-21,variants_of_interest_ca_2021-06-21_.csv,​Not available
+​B.1.427 and B.1.429,20585,2021-07-02,variants_of_interest_ca_2021-07-02_.csv,Epsilon
+​P.2,​80,2021-07-02,variants_of_interest_ca_2021-07-02_.csv,Zeta
+​B.1.525,​53,2021-07-02,variants_of_interest_ca_2021-07-02_.csv,​Eta
+B.1.526,"​1,410",2021-07-02,variants_of_interest_ca_2021-07-02_.csv,​Iota
+​B.1.617.1,​58,2021-07-02,variants_of_interest_ca_2021-07-02_.csv,Kappa
+​B.1.617.3,​1,2021-07-02,variants_of_interest_ca_2021-07-02_.csv,​Not available
+​B.1.526,​562,2021-06-15,variants_of_interest_ca_2021-06-15_.csv,​Iota
+​B.1.526.1,​464,2021-06-15,variants_of_interest_ca_2021-06-15_.csv,​Not available
+​B.1.525,​48,2021-06-15,variants_of_interest_ca_2021-06-15_.csv,​Eta
+​P.2,​79,2021-06-15,variants_of_interest_ca_2021-06-15_.csv,​Zeta
+​B.1.617*,​286,2021-06-15,variants_of_interest_ca_2021-06-15_.csv,"​Delta, Kappa"
+​B.1.526,625,2021-06-28,variants_of_interest_ca_2021-06-28_.csv,​Iota
+​B.1.526.1,522,2021-06-28,variants_of_interest_ca_2021-06-28_.csv,​Not available
+​B.1.525,​51,2021-06-28,variants_of_interest_ca_2021-06-28_.csv,​Eta
+​P.2,​82,2021-06-28,variants_of_interest_ca_2021-06-28_.csv,​Zeta
+​B.1.617.1,​61,2021-06-28,variants_of_interest_ca_2021-06-28_.csv,Kappa
+​B.1.617.3,​1,2021-06-28,variants_of_interest_ca_2021-06-28_.csv,​Not available
+B.1.526,431,2021-05-22,variants_of_interest_ca_2021-05-22_.csv,
+​B.1.526. 1,​ 297,2021-05-22,variants_of_interest_ca_2021-05-22_.csv,
+B.1.525,43,2021-05-22,variants_of_interest_ca_2021-05-22_.csv,
+P.2,61,2021-05-22,variants_of_interest_ca_2021-05-22_.csv,
+B.1.617*​,​ 163,2021-05-22,variants_of_interest_ca_2021-05-22_.csv,
+B.1.526,493,2021-05-27,variants_of_interest_ca_2021-05-27_.csv,
+​B.1.526. 1,​ 372,2021-05-27,variants_of_interest_ca_2021-05-27_.csv,
+B.1.525,48,2021-05-27,variants_of_interest_ca_2021-05-27_.csv,
+P.2,62,2021-05-27,variants_of_interest_ca_2021-05-27_.csv,
+​B.1.617*,​216,2021-05-27,variants_of_interest_ca_2021-05-27_.csv,
+B.1.526,431,2021-05-21,variants_of_interest_ca_2021-05-21_.csv,
+​B.1.526. 1,​ 297,2021-05-21,variants_of_interest_ca_2021-05-21_.csv,
+B.1.525,43,2021-05-21,variants_of_interest_ca_2021-05-21_.csv,
+P.2,61,2021-05-21,variants_of_interest_ca_2021-05-21_.csv,
+B.1.617*​,​ 163,2021-05-21,variants_of_interest_ca_2021-05-21_.csv,
+B.1.526,493,2021-05-30,variants_of_interest_ca_2021-05-30_.csv,
+​B.1.526. 1,​ 372,2021-05-30,variants_of_interest_ca_2021-05-30_.csv,
+B.1.525,48,2021-05-30,variants_of_interest_ca_2021-05-30_.csv,
+P.2,62,2021-05-30,variants_of_interest_ca_2021-05-30_.csv,
+​B.1.617*,​216,2021-05-30,variants_of_interest_ca_2021-05-30_.csv,
+​B.1.526,625,2021-06-26,variants_of_interest_ca_2021-06-26_.csv,​Iota
+​B.1.526.1,522,2021-06-26,variants_of_interest_ca_2021-06-26_.csv,​Not available
+​B.1.525,​51,2021-06-26,variants_of_interest_ca_2021-06-26_.csv,​Eta
+​P.2,​82,2021-06-26,variants_of_interest_ca_2021-06-26_.csv,​Zeta
+​B.1.617.1,​61,2021-06-26,variants_of_interest_ca_2021-06-26_.csv,Kappa
+​B.1.617.3,​1,2021-06-26,variants_of_interest_ca_2021-06-26_.csv,​Not available
+​B.1.526,​562,2021-06-12,variants_of_interest_ca_2021-06-12_.csv,​Iota
+​B.1.526.1,​464,2021-06-12,variants_of_interest_ca_2021-06-12_.csv,​Not available
+​B.1.525,​48,2021-06-12,variants_of_interest_ca_2021-06-12_.csv,​Eta
+​P.2,​79,2021-06-12,variants_of_interest_ca_2021-06-12_.csv,​Zeta
+​B.1.617*,​286,2021-06-12,variants_of_interest_ca_2021-06-12_.csv,"​Delta, Kappa"
+B.1.526,281,2021-05-08,variants_of_interest_ca_2021-05-08_.csv,
+B.1.525,27,2021-05-08,variants_of_interest_ca_2021-05-08_.csv,
+P.2,61,2021-05-08,variants_of_interest_ca_2021-05-08_.csv,
+​B.1.526,​532,2021-06-07,variants_of_interest_ca_2021-06-07_.csv,​Iota
+​B.1.526.1,​442,2021-06-07,variants_of_interest_ca_2021-06-07_.csv,​Not available
+​B.1.525,​48,2021-06-07,variants_of_interest_ca_2021-06-07_.csv,​Eta
+​P.2,​78,2021-06-07,variants_of_interest_ca_2021-06-07_.csv,​Zeta
+​B.1.617*,​258,2021-06-07,variants_of_interest_ca_2021-06-07_.csv,"​Delta, Kappa"
+​B.1.526,606,2021-06-20,variants_of_interest_ca_2021-06-20_.csv,​Iota
+​B.1.526.1,522,2021-06-20,variants_of_interest_ca_2021-06-20_.csv,​Not available
+​B.1.525,​51,2021-06-20,variants_of_interest_ca_2021-06-20_.csv,​Eta
+​P.2,​81,2021-06-20,variants_of_interest_ca_2021-06-20_.csv,​Zeta
+​B.1.617.1,​60,2021-06-20,variants_of_interest_ca_2021-06-20_.csv,Kappa
+​B.1.617.3,​1,2021-06-20,variants_of_interest_ca_2021-06-20_.csv,​Not available
+B.1.526,493,2021-06-02,variants_of_interest_ca_2021-06-02_.csv,
+​B.1.526. 1,​ 372,2021-06-02,variants_of_interest_ca_2021-06-02_.csv,
+B.1.525,48,2021-06-02,variants_of_interest_ca_2021-06-02_.csv,
+P.2,62,2021-06-02,variants_of_interest_ca_2021-06-02_.csv,
+​B.1.617*,​216,2021-06-02,variants_of_interest_ca_2021-06-02_.csv,
+B.1.526,235,2021-05-05,variants_of_interest_ca_2021-05-05_.csv,
+B.1.525,15,2021-05-05,variants_of_interest_ca_2021-05-05_.csv,
+P.2,35,2021-05-05,variants_of_interest_ca_2021-05-05_.csv,
+B.1.526,235,2021-05-02,variants_of_interest_ca_2021-05-02_.csv,
+B.1.525,15,2021-05-02,variants_of_interest_ca_2021-05-02_.csv,
+P.2,35,2021-05-02,variants_of_interest_ca_2021-05-02_.csv,
+B.1.526,281,2021-05-07,variants_of_interest_ca_2021-05-07_.csv,
+B.1.525,27,2021-05-07,variants_of_interest_ca_2021-05-07_.csv,
+P.2,61,2021-05-07,variants_of_interest_ca_2021-05-07_.csv,
+​B.1.427 and B.1.429,23464,2021-07-12,variants_of_interest_ca_2021-07-12_.csv,Epsilon
+​P.2,​91,2021-07-12,variants_of_interest_ca_2021-07-12_.csv,Zeta
+​B.1.525,​56,2021-07-12,variants_of_interest_ca_2021-07-12_.csv,​Eta
+B.1.526,"​1,579",2021-07-12,variants_of_interest_ca_2021-07-12_.csv,​Iota
+​B.1.617.1,​61,2021-07-12,variants_of_interest_ca_2021-07-12_.csv,Kappa
+​B.1.617.3,​1,2021-07-12,variants_of_interest_ca_2021-07-12_.csv,​Not available
+​B.1.427 and B.1.429,20585,2021-07-01,variants_of_interest_ca_2021-07-01_.csv,Epsilon
+​P.2,​80,2021-07-01,variants_of_interest_ca_2021-07-01_.csv,Zeta
+​B.1.525,​53,2021-07-01,variants_of_interest_ca_2021-07-01_.csv,​Eta
+B.1.526,"​1,410",2021-07-01,variants_of_interest_ca_2021-07-01_.csv,​Iota
+​B.1.617.1,​58,2021-07-01,variants_of_interest_ca_2021-07-01_.csv,Kappa
+​B.1.617.3,​1,2021-07-01,variants_of_interest_ca_2021-07-01_.csv,​Not available
+​B.1.526,​562,2021-06-10,variants_of_interest_ca_2021-06-10_.csv,​Iota
+​B.1.526.1,​464,2021-06-10,variants_of_interest_ca_2021-06-10_.csv,​Not available
+​B.1.525,​48,2021-06-10,variants_of_interest_ca_2021-06-10_.csv,​Eta
+​P.2,​79,2021-06-10,variants_of_interest_ca_2021-06-10_.csv,​Zeta
+​B.1.617*,​286,2021-06-10,variants_of_interest_ca_2021-06-10_.csv,"​Delta, Kappa"
+B.1.526,146,2021-04-24,variants_of_interest_ca_2021-04-24_.csv,
+B.1.525,8,2021-04-24,variants_of_interest_ca_2021-04-24_.csv,
+P.2,35,2021-04-24,variants_of_interest_ca_2021-04-24_.csv,
+B.1.526,78,2021-04-21,variants_of_interest_ca_2021-04-21_.csv,
+B.1.525,5,2021-04-21,variants_of_interest_ca_2021-04-21_.csv,
+P.2,33,2021-04-21,variants_of_interest_ca_2021-04-21_.csv,
+​B.1.526,606,2021-06-23,variants_of_interest_ca_2021-06-23_.csv,​Iota
+​B.1.526.1,522,2021-06-23,variants_of_interest_ca_2021-06-23_.csv,​Not available
+​B.1.525,​51,2021-06-23,variants_of_interest_ca_2021-06-23_.csv,​Eta
+​P.2,​81,2021-06-23,variants_of_interest_ca_2021-06-23_.csv,​Zeta
+​B.1.617.1,​60,2021-06-23,variants_of_interest_ca_2021-06-23_.csv,Kappa
+​B.1.617.3,​1,2021-06-23,variants_of_interest_ca_2021-06-23_.csv,​Not available
+B.1.526,281,2021-05-11,variants_of_interest_ca_2021-05-11_.csv,
+B.1.525,27,2021-05-11,variants_of_interest_ca_2021-05-11_.csv,
+P.2,61,2021-05-11,variants_of_interest_ca_2021-05-11_.csv,
+B.1.526,235,2021-05-01,variants_of_interest_ca_2021-05-01_.csv,
+B.1.525,15,2021-05-01,variants_of_interest_ca_2021-05-01_.csv,
+P.2,35,2021-05-01,variants_of_interest_ca_2021-05-01_.csv,
+​B.1.526,625,2021-06-25,variants_of_interest_ca_2021-06-25_.csv,​Iota
+​B.1.526.1,522,2021-06-25,variants_of_interest_ca_2021-06-25_.csv,​Not available
+​B.1.525,​51,2021-06-25,variants_of_interest_ca_2021-06-25_.csv,​Eta
+​P.2,​82,2021-06-25,variants_of_interest_ca_2021-06-25_.csv,​Zeta
+​B.1.617.1,​61,2021-06-25,variants_of_interest_ca_2021-06-25_.csv,Kappa
+​B.1.617.3,​1,2021-06-25,variants_of_interest_ca_2021-06-25_.csv,​Not available
+B.1.526,235,2021-05-03,variants_of_interest_ca_2021-05-03_.csv,
+B.1.525,15,2021-05-03,variants_of_interest_ca_2021-05-03_.csv,
+P.2,35,2021-05-03,variants_of_interest_ca_2021-05-03_.csv,
+B.1.526,431,2021-05-24,variants_of_interest_ca_2021-05-24_.csv,
+​B.1.526. 1,​ 297,2021-05-24,variants_of_interest_ca_2021-05-24_.csv,
+B.1.525,43,2021-05-24,variants_of_interest_ca_2021-05-24_.csv,
+P.2,61,2021-05-24,variants_of_interest_ca_2021-05-24_.csv,
+B.1.617*​,​ 163,2021-05-24,variants_of_interest_ca_2021-05-24_.csv,
+​B.1.526,625,2021-06-24,variants_of_interest_ca_2021-06-24_.csv,​Iota
+​B.1.526.1,522,2021-06-24,variants_of_interest_ca_2021-06-24_.csv,​Not available
+​B.1.525,​51,2021-06-24,variants_of_interest_ca_2021-06-24_.csv,​Eta
+​P.2,​82,2021-06-24,variants_of_interest_ca_2021-06-24_.csv,​Zeta
+​B.1.617.1,​61,2021-06-24,variants_of_interest_ca_2021-06-24_.csv,Kappa
+​B.1.617.3,​1,2021-06-24,variants_of_interest_ca_2021-06-24_.csv,​Not available
+B.1.526,146,2021-04-28,variants_of_interest_ca_2021-04-28_.csv,
+B.1.525,8,2021-04-28,variants_of_interest_ca_2021-04-28_.csv,
+P.2,35,2021-04-28,variants_of_interest_ca_2021-04-28_.csv,
 B.1.526,78,2021-04-18,variants_of_interest_ca_2021-04-18_.csv,
 B.1.525,5,2021-04-18,variants_of_interest_ca_2021-04-18_.csv,
 P.2,33,2021-04-18,variants_of_interest_ca_2021-04-18_.csv,
@@ -390,33 +341,82 @@ B.1.526,321,2021-05-15,variants_of_interest_ca_2021-05-15_.csv,
 B.1.525,36,2021-05-15,variants_of_interest_ca_2021-05-15_.csv,
 P.2,61,2021-05-15,variants_of_interest_ca_2021-05-15_.csv,
 B.1.617*​,​104,2021-05-15,variants_of_interest_ca_2021-05-15_.csv,
-B.1.526,146,2021-04-26,variants_of_interest_ca_2021-04-26_.csv,
-B.1.525,8,2021-04-26,variants_of_interest_ca_2021-04-26_.csv,
-P.2,35,2021-04-26,variants_of_interest_ca_2021-04-26_.csv,
-B.1.526,235,2021-05-02,variants_of_interest_ca_2021-05-02_.csv,
-B.1.525,15,2021-05-02,variants_of_interest_ca_2021-05-02_.csv,
-P.2,35,2021-05-02,variants_of_interest_ca_2021-05-02_.csv,
-​B.1.427 and B.1.429,23464,2021-07-09,variants_of_interest_ca_2021-07-09_.csv,Epsilon
-​P.2,​91,2021-07-09,variants_of_interest_ca_2021-07-09_.csv,Zeta
-​B.1.525,​56,2021-07-09,variants_of_interest_ca_2021-07-09_.csv,​Eta
-B.1.526,"​1,579",2021-07-09,variants_of_interest_ca_2021-07-09_.csv,​Iota
-​B.1.617.1,​61,2021-07-09,variants_of_interest_ca_2021-07-09_.csv,Kappa
-​B.1.617.3,​1,2021-07-09,variants_of_interest_ca_2021-07-09_.csv,​Not available
-B.1.526,321,2021-05-19,variants_of_interest_ca_2021-05-19_.csv,
-​B.1.526. 1,​206,2021-05-19,variants_of_interest_ca_2021-05-19_.csv,
-B.1.525,36,2021-05-19,variants_of_interest_ca_2021-05-19_.csv,
-P.2,61,2021-05-19,variants_of_interest_ca_2021-05-19_.csv,
-B.1.617*​,​104,2021-05-19,variants_of_interest_ca_2021-05-19_.csv,
-B.1.526,146,2021-04-27,variants_of_interest_ca_2021-04-27_.csv,
-B.1.525,8,2021-04-27,variants_of_interest_ca_2021-04-27_.csv,
-P.2,35,2021-04-27,variants_of_interest_ca_2021-04-27_.csv,
+​B.1.526,606,2021-06-19,variants_of_interest_ca_2021-06-19_.csv,​Iota
+​B.1.526.1,522,2021-06-19,variants_of_interest_ca_2021-06-19_.csv,​Not available
+​B.1.525,​51,2021-06-19,variants_of_interest_ca_2021-06-19_.csv,​Eta
+​P.2,​81,2021-06-19,variants_of_interest_ca_2021-06-19_.csv,​Zeta
+​B.1.617.1,​60,2021-06-19,variants_of_interest_ca_2021-06-19_.csv,Kappa
+​B.1.617.3,​1,2021-06-19,variants_of_interest_ca_2021-06-19_.csv,​Not available
+​B.1.526,​532,2021-06-08,variants_of_interest_ca_2021-06-08_.csv,​Iota
+​B.1.526.1,​442,2021-06-08,variants_of_interest_ca_2021-06-08_.csv,​Not available
+​B.1.525,​48,2021-06-08,variants_of_interest_ca_2021-06-08_.csv,​Eta
+​P.2,​78,2021-06-08,variants_of_interest_ca_2021-06-08_.csv,​Zeta
+​B.1.617*,​258,2021-06-08,variants_of_interest_ca_2021-06-08_.csv,"​Delta, Kappa"
 B.1.526,321,2021-05-13,variants_of_interest_ca_2021-05-13_.csv,
 ​B.1.526. 1,​206,2021-05-13,variants_of_interest_ca_2021-05-13_.csv,
 B.1.525,36,2021-05-13,variants_of_interest_ca_2021-05-13_.csv,
 P.2,61,2021-05-13,variants_of_interest_ca_2021-05-13_.csv,
 B.1.617*​,​104,2021-05-13,variants_of_interest_ca_2021-05-13_.csv,
-​B.1.526,​532,2021-06-04,variants_of_interest_ca_2021-06-04_.csv,​Iota
-​B.1.526.1,​442,2021-06-04,variants_of_interest_ca_2021-06-04_.csv,​Not available
-​B.1.525,​48,2021-06-04,variants_of_interest_ca_2021-06-04_.csv,​Eta
-​P.2,​78,2021-06-04,variants_of_interest_ca_2021-06-04_.csv,​Zeta
-​B.1.617*,​258,2021-06-04,variants_of_interest_ca_2021-06-04_.csv,"​Delta, Kappa"
+​B.1.526,625,2021-06-27,variants_of_interest_ca_2021-06-27_.csv,​Iota
+​B.1.526.1,522,2021-06-27,variants_of_interest_ca_2021-06-27_.csv,​Not available
+​B.1.525,​51,2021-06-27,variants_of_interest_ca_2021-06-27_.csv,​Eta
+​P.2,​82,2021-06-27,variants_of_interest_ca_2021-06-27_.csv,​Zeta
+​B.1.617.1,​61,2021-06-27,variants_of_interest_ca_2021-06-27_.csv,Kappa
+​B.1.617.3,​1,2021-06-27,variants_of_interest_ca_2021-06-27_.csv,​Not available
+B.1.526,493,2021-05-31,variants_of_interest_ca_2021-05-31_.csv,
+​B.1.526. 1,​ 372,2021-05-31,variants_of_interest_ca_2021-05-31_.csv,
+B.1.525,48,2021-05-31,variants_of_interest_ca_2021-05-31_.csv,
+P.2,62,2021-05-31,variants_of_interest_ca_2021-05-31_.csv,
+​B.1.617*,​216,2021-05-31,variants_of_interest_ca_2021-05-31_.csv,
+​B.1.526,​532,2021-06-05,variants_of_interest_ca_2021-06-05_.csv,​Iota
+​B.1.526.1,​442,2021-06-05,variants_of_interest_ca_2021-06-05_.csv,​Not available
+​B.1.525,​48,2021-06-05,variants_of_interest_ca_2021-06-05_.csv,​Eta
+​P.2,​78,2021-06-05,variants_of_interest_ca_2021-06-05_.csv,​Zeta
+​B.1.617*,​258,2021-06-05,variants_of_interest_ca_2021-06-05_.csv,"​Delta, Kappa"
+B.1.526,281,2021-05-06,variants_of_interest_ca_2021-05-06_.csv,
+B.1.525,27,2021-05-06,variants_of_interest_ca_2021-05-06_.csv,
+P.2,61,2021-05-06,variants_of_interest_ca_2021-05-06_.csv,
+​B.1.526,625,2021-06-29,variants_of_interest_ca_2021-06-29_.csv,​Iota
+​B.1.526.1,522,2021-06-29,variants_of_interest_ca_2021-06-29_.csv,​Not available
+​B.1.525,​51,2021-06-29,variants_of_interest_ca_2021-06-29_.csv,​Eta
+​P.2,​82,2021-06-29,variants_of_interest_ca_2021-06-29_.csv,​Zeta
+​B.1.617.1,​61,2021-06-29,variants_of_interest_ca_2021-06-29_.csv,Kappa
+​B.1.617.3,​1,2021-06-29,variants_of_interest_ca_2021-06-29_.csv,​Not available
+​B.1.526,625,2021-06-30,variants_of_interest_ca_2021-06-30_.csv,​Iota
+​B.1.526.1,522,2021-06-30,variants_of_interest_ca_2021-06-30_.csv,​Not available
+​B.1.525,​51,2021-06-30,variants_of_interest_ca_2021-06-30_.csv,​Eta
+​P.2,​82,2021-06-30,variants_of_interest_ca_2021-06-30_.csv,​Zeta
+​B.1.617.1,​61,2021-06-30,variants_of_interest_ca_2021-06-30_.csv,Kappa
+​B.1.617.3,​1,2021-06-30,variants_of_interest_ca_2021-06-30_.csv,​Not available
+B.1.526,431,2021-05-25,variants_of_interest_ca_2021-05-25_.csv,
+​B.1.526. 1,​ 297,2021-05-25,variants_of_interest_ca_2021-05-25_.csv,
+B.1.525,43,2021-05-25,variants_of_interest_ca_2021-05-25_.csv,
+P.2,61,2021-05-25,variants_of_interest_ca_2021-05-25_.csv,
+B.1.617*​,​ 163,2021-05-25,variants_of_interest_ca_2021-05-25_.csv,
+B.1.526,235,2021-04-30,variants_of_interest_ca_2021-04-30_.csv,
+B.1.525,15,2021-04-30,variants_of_interest_ca_2021-04-30_.csv,
+P.2,35,2021-04-30,variants_of_interest_ca_2021-04-30_.csv,
+​B.1.427 and B.1.429,20585,2021-07-04,variants_of_interest_ca_2021-07-04_.csv,Epsilon
+​P.2,​80,2021-07-04,variants_of_interest_ca_2021-07-04_.csv,Zeta
+​B.1.525,​53,2021-07-04,variants_of_interest_ca_2021-07-04_.csv,​Eta
+B.1.526,"​1,410",2021-07-04,variants_of_interest_ca_2021-07-04_.csv,​Iota
+​B.1.617.1,​58,2021-07-04,variants_of_interest_ca_2021-07-04_.csv,Kappa
+​B.1.617.3,​1,2021-07-04,variants_of_interest_ca_2021-07-04_.csv,​Not available
+B.1.526,321,2021-05-17,variants_of_interest_ca_2021-05-17_.csv,
+​B.1.526. 1,​206,2021-05-17,variants_of_interest_ca_2021-05-17_.csv,
+B.1.525,36,2021-05-17,variants_of_interest_ca_2021-05-17_.csv,
+P.2,61,2021-05-17,variants_of_interest_ca_2021-05-17_.csv,
+B.1.617*​,​104,2021-05-17,variants_of_interest_ca_2021-05-17_.csv,
+B.1.526,493,2021-06-01,variants_of_interest_ca_2021-06-01_.csv,
+​B.1.526. 1,​ 372,2021-06-01,variants_of_interest_ca_2021-06-01_.csv,
+B.1.525,48,2021-06-01,variants_of_interest_ca_2021-06-01_.csv,
+P.2,62,2021-06-01,variants_of_interest_ca_2021-06-01_.csv,
+​B.1.617*,​216,2021-06-01,variants_of_interest_ca_2021-06-01_.csv,
+B.1.526,78,2021-04-17,variants_of_interest_ca_2021-04-17_.csv,
+B.1.525,5,2021-04-17,variants_of_interest_ca_2021-04-17_.csv,
+P.2,33,2021-04-17,variants_of_interest_ca_2021-04-17_.csv,
+​B.1.526,​562,2021-06-13,variants_of_interest_ca_2021-06-13_.csv,​Iota
+​B.1.526.1,​464,2021-06-13,variants_of_interest_ca_2021-06-13_.csv,​Not available
+​B.1.525,​48,2021-06-13,variants_of_interest_ca_2021-06-13_.csv,​Eta
+​P.2,​79,2021-06-13,variants_of_interest_ca_2021-06-13_.csv,​Zeta
+​B.1.617*,​286,2021-06-13,variants_of_interest_ca_2021-06-13_.csv,"​Delta, Kappa"
