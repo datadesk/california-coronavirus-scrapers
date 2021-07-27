@@ -40,7 +40,11 @@ def main():
     
     # Roll up everything
     csv_list = [i for i in DATA_DIR.glob("*.csv") if not str(i).endswith('latest.csv')]
-    df = pd.concat(pd.read_csv(c, parse_dates=["Date"],) for c in csv_list)
+    df = (
+        pd.concat(pd.read_csv(c, parse_dates=["Date"],) for c in csv_list)
+        .sort_values(["Date", "Location"])
+        .drop_duplicates(keep="first")
+    )
     df.to_csv(DATA_DIR / "timeseries.csv", index=False)
 
 
