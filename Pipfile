@@ -17,6 +17,7 @@ bs4 = "*"
 pytz = "*"
 appnope = "*"
 tableauscraper = "==0.1.10"
+urllib3 = ">=1.26.5"
 
 [requires]
 python_version = "3.8"

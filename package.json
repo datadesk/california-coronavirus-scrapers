@@ -17,6 +17,7 @@
   "homepage": "https://github.com/datadesk/california-coronavirus-scrapers#readme",
   "dependencies": {
     "dataproofer": "^2.0.4",
-    "minimist": ">=0.2.1"
+    "minimist": ">=0.2.1",
+    "xlsx": ">=0.17.0"
   }
 }
