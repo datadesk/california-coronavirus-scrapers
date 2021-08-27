@@ -1,5 +1,5 @@
-name: "Install with pipenv"
-description: "Install Python packages with pipenv"
+name: "Install Python, pipenv and Pipfile packages"
+description: "Install Python, pipenv and Pipfile packages"
 
 inputs:
   python-version:
