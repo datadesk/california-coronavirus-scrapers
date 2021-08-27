@@ -12,7 +12,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Install Python and pipenv packages
+      - name: Install Python, pipenv and Pipfile packages
         uses: ./.github/actions/install-python-pipenv-pipfile
         with:
             python-version: 3.8
