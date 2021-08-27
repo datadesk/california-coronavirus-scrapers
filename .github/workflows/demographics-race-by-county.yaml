@@ -12,18 +12,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Install Python
-        uses: actions/setup-python@v2
+      - name: Install Python, pipenv and Pipfile packages
+        uses: palewire/install-python-pipenv-pipfile@v1
         with:
           python-version: 3.8
-      
-      - name: Setup Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: 14
-
-      - name: Install dependencies
-        uses: ./.github/actions/install-deps
 
       - name: Run
         run: make -f ./demographics-race-by-county/Makefile
