@@ -13,9 +13,9 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Install Python, pipenv and Pipfile packages
-        uses: ./.github/actions/install-python-pipenv-pipfile
+        uses: palewire/install-python-pipenv-pipfile@v1
         with:
-            python-version: 3.8
+          python-version: 3.8
 
       - name: Run
         run: make -f ./bed-surges/Makefile
@@ -26,4 +26,4 @@ jobs:
         uses: ./.github/actions/commit
         if: always()
         with:
-            message: bed-surges scrape
+          message: bed-surges scrape
