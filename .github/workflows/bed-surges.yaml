@@ -9,15 +9,7 @@ jobs:
     name: Scrape
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-
-      - name: Install Python, pipenv and Pipfile packages
-        uses: palewire/install-python-pipenv-pipfile@v2
-        with:
-          python-version: 3.8
-
-      - name: Run scraper
+      - name: Run
         uses: ./.github/actions/scrape
         with:
           module: bed-surges
