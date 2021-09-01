@@ -1,0 +1,25 @@
+inputs:
+  module:
+    description: “The module to run”
+    required: true
+
+runs:
+  using: "composite"
+  steps:
+    - id: make
+      name: Run make command
+      run: make -f ./${{ inputs.module }}/Makefile
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - id: commit 
+      name: Commit results
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "actions@github.com"
+        git config pull.rebase false
+        git status
+        git pull origin $GITHUB_REF
+        git add ./
+        git commit -m "${{ inputs.module }} scrape" && git push || true
+      shell: bash

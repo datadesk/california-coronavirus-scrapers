@@ -17,13 +17,7 @@ jobs:
         with:
           python-version: 3.8
 
-      - name: Run
-        run: make -f ./bed-surges/Makefile
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit
-        uses: ./.github/actions/commit
-        if: always()
+      - name: Run scraper
+        uses: ./.github/actions/scrape
         with:
-          message: bed-surges scrape
+          module: bed-surges
