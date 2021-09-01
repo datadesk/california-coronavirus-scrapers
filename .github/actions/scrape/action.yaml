@@ -6,10 +6,6 @@ inputs:
 runs:
   using: "composite"
   steps:
-    - id: checkout
-      name: Checkout
-      uses: actions/checkout@v2
-
     - id: install
       name: Install Python, pipenv and Pipfile packages
       uses: palewire/install-python-pipenv-pipfile@v2

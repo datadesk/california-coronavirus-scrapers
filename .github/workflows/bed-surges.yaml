@@ -9,6 +9,10 @@ jobs:
     name: Scrape
     runs-on: ubuntu-latest
     steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v2
+
       - name: Run
         uses: ./.github/actions/scrape
         with:
