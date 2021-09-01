@@ -16,8 +16,6 @@ runs:
       name: Run make command
       run: make -f ./${{ inputs.module }}/Makefile
       shell: bash
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - id: commit
       name: Commit results
