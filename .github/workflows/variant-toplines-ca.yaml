@@ -1,5 +1,7 @@
-name: School reopenings
+name: Variants in California
 on:
+  schedule:
+    - cron: '50 */4 * * *'
   workflow_dispatch:
 
 jobs:
@@ -15,4 +17,4 @@ jobs:
         name: Run
         uses: ./.github/actions/scrape
         with:
-          module: school-reopenings
+          module: variant-toplines-ca

@@ -9,21 +9,12 @@ jobs:
     name: Scrape
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - id: checkout
+        name: Checkout
         uses: actions/checkout@v2
 
-      - name: Install Python, pipenv and Pipfile packages
-        uses: palewire/install-python-pipenv-pipfile@v2
+      - id: run
+        name: Run
+        uses: ./.github/actions/scrape
         with:
-          python-version: 3.8
-
-      - name: Run
-        run: make -f ./federal-prisons/Makefile
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit
-        uses: ./.github/actions/commit
-        if: always()
-        with:
-            message: federal-prisons scrape
+          module: federal-prisons
