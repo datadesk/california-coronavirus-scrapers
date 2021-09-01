@@ -16,7 +16,7 @@ DATA_DIR = THIS_DIR / "data"
 def main():
     """
     Download the data.
-    
+
     Because the csv link changes with date, we need to use the API point. The limit is set at 500000
     to ensure we get all.
     """

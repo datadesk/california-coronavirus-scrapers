@@ -1,9 +1,7 @@
 """
 Download hospital location data from the U.S. Department of Health and Human Services.
 """
-import io
 import pathlib
-import requests
 import pandas as pd
 
 # Pathing

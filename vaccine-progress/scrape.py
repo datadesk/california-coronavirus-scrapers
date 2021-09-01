@@ -10,6 +10,7 @@ import pandas as pd
 THIS_DIR = pathlib.Path(__file__).parent.absolute()
 DATA_DIR = THIS_DIR / "data"
 
+
 def main():
     """
     Download the Tableau export as a CSV.

@@ -17,9 +17,12 @@ jobs:
           sudo apt install -y poppler-utils
 
       - name: Install Python, pipenv and Pipfile packages
-        uses: palewire/install-python-pipenv-pipfile@v1
+        uses: palewire/install-python-pipenv-pipfile@v2
         with:
           python-version: 3.8
+
+      - name: Lint Python
+        run: make lint_python
 
       - name: Lint notebooks
         run: make lint_notebooks

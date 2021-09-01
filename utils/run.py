@@ -13,11 +13,10 @@ Usage: run.py [OPTIONS] [NOTEBOOK_PATHS]...
     Example:
 
         $ python run.py ./src/notebooks.ipynb
-    
+
     Options:
         --help  Show this message and exit.
 """
-import os
 import click
 import pathlib
 import nbformat
@@ -79,6 +78,7 @@ def main(notebook_paths):
             # Once all that's done, write out the output notebook to the filesystem
             with open(output_path, mode='w', encoding='utf-8') as f:
                 nbformat.write(nb, f)
+
 
 if __name__ == '__main__':
     main()

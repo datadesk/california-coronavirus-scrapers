@@ -1,5 +1,5 @@
 """
-Download the status of each county according to California's tier-based reopening framework. 
+Download the status of each county according to California's tier-based reopening framework.
 
 Source: https://covid19.ca.gov/safer-economy/
 """

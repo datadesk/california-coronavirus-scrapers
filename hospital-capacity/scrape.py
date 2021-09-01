@@ -14,6 +14,7 @@ DATA_DIR = THIS_DIR / "data"
 # Constants
 DEFAULT_LIMIT = 5000
 
+
 def get(url, **kwargs):
     """
     Read data from the requested resource.
@@ -23,7 +24,7 @@ def get(url, **kwargs):
 
     response = requests.get(url, params=params, stream=True)
     response.raise_for_status()
-    
+
     csv_stream = io.StringIO(response.text)
     return csv.DictReader(csv_stream)
 
