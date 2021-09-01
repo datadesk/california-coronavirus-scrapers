@@ -484,6 +484,7 @@ Age Group,0-17,578097,13.8,32,0.0,22.5,2021-08-27
 Age Group,0-17,581032,13.8,33,0.1,22.5,2021-08-28
 Age Group,0-17,584862,13.9,33,0.1,22.5,2021-08-29
 Age Group,0-17,587311,13.9,33,0.1,22.5,2021-08-30
+Age Group,0-17,592730,14.0,33,0.1,22.5,2021-08-31
 Age Group,18-49,18004,48.2,99,7.1,43.5,2020-04-22
 Age Group,18-49,18954,48.3,107,7.2,43.5,2020-04-23
 Age Group,18-49,19897,48.4,112,7.1,43.5,2020-04-24
@@ -969,6 +970,7 @@ Age Group,18-49,2405781,57.5,4618,7.1,43.5,2021-08-27
 Age Group,18-49,2411824,57.5,4635,7.1,43.5,2021-08-28
 Age Group,18-49,2419509,57.4,4642,7.1,43.5,2021-08-29
 Age Group,18-49,2424412,57.4,4645,7.1,43.5,2021-08-30
+Age Group,18-49,2436691,57.4,4666,7.1,43.5,2021-08-31
 Age Group,50-64,10025,26.8,223,16.0,18.4,2020-04-22
 Age Group,50-64,10451,26.6,234,15.7,18.4,2020-04-23
 Age Group,50-64,10885,26.5,246,15.6,18.4,2020-04-24
@@ -1454,6 +1456,7 @@ Age Group,50-64,773147,18.5,13129,20.2,18.4,2021-08-27
 Age Group,50-64,774967,18.5,13152,20.2,18.4,2021-08-28
 Age Group,50-64,777169,18.4,13164,20.2,18.4,2021-08-29
 Age Group,50-64,778629,18.4,13170,20.2,18.4,2021-08-30
+Age Group,50-64,782250,18.4,13211,20.2,18.4,2021-08-31
 Age Group,65+,8401,22.5,1074,76.9,15.6,2020-04-22
 Age Group,65+,8832,22.5,1148,77.1,15.6,2020-04-23
 Age Group,65+,9256,22.5,1215,77.2,15.6,2020-04-24
@@ -1939,6 +1942,7 @@ Age Group,65+,426794,10.2,47352,72.7,15.6,2021-08-27
 Age Group,65+,427820,10.2,47415,72.7,15.6,2021-08-28
 Age Group,65+,429068,10.2,47424,72.7,15.6,2021-08-29
 Age Group,65+,429861,10.2,47431,72.6,15.6,2021-08-30
+Age Group,65+,431920,10.2,47512,72.6,15.6,2021-08-31
 Age Group,Missing,84,0.2,0,0.0,,2020-04-22
 Age Group,Missing,81,0.2,0,0.0,,2020-04-23
 Age Group,Missing,88,0.2,0,0.0,,2020-04-24
@@ -2702,6 +2706,7 @@ Age Group,Total,4186261,100.0,65139,100.0,100.0,2021-08-27
 Age Group,Total,4198089,100.0,65243,100.0,100.0,2021-08-28
 Age Group,Total,4213057,100.0,65271,100.0,100.0,2021-08-29
 Age Group,Total,4222663,100.0,65287,100.0,100.0,2021-08-30
+Age Group,Total,4246050,100.0,65430,100.0,100.0,2021-08-31
 Age Group,missing,2017,0.1,10,0.0,0.0,2021-01-25
 Age Group,missing,1999,0.1,9,0.0,0.0,2021-01-26
 Age Group,missing,2092,0.1,9,0.0,0.0,2021-01-27
@@ -2909,6 +2914,7 @@ Age Group,missing,2442,0.1,8,0.0,0.0,2021-08-27
 Age Group,missing,2446,0.1,8,0.0,0.0,2021-08-28
 Age Group,missing,2449,0.1,8,0.0,0.0,2021-08-29
 Age Group,missing,2450,0.1,8,0.0,0.0,2021-08-30
+Age Group,missing,2459,0.1,8,0.0,0.0,2021-08-31
 Gender,Female,18395,49.2,552,39.5,50.3,2020-04-22
 Gender,Female,19394,49.4,593,39.8,50.3,2020-04-23
 Gender,Female,20395,49.6,625,39.7,50.3,2020-04-24
@@ -3394,6 +3400,7 @@ Gender,Female,2124640,50.8,26909,41.3,50.3,2021-08-27
 Gender,Female,2130747,50.8,26958,41.3,50.3,2021-08-28
 Gender,Female,2138364,50.8,26959,41.3,50.3,2021-08-29
 Gender,Female,2143290,50.8,26965,41.3,50.3,2021-08-30
+Gender,Female,2155342,50.8,27014,41.3,50.3,2021-08-31
 Gender,Male,18690,50.0,839,60.1,49.7,2020-04-22
 Gender,Male,19577,49.9,891,59.8,49.7,2020-04-23
 Gender,Male,20459,49.7,944,60.0,49.7,2020-04-24
@@ -3879,6 +3886,7 @@ Gender,Male,2001918,47.8,37951,58.3,49.7,2021-08-27
 Gender,Male,2007575,47.8,38006,58.3,49.7,2021-08-28
 Gender,Male,2014618,47.8,38033,58.3,49.7,2021-08-29
 Gender,Male,2019159,47.8,38043,58.3,49.7,2021-08-30
+Gender,Male,2030421,47.8,38138,58.3,49.7,2021-08-31
 Gender,Total,37369,100.0,1396,100.0,100.0,2020-04-22
 Gender,Total,39254,100.0,1489,100.0,100.0,2020-04-23
 Gender,Total,41137,100.0,1573,100.0,100.0,2020-04-24
@@ -4364,6 +4372,7 @@ Gender,Total,4186261,100.0,65139,100.0,100.0,2021-08-27
 Gender,Total,4198089,100.0,65243,100.0,100.0,2021-08-28
 Gender,Total,4213057,100.0,65271,100.0,100.0,2021-08-29
 Gender,Total,4222663,100.0,65287,100.0,100.0,2021-08-30
+Gender,Total,4246050,100.0,65430,100.0,100.0,2021-08-31
 Gender,Unknown,284,0.8,5,0.4,,2020-04-22
 Gender,Unknown,283,0.7,5,0.3,,2020-04-23
 Gender,Unknown,283,0.7,4,0.3,,2020-04-24
@@ -4849,6 +4858,7 @@ Gender,Unknown,59703,1.4,279,0.4,0.0,2021-08-27
 Gender,Unknown,59767,1.4,279,0.4,0.0,2021-08-28
 Gender,Unknown,60075,1.4,279,0.4,0.0,2021-08-29
 Gender,Unknown,60214,1.4,279,0.4,0.0,2021-08-30
+Gender,Unknown,60287,1.4,278,0.4,0.0,2021-08-31
 Race Ethnicity,American Indian or Alaska Native,33,0.2,3,0.5,0.5,2020-04-13
 Race Ethnicity,American Indian or Alaska Native,33,0.2,3,0.4,0.5,2020-04-14
 Race Ethnicity,American Indian or Alaska Native,32,0.2,3,0.4,0.5,2020-04-15
@@ -5343,6 +5353,7 @@ Race Ethnicity,American Indian or Alaska Native,12671,0.4,241,0.4,0.5,2021-08-27
 Race Ethnicity,American Indian or Alaska Native,12753,0.4,244,0.4,0.5,2021-08-28
 Race Ethnicity,American Indian or Alaska Native,12833,0.4,244,0.4,0.5,2021-08-29
 Race Ethnicity,American Indian or Alaska Native,12882,0.4,244,0.4,0.5,2021-08-30
+Race Ethnicity,American Indian or Alaska Native,12958,0.4,247,0.4,0.5,2021-08-31
 Race Ethnicity,Asian,1902,13.0,98,16.4,15.4,2020-04-13
 Race Ethnicity,Asian,2045,12.9,103,15.1,15.4,2020-04-14
 Race Ethnicity,Asian,2161,12.7,122,16.0,15.4,2020-04-15
@@ -5837,6 +5848,7 @@ Race Ethnicity,Asian,232283,6.8,7620,11.9,15.4,2021-08-27
 Race Ethnicity,Asian,232886,6.8,7628,11.9,15.4,2021-08-28
 Race Ethnicity,Asian,233651,6.8,7629,11.9,15.4,2021-08-29
 Race Ethnicity,Asian,234099,6.8,7630,11.9,15.4,2021-08-30
+Race Ethnicity,Asian,234787,6.8,7637,11.8,15.4,2021-08-31
 Race Ethnicity,Black,1030,7.0,61,10.2,6.0,2020-04-13
 Race Ethnicity,Black,1107,7.0,79,11.6,6.0,2020-04-14
 Race Ethnicity,Black,1176,6.9,87,11.4,6.0,2020-04-15
@@ -6331,6 +6343,7 @@ Race Ethnicity,Black,167143,4.9,4234,6.6,6.0,2021-08-27
 Race Ethnicity,Black,167791,4.9,4245,6.6,6.0,2021-08-28
 Race Ethnicity,Black,168698,4.9,4252,6.6,6.0,2021-08-29
 Race Ethnicity,Black,169247,4.9,4253,6.6,6.0,2021-08-30
+Race Ethnicity,Black,170201,5.0,4263,6.6,6.0,2021-08-31
 Race Ethnicity,Latino,5276,36.0,170,28.4,38.9,2020-04-13
 Race Ethnicity,Latino,5910,37.2,203,29.7,38.9,2020-04-14
 Race Ethnicity,Latino,6433,37.8,226,29.7,38.9,2020-04-15
@@ -6825,6 +6838,7 @@ Race Ethnicity,Latino,1837557,54.2,29683,46.2,38.9,2021-08-27
 Race Ethnicity,Latino,1840753,54.1,29717,46.2,38.9,2021-08-28
 Race Ethnicity,Latino,1845683,54.1,29730,46.2,38.9,2021-08-29
 Race Ethnicity,Latino,1849065,54.1,29736,46.2,38.9,2021-08-30
+Race Ethnicity,Latino,1853328,54.0,29782,46.2,38.9,2021-08-31
 Race Ethnicity,Multi-Race,268,1.8,8,1.3,2.2,2020-04-13
 Race Ethnicity,Multi-Race,303,1.9,9,1.3,2.2,2020-04-14
 Race Ethnicity,Multi-Race,329,1.9,10,1.3,2.2,2020-04-15
@@ -7319,6 +7333,7 @@ Race Ethnicity,Multi-Race,58588,1.7,984,1.5,2.2,2021-08-27
 Race Ethnicity,Multi-Race,58608,1.7,984,1.5,2.2,2021-08-28
 Race Ethnicity,Multi-Race,58693,1.7,984,1.5,2.2,2021-08-29
 Race Ethnicity,Multi-Race,58746,1.7,984,1.5,2.2,2021-08-30
+Race Ethnicity,Multi-Race,58816,1.7,986,1.5,2.2,2021-08-31
 Race Ethnicity,Native Hawaiian and other Pacific Islander,243,1.7,4,0.7,0.3,2020-04-13
 Race Ethnicity,Native Hawaiian and other Pacific Islander,252,1.6,6,0.9,0.3,2020-04-14
 Race Ethnicity,Native Hawaiian and other Pacific Islander,262,1.5,9,1.2,0.3,2020-04-15
@@ -7813,6 +7828,7 @@ Race Ethnicity,Native Hawaiian and other Pacific Islander,19771,0.6,375,0.6,0.3,
 Race Ethnicity,Native Hawaiian and other Pacific Islander,19834,0.6,376,0.6,0.3,2021-08-28
 Race Ethnicity,Native Hawaiian and other Pacific Islander,19930,0.6,375,0.6,0.3,2021-08-29
 Race Ethnicity,Native Hawaiian and other Pacific Islander,19998,0.6,375,0.6,0.3,2021-08-30
+Race Ethnicity,Native Hawaiian and other Pacific Islander,20050,0.6,375,0.6,0.3,2021-08-31
 Race Ethnicity,Other,1269,8.7,9,1.5,0.0,2020-04-13
 Race Ethnicity,Other,1306,8.2,16,2.3,0.0,2020-04-14
 Race Ethnicity,Other,1385,8.1,18,2.4,0.0,2020-04-15
@@ -8307,6 +8323,7 @@ Race Ethnicity,Other,327885,9.7,888,1.4,0.0,2021-08-27
 Race Ethnicity,Other,328994,9.7,890,1.4,0.0,2021-08-28
 Race Ethnicity,Other,330191,9.7,895,1.4,0.0,2021-08-29
 Race Ethnicity,Other,330709,9.7,897,1.4,0.0,2021-08-30
+Race Ethnicity,Other,331955,9.7,900,1.4,0.0,2021-08-31
 Race Ethnicity,Total,14660,100.0,599,100.0,100.0,2020-04-13
 Race Ethnicity,Total,15895,100.0,683,100.0,100.0,2020-04-14
 Race Ethnicity,Total,17017,100.0,761,100.0,100.0,2020-04-15
@@ -8801,6 +8818,7 @@ Race Ethnicity,Total,3391000,100.0,64231,100.0,100.0,2021-08-27
 Race Ethnicity,Total,3400300,100.0,64329,100.0,100.0,2021-08-28
 Race Ethnicity,Total,3412349,100.0,64358,100.0,100.0,2021-08-29
 Race Ethnicity,Total,3419996,100.0,64375,100.0,100.0,2021-08-30
+Race Ethnicity,Total,3434890,100.0,64499,100.0,100.0,2021-08-31
 Race Ethnicity,White,4639,31.6,246,41.1,36.6,2020-04-13
 Race Ethnicity,White,4939,31.1,264,38.7,36.6,2020-04-14
 Race Ethnicity,White,5239,30.8,286,37.6,36.6,2020-04-15
@@ -9295,3 +9313,4 @@ Race Ethnicity,White,735102,21.7,20206,31.5,36.6,2021-08-27
 Race Ethnicity,White,738681,21.7,20245,31.5,36.6,2021-08-28
 Race Ethnicity,White,742670,21.8,20249,31.5,36.6,2021-08-29
 Race Ethnicity,White,745250,21.8,20256,31.5,36.6,2021-08-30
+Race Ethnicity,White,752795,21.9,20309,31.5,36.6,2021-08-31
