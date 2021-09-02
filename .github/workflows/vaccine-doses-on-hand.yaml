@@ -17,5 +17,4 @@ jobs:
         name: Run
         uses: ./.github/actions/scrape
         with:
-          module: vaccines-doses-on-hand
-
+          module: vaccine-doses-on-hand
