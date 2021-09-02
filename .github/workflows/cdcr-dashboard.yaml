@@ -1,0 +1,19 @@
+name: CDCR dashboard
+on:
+  schedule:
+    - cron: '10 */4 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    name: Update
+    runs-on: macos-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - id: run
+        name: Run
+        uses: ./.github/actions/scrape
+        with:
+          module: cdcr-dashboard

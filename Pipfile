@@ -19,6 +19,8 @@ appnope = "*"
 tableauscraper = "==0.1.10"
 urllib3 = ">=1.26.5"
 flake8 = "*"
+selenium = "*"
+webdriver-manager = "*"
 
 [requires]
 python_version = "3.8"
