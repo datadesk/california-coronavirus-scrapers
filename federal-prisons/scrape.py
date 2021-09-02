@@ -44,7 +44,7 @@ def main():
         # Drop duplicates
         existing.drop_duplicates()
         # And write it out
-        existing.to_csv(DATA_DIR / "latest.csv")
+        existing.to_csv(DATA_DIR / "latest.csv", index=False)
 
 
 if __name__ == '__main__':
