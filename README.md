@@ -1,6 +1,6 @@
 The open-source web scrapers that feed the [Los Angeles Times' California coronavirus tracker](https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/).
 
-Processed data that is ready to analyze is available at [datadesk/california-coronavirus-data](https://github.com/datadesk/california-coronavirus-data).
+Processed data ready for analysis is available at [datadesk/california-coronavirus-data](https://github.com/datadesk/california-coronavirus-data).
 
 ## Scrapers
 
