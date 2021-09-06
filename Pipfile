@@ -22,6 +22,9 @@ flake8 = "*"
 selenium = "*"
 webdriver-manager = "*"
 python-slugify = "*"
+pygithub = "*"
+nbclient = "*"
+nbconvert = "*"
 
 [requires]
 python_version = "3.8"
