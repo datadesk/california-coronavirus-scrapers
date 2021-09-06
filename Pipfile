@@ -25,6 +25,8 @@ python-slugify = "*"
 pygithub = "*"
 nbclient = "*"
 nbconvert = "*"
+playwright = "*"
+openpyxl = "*"
 
 [requires]
 python_version = "3.8"
