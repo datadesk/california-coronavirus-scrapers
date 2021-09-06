@@ -7,6 +7,7 @@ scrape: ## Scrape data files. Example: make -f ./places/Makefile
 	$(call start,$(MAKENAME))
 	$(call jupyter,./places/alameda.ipynb)
 	$(call jupyter,./places/amador.ipynb)
+	$(call jupyter,./places/butte.ipynb)
 	$(call finish)
 
 help: ## Show this help. Example: make -f ./skilled-nursing-facilities/Makefile help
