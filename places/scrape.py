@@ -101,6 +101,8 @@ def main():
         'butte',
         'calaveras',
         'contra-costa',
+        'el-dorado',
+        'fresno',
     ]
     print(f"Scraping {len(slug_list)} agency place lists")
 
