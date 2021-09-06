@@ -102,6 +102,7 @@ def main():
         'alameda',
         'amador',
         'butte',
+        'calaveras',
     ]
     print(f"Scraping {len(slug_list)} agency place lists")
 
