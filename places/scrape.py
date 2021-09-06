@@ -1,11 +1,8 @@
 # Basic stuff
-import os
 import re
-import glob
 import click
 from os import environ
 from pathlib import Path
-from slugify import slugify
 from datetime import datetime
 
 # Jupyter stuff
@@ -14,7 +11,7 @@ from nbclient import NotebookClient
 from nbconvert.preprocessors import CellExecutionError
 
 # Github stuff
-from github import Github, GithubException
+from github import Github
 GITHUB_ACTIONS = environ.get("GITHUB_ACTIONS")
 GITHUB_REF = environ.get("GITHUB_REF")
 GITHUB_SHA = environ.get("GITHUB_SHA")
