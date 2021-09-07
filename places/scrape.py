@@ -108,6 +108,7 @@ def main():
         'kern',
         'kings',
         'lake',
+        'long-beach',
     ]
     print(f"Scraping {len(slug_list)} agency place lists")
 
