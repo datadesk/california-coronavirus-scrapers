@@ -1,7 +1,6 @@
 """
 Download the CDC's dashboard of data tracking vaccination for states and territories.
 """
-import glob
 import pytz
 import pathlib
 import requests
@@ -30,14 +29,13 @@ def main():
     assert df.shape[0] == 65
 
     # Deal with dates
-    latest_date = df["Date"].unique()[0]
     tz = pytz.timezone("America/Los_Angeles")
     today = datetime.now(tz).date()
 
     # Save it to the data folder
     df.to_csv(DATA_DIR / "latest.csv", index=False)
     df.to_csv(DATA_DIR / f"{today}.csv", index=False)
-    
+
     # Roll up everything
     csv_list = [i for i in DATA_DIR.glob("*.csv") if not str(i).endswith('latest.csv')]
     df = (
@@ -50,4 +48,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-

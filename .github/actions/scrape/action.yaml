@@ -1,0 +1,30 @@
+inputs:
+  module:
+    description: “The module to run”
+    required: true
+
+runs:
+  using: "composite"
+  steps:
+    - id: install
+      name: Install Python, pipenv and Pipfile packages
+      uses: palewire/install-python-pipenv-pipfile@v2
+      with:
+        python-version: 3.8
+
+    - id: make
+      name: Run make command
+      run: make -f ./${{ inputs.module }}/Makefile
+      shell: bash
+
+    - id: commit
+      name: Commit results
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "actions@github.com"
+        git config pull.rebase false
+        git status
+        git pull origin $GITHUB_REF
+        git add ./
+        git commit -m "${{ inputs.module }} scrape" && git push || true
+      shell: bash

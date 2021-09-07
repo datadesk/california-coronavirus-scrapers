@@ -14,6 +14,7 @@ DATA_DIR = THIS_DIR / "data"
 # Constants
 DEFAULT_LIMIT = 5000
 
+
 def get(url, **kwargs):
     """
     Read data from the requested resource.
@@ -23,9 +24,9 @@ def get(url, **kwargs):
 
     response = requests.get(url, params=params, stream=True)
     response.raise_for_status()
-    
+
     csv_stream = io.StringIO(response.text)
-    return list(csv.DictReader(csv_stream))
+    return csv.DictReader(csv_stream)
 
 
 def get_all(url, **kwargs):
@@ -43,10 +44,12 @@ def get_all(url, **kwargs):
     while True:
         response = get(url, **params)
 
+        count = 0
         for item in response:
+            count += 1
             yield item
 
-        if len(response) < limit:
+        if count < limit:
             return
         params["$offset"] += limit
 

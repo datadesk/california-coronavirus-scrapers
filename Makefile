@@ -13,28 +13,33 @@ scrape: ## Verify that our notebooks can be parsed and run. Example: make scrape
 	$(call make,bed-surges/Makefile)
 	$(call make,cases-deaths-demographics/Makefile)
 	$(call make,cases-deaths-tests/Makefile)
+	$(call make,cdcr-dashboard/Makefile)
 	$(call make,demographics-age/Makefile)
 	$(call make,demographics-race-by-county/Makefile)
 	$(call make,demographics-race-statewide/Makefile)
+	$(call make,federal-prisons/Makefile)
 	$(call make,hopkins/Makefile)
-	$(call make,local-adult-detention-facilities/Makefile)
-	$(call make,local-juvenile-detention-facilities/Makefile)
-	$(call make,school-reopenings/Makefile)
-	$(call make,vaccine-demographics/Makefile)
-	$(call make,vaccine-doses-on-hand/Makefile)
 	$(call make,hospital-capacity/Makefile)
 	$(call make,hospital-locations/Makefile)
 	$(call make,hospital-patients/Makefile)
+	$(call make,ice-detainees/Makefile)
+	$(call make,local-adult-detention-facilities/Makefile)
+	$(call make,local-juvenile-detention-facilities/Makefile)
+	$(call make,places/Makefile)
+	$(call make,school-reopenings/Makefile)
 	$(call make,skilled-nursing-facilities/Makefile)
 	$(call make,state-prisons/Makefile)
+	$(call make,vaccine-demographics/Makefile)
+	$(call make,vaccine-doses-on-hand/Makefile)
 	$(call make,vaccine-hpi/Makefile)
 	$(call make,vaccine-progress/Makefile)
 	$(call make,vaccine-shipped-delivered/Makefile)
-	$(call make,variant-proportions-states/Makefile)
-	$(call make,variant-toplines-ca/Makefile)
 	$(call make,vaccine-zip-codes/Makefile)
 	$(call make,vaccine-demographics-by-county/Makefile)
-    
+	$(call make,variant-proportions-states/Makefile)
+	$(call make,variant-toplines-ca/Makefile)
+
+
 clean_notebooks: ## Remove all temporary notebook outputs created by the our commands. Example: make clean_notebooks
 	@find . -type f -name '*-output.ipynb' -delete
 
@@ -42,6 +47,9 @@ clean_notebooks: ## Remove all temporary notebook outputs created by the our com
 lint_notebooks: ## Verify that our notebooks can be parsed and run. Example: make lint_notebooks
 	@pipenv run jupyter nbconvert ./**/*.ipynb --to=html --stdout > /dev/null
 
+
+lint_python:
+	@pipenv run flake8 ./
 
 help: ## Show this help. Example: make help
 	@egrep -h '\s##\s' $(MAKEFILE_LIST) | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-20s\033[0m %s\n", $$1, $$2}'
