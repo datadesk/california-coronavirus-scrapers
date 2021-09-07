@@ -103,6 +103,7 @@ def main():
         'contra-costa',
         'el-dorado',
         'fresno',
+        'humboldt',
     ]
     print(f"Scraping {len(slug_list)} agency place lists")
 
