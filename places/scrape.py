@@ -104,6 +104,7 @@ def main():
         'el-dorado',
         'fresno',
         'humboldt',
+        'imperial',
     ]
     print(f"Scraping {len(slug_list)} agency place lists")
 
