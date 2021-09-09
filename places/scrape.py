@@ -63,7 +63,7 @@ def _handle_exception(slug, exception):
             exception=_strip_color(str(exception)),
             head_branch=head_branch,
         ).strip()
-        relative_path = f"_notebooks/scrapers/places/{notebook_name}"
+        relative_path = f"places/{notebook_name}"
 
         # Open up the errored out output notebook
         output_path = NOTEBOOK_DIR.joinpath(f"{slug}-output.ipynb")
