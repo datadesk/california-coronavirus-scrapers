@@ -55,7 +55,7 @@ def _handle_exception(slug, exception):
     # If we're inside Github rn ...
     if GITHUB_ACTIONS:
         # Put together everything we need for pull request
-        title = f"Fix for {slug.replace('-', ' ').title()} County cities scraper"
+        title = f"Fix for {slug.replace('-', ' ').title()} County places scraper"
         timestamp = datetime.now().timestamp()
         head_branch = f"fix-{notebook_path.stem}-{timestamp}"
         body = GITHUB_TEMPLATE.format(
