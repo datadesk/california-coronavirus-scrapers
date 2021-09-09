@@ -8,6 +8,7 @@ jobs:
   scrape:
     name: Scrape
     runs-on: ubuntu-latest
+    continue-on-error: true
     steps:
       - id: checkout
         name: Checkout
