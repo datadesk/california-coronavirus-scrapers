@@ -132,6 +132,16 @@ def main():
         'santa-barbara',
         'santa-clara',
         'santa-cruz',
+        'shasta',
+        'siskiyou',
+        'solano',
+        'stanislaus',
+        'sutter',
+        'trinity',
+        'tulare',
+        'ventura',
+        'yolo',
+        'yuba',
     ]
     print(f"Scraping {len(slug_list)} agency place lists")
 
