@@ -118,6 +118,9 @@ def main():
         'monterey',
         'napa',
         'nevada',
+        'orange',
+        'pasadena',
+        'placer',
     ]
     print(f"Scraping {len(slug_list)} agency place lists")
 
