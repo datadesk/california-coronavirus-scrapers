@@ -121,6 +121,17 @@ def main():
         'orange',
         'pasadena',
         'placer',
+        'riverside',
+        'sacramento',
+        'san-bernardino',
+        'san-diego',
+        'san-francisco',
+        'san-joaquin',
+        'san-luis-obispo',
+        'san-mateo',
+        'santa-barbara',
+        'santa-clara',
+        'santa-cruz',
     ]
     print(f"Scraping {len(slug_list)} agency place lists")
 
