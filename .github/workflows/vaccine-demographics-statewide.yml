@@ -17,4 +17,4 @@ jobs:
         name: Run
         uses: ./.github/actions/scrape
         with:
-          module: vaccine-demographics
+          module: vaccine-demographics-statewide
