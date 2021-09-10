@@ -1,4 +1,4 @@
-name: Vaccine demographics
+name: Vaccine demographics statewide
 on:
   schedule:
     - cron: '20 */4 * * *'
