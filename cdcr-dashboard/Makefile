@@ -5,7 +5,7 @@ MAKENAME = cdcr-dashboard
 
 scrape: ## Scrape data files. Example: make -f ./cdcr-dashboard/Makefile
 	$(call start,$(MAKENAME))
-	$(call jupyter,./cdcr-dashboard/scrape.ipynb)
+	$(call python,./cdcr-dashboard/inmates.py)
 	$(call finish)
 
 help: ## Show this help. Example: make -f ./cdcr-dashboard/Makefile help
