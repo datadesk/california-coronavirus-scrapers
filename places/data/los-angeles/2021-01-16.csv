@@ -1,0 +1,343 @@
+county,area,confirmed_cases,confirmed_deaths,county_date
+Los Angeles,City of Agoura Hills,761,11,2021-01-16
+Los Angeles,City of Alhambra,5531,100,2021-01-16
+Los Angeles,City of Arcadia,2118,67,2021-01-16
+Los Angeles,City of Artesia,1644,34,2021-01-16
+Los Angeles,City of Avalon,9,0,2021-01-16
+Los Angeles,City of Azusa,5222,70,2021-01-16
+Los Angeles,City of Baldwin Park,11018,180,2021-01-16
+Los Angeles,City of Bell,5565,73,2021-01-16
+Los Angeles,City of Bell Gardens,6975,57,2021-01-16
+Los Angeles,City of Bellflower,8761,106,2021-01-16
+Los Angeles,City of Beverly Hills,2029,19,2021-01-16
+Los Angeles,City of Bradbury,32,0,2021-01-16
+Los Angeles,City of Burbank,6718,153,2021-01-16
+Los Angeles,City of Calabasas,892,15,2021-01-16
+Los Angeles,City of Carson,7257,118,2021-01-16
+Los Angeles,City of Cerritos,2314,25,2021-01-16
+Los Angeles,City of Claremont,1811,33,2021-01-16
+Los Angeles,City of Commerce*,2107,26,2021-01-16
+Los Angeles,City of Compton,13870,136,2021-01-16
+Los Angeles,City of Covina,5281,97,2021-01-16
+Los Angeles,City of Cudahy,3975,33,2021-01-16
+Los Angeles,City of Culver City,1693,57,2021-01-16
+Los Angeles,City of Diamond Bar,2532,28,2021-01-16
+Los Angeles,City of Downey,14681,159,2021-01-16
+Los Angeles,City of Duarte,1872,54,2021-01-16
+Los Angeles,City of El Monte,14326,270,2021-01-16
+Los Angeles,City of El Segundo,515,3,2021-01-16
+Los Angeles,City of Gardena,4951,108,2021-01-16
+Los Angeles,City of Glendale,14779,357,2021-01-16
+Los Angeles,City of Glendora,3843,112,2021-01-16
+Los Angeles,City of Hawaiian Gardens,1873,4,2021-01-16
+Los Angeles,City of Hawthorne,8075,107,2021-01-16
+Los Angeles,City of Hermosa Beach,745,7,2021-01-16
+Los Angeles,City of Hidden Hills,60,0,2021-01-16
+Los Angeles,City of Huntington Park,9576,101,2021-01-16
+Los Angeles,City of Industry,122,3,2021-01-16
+Los Angeles,City of Inglewood,10711,179,2021-01-16
+Los Angeles,City of Irwindale,213,2,2021-01-16
+Los Angeles,City of La Canada Flintridge,606,12,2021-01-16
+Los Angeles,City of La Habra Heights,91,1,2021-01-16
+Los Angeles,City of La Mirada,3407,63,2021-01-16
+Los Angeles,City of La Puente,5590,58,2021-01-16
+Los Angeles,City of La Verne,2241,32,2021-01-16
+Los Angeles,City of Lakewood,5731,36,2021-01-16
+Los Angeles,City of Lancaster*,17391,158,2021-01-16
+Los Angeles,City of Lawndale,2734,27,2021-01-16
+Los Angeles,City of Lomita,1045,10,2021-01-16
+Los Angeles,City of Lynwood*,11103,163,2021-01-16
+Los Angeles,City of Malibu,277,6,2021-01-16
+Los Angeles,City of Manhattan Beach,980,8,2021-01-16
+Los Angeles,City of Maywood,4370,55,2021-01-16
+Los Angeles,City of Monrovia,2558,47,2021-01-16
+Los Angeles,City of Montebello,8550,100,2021-01-16
+Los Angeles,City of Monterey Park,3833,112,2021-01-16
+Los Angeles,City of Norwalk,13212,178,2021-01-16
+Los Angeles,City of Palmdale,19723,150,2021-01-16
+Los Angeles,City of Palos Verdes Estates,277,3,2021-01-16
+Los Angeles,City of Paramount,8329,80,2021-01-16
+Los Angeles,City of Pico Rivera,9313,140,2021-01-16
+Los Angeles,City of Pomona,20461,273,2021-01-16
+Los Angeles,City of Rancho Palos Verdes,1001,34,2021-01-16
+Los Angeles,City of Redondo Beach,2048,17,2021-01-16
+Los Angeles,City of Rolling Hills,34,0,2021-01-16
+Los Angeles,City of Rolling Hills Estates,186,6,2021-01-16
+Los Angeles,City of Rosemead,3838,72,2021-01-16
+Los Angeles,City of San Dimas*,2483,47,2021-01-16
+Los Angeles,City of San Fernando,4203,38,2021-01-16
+Los Angeles,City of San Gabriel,2561,143,2021-01-16
+Los Angeles,City of San Marino,312,11,2021-01-16
+Los Angeles,City of Santa Clarita,15512,135,2021-01-16
+Los Angeles,City of Santa Fe Springs,2268,26,2021-01-16
+Los Angeles,City of Santa Monica,3521,95,2021-01-16
+Los Angeles,City of Sierra Madre,372,8,2021-01-16
+Los Angeles,City of Signal Hill,928,6,2021-01-16
+Los Angeles,City of South El Monte,2867,28,2021-01-16
+Los Angeles,City of South Gate,15625,133,2021-01-16
+Los Angeles,City of South Pasadena,1068,32,2021-01-16
+Los Angeles,City of Temple City,1904,75,2021-01-16
+Los Angeles,City of Torrance,5346,118,2021-01-16
+Los Angeles,City of Vernon,106,1,2021-01-16
+Los Angeles,City of Walnut,1381,21,2021-01-16
+Los Angeles,City of West Covina,10511,119,2021-01-16
+Los Angeles,City of West Hollywood,1725,19,2021-01-16
+Los Angeles,City of Westlake Village,81,0,2021-01-16
+Los Angeles,City of Whittier,9139,146,2021-01-16
+Los Angeles,Los Angeles,406122,5669,2021-01-16
+Los Angeles,Los Angeles - Adams-Normandie,944,12,2021-01-16
+Los Angeles,Los Angeles - Alsace,1303,10,2021-01-16
+Los Angeles,Los Angeles - Angeles National Forest,5,0,2021-01-16
+Los Angeles,Los Angeles - Angelino Heights,221,1,2021-01-16
+Los Angeles,Los Angeles - Arleta,5736,61,2021-01-16
+Los Angeles,Los Angeles - Atwater Village,1134,12,2021-01-16
+Los Angeles,Los Angeles - Baldwin Hills,2194,38,2021-01-16
+Los Angeles,Los Angeles - Bel Air,309,2,2021-01-16
+Los Angeles,Los Angeles - Beverly Crest,487,4,2021-01-16
+Los Angeles,Los Angeles - Beverlywood,672,1,2021-01-16
+Los Angeles,Los Angeles - Boyle Heights*,14932,165,2021-01-16
+Los Angeles,Los Angeles - Brentwood,1148,8,2021-01-16
+Los Angeles,Los Angeles - Brookside,24,1,2021-01-16
+Los Angeles,Los Angeles - Cadillac-Corning,562,4,2021-01-16
+Los Angeles,Los Angeles - Canoga Park,7506,102,2021-01-16
+Los Angeles,Los Angeles - Carthay,760,35,2021-01-16
+Los Angeles,Los Angeles - Central,6435,70,2021-01-16
+Los Angeles,Los Angeles - Century City,460,8,2021-01-16
+Los Angeles,Los Angeles - Century Palms/Cove,5222,52,2021-01-16
+Los Angeles,Los Angeles - Chatsworth,2906,52,2021-01-16
+Los Angeles,Los Angeles - Cheviot Hills,351,6,2021-01-16
+Los Angeles,Los Angeles - Chinatown,592,6,2021-01-16
+Los Angeles,Los Angeles - Cloverdale/Cochran,1292,13,2021-01-16
+Los Angeles,Los Angeles - Country Club Park,1237,52,2021-01-16
+Los Angeles,Los Angeles - Crenshaw District,1171,15,2021-01-16
+Los Angeles,Los Angeles - Crestview,781,30,2021-01-16
+Los Angeles,Los Angeles - Del Rey,1605,16,2021-01-16
+Los Angeles,Los Angeles - Downtown*,3009,25,2021-01-16
+Los Angeles,Los Angeles - Eagle Rock,3025,65,2021-01-16
+Los Angeles,Los Angeles - East Hollywood,2607,70,2021-01-16
+Los Angeles,Los Angeles - Echo Park,1112,15,2021-01-16
+Los Angeles,Los Angeles - El Sereno,5214,66,2021-01-16
+Los Angeles,Los Angeles - Elysian Park,416,1,2021-01-16
+Los Angeles,Los Angeles - Elysian Valley,1108,12,2021-01-16
+Los Angeles,Los Angeles - Encino,2604,40,2021-01-16
+Los Angeles,Los Angeles - Exposition,288,5,2021-01-16
+Los Angeles,Los Angeles - Exposition Park,5088,49,2021-01-16
+Los Angeles,Los Angeles - Faircrest Heights,186,2,2021-01-16
+Los Angeles,Los Angeles - Figueroa Park Square,1149,14,2021-01-16
+Los Angeles,Los Angeles - Florence-Firestone,7868,69,2021-01-16
+Los Angeles,Los Angeles - Glassell Park,2807,31,2021-01-16
+Los Angeles,Los Angeles - Gramercy Place,1059,15,2021-01-16
+Los Angeles,Los Angeles - Granada Hills,5163,117,2021-01-16
+Los Angeles,Los Angeles - Green Meadows,3284,22,2021-01-16
+Los Angeles,Los Angeles - Hancock Park,816,8,2021-01-16
+Los Angeles,Los Angeles - Harbor City,1861,21,2021-01-16
+Los Angeles,Los Angeles - Harbor Gateway,3868,38,2021-01-16
+Los Angeles,Los Angeles - Harbor Pines,132,0,2021-01-16
+Los Angeles,Los Angeles - Harvard Heights,2092,44,2021-01-16
+Los Angeles,Los Angeles - Harvard Park,5929,49,2021-01-16
+Los Angeles,Los Angeles - Highland Park,4815,51,2021-01-16
+Los Angeles,Los Angeles - Historic Filipinotown,1720,51,2021-01-16
+Los Angeles,Los Angeles - Hollywood,4220,38,2021-01-16
+Los Angeles,Los Angeles - Hollywood Hills,1139,12,2021-01-16
+Los Angeles,Los Angeles - Hyde Park,2972,39,2021-01-16
+Los Angeles,Los Angeles - Jefferson Park,956,6,2021-01-16
+Los Angeles,Los Angeles - Koreatown,4397,63,2021-01-16
+Los Angeles,Los Angeles - Lafayette Square,445,5,2021-01-16
+Los Angeles,Los Angeles - Lake Balboa,4326,37,2021-01-16
+Los Angeles,Los Angeles - Lakeview Terrace,1912,30,2021-01-16
+Los Angeles,Los Angeles - Leimert Park,1226,13,2021-01-16
+Los Angeles,Los Angeles - Lincoln Heights,4313,115,2021-01-16
+Los Angeles,Los Angeles - Little Armenia,946,65,2021-01-16
+Los Angeles,Los Angeles - Little Bangladesh,2183,16,2021-01-16
+Los Angeles,Los Angeles - Little Tokyo,338,7,2021-01-16
+Los Angeles,Los Angeles - Longwood,474,4,2021-01-16
+Los Angeles,Los Angeles - Los Feliz,829,11,2021-01-16
+Los Angeles,Los Angeles - Manchester Square,742,7,2021-01-16
+Los Angeles,Los Angeles - Mandeville Canyon,99,0,2021-01-16
+Los Angeles,Los Angeles - Mar Vista,1554,20,2021-01-16
+Los Angeles,Los Angeles - Marina Peninsula,113,1,2021-01-16
+Los Angeles,Los Angeles - Melrose,6507,136,2021-01-16
+Los Angeles,Los Angeles - Mid-city,948,28,2021-01-16
+Los Angeles,Los Angeles - Miracle Mile,713,8,2021-01-16
+Los Angeles,Los Angeles - Mission Hills,3502,87,2021-01-16
+Los Angeles,Los Angeles - Mt. Washington,2405,39,2021-01-16
+Los Angeles,Los Angeles - North Hills,7553,83,2021-01-16
+Los Angeles,Los Angeles - North Hollywood,16422,177,2021-01-16
+Los Angeles,Los Angeles - Northridge,5871,91,2021-01-16
+Los Angeles,Los Angeles - Pacific Palisades,589,10,2021-01-16
+Los Angeles,Los Angeles - Pacoima,14203,130,2021-01-16
+Los Angeles,Los Angeles - Palisades Highlands,112,1,2021-01-16
+Los Angeles,Los Angeles - Palms,2055,37,2021-01-16
+Los Angeles,Los Angeles - Panorama City,11057,162,2021-01-16
+Los Angeles,Los Angeles - Park La Brea,457,1,2021-01-16
+Los Angeles,Los Angeles - Pico-Union,5944,138,2021-01-16
+Los Angeles,Los Angeles - Playa Del Rey,81,0,2021-01-16
+Los Angeles,Los Angeles - Playa Vista,449,2,2021-01-16
+Los Angeles,Los Angeles - Porter Ranch,1960,20,2021-01-16
+Los Angeles,Los Angeles - Rancho Park,265,0,2021-01-16
+Los Angeles,Los Angeles - Regent Square,193,1,2021-01-16
+Los Angeles,Los Angeles - Reseda,9308,187,2021-01-16
+Los Angeles,Los Angeles - Reseda Ranch,530,1,2021-01-16
+Los Angeles,Los Angeles - Reynier Village,192,0,2021-01-16
+Los Angeles,Los Angeles - San Pedro*,5509,70,2021-01-16
+Los Angeles,Los Angeles - Shadow Hills,295,2,2021-01-16
+Los Angeles,Los Angeles - Sherman Oaks,4479,54,2021-01-16
+Los Angeles,Los Angeles - Silverlake,2545,71,2021-01-16
+Los Angeles,Los Angeles - South Carthay,563,3,2021-01-16
+Los Angeles,Los Angeles - South Park,6302,61,2021-01-16
+Los Angeles,Los Angeles - St Elmo Village,499,16,2021-01-16
+Los Angeles,Los Angeles - Studio City,1024,30,2021-01-16
+Los Angeles,Los Angeles - Sun Valley,7571,78,2021-01-16
+Los Angeles,Los Angeles - Sunland,1769,37,2021-01-16
+Los Angeles,Los Angeles - Sycamore Square,25,2,2021-01-16
+Los Angeles,Los Angeles - Sylmar*,13074,162,2021-01-16
+Los Angeles,Los Angeles - Tarzana,2588,54,2021-01-16
+Los Angeles,Los Angeles - Temple-Beaudry,4178,69,2021-01-16
+Los Angeles,Los Angeles - Thai Town,680,8,2021-01-16
+Los Angeles,Los Angeles - Toluca Lake,385,4,2021-01-16
+Los Angeles,Los Angeles - Toluca Terrace,106,1,2021-01-16
+Los Angeles,Los Angeles - Toluca Woods,83,0,2021-01-16
+Los Angeles,Los Angeles - Tujunga,2146,35,2021-01-16
+Los Angeles,Los Angeles - University Hills,222,1,2021-01-16
+Los Angeles,Los Angeles - University Park,2714,35,2021-01-16
+Los Angeles,Los Angeles - Valley Glen,3023,38,2021-01-16
+Los Angeles,Los Angeles - Valley Village,1608,44,2021-01-16
+Los Angeles,Los Angeles - Van Nuys*,11948,199,2021-01-16
+Los Angeles,Los Angeles - Venice,1205,11,2021-01-16
+Los Angeles,Los Angeles - Vermont Knolls,2373,34,2021-01-16
+Los Angeles,Los Angeles - Vermont Square,1221,9,2021-01-16
+Los Angeles,Los Angeles - Vermont Vista,6226,54,2021-01-16
+Los Angeles,Los Angeles - Vernon Central,9484,97,2021-01-16
+Los Angeles,Los Angeles - Victoria Park,880,8,2021-01-16
+Los Angeles,Los Angeles - View Heights,197,5,2021-01-16
+Los Angeles,Los Angeles - Watts,6252,64,2021-01-16
+Los Angeles,Los Angeles - Wellington Square,470,7,2021-01-16
+Los Angeles,Los Angeles - West Adams,3280,96,2021-01-16
+Los Angeles,Los Angeles - West Hills,2333,71,2021-01-16
+Los Angeles,Los Angeles - West Los Angeles,1840,25,2021-01-16
+Los Angeles,Los Angeles - West Vernon,8490,106,2021-01-16
+Los Angeles,Los Angeles - Westchester,1740,29,2021-01-16
+Los Angeles,Los Angeles - Westlake,6444,197,2021-01-16
+Los Angeles,Los Angeles - Westwood,1935,16,2021-01-16
+Los Angeles,Los Angeles - Wholesale District*,5375,64,2021-01-16
+Los Angeles,Los Angeles - Wilmington,6547,48,2021-01-16
+Los Angeles,Los Angeles - Wilshire Center,4295,65,2021-01-16
+Los Angeles,Los Angeles - Winnetka,5360,48,2021-01-16
+Los Angeles,Los Angeles - Woodland Hills,3730,54,2021-01-16
+Los Angeles,Unincorporated - Acton,358,5,2021-01-16
+Los Angeles,Unincorporated - Agua Dulce,180,1,2021-01-16
+Los Angeles,Unincorporated - Altadena,2618,41,2021-01-16
+Los Angeles,Unincorporated - Anaverde,119,0,2021-01-16
+Los Angeles,Unincorporated - Angeles National Forest,21,0,2021-01-16
+Los Angeles,Unincorporated - Arcadia,478,9,2021-01-16
+Los Angeles,Unincorporated - Athens-Westmont,5185,51,2021-01-16
+Los Angeles,Unincorporated - Athens Village,915,22,2021-01-16
+Los Angeles,Unincorporated - Avocado Heights,922,8,2021-01-16
+Los Angeles,Unincorporated - Azusa,1956,18,2021-01-16
+Los Angeles,Unincorporated - Bassett,2184,24,2021-01-16
+Los Angeles,Unincorporated - Bouquet Canyon,38,1,2021-01-16
+Los Angeles,Unincorporated - Bradbury,48,8,2021-01-16
+Los Angeles,Unincorporated - Canyon Country,633,3,2021-01-16
+Los Angeles,Unincorporated - Castaic*,3262,8,2021-01-16
+Los Angeles,Unincorporated - Cerritos,63,0,2021-01-16
+Los Angeles,Unincorporated - Charter Oak,0,0,2021-01-16
+Los Angeles,Unincorporated - Claremont,36,4,2021-01-16
+Los Angeles,Unincorporated - Covina,1890,19,2021-01-16
+Los Angeles,Unincorporated - Covina (Charter Oak),1243,7,2021-01-16
+Los Angeles,Unincorporated - Del Aire,234,2,2021-01-16
+Los Angeles,Unincorporated - Del Rey,18,0,2021-01-16
+Los Angeles,Unincorporated - Del Sur,133,1,2021-01-16
+Los Angeles,Unincorporated - Desert View Highlands,289,2,2021-01-16
+Los Angeles,Unincorporated - Duarte,722,7,2021-01-16
+Los Angeles,Unincorporated - East Covina,29,1,2021-01-16
+Los Angeles,Unincorporated - East La Mirada,403,4,2021-01-16
+Los Angeles,Unincorporated - East Lancaster,15,0,2021-01-16
+Los Angeles,Unincorporated - East Los Angeles,21372,248,2021-01-16
+Los Angeles,Unincorporated - East Pasadena,171,5,2021-01-16
+Los Angeles,Unincorporated - East Rancho Dominguez,2312,35,2021-01-16
+Los Angeles,Unincorporated - East Whittier,375,3,2021-01-16
+Los Angeles,Unincorporated - El Camino Village,619,7,2021-01-16
+Los Angeles,Unincorporated - El Monte,23,0,2021-01-16
+Los Angeles,Unincorporated - Elizabeth Lake,59,0,2021-01-16
+Los Angeles,Unincorporated - Florence-Firestone,11469,116,2021-01-16
+Los Angeles,Unincorporated - Franklin Canyon,1,0,2021-01-16
+Los Angeles,Unincorporated - Glendora,57,2,2021-01-16
+Los Angeles,Unincorporated - Hacienda Heights,4224,61,2021-01-16
+Los Angeles,Unincorporated - Harbor Gateway,0,0,2021-01-16
+Los Angeles,Unincorporated - Hawthorne,260,1,2021-01-16
+Los Angeles,Unincorporated - Hi Vista,33,0,2021-01-16
+Los Angeles,Unincorporated - Kagel/Lopez Canyons,156,2,2021-01-16
+Los Angeles,Unincorporated - La Crescenta-Montrose,826,6,2021-01-16
+Los Angeles,Unincorporated - La Habra Heights,12,1,2021-01-16
+Los Angeles,Unincorporated - La Rambla,175,15,2021-01-16
+Los Angeles,Unincorporated - La Verne*,128,0,2021-01-16
+Los Angeles,Unincorporated - Ladera Heights,302,5,2021-01-16
+Los Angeles,Unincorporated - Lake Hughes,34,0,2021-01-16
+Los Angeles,Unincorporated - Lake Los Angeles,1258,4,2021-01-16
+Los Angeles,Unincorporated - Lake Manor,104,1,2021-01-16
+Los Angeles,Unincorporated - Lakewood,0,0,2021-01-16
+Los Angeles,Unincorporated - Lennox,2847,24,2021-01-16
+Los Angeles,Unincorporated - Leona Valley,89,0,2021-01-16
+Los Angeles,Unincorporated - Littlerock,406,3,2021-01-16
+Los Angeles,Unincorporated - Littlerock/Juniper Hills,88,1,2021-01-16
+Los Angeles,Unincorporated - Littlerock/Pearblossom,413,3,2021-01-16
+Los Angeles,Unincorporated - Llano,29,0,2021-01-16
+Los Angeles,Unincorporated - Marina del Rey,259,0,2021-01-16
+Los Angeles,Unincorporated - Miracle Mile,0,0,2021-01-16
+Los Angeles,Unincorporated - Monrovia,294,1,2021-01-16
+Los Angeles,Unincorporated - Newhall,59,0,2021-01-16
+Los Angeles,Unincorporated - North Lancaster,107,1,2021-01-16
+Los Angeles,Unincorporated - North Whittier,940,16,2021-01-16
+Los Angeles,Unincorporated - Northeast San Gabriel,1298,28,2021-01-16
+Los Angeles,Unincorporated - Padua Hills,7,0,2021-01-16
+Los Angeles,Unincorporated - Palmdale,92,1,2021-01-16
+Los Angeles,Unincorporated - Palos Verdes Peninsula,18,0,2021-01-16
+Los Angeles,Unincorporated - Pearblossom/Llano,99,1,2021-01-16
+Los Angeles,Unincorporated - Pellissier Village,139,1,2021-01-16
+Los Angeles,Unincorporated - Placerita Canyon,0,0,2021-01-16
+Los Angeles,Unincorporated - Pomona,49,1,2021-01-16
+Los Angeles,Unincorporated - Quartz Hill,937,17,2021-01-16
+Los Angeles,Unincorporated - Rancho Dominguez,307,2,2021-01-16
+Los Angeles,Unincorporated - Roosevelt,65,0,2021-01-16
+Los Angeles,Unincorporated - Rosewood,126,2,2021-01-16
+Los Angeles,Unincorporated - Rosewood/East Gardena,134,4,2021-01-16
+Los Angeles,Unincorporated - Rosewood/West Rancho Dominguez,405,6,2021-01-16
+Los Angeles,Unincorporated - Rowland Heights,2921,33,2021-01-16
+Los Angeles,Unincorporated - San Clemente Island,0,0,2021-01-16
+Los Angeles,Unincorporated - San Francisquito Canyon/Bouquet Canyon,12,0,2021-01-16
+Los Angeles,Unincorporated - San Jose Hills,2987,33,2021-01-16
+Los Angeles,Unincorporated - San Pasqual,27,0,2021-01-16
+Los Angeles,Unincorporated - Sand Canyon,13,0,2021-01-16
+Los Angeles,Unincorporated - Santa Catalina Island,117,1,2021-01-16
+Los Angeles,Unincorporated - Santa Monica Mountains*,408,2,2021-01-16
+Los Angeles,Unincorporated - Saugus,108,0,2021-01-16
+Los Angeles,Unincorporated - Saugus/Canyon Country,26,0,2021-01-16
+Los Angeles,Unincorporated - South Antelope Valley,22,0,2021-01-16
+Los Angeles,Unincorporated - South El Monte,295,1,2021-01-16
+Los Angeles,Unincorporated - South San Gabriel,750,32,2021-01-16
+Los Angeles,Unincorporated - South Whittier,6835,92,2021-01-16
+Los Angeles,Unincorporated - Southeast Antelope Valley,64,0,2021-01-16
+Los Angeles,Unincorporated - Stevenson Ranch,829,4,2021-01-16
+Los Angeles,Unincorporated - Sun Village,721,5,2021-01-16
+Los Angeles,Unincorporated - Sunrise Village,163,1,2021-01-16
+Los Angeles,Unincorporated - Twin Lakes/Oat Mountain,69,2,2021-01-16
+Los Angeles,Unincorporated - Val Verde,237,1,2021-01-16
+Los Angeles,Unincorporated - Valencia,139,0,2021-01-16
+Los Angeles,Unincorporated - Valinda,3086,34,2021-01-16
+Los Angeles,Unincorporated - View Park/Windsor Hills,550,10,2021-01-16
+Los Angeles,Unincorporated - Walnut Park,2540,27,2021-01-16
+Los Angeles,Unincorporated - West Antelope Valley,32,0,2021-01-16
+Los Angeles,Unincorporated - West Carson,1654,75,2021-01-16
+Los Angeles,Unincorporated - West Chatsworth,1,0,2021-01-16
+Los Angeles,Unincorporated - West LA,174,9,2021-01-16
+Los Angeles,Unincorporated - West Puente Valley,1465,15,2021-01-16
+Los Angeles,Unincorporated - West Rancho Dominguez,149,5,2021-01-16
+Los Angeles,Unincorporated - West Whittier/Los Nietos,3605,58,2021-01-16
+Los Angeles,Unincorporated - Westfield/Academy Hills,24,0,2021-01-16
+Los Angeles,Unincorporated - Westhills,37,0,2021-01-16
+Los Angeles,Unincorporated - White Fence Farms,209,0,2021-01-16
+Los Angeles,Unincorporated - Whittier,257,7,2021-01-16
+Los Angeles,Unincorporated - Whittier Narrows,8,1,2021-01-16
+Los Angeles,Unincorporated - Willowbrook,5010,45,2021-01-16
+Los Angeles,Unincorporated - Wiseburn,392,7,2021-01-16
+Los Angeles,Under Investigation,18871,49,2021-01-16

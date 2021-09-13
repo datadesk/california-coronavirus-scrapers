@@ -1,0 +1,4316 @@
+county,area,date,confirmed_cases
+Ventura,91307: Bell Canyon,2020-12-03,6
+Ventura,91320: Thousand Oaks/Newbury Park,2020-12-03,794
+Ventura,91360: Thousand Oaks,2020-12-03,729
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-12-03,232
+Ventura,91362: Thousand Oaks/Westlake,2020-12-03,511
+Ventura,91377: Oak Park,2020-12-03,132
+Ventura,93001: Ventura,2020-12-03,717
+Ventura,93003: Ventura,2020-12-03,1119
+Ventura,93004: Ventura,2020-12-03,524
+Ventura,93010: Camarillo,2020-12-03,746
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-12-03,422
+Ventura,93015: Fillmore,2020-12-03,736
+Ventura,93021: Moorpark,2020-12-03,818
+Ventura,93022: Oak View,2020-12-03,105
+Ventura,93023: Ojai,2020-12-03,225
+Ventura,93030: Oxnard,2020-12-03,2666
+Ventura,93033: Oxnard,2020-12-03,3449
+Ventura,93035: Oxnard,2020-12-03,657
+Ventura,93036: Oxnard,2020-12-03,1418
+Ventura,93040: Piru,2020-12-03,120
+Ventura,93041: Port Hueneme,2020-12-03,632
+Ventura,93060: Santa Paula,2020-12-03,1418
+Ventura,93063: Simi Valley (Santa Susana),2020-12-03,1323
+Ventura,93065: Simi Valley,2020-12-03,1811
+Ventura,93066: Somis,2020-12-03,78
+Ventura,93033: Oxnard,2020-12-02,3409
+Ventura,93030: Oxnard,2020-12-02,2636
+Ventura,93065: Simi Valley,2020-12-02,1758
+Ventura,91320: Thousand Oaks/Newbury Park,2020-12-02,768
+Ventura,93060: Santa Paula,2020-12-02,1378
+Ventura,93036: Oxnard,2020-12-02,1365
+Ventura,93063: Simi Valley (Santa Susana),2020-12-02,1300
+Ventura,93003: Ventura,2020-12-02,1097
+Ventura,93004: Ventura,2020-12-02,511
+Ventura,93001: Ventura,2020-12-02,708
+Ventura,93021: Moorpark,2020-12-02,807
+Ventura,93010: Camarillo,2020-12-02,730
+Ventura,93035: Oxnard,2020-12-02,649
+Ventura,91360: Thousand Oaks,2020-12-02,719
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-12-02,415
+Ventura,91362: Thousand Oaks/Westlake,2020-12-02,501
+Ventura,93041: Port Hueneme,2020-12-02,617
+Ventura,93015: Fillmore,2020-12-02,730
+Ventura,93023: Ojai,2020-12-02,222
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-12-02,228
+Ventura,91377: Oak Park,2020-12-02,131
+Ventura,93022: Oak View,2020-12-02,105
+Ventura,93066: Somis,2020-12-02,78
+Ventura,93040: Piru,2020-12-02,119
+Ventura,91307: Bell Canyon,2020-12-02,6
+Ventura,93033: Oxnard,2020-12-01,3276
+Ventura,93030: Oxnard,2020-12-01,2516
+Ventura,93065: Simi Valley,2020-12-01,1709
+Ventura,91320: Thousand Oaks/Newbury Park,2020-12-01,741
+Ventura,93060: Santa Paula,2020-12-01,1333
+Ventura,93063: Simi Valley (Santa Susana),2020-12-01,1271
+Ventura,93036: Oxnard,2020-12-01,1304
+Ventura,93003: Ventura,2020-12-01,1029
+Ventura,93021: Moorpark,2020-12-01,780
+Ventura,91360: Thousand Oaks,2020-12-01,698
+Ventura,93010: Camarillo,2020-12-01,704
+Ventura,93004: Ventura,2020-12-01,478
+Ventura,91362: Thousand Oaks/Westlake,2020-12-01,483
+Ventura,93001: Ventura,2020-12-01,665
+Ventura,93035: Oxnard,2020-12-01,625
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-12-01,398
+Ventura,93041: Port Hueneme,2020-12-01,591
+Ventura,93015: Fillmore,2020-12-01,718
+Ventura,93023: Ojai,2020-12-01,216
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-12-01,227
+Ventura,91377: Oak Park,2020-12-01,131
+Ventura,93022: Oak View,2020-12-01,102
+Ventura,93040: Piru,2020-12-01,119
+Ventura,93066: Somis,2020-12-01,73
+Ventura,91307: Bell Canyon,2020-12-01,6
+Ventura,93033: Oxnard,2020-11-30,3255
+Ventura,93030: Oxnard,2020-11-30,2501
+Ventura,93065: Simi Valley,2020-11-30,1699
+Ventura,91320: Thousand Oaks/Newbury Park,2020-11-30,732
+Ventura,93063: Simi Valley (Santa Susana),2020-11-30,1265
+Ventura,93060: Santa Paula,2020-11-30,1326
+Ventura,93036: Oxnard,2020-11-30,1292
+Ventura,93003: Ventura,2020-11-30,1020
+Ventura,93021: Moorpark,2020-11-30,777
+Ventura,91360: Thousand Oaks,2020-11-30,694
+Ventura,93010: Camarillo,2020-11-30,701
+Ventura,93004: Ventura,2020-11-30,474
+Ventura,91362: Thousand Oaks/Westlake,2020-11-30,483
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-11-30,396
+Ventura,93001: Ventura,2020-11-30,659
+Ventura,93035: Oxnard,2020-11-30,618
+Ventura,93015: Fillmore,2020-11-30,716
+Ventura,93041: Port Hueneme,2020-11-30,583
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-11-30,229
+Ventura,93023: Ojai,2020-11-30,216
+Ventura,91377: Oak Park,2020-11-30,130
+Ventura,93022: Oak View,2020-11-30,102
+Ventura,93040: Piru,2020-11-30,119
+Ventura,93066: Somis,2020-11-30,73
+Ventura,91307: Bell Canyon,2020-11-30,6
+Ventura,93033: Oxnard,2020-11-25,3013
+Ventura,93030: Oxnard,2020-11-25,2362
+Ventura,93065: Simi Valley,2020-11-25,1546
+Ventura,93063: Simi Valley (Santa Susana),2020-11-25,1140
+Ventura,93060: Santa Paula,2020-11-25,1212
+Ventura,93036: Oxnard,2020-11-25,1199
+Ventura,91320: Thousand Oaks/Newbury Park,2020-11-25,606
+Ventura,93003: Ventura,2020-11-25,941
+Ventura,93021: Moorpark,2020-11-25,711
+Ventura,91360: Thousand Oaks,2020-11-25,639
+Ventura,91362: Thousand Oaks/Westlake,2020-11-25,427
+Ventura,93035: Oxnard,2020-11-25,571
+Ventura,93004: Ventura,2020-11-25,420
+Ventura,93041: Port Hueneme,2020-11-25,539
+Ventura,93001: Ventura,2020-11-25,606
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-11-25,348
+Ventura,93015: Fillmore,2020-11-25,675
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-11-25,204
+Ventura,93023: Ojai,2020-11-25,190
+Ventura,91377: Oak Park,2020-11-25,121
+Ventura,93022: Oak View,2020-11-25,96
+Ventura,93040: Piru,2020-11-25,114
+Ventura,91307: Bell Canyon,2020-11-25,6
+Ventura,93066: Somis,2020-11-25,69
+Ventura,93033: Oxnard,2020-11-24,3005
+Ventura,93030: Oxnard,2020-11-24,2354
+Ventura,93065: Simi Valley,2020-11-24,1541
+Ventura,93063: Simi Valley (Santa Susana),2020-11-24,1136
+Ventura,93060: Santa Paula,2020-11-24,1201
+Ventura,93036: Oxnard,2020-11-24,1193
+Ventura,91320: Thousand Oaks/Newbury Park,2020-11-24,601
+Ventura,93003: Ventura,2020-11-24,940
+Ventura,93021: Moorpark,2020-11-24,711
+Ventura,91360: Thousand Oaks,2020-11-24,638
+Ventura,93010: Camarillo,2020-11-24,635
+Ventura,91362: Thousand Oaks/Westlake,2020-11-24,429
+Ventura,93035: Oxnard,2020-11-24,570
+Ventura,93004: Ventura,2020-11-24,417
+Ventura,93001: Ventura,2020-11-24,606
+Ventura,93041: Port Hueneme,2020-11-24,536
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-11-24,347
+Ventura,93015: Fillmore,2020-11-24,671
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-11-24,203
+Ventura,93023: Ojai,2020-11-24,186
+Ventura,91377: Oak Park,2020-11-24,121
+Ventura,93022: Oak View,2020-11-24,96
+Ventura,93040: Piru,2020-11-24,114
+Ventura,93066: Somis,2020-11-24,69
+Ventura,91307: Bell Canyon,2020-11-24,5
+Ventura,91307: Bell Canyon,2020-11-20,5
+Ventura,91320: Thousand Oaks/Newbury Park,2020-11-20,531
+Ventura,91360: Thousand Oaks,2020-11-20,608
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-11-20,196
+Ventura,91362: Thousand Oaks/Westlake,2020-11-20,405
+Ventura,91377: Oak Park,2020-11-20,119
+Ventura,93001: Ventura,2020-11-20,591
+Ventura,93003: Ventura,2020-11-20,898
+Ventura,93004: Ventura,2020-11-20,389
+Ventura,93010: Camarillo,2020-11-20,614
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-11-20,319
+Ventura,93015: Fillmore,2020-11-20,657
+Ventura,93021: Moorpark,2020-11-20,685
+Ventura,93022: Oak View,2020-11-20,95
+Ventura,93023: Ojai,2020-11-20,177
+Ventura,93030: Oxnard,2020-11-20,2270
+Ventura,93033: Oxnard,2020-11-20,2917
+Ventura,93035: Oxnard,2020-11-20,537
+Ventura,93036: Oxnard,2020-11-20,1143
+Ventura,93040: Piru,2020-11-20,113
+Ventura,93041: Port Hueneme,2020-11-20,522
+Ventura,93060: Santa Paula,2020-11-20,1153
+Ventura,93063: Simi Valley (Santa Susana),2020-11-20,1091
+Ventura,93065: Simi Valley,2020-11-20,1472
+Ventura,93066: Somis,2020-11-20,68
+Ventura,93033: Oxnard,2020-11-19,2873
+Ventura,93030: Oxnard,2020-11-19,2222
+Ventura,93065: Simi Valley,2020-11-19,1440
+Ventura,93063: Simi Valley (Santa Susana),2020-11-19,1063
+Ventura,93036: Oxnard,2020-11-19,1118
+Ventura,93060: Santa Paula,2020-11-19,1115
+Ventura,93003: Ventura,2020-11-19,874
+Ventura,91320: Thousand Oaks/Newbury Park,2020-11-19,508
+Ventura,93010: Camarillo,2020-11-19,601
+Ventura,93021: Moorpark,2020-11-19,669
+Ventura,93035: Oxnard,2020-11-19,528
+Ventura,93041: Port Hueneme,2020-11-19,512
+Ventura,91360: Thousand Oaks,2020-11-19,589
+Ventura,93004: Ventura,2020-11-19,377
+Ventura,91362: Thousand Oaks/Westlake,2020-11-19,390
+Ventura,93015: Fillmore,2020-11-19,648
+Ventura,93001: Ventura,2020-11-19,575
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-11-19,313
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-11-19,187
+Ventura,93023: Ojai,2020-11-19,170
+Ventura,91377: Oak Park,2020-11-19,115
+Ventura,93022: Oak View,2020-11-19,92
+Ventura,93040: Piru,2020-11-19,112
+Ventura,93066: Somis,2020-11-19,67
+Ventura,91307: Bell Canyon,2020-11-19,5
+Ventura,93033: Oxnard,2020-11-18,2855
+Ventura,93030: Oxnard,2020-11-18,2209
+Ventura,93065: Simi Valley,2020-11-18,1423
+Ventura,93063: Simi Valley (Santa Susana),2020-11-18,1050
+Ventura,93036: Oxnard,2020-11-18,1110
+Ventura,93060: Santa Paula,2020-11-18,1111
+Ventura,93003: Ventura,2020-11-18,871
+Ventura,91320: Thousand Oaks/Newbury Park,2020-11-18,499
+Ventura,93010: Camarillo,2020-11-18,597
+Ventura,93021: Moorpark,2020-11-18,658
+Ventura,93035: Oxnard,2020-11-18,524
+Ventura,93041: Port Hueneme,2020-11-18,510
+Ventura,91360: Thousand Oaks,2020-11-18,577
+Ventura,93004: Ventura,2020-11-18,373
+Ventura,91362: Thousand Oaks/Westlake,2020-11-18,381
+Ventura,93015: Fillmore,2020-11-18,647
+Ventura,93001: Ventura,2020-11-18,570
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-11-18,307
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-11-18,185
+Ventura,93023: Ojai,2020-11-18,168
+Ventura,91377: Oak Park,2020-11-18,113
+Ventura,93022: Oak View,2020-11-18,92
+Ventura,93040: Piru,2020-11-18,112
+Ventura,93066: Somis,2020-11-18,67
+Ventura,91307: Bell Canyon,2020-11-18,5
+Ventura,93033: Oxnard,2020-11-17,2811
+Ventura,93030: Oxnard,2020-11-17,2148
+Ventura,93065: Simi Valley,2020-11-17,1383
+Ventura,93063: Simi Valley (Santa Susana),2020-11-17,1023
+Ventura,93036: Oxnard,2020-11-17,1091
+Ventura,93060: Santa Paula,2020-11-17,1082
+Ventura,93003: Ventura,2020-11-17,861
+Ventura,91320: Thousand Oaks/Newbury Park,2020-11-17,482
+Ventura,93010: Camarillo,2020-11-17,578
+Ventura,93021: Moorpark,2020-11-17,642
+Ventura,93035: Oxnard,2020-11-17,517
+Ventura,93015: Fillmore,2020-11-17,641
+Ventura,93041: Port Hueneme,2020-11-17,502
+Ventura,91360: Thousand Oaks,2020-11-17,568
+Ventura,93004: Ventura,2020-11-17,361
+Ventura,91362: Thousand Oaks/Westlake,2020-11-17,371
+Ventura,93001: Ventura,2020-11-17,562
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-11-17,302
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-11-17,181
+Ventura,91377: Oak Park,2020-11-17,112
+Ventura,93022: Oak View,2020-11-17,89
+Ventura,93023: Ojai,2020-11-17,161
+Ventura,93066: Somis,2020-11-17,67
+Ventura,93040: Piru,2020-11-17,109
+Ventura,91307: Bell Canyon,2020-11-17,5
+Ventura,93033: Oxnard,2020-11-16,2772
+Ventura,93030: Oxnard,2020-11-16,2121
+Ventura,93065: Simi Valley,2020-11-16,1374
+Ventura,93063: Simi Valley (Santa Susana),2020-11-16,1015
+Ventura,93036: Oxnard,2020-11-16,1079
+Ventura,93003: Ventura,2020-11-16,855
+Ventura,93060: Santa Paula,2020-11-16,1069
+Ventura,91320: Thousand Oaks/Newbury Park,2020-11-16,477
+Ventura,93010: Camarillo,2020-11-16,567
+Ventura,93021: Moorpark,2020-11-16,636
+Ventura,93035: Oxnard,2020-11-16,506
+Ventura,93015: Fillmore,2020-11-16,638
+Ventura,93041: Port Hueneme,2020-11-16,495
+Ventura,93001: Ventura,2020-11-16,562
+Ventura,93004: Ventura,2020-11-16,356
+Ventura,91360: Thousand Oaks,2020-11-16,556
+Ventura,91362: Thousand Oaks/Westlake,2020-11-16,366
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-11-16,181
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-11-16,296
+Ventura,91377: Oak Park,2020-11-16,111
+Ventura,93022: Oak View,2020-11-16,89
+Ventura,93023: Ojai,2020-11-16,161
+Ventura,93066: Somis,2020-11-16,67
+Ventura,93040: Piru,2020-11-16,109
+Ventura,91307: Bell Canyon,2020-11-16,4
+Ventura,91307: Bell Canyon,2020-11-13,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-11-13,459
+Ventura,91360: Thousand Oaks,2020-11-13,547
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-11-13,172
+Ventura,91362: Thousand Oaks/Westlake,2020-11-13,355
+Ventura,91377: Oak Park,2020-11-13,109
+Ventura,93001: Ventura,2020-11-13,547
+Ventura,93003: Ventura,2020-11-13,826
+Ventura,93004: Ventura,2020-11-13,349
+Ventura,93010: Camarillo,2020-11-13,543
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-11-13,290
+Ventura,93015: Fillmore,2020-11-13,622
+Ventura,93021: Moorpark,2020-11-13,618
+Ventura,93022: Oak View,2020-11-13,88
+Ventura,93023: Ojai,2020-11-13,160
+Ventura,93030: Oxnard,2020-11-13,2071
+Ventura,93033: Oxnard,2020-11-13,2709
+Ventura,93035: Oxnard,2020-11-13,496
+Ventura,93036: Oxnard,2020-11-13,1050
+Ventura,93040: Piru,2020-11-13,108
+Ventura,93041: Port Hueneme,2020-11-13,479
+Ventura,93060: Santa Paula,2020-11-13,1051
+Ventura,93063: Simi Valley (Santa Susana),2020-11-13,975
+Ventura,93065: Simi Valley,2020-11-13,1335
+Ventura,93066: Somis,2020-11-13,66
+Ventura,91307: Bell Canyon,2020-11-12,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-11-12,444
+Ventura,91360: Thousand Oaks,2020-11-12,541
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-11-12,168
+Ventura,91362: Thousand Oaks/Westlake,2020-11-12,349
+Ventura,91377: Oak Park,2020-11-12,108
+Ventura,93001: Ventura,2020-11-12,538
+Ventura,93003: Ventura,2020-11-12,805
+Ventura,93004: Ventura,2020-11-12,334
+Ventura,93010: Camarillo,2020-11-12,531
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-11-12,288
+Ventura,93015: Fillmore,2020-11-12,611
+Ventura,93021: Moorpark,2020-11-12,601
+Ventura,93022: Oak View,2020-11-12,86
+Ventura,93023: Ojai,2020-11-12,159
+Ventura,93030: Oxnard,2020-11-12,2051
+Ventura,93033: Oxnard,2020-11-12,2675
+Ventura,93035: Oxnard,2020-11-12,491
+Ventura,93036: Oxnard,2020-11-12,1036
+Ventura,93040: Piru,2020-11-12,108
+Ventura,93041: Port Hueneme,2020-11-12,472
+Ventura,93060: Santa Paula,2020-11-12,1036
+Ventura,93063: Simi Valley (Santa Susana),2020-11-12,953
+Ventura,93065: Simi Valley,2020-11-12,1310
+Ventura,93066: Somis,2020-11-12,65
+Ventura,91307: Bell Canyon,2020-11-10,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-11-10,423
+Ventura,91360: Thousand Oaks,2020-11-10,534
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-11-10,164
+Ventura,91362: Thousand Oaks/Westlake,2020-11-10,343
+Ventura,91377: Oak Park,2020-11-10,105
+Ventura,93001: Ventura,2020-11-10,527
+Ventura,93003: Ventura,2020-11-10,787
+Ventura,93004: Ventura,2020-11-10,322
+Ventura,93010: Camarillo,2020-11-10,520
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-11-10,280
+Ventura,93015: Fillmore,2020-11-10,602
+Ventura,93021: Moorpark,2020-11-10,587
+Ventura,93022: Oak View,2020-11-10,83
+Ventura,93023: Ojai,2020-11-10,157
+Ventura,93030: Oxnard,2020-11-10,2020
+Ventura,93033: Oxnard,2020-11-10,2623
+Ventura,93035: Oxnard,2020-11-10,489
+Ventura,93036: Oxnard,2020-11-10,1013
+Ventura,93040: Piru,2020-11-10,107
+Ventura,93041: Port Hueneme,2020-11-10,464
+Ventura,93060: Santa Paula,2020-11-10,1017
+Ventura,93063: Simi Valley (Santa Susana),2020-11-10,934
+Ventura,93065: Simi Valley,2020-11-10,1290
+Ventura,93066: Somis,2020-11-10,64
+Ventura,91307: Bell Canyon,2020-11-09,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-11-09,422
+Ventura,91360: Thousand Oaks,2020-11-09,530
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-11-09,164
+Ventura,91362: Thousand Oaks/Westlake,2020-11-09,341
+Ventura,91377: Oak Park,2020-11-09,104
+Ventura,93001: Ventura,2020-11-09,526
+Ventura,93003: Ventura,2020-11-09,787
+Ventura,93004: Ventura,2020-11-09,322
+Ventura,93010: Camarillo,2020-11-09,516
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-11-09,281
+Ventura,93015: Fillmore,2020-11-09,599
+Ventura,93021: Moorpark,2020-11-09,586
+Ventura,93022: Oak View,2020-11-09,83
+Ventura,93023: Ojai,2020-11-09,156
+Ventura,93030: Oxnard,2020-11-09,2012
+Ventura,93033: Oxnard,2020-11-09,2608
+Ventura,93035: Oxnard,2020-11-09,488
+Ventura,93036: Oxnard,2020-11-09,1005
+Ventura,93040: Piru,2020-11-09,107
+Ventura,93041: Port Hueneme,2020-11-09,463
+Ventura,93060: Santa Paula,2020-11-09,1013
+Ventura,93063: Simi Valley (Santa Susana),2020-11-09,927
+Ventura,93065: Simi Valley,2020-11-09,1279
+Ventura,93066: Somis,2020-11-09,64
+Ventura,91307: Bell Canyon,2020-11-06,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-11-06,411
+Ventura,91360: Thousand Oaks,2020-11-06,519
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-11-06,161
+Ventura,91362: Thousand Oaks/Westlake,2020-11-06,329
+Ventura,91377: Oak Park,2020-11-06,102
+Ventura,93001: Ventura,2020-11-06,515
+Ventura,93003: Ventura,2020-11-06,773
+Ventura,93004: Ventura,2020-11-06,320
+Ventura,93010: Camarillo,2020-11-06,505
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-11-06,277
+Ventura,93015: Fillmore,2020-11-06,589
+Ventura,93021: Moorpark,2020-11-06,575
+Ventura,93022: Oak View,2020-11-06,81
+Ventura,93023: Ojai,2020-11-06,155
+Ventura,93030: Oxnard,2020-11-06,1973
+Ventura,93033: Oxnard,2020-11-06,2555
+Ventura,93035: Oxnard,2020-11-06,460
+Ventura,93036: Oxnard,2020-11-06,984
+Ventura,93040: Piru,2020-11-06,107
+Ventura,93041: Port Hueneme,2020-11-06,455
+Ventura,93060: Santa Paula,2020-11-06,989
+Ventura,93063: Simi Valley (Santa Susana),2020-11-06,903
+Ventura,93065: Simi Valley,2020-11-06,1244
+Ventura,93066: Somis,2020-11-06,62
+Ventura,91307: Bell Canyon,2020-11-05,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-11-05,399
+Ventura,91360: Thousand Oaks,2020-11-05,516
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-11-05,159
+Ventura,91362: Thousand Oaks/Westlake,2020-11-05,330
+Ventura,91377: Oak Park,2020-11-05,99
+Ventura,93001: Ventura,2020-11-05,510
+Ventura,93003: Ventura,2020-11-05,766
+Ventura,93004: Ventura,2020-11-05,315
+Ventura,93010: Camarillo,2020-11-05,499
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-11-05,277
+Ventura,93015: Fillmore,2020-11-05,586
+Ventura,93021: Moorpark,2020-11-05,568
+Ventura,93022: Oak View,2020-11-05,80
+Ventura,93023: Ojai,2020-11-05,155
+Ventura,93030: Oxnard,2020-11-05,1957
+Ventura,93033: Oxnard,2020-11-05,2539
+Ventura,93035: Oxnard,2020-11-05,455
+Ventura,93036: Oxnard,2020-11-05,971
+Ventura,93040: Piru,2020-11-05,107
+Ventura,93041: Port Hueneme,2020-11-05,452
+Ventura,93060: Santa Paula,2020-11-05,986
+Ventura,93063: Simi Valley (Santa Susana),2020-11-05,887
+Ventura,93065: Simi Valley,2020-11-05,1222
+Ventura,93066: Somis,2020-11-05,62
+Ventura,91307: Bell Canyon,2020-11-04,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-11-04,395
+Ventura,91360: Thousand Oaks,2020-11-04,508
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-11-04,158
+Ventura,91362: Thousand Oaks/Westlake,2020-11-04,326
+Ventura,91377: Oak Park,2020-11-04,96
+Ventura,93001: Ventura,2020-11-04,504
+Ventura,93003: Ventura,2020-11-04,758
+Ventura,93004: Ventura,2020-11-04,308
+Ventura,93010: Camarillo,2020-11-04,495
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-11-04,274
+Ventura,93015: Fillmore,2020-11-04,580
+Ventura,93021: Moorpark,2020-11-04,557
+Ventura,93022: Oak View,2020-11-04,80
+Ventura,93023: Ojai,2020-11-04,153
+Ventura,93030: Oxnard,2020-11-04,1946
+Ventura,93033: Oxnard,2020-11-04,2509
+Ventura,93035: Oxnard,2020-11-04,451
+Ventura,93036: Oxnard,2020-11-04,958
+Ventura,93040: Piru,2020-11-04,107
+Ventura,93041: Port Hueneme,2020-11-04,449
+Ventura,93060: Santa Paula,2020-11-04,977
+Ventura,93063: Simi Valley (Santa Susana),2020-11-04,879
+Ventura,93065: Simi Valley,2020-11-04,1209
+Ventura,93066: Somis,2020-11-04,62
+Ventura,91307: Bell Canyon,2020-11-03,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-11-03,394
+Ventura,91360: Thousand Oaks,2020-11-03,502
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-11-03,158
+Ventura,91362: Thousand Oaks/Westlake,2020-11-03,323
+Ventura,91377: Oak Park,2020-11-03,96
+Ventura,93001: Ventura,2020-11-03,501
+Ventura,93003: Ventura,2020-11-03,756
+Ventura,93004: Ventura,2020-11-03,306
+Ventura,93010: Camarillo,2020-11-03,490
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-11-03,272
+Ventura,93015: Fillmore,2020-11-03,576
+Ventura,93021: Moorpark,2020-11-03,554
+Ventura,93022: Oak View,2020-11-03,80
+Ventura,93023: Ojai,2020-11-03,152
+Ventura,93030: Oxnard,2020-11-03,1931
+Ventura,93033: Oxnard,2020-11-03,2489
+Ventura,93035: Oxnard,2020-11-03,447
+Ventura,93036: Oxnard,2020-11-03,948
+Ventura,93040: Piru,2020-11-03,106
+Ventura,93041: Port Hueneme,2020-11-03,442
+Ventura,93060: Santa Paula,2020-11-03,966
+Ventura,93063: Simi Valley (Santa Susana),2020-11-03,876
+Ventura,93065: Simi Valley,2020-11-03,1201
+Ventura,93066: Somis,2020-11-03,61
+Ventura,91307: Bell Canyon,2020-11-02,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-11-02,393
+Ventura,91360: Thousand Oaks,2020-11-02,501
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-11-02,157
+Ventura,91362: Thousand Oaks/Westlake,2020-11-02,323
+Ventura,91377: Oak Park,2020-11-02,96
+Ventura,93001: Ventura,2020-11-02,502
+Ventura,93003: Ventura,2020-11-02,756
+Ventura,93004: Ventura,2020-11-02,304
+Ventura,93010: Camarillo,2020-11-02,486
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-11-02,272
+Ventura,93015: Fillmore,2020-11-02,573
+Ventura,93021: Moorpark,2020-11-02,553
+Ventura,93022: Oak View,2020-11-02,80
+Ventura,93023: Ojai,2020-11-02,152
+Ventura,93030: Oxnard,2020-11-02,1925
+Ventura,93033: Oxnard,2020-11-02,2479
+Ventura,93035: Oxnard,2020-11-02,447
+Ventura,93036: Oxnard,2020-11-02,942
+Ventura,93040: Piru,2020-11-02,106
+Ventura,93041: Port Hueneme,2020-11-02,439
+Ventura,93060: Santa Paula,2020-11-02,965
+Ventura,93063: Simi Valley (Santa Susana),2020-11-02,875
+Ventura,93065: Simi Valley,2020-11-02,1199
+Ventura,93066: Somis,2020-11-02,61
+Ventura,91307: Bell Canyon,2020-10-30,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-10-30,384
+Ventura,91360: Thousand Oaks,2020-10-30,490
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-10-30,152
+Ventura,91362: Thousand Oaks/Westlake,2020-10-30,319
+Ventura,91377: Oak Park,2020-10-30,94
+Ventura,93001: Ventura,2020-10-30,496
+Ventura,93003: Ventura,2020-10-30,749
+Ventura,93004: Ventura,2020-10-30,302
+Ventura,93010: Camarillo,2020-10-30,478
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-10-30,270
+Ventura,93015: Fillmore,2020-10-30,569
+Ventura,93021: Moorpark,2020-10-30,545
+Ventura,93022: Oak View,2020-10-30,80
+Ventura,93023: Ojai,2020-10-30,151
+Ventura,93030: Oxnard,2020-10-30,1906
+Ventura,93033: Oxnard,2020-10-30,2451
+Ventura,93035: Oxnard,2020-10-30,446
+Ventura,93036: Oxnard,2020-10-30,928
+Ventura,93040: Piru,2020-10-30,105
+Ventura,93041: Port Hueneme,2020-10-30,434
+Ventura,93060: Santa Paula,2020-10-30,949
+Ventura,93063: Simi Valley (Santa Susana),2020-10-30,866
+Ventura,93065: Simi Valley,2020-10-30,1181
+Ventura,93066: Somis,2020-10-30,61
+Ventura,91307: Bell Canyon,2020-10-29,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-10-29,382
+Ventura,91360: Thousand Oaks,2020-10-29,487
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-10-29,150
+Ventura,91362: Thousand Oaks/Westlake,2020-10-29,317
+Ventura,91377: Oak Park,2020-10-29,92
+Ventura,93001: Ventura,2020-10-29,497
+Ventura,93003: Ventura,2020-10-29,744
+Ventura,93004: Ventura,2020-10-29,301
+Ventura,93010: Camarillo,2020-10-29,470
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-10-29,268
+Ventura,93015: Fillmore,2020-10-29,566
+Ventura,93021: Moorpark,2020-10-29,542
+Ventura,93022: Oak View,2020-10-29,80
+Ventura,93023: Ojai,2020-10-29,150
+Ventura,93030: Oxnard,2020-10-29,1891
+Ventura,93033: Oxnard,2020-10-29,2445
+Ventura,93035: Oxnard,2020-10-29,445
+Ventura,93036: Oxnard,2020-10-29,919
+Ventura,93040: Piru,2020-10-29,105
+Ventura,93041: Port Hueneme,2020-10-29,434
+Ventura,93060: Santa Paula,2020-10-29,944
+Ventura,93063: Simi Valley (Santa Susana),2020-10-29,859
+Ventura,93065: Simi Valley,2020-10-29,1172
+Ventura,93066: Somis,2020-10-29,61
+Ventura,91307: Bell Canyon,2020-10-28,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-10-28,380
+Ventura,91360: Thousand Oaks,2020-10-28,486
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-10-28,150
+Ventura,91362: Thousand Oaks/Westlake,2020-10-28,318
+Ventura,91377: Oak Park,2020-10-28,91
+Ventura,93001: Ventura,2020-10-28,494
+Ventura,93003: Ventura,2020-10-28,744
+Ventura,93004: Ventura,2020-10-28,297
+Ventura,93010: Camarillo,2020-10-28,468
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-10-28,267
+Ventura,93015: Fillmore,2020-10-28,561
+Ventura,93021: Moorpark,2020-10-28,536
+Ventura,93022: Oak View,2020-10-28,80
+Ventura,93023: Ojai,2020-10-28,148
+Ventura,93030: Oxnard,2020-10-28,1884
+Ventura,93033: Oxnard,2020-10-28,2435
+Ventura,93035: Oxnard,2020-10-28,444
+Ventura,93036: Oxnard,2020-10-28,911
+Ventura,93040: Piru,2020-10-28,105
+Ventura,93041: Port Hueneme,2020-10-28,434
+Ventura,93060: Santa Paula,2020-10-28,935
+Ventura,93063: Simi Valley (Santa Susana),2020-10-28,850
+Ventura,93065: Simi Valley,2020-10-28,1164
+Ventura,93066: Somis,2020-10-28,61
+Ventura,91307: Bell Canyon,2020-10-27,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-10-27,378
+Ventura,91360: Thousand Oaks,2020-10-27,486
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-10-27,148
+Ventura,91362: Thousand Oaks/Westlake,2020-10-27,316
+Ventura,91377: Oak Park,2020-10-27,91
+Ventura,93001: Ventura,2020-10-27,494
+Ventura,93003: Ventura,2020-10-27,742
+Ventura,93004: Ventura,2020-10-27,295
+Ventura,93010: Camarillo,2020-10-27,465
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-10-27,265
+Ventura,93015: Fillmore,2020-10-27,557
+Ventura,93021: Moorpark,2020-10-27,534
+Ventura,93022: Oak View,2020-10-27,80
+Ventura,93023: Ojai,2020-10-27,148
+Ventura,93030: Oxnard,2020-10-27,1871
+Ventura,93033: Oxnard,2020-10-27,2422
+Ventura,93035: Oxnard,2020-10-27,444
+Ventura,93036: Oxnard,2020-10-27,909
+Ventura,93040: Piru,2020-10-27,103
+Ventura,93041: Port Hueneme,2020-10-27,434
+Ventura,93060: Santa Paula,2020-10-27,930
+Ventura,93063: Simi Valley (Santa Susana),2020-10-27,851
+Ventura,93065: Simi Valley,2020-10-27,1159
+Ventura,93066: Somis,2020-10-27,61
+Ventura,91307: Bell Canyon,2020-10-26,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-10-26,378
+Ventura,91360: Thousand Oaks,2020-10-26,482
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-10-26,147
+Ventura,91362: Thousand Oaks/Westlake,2020-10-26,316
+Ventura,91377: Oak Park,2020-10-26,92
+Ventura,93001: Ventura,2020-10-26,495
+Ventura,93003: Ventura,2020-10-26,737
+Ventura,93004: Ventura,2020-10-26,292
+Ventura,93010: Camarillo,2020-10-26,465
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-10-26,262
+Ventura,93015: Fillmore,2020-10-26,556
+Ventura,93021: Moorpark,2020-10-26,532
+Ventura,93022: Oak View,2020-10-26,80
+Ventura,93023: Ojai,2020-10-26,148
+Ventura,93030: Oxnard,2020-10-26,1870
+Ventura,93033: Oxnard,2020-10-26,2419
+Ventura,93035: Oxnard,2020-10-26,441
+Ventura,93036: Oxnard,2020-10-26,910
+Ventura,93040: Piru,2020-10-26,103
+Ventura,93041: Port Hueneme,2020-10-26,434
+Ventura,93060: Santa Paula,2020-10-26,929
+Ventura,93063: Simi Valley (Santa Susana),2020-10-26,851
+Ventura,93065: Simi Valley,2020-10-26,1157
+Ventura,93066: Somis,2020-10-26,61
+Ventura,91307: Bell Canyon,2020-10-23,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-10-23,373
+Ventura,91360: Thousand Oaks,2020-10-23,479
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-10-23,146
+Ventura,91362: Thousand Oaks/Westlake,2020-10-23,314
+Ventura,91377: Oak Park,2020-10-23,91
+Ventura,93001: Ventura,2020-10-23,491
+Ventura,93003: Ventura,2020-10-23,731
+Ventura,93004: Ventura,2020-10-23,289
+Ventura,93010: Camarillo,2020-10-23,459
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-10-23,261
+Ventura,93015: Fillmore,2020-10-23,553
+Ventura,93021: Moorpark,2020-10-23,529
+Ventura,93022: Oak View,2020-10-23,80
+Ventura,93023: Ojai,2020-10-23,146
+Ventura,93030: Oxnard,2020-10-23,1859
+Ventura,93033: Oxnard,2020-10-23,2396
+Ventura,93035: Oxnard,2020-10-23,434
+Ventura,93036: Oxnard,2020-10-23,899
+Ventura,93040: Piru,2020-10-23,103
+Ventura,93041: Port Hueneme,2020-10-23,430
+Ventura,93060: Santa Paula,2020-10-23,918
+Ventura,93063: Simi Valley (Santa Susana),2020-10-23,843
+Ventura,93065: Simi Valley,2020-10-23,1133
+Ventura,93066: Somis,2020-10-23,59
+Ventura,91307: Bell Canyon,2020-10-22,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-10-22,370
+Ventura,91360: Thousand Oaks,2020-10-22,477
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-10-22,143
+Ventura,91362: Thousand Oaks/Westlake,2020-10-22,311
+Ventura,91377: Oak Park,2020-10-22,91
+Ventura,93001: Ventura,2020-10-22,491
+Ventura,93003: Ventura,2020-10-22,725
+Ventura,93004: Ventura,2020-10-22,284
+Ventura,93010: Camarillo,2020-10-22,457
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-10-22,258
+Ventura,93015: Fillmore,2020-10-22,552
+Ventura,93021: Moorpark,2020-10-22,527
+Ventura,93022: Oak View,2020-10-22,79
+Ventura,93023: Ojai,2020-10-22,145
+Ventura,93030: Oxnard,2020-10-22,1853
+Ventura,93033: Oxnard,2020-10-22,2384
+Ventura,93035: Oxnard,2020-10-22,432
+Ventura,93036: Oxnard,2020-10-22,896
+Ventura,93040: Piru,2020-10-22,103
+Ventura,93041: Port Hueneme,2020-10-22,429
+Ventura,93060: Santa Paula,2020-10-22,915
+Ventura,93063: Simi Valley (Santa Susana),2020-10-22,839
+Ventura,93065: Simi Valley,2020-10-22,1125
+Ventura,93066: Somis,2020-10-22,59
+Ventura,91307: Bell Canyon,2020-10-21,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-10-21,367
+Ventura,91360: Thousand Oaks,2020-10-21,475
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-10-21,140
+Ventura,91362: Thousand Oaks/Westlake,2020-10-21,309
+Ventura,91377: Oak Park,2020-10-21,90
+Ventura,93001: Ventura,2020-10-21,486
+Ventura,93003: Ventura,2020-10-21,716
+Ventura,93004: Ventura,2020-10-21,283
+Ventura,93010: Camarillo,2020-10-21,456
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-10-21,256
+Ventura,93015: Fillmore,2020-10-21,550
+Ventura,93021: Moorpark,2020-10-21,526
+Ventura,93022: Oak View,2020-10-21,79
+Ventura,93023: Ojai,2020-10-21,143
+Ventura,93030: Oxnard,2020-10-21,1848
+Ventura,93033: Oxnard,2020-10-21,2376
+Ventura,93035: Oxnard,2020-10-21,427
+Ventura,93036: Oxnard,2020-10-21,893
+Ventura,93040: Piru,2020-10-21,103
+Ventura,93041: Port Hueneme,2020-10-21,427
+Ventura,93060: Santa Paula,2020-10-21,907
+Ventura,93063: Simi Valley (Santa Susana),2020-10-21,826
+Ventura,93065: Simi Valley,2020-10-21,1113
+Ventura,93066: Somis,2020-10-21,57
+Ventura,91307: Bell Canyon,2020-10-20,3
+Ventura,91320: Thousand Oaks/Newbury Park,2020-10-20,361
+Ventura,91360: Thousand Oaks,2020-10-20,468
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-10-20,140
+Ventura,91362: Thousand Oaks/Westlake,2020-10-20,305
+Ventura,91377: Oak Park,2020-10-20,90
+Ventura,93001: Ventura,2020-10-20,484
+Ventura,93003: Ventura,2020-10-20,710
+Ventura,93004: Ventura,2020-10-20,283
+Ventura,93010: Camarillo,2020-10-20,455
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-10-20,256
+Ventura,93015: Fillmore,2020-10-20,545
+Ventura,93021: Moorpark,2020-10-20,521
+Ventura,93022: Oak View,2020-10-20,79
+Ventura,93023: Ojai,2020-10-20,140
+Ventura,93030: Oxnard,2020-10-20,1841
+Ventura,93033: Oxnard,2020-10-20,2373
+Ventura,93035: Oxnard,2020-10-20,427
+Ventura,93036: Oxnard,2020-10-20,886
+Ventura,93040: Piru,2020-10-20,103
+Ventura,93041: Port Hueneme,2020-10-20,427
+Ventura,93060: Santa Paula,2020-10-20,904
+Ventura,93063: Simi Valley (Santa Susana),2020-10-20,819
+Ventura,93065: Simi Valley,2020-10-20,1102
+Ventura,93066: Somis,2020-10-20,55
+Ventura,91307: Bell Canyon,2020-10-19,3
+Ventura,91320: Thousand Oaks/Newbury Park,2020-10-19,361
+Ventura,91360: Thousand Oaks,2020-10-19,467
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-10-19,140
+Ventura,91362: Thousand Oaks/Westlake,2020-10-19,305
+Ventura,91377: Oak Park,2020-10-19,90
+Ventura,93001: Ventura,2020-10-19,484
+Ventura,93003: Ventura,2020-10-19,707
+Ventura,93004: Ventura,2020-10-19,282
+Ventura,93010: Camarillo,2020-10-19,454
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-10-19,256
+Ventura,93015: Fillmore,2020-10-19,543
+Ventura,93021: Moorpark,2020-10-19,520
+Ventura,93022: Oak View,2020-10-19,76
+Ventura,93023: Ojai,2020-10-19,139
+Ventura,93030: Oxnard,2020-10-19,1834
+Ventura,93033: Oxnard,2020-10-19,2366
+Ventura,93035: Oxnard,2020-10-19,425
+Ventura,93036: Oxnard,2020-10-19,885
+Ventura,93040: Piru,2020-10-19,103
+Ventura,93041: Port Hueneme,2020-10-19,427
+Ventura,93060: Santa Paula,2020-10-19,895
+Ventura,93063: Simi Valley (Santa Susana),2020-10-19,813
+Ventura,93065: Simi Valley,2020-10-19,1098
+Ventura,93066: Somis,2020-10-19,55
+Ventura,91307: Bell Canyon,2020-10-16,3
+Ventura,91320: Thousand Oaks/Newbury Park,2020-10-16,354
+Ventura,91360: Thousand Oaks,2020-10-16,466
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-10-16,140
+Ventura,91362: Thousand Oaks/Westlake,2020-10-16,303
+Ventura,91377: Oak Park,2020-10-16,90
+Ventura,93001: Ventura,2020-10-16,481
+Ventura,93003: Ventura,2020-10-16,704
+Ventura,93004: Ventura,2020-10-16,280
+Ventura,93010: Camarillo,2020-10-16,452
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-10-16,253
+Ventura,93015: Fillmore,2020-10-16,539
+Ventura,93021: Moorpark,2020-10-16,513
+Ventura,93022: Oak View,2020-10-16,72
+Ventura,93023: Ojai,2020-10-16,135
+Ventura,93030: Oxnard,2020-10-16,1820
+Ventura,93033: Oxnard,2020-10-16,2354
+Ventura,93035: Oxnard,2020-10-16,422
+Ventura,93036: Oxnard,2020-10-16,876
+Ventura,93040: Piru,2020-10-16,103
+Ventura,93041: Port Hueneme,2020-10-16,421
+Ventura,93060: Santa Paula,2020-10-16,886
+Ventura,93063: Simi Valley (Santa Susana),2020-10-16,792
+Ventura,93065: Simi Valley,2020-10-16,1083
+Ventura,93066: Somis,2020-10-16,55
+Ventura,91307: Bell Canyon,2020-10-15,3
+Ventura,91320: Thousand Oaks/Newbury Park,2020-10-15,352
+Ventura,91360: Thousand Oaks,2020-10-15,465
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-10-15,139
+Ventura,91362: Thousand Oaks/Westlake,2020-10-15,298
+Ventura,91377: Oak Park,2020-10-15,89
+Ventura,93001: Ventura,2020-10-15,480
+Ventura,93003: Ventura,2020-10-15,705
+Ventura,93004: Ventura,2020-10-15,278
+Ventura,93010: Camarillo,2020-10-15,450
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-10-15,252
+Ventura,93015: Fillmore,2020-10-15,538
+Ventura,93021: Moorpark,2020-10-15,510
+Ventura,93022: Oak View,2020-10-15,72
+Ventura,93023: Ojai,2020-10-15,135
+Ventura,93030: Oxnard,2020-10-15,1813
+Ventura,93033: Oxnard,2020-10-15,2346
+Ventura,93035: Oxnard,2020-10-15,421
+Ventura,93036: Oxnard,2020-10-15,871
+Ventura,93040: Piru,2020-10-15,103
+Ventura,93041: Port Hueneme,2020-10-15,419
+Ventura,93060: Santa Paula,2020-10-15,883
+Ventura,93063: Simi Valley (Santa Susana),2020-10-15,788
+Ventura,93065: Simi Valley,2020-10-15,1076
+Ventura,93066: Somis,2020-10-15,55
+Ventura,91307: Bell Canyon,2020-10-14,3
+Ventura,91320: Thousand Oaks/Newbury Park,2020-10-14,349
+Ventura,91360: Thousand Oaks,2020-10-14,463
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-10-14,139
+Ventura,91362: Thousand Oaks/Westlake,2020-10-14,295
+Ventura,91377: Oak Park,2020-10-14,89
+Ventura,93001: Ventura,2020-10-14,477
+Ventura,93003: Ventura,2020-10-14,704
+Ventura,93004: Ventura,2020-10-14,278
+Ventura,93010: Camarillo,2020-10-14,449
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-10-14,250
+Ventura,93015: Fillmore,2020-10-14,538
+Ventura,93021: Moorpark,2020-10-14,509
+Ventura,93022: Oak View,2020-10-14,72
+Ventura,93023: Ojai,2020-10-14,134
+Ventura,93030: Oxnard,2020-10-14,1807
+Ventura,93033: Oxnard,2020-10-14,2344
+Ventura,93035: Oxnard,2020-10-14,417
+Ventura,93036: Oxnard,2020-10-14,871
+Ventura,93040: Piru,2020-10-14,103
+Ventura,93041: Port Hueneme,2020-10-14,415
+Ventura,93060: Santa Paula,2020-10-14,880
+Ventura,93063: Simi Valley (Santa Susana),2020-10-14,785
+Ventura,93065: Simi Valley,2020-10-14,1065
+Ventura,93066: Somis,2020-10-14,55
+Ventura,91307: Bell Canyon,2020-10-13,3
+Ventura,91320: Thousand Oaks/Newbury Park,2020-10-13,346
+Ventura,91360: Thousand Oaks,2020-10-13,463
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-10-13,138
+Ventura,91362: Thousand Oaks/Westlake,2020-10-13,292
+Ventura,91377: Oak Park,2020-10-13,86
+Ventura,93001: Ventura,2020-10-13,477
+Ventura,93003: Ventura,2020-10-13,704
+Ventura,93004: Ventura,2020-10-13,278
+Ventura,93010: Camarillo,2020-10-13,448
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-10-13,251
+Ventura,93015: Fillmore,2020-10-13,537
+Ventura,93021: Moorpark,2020-10-13,506
+Ventura,93022: Oak View,2020-10-13,72
+Ventura,93023: Ojai,2020-10-13,135
+Ventura,93030: Oxnard,2020-10-13,1798
+Ventura,93033: Oxnard,2020-10-13,2336
+Ventura,93035: Oxnard,2020-10-13,415
+Ventura,93036: Oxnard,2020-10-13,868
+Ventura,93040: Piru,2020-10-13,103
+Ventura,93041: Port Hueneme,2020-10-13,414
+Ventura,93060: Santa Paula,2020-10-13,877
+Ventura,93063: Simi Valley (Santa Susana),2020-10-13,777
+Ventura,93065: Simi Valley,2020-10-13,1059
+Ventura,93066: Somis,2020-10-13,55
+Ventura,91307: Bell Canyon,2020-10-12,3
+Ventura,91320: Thousand Oaks/Newbury Park,2020-10-12,345
+Ventura,91360: Thousand Oaks,2020-10-12,463
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-10-12,137
+Ventura,91362: Thousand Oaks/Westlake,2020-10-12,291
+Ventura,91377: Oak Park,2020-10-12,86
+Ventura,93001: Ventura,2020-10-12,477
+Ventura,93003: Ventura,2020-10-12,702
+Ventura,93004: Ventura,2020-10-12,278
+Ventura,93010: Camarillo,2020-10-12,448
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-10-12,250
+Ventura,93015: Fillmore,2020-10-12,537
+Ventura,93021: Moorpark,2020-10-12,506
+Ventura,93022: Oak View,2020-10-12,72
+Ventura,93023: Ojai,2020-10-12,135
+Ventura,93030: Oxnard,2020-10-12,1795
+Ventura,93033: Oxnard,2020-10-12,2335
+Ventura,93035: Oxnard,2020-10-12,414
+Ventura,93036: Oxnard,2020-10-12,866
+Ventura,93040: Piru,2020-10-12,103
+Ventura,93041: Port Hueneme,2020-10-12,414
+Ventura,93060: Santa Paula,2020-10-12,878
+Ventura,93063: Simi Valley (Santa Susana),2020-10-12,774
+Ventura,93065: Simi Valley,2020-10-12,1059
+Ventura,93066: Somis,2020-10-12,55
+Ventura,91307: Bell Canyon,2020-10-09,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-10-09,343
+Ventura,91360: Thousand Oaks,2020-10-09,460
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-10-09,136
+Ventura,91362: Thousand Oaks/Westlake,2020-10-09,289
+Ventura,91377: Oak Park,2020-10-09,82
+Ventura,93001: Ventura,2020-10-09,473
+Ventura,93003: Ventura,2020-10-09,700
+Ventura,93004: Ventura,2020-10-09,271
+Ventura,93010: Camarillo,2020-10-09,444
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-10-09,245
+Ventura,93015: Fillmore,2020-10-09,531
+Ventura,93021: Moorpark,2020-10-09,498
+Ventura,93022: Oak View,2020-10-09,72
+Ventura,93023: Ojai,2020-10-09,132
+Ventura,93030: Oxnard,2020-10-09,1780
+Ventura,93033: Oxnard,2020-10-09,2310
+Ventura,93035: Oxnard,2020-10-09,403
+Ventura,93036: Oxnard,2020-10-09,857
+Ventura,93040: Piru,2020-10-09,102
+Ventura,93041: Port Hueneme,2020-10-09,410
+Ventura,93060: Santa Paula,2020-10-09,870
+Ventura,93063: Simi Valley (Santa Susana),2020-10-09,753
+Ventura,93065: Simi Valley,2020-10-09,1045
+Ventura,93066: Somis,2020-10-09,55
+Ventura,91307: Bell Canyon,2020-10-08,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-10-08,343
+Ventura,91360: Thousand Oaks,2020-10-08,457
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-10-08,135
+Ventura,91362: Thousand Oaks/Westlake,2020-10-08,289
+Ventura,91377: Oak Park,2020-10-08,82
+Ventura,93001: Ventura,2020-10-08,473
+Ventura,93003: Ventura,2020-10-08,698
+Ventura,93004: Ventura,2020-10-08,270
+Ventura,93010: Camarillo,2020-10-08,444
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-10-08,245
+Ventura,93015: Fillmore,2020-10-08,529
+Ventura,93021: Moorpark,2020-10-08,497
+Ventura,93022: Oak View,2020-10-08,72
+Ventura,93023: Ojai,2020-10-08,130
+Ventura,93030: Oxnard,2020-10-08,1777
+Ventura,93033: Oxnard,2020-10-08,2305
+Ventura,93035: Oxnard,2020-10-08,402
+Ventura,93036: Oxnard,2020-10-08,854
+Ventura,93040: Piru,2020-10-08,102
+Ventura,93041: Port Hueneme,2020-10-08,410
+Ventura,93060: Santa Paula,2020-10-08,866
+Ventura,93063: Simi Valley (Santa Susana),2020-10-08,747
+Ventura,93065: Simi Valley,2020-10-08,1040
+Ventura,93066: Somis,2020-10-08,55
+Ventura,91307: Bell Canyon,2020-10-07,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-10-07,343
+Ventura,91360: Thousand Oaks,2020-10-07,457
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-10-07,134
+Ventura,91362: Thousand Oaks/Westlake,2020-10-07,287
+Ventura,91377: Oak Park,2020-10-07,82
+Ventura,93001: Ventura,2020-10-07,472
+Ventura,93003: Ventura,2020-10-07,692
+Ventura,93004: Ventura,2020-10-07,267
+Ventura,93010: Camarillo,2020-10-07,442
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-10-07,242
+Ventura,93015: Fillmore,2020-10-07,524
+Ventura,93021: Moorpark,2020-10-07,496
+Ventura,93022: Oak View,2020-10-07,72
+Ventura,93023: Ojai,2020-10-07,130
+Ventura,93030: Oxnard,2020-10-07,1763
+Ventura,93033: Oxnard,2020-10-07,2296
+Ventura,93035: Oxnard,2020-10-07,401
+Ventura,93036: Oxnard,2020-10-07,852
+Ventura,93040: Piru,2020-10-07,102
+Ventura,93041: Port Hueneme,2020-10-07,408
+Ventura,93060: Santa Paula,2020-10-07,861
+Ventura,93063: Simi Valley (Santa Susana),2020-10-07,740
+Ventura,93065: Simi Valley,2020-10-07,1027
+Ventura,93066: Somis,2020-10-07,55
+Ventura,91307: Bell Canyon,2020-10-06,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-10-06,340
+Ventura,91360: Thousand Oaks,2020-10-06,454
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-10-06,133
+Ventura,91362: Thousand Oaks/Westlake,2020-10-06,283
+Ventura,91377: Oak Park,2020-10-06,82
+Ventura,93001: Ventura,2020-10-06,471
+Ventura,93003: Ventura,2020-10-06,689
+Ventura,93004: Ventura,2020-10-06,264
+Ventura,93010: Camarillo,2020-10-06,441
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-10-06,241
+Ventura,93015: Fillmore,2020-10-06,522
+Ventura,93021: Moorpark,2020-10-06,497
+Ventura,93022: Oak View,2020-10-06,72
+Ventura,93023: Ojai,2020-10-06,130
+Ventura,93030: Oxnard,2020-10-06,1750
+Ventura,93033: Oxnard,2020-10-06,2281
+Ventura,93035: Oxnard,2020-10-06,400
+Ventura,93036: Oxnard,2020-10-06,849
+Ventura,93040: Piru,2020-10-06,102
+Ventura,93041: Port Hueneme,2020-10-06,403
+Ventura,93060: Santa Paula,2020-10-06,858
+Ventura,93063: Simi Valley (Santa Susana),2020-10-06,726
+Ventura,93065: Simi Valley,2020-10-06,1020
+Ventura,93066: Somis,2020-10-06,55
+Ventura,91307: Bell Canyon,2020-10-05,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-10-05,340
+Ventura,91360: Thousand Oaks,2020-10-05,455
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-10-05,133
+Ventura,91362: Thousand Oaks/Westlake,2020-10-05,282
+Ventura,91377: Oak Park,2020-10-05,82
+Ventura,93001: Ventura,2020-10-05,471
+Ventura,93003: Ventura,2020-10-05,687
+Ventura,93004: Ventura,2020-10-05,262
+Ventura,93010: Camarillo,2020-10-05,441
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-10-05,241
+Ventura,93015: Fillmore,2020-10-05,522
+Ventura,93021: Moorpark,2020-10-05,496
+Ventura,93022: Oak View,2020-10-05,72
+Ventura,93023: Ojai,2020-10-05,130
+Ventura,93030: Oxnard,2020-10-05,1750
+Ventura,93033: Oxnard,2020-10-05,2274
+Ventura,93035: Oxnard,2020-10-05,399
+Ventura,93036: Oxnard,2020-10-05,849
+Ventura,93040: Piru,2020-10-05,102
+Ventura,93041: Port Hueneme,2020-10-05,403
+Ventura,93060: Santa Paula,2020-10-05,855
+Ventura,93063: Simi Valley (Santa Susana),2020-10-05,723
+Ventura,93065: Simi Valley,2020-10-05,1019
+Ventura,93066: Somis,2020-10-05,55
+Ventura,93033: Oxnard,2020-10-02,2259
+Ventura,93030: Oxnard,2020-10-02,1732
+Ventura,93065: Simi Valley,2020-10-02,1012
+Ventura,93060: Santa Paula,2020-10-02,852
+Ventura,93036: Oxnard,2020-10-02,847
+Ventura,93063: Simi Valley (Santa Susana),2020-10-02,718
+Ventura,93003: Ventura,2020-10-02,680
+Ventura,93015: Fillmore,2020-10-02,516
+Ventura,93021: Moorpark,2020-10-02,492
+Ventura,93001: Ventura,2020-10-02,469
+Ventura,91360: Thousand Oaks,2020-10-02,452
+Ventura,93010: Camarillo,2020-10-02,435
+Ventura,93041: Port Hueneme,2020-10-02,401
+Ventura,93035: Oxnard,2020-10-02,395
+Ventura,91320: Thousand Oaks/Newbury Park,2020-10-02,338
+Ventura,91362: Thousand Oaks/Westlake,2020-10-02,279
+Ventura,93004: Ventura,2020-10-02,260
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-10-02,237
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-10-02,132
+Ventura,93023: Ojai,2020-10-02,129
+Ventura,93040: Piru,2020-10-02,102
+Ventura,91377: Oak Park,2020-10-02,80
+Ventura,93022: Oak View,2020-10-02,71
+Ventura,93066: Somis,2020-10-02,53
+Ventura,91307: Bell Canyon,2020-10-02,2
+Ventura,91307: Bell Canyon,2020-10-01,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-10-01,334
+Ventura,91360: Thousand Oaks,2020-10-01,451
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-10-01,131
+Ventura,91362: Thousand Oaks/Westlake,2020-10-01,279
+Ventura,91377: Oak Park,2020-10-01,80
+Ventura,93001: Ventura,2020-10-01,471
+Ventura,93003: Ventura,2020-10-01,673
+Ventura,93004: Ventura,2020-10-01,261
+Ventura,93010: Camarillo,2020-10-01,434
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-10-01,235
+Ventura,93015: Fillmore,2020-10-01,510
+Ventura,93021: Moorpark,2020-10-01,491
+Ventura,93022: Oak View,2020-10-01,69
+Ventura,93023: Ojai,2020-10-01,129
+Ventura,93030: Oxnard,2020-10-01,1724
+Ventura,93033: Oxnard,2020-10-01,2248
+Ventura,93035: Oxnard,2020-10-01,390
+Ventura,93036: Oxnard,2020-10-01,841
+Ventura,93040: Piru,2020-10-01,102
+Ventura,93041: Port Hueneme,2020-10-01,399
+Ventura,93060: Santa Paula,2020-10-01,846
+Ventura,93063: Simi Valley (Santa Susana),2020-10-01,709
+Ventura,93065: Simi Valley,2020-10-01,1005
+Ventura,93066: Somis,2020-10-01,53
+Ventura,91307: Bell Canyon,2020-09-30,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-09-30,332
+Ventura,91360: Thousand Oaks,2020-09-30,447
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-09-30,131
+Ventura,91362: Thousand Oaks/Westlake,2020-09-30,278
+Ventura,91377: Oak Park,2020-09-30,80
+Ventura,93001: Ventura,2020-09-30,471
+Ventura,93003: Ventura,2020-09-30,661
+Ventura,93004: Ventura,2020-09-30,260
+Ventura,93010: Camarillo,2020-09-30,434
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-09-30,234
+Ventura,93015: Fillmore,2020-09-30,505
+Ventura,93021: Moorpark,2020-09-30,490
+Ventura,93022: Oak View,2020-09-30,69
+Ventura,93023: Ojai,2020-09-30,128
+Ventura,93030: Oxnard,2020-09-30,1714
+Ventura,93033: Oxnard,2020-09-30,2235
+Ventura,93035: Oxnard,2020-09-30,384
+Ventura,93036: Oxnard,2020-09-30,834
+Ventura,93040: Piru,2020-09-30,102
+Ventura,93041: Port Hueneme,2020-09-30,392
+Ventura,93060: Santa Paula,2020-09-30,845
+Ventura,93063: Simi Valley (Santa Susana),2020-09-30,703
+Ventura,93065: Simi Valley,2020-09-30,1003
+Ventura,93066: Somis,2020-09-30,53
+Ventura,91307: Bell Canyon,2020-09-29,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-09-29,331
+Ventura,91360: Thousand Oaks,2020-09-29,447
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-09-29,131
+Ventura,91362: Thousand Oaks/Westlake,2020-09-29,276
+Ventura,91377: Oak Park,2020-09-29,80
+Ventura,93001: Ventura,2020-09-29,470
+Ventura,93003: Ventura,2020-09-29,655
+Ventura,93004: Ventura,2020-09-29,259
+Ventura,93010: Camarillo,2020-09-29,431
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-09-29,232
+Ventura,93015: Fillmore,2020-09-29,502
+Ventura,93021: Moorpark,2020-09-29,490
+Ventura,93022: Oak View,2020-09-29,69
+Ventura,93023: Ojai,2020-09-29,128
+Ventura,93030: Oxnard,2020-09-29,1702
+Ventura,93033: Oxnard,2020-09-29,2211
+Ventura,93035: Oxnard,2020-09-29,385
+Ventura,93036: Oxnard,2020-09-29,828
+Ventura,93040: Piru,2020-09-29,102
+Ventura,93041: Port Hueneme,2020-09-29,388
+Ventura,93060: Santa Paula,2020-09-29,843
+Ventura,93063: Simi Valley (Santa Susana),2020-09-29,697
+Ventura,93065: Simi Valley,2020-09-29,995
+Ventura,93066: Somis,2020-09-29,53
+Ventura,91307: Bell Canyon,2020-09-28,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-09-28,331
+Ventura,91360: Thousand Oaks,2020-09-28,447
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-09-28,131
+Ventura,91362: Thousand Oaks/Westlake,2020-09-28,275
+Ventura,91377: Oak Park,2020-09-28,79
+Ventura,93001: Ventura,2020-09-28,468
+Ventura,93003: Ventura,2020-09-28,650
+Ventura,93004: Ventura,2020-09-28,257
+Ventura,93010: Camarillo,2020-09-28,430
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-09-28,232
+Ventura,93015: Fillmore,2020-09-28,500
+Ventura,93021: Moorpark,2020-09-28,490
+Ventura,93022: Oak View,2020-09-28,69
+Ventura,93023: Ojai,2020-09-28,128
+Ventura,93030: Oxnard,2020-09-28,1690
+Ventura,93033: Oxnard,2020-09-28,2201
+Ventura,93035: Oxnard,2020-09-28,384
+Ventura,93036: Oxnard,2020-09-28,818
+Ventura,93040: Piru,2020-09-28,103
+Ventura,93041: Port Hueneme,2020-09-28,384
+Ventura,93060: Santa Paula,2020-09-28,843
+Ventura,93063: Simi Valley (Santa Susana),2020-09-28,693
+Ventura,93065: Simi Valley,2020-09-28,995
+Ventura,93066: Somis,2020-09-28,53
+Ventura,91307: Bell Canyon,2020-09-25,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-09-25,328
+Ventura,91360: Thousand Oaks,2020-09-25,445
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-09-25,129
+Ventura,91362: Thousand Oaks/Westlake,2020-09-25,274
+Ventura,91377: Oak Park,2020-09-25,79
+Ventura,93001: Ventura,2020-09-25,464
+Ventura,93003: Ventura,2020-09-25,637
+Ventura,93004: Ventura,2020-09-25,255
+Ventura,93010: Camarillo,2020-09-25,425
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-09-25,228
+Ventura,93015: Fillmore,2020-09-25,498
+Ventura,93021: Moorpark,2020-09-25,488
+Ventura,93022: Oak View,2020-09-25,67
+Ventura,93023: Ojai,2020-09-25,126
+Ventura,93030: Oxnard,2020-09-25,1668
+Ventura,93033: Oxnard,2020-09-25,2167
+Ventura,93035: Oxnard,2020-09-25,377
+Ventura,93036: Oxnard,2020-09-25,800
+Ventura,93040: Piru,2020-09-25,102
+Ventura,93041: Port Hueneme,2020-09-25,379
+Ventura,93060: Santa Paula,2020-09-25,830
+Ventura,93063: Simi Valley (Santa Susana),2020-09-25,686
+Ventura,93065: Simi Valley,2020-09-25,982
+Ventura,93066: Somis,2020-09-25,52
+Ventura,91307: Bell Canyon,2020-09-24,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-09-24,327
+Ventura,91360: Thousand Oaks,2020-09-24,443
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-09-24,128
+Ventura,91362: Thousand Oaks/Westlake,2020-09-24,274
+Ventura,91377: Oak Park,2020-09-24,79
+Ventura,93001: Ventura,2020-09-24,465
+Ventura,93003: Ventura,2020-09-24,634
+Ventura,93004: Ventura,2020-09-24,254
+Ventura,93010: Camarillo,2020-09-24,424
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-09-24,227
+Ventura,93015: Fillmore,2020-09-24,496
+Ventura,93021: Moorpark,2020-09-24,487
+Ventura,93022: Oak View,2020-09-24,65
+Ventura,93023: Ojai,2020-09-24,125
+Ventura,93030: Oxnard,2020-09-24,1663
+Ventura,93033: Oxnard,2020-09-24,2158
+Ventura,93035: Oxnard,2020-09-24,376
+Ventura,93036: Oxnard,2020-09-24,794
+Ventura,93040: Piru,2020-09-24,102
+Ventura,93041: Port Hueneme,2020-09-24,373
+Ventura,93060: Santa Paula,2020-09-24,827
+Ventura,93063: Simi Valley (Santa Susana),2020-09-24,685
+Ventura,93065: Simi Valley,2020-09-24,977
+Ventura,93066: Somis,2020-09-24,52
+Ventura,91307: Bell Canyon,2020-09-23,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-09-23,326
+Ventura,91360: Thousand Oaks,2020-09-23,440
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-09-23,128
+Ventura,91362: Thousand Oaks/Westlake,2020-09-23,273
+Ventura,91377: Oak Park,2020-09-23,79
+Ventura,93001: Ventura,2020-09-23,463
+Ventura,93003: Ventura,2020-09-23,634
+Ventura,93004: Ventura,2020-09-23,254
+Ventura,93010: Camarillo,2020-09-23,424
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-09-23,227
+Ventura,93015: Fillmore,2020-09-23,496
+Ventura,93021: Moorpark,2020-09-23,486
+Ventura,93022: Oak View,2020-09-23,65
+Ventura,93023: Ojai,2020-09-23,124
+Ventura,93030: Oxnard,2020-09-23,1655
+Ventura,93033: Oxnard,2020-09-23,2142
+Ventura,93035: Oxnard,2020-09-23,371
+Ventura,93036: Oxnard,2020-09-23,787
+Ventura,93040: Piru,2020-09-23,102
+Ventura,93041: Port Hueneme,2020-09-23,371
+Ventura,93060: Santa Paula,2020-09-23,823
+Ventura,93063: Simi Valley (Santa Susana),2020-09-23,684
+Ventura,93065: Simi Valley,2020-09-23,977
+Ventura,93066: Somis,2020-09-23,52
+Ventura,91307: Bell Canyon,2020-09-22,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-09-22,324
+Ventura,91360: Thousand Oaks,2020-09-22,439
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-09-22,128
+Ventura,91362: Thousand Oaks/Westlake,2020-09-22,271
+Ventura,91377: Oak Park,2020-09-22,79
+Ventura,93001: Ventura,2020-09-22,462
+Ventura,93003: Ventura,2020-09-22,629
+Ventura,93004: Ventura,2020-09-22,250
+Ventura,93010: Camarillo,2020-09-22,423
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-09-22,227
+Ventura,93015: Fillmore,2020-09-22,493
+Ventura,93021: Moorpark,2020-09-22,486
+Ventura,93022: Oak View,2020-09-22,65
+Ventura,93023: Ojai,2020-09-22,122
+Ventura,93030: Oxnard,2020-09-22,1633
+Ventura,93033: Oxnard,2020-09-22,2101
+Ventura,93035: Oxnard,2020-09-22,371
+Ventura,93036: Oxnard,2020-09-22,780
+Ventura,93040: Piru,2020-09-22,102
+Ventura,93041: Port Hueneme,2020-09-22,369
+Ventura,93063: Simi Valley (Santa Susana),2020-09-22,679
+Ventura,93065: Simi Valley,2020-09-22,970
+Ventura,93066: Somis,2020-09-22,51
+Ventura,91307: Bell Canyon,2020-09-21,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-09-21,324
+Ventura,91360: Thousand Oaks,2020-09-21,433
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-09-21,129
+Ventura,91362: Thousand Oaks/Westlake,2020-09-21,271
+Ventura,91377: Oak Park,2020-09-21,79
+Ventura,93001: Ventura,2020-09-21,461
+Ventura,93003: Ventura,2020-09-21,629
+Ventura,93004: Ventura,2020-09-21,248
+Ventura,93010: Camarillo,2020-09-21,422
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-09-21,227
+Ventura,93015: Fillmore,2020-09-21,491
+Ventura,93021: Moorpark,2020-09-21,486
+Ventura,93022: Oak View,2020-09-21,65
+Ventura,93023: Ojai,2020-09-21,115
+Ventura,93030: Oxnard,2020-09-21,1631
+Ventura,93033: Oxnard,2020-09-21,2090
+Ventura,93035: Oxnard,2020-09-21,370
+Ventura,93036: Oxnard,2020-09-21,776
+Ventura,93040: Piru,2020-09-21,102
+Ventura,93041: Port Hueneme,2020-09-21,369
+Ventura,93060: Santa Paula,2020-09-21,817
+Ventura,93063: Simi Valley (Santa Susana),2020-09-21,678
+Ventura,93065: Simi Valley,2020-09-21,968
+Ventura,93066: Somis,2020-09-21,51
+Ventura,91307: Bell Canyon,2020-09-18,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-09-18,322
+Ventura,91360: Thousand Oaks,2020-09-18,423
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-09-18,119
+Ventura,91362: Thousand Oaks/Westlake,2020-09-18,266
+Ventura,91377: Oak Park,2020-09-18,78
+Ventura,93001: Ventura,2020-09-18,446
+Ventura,93003: Ventura,2020-09-18,604
+Ventura,93004: Ventura,2020-09-18,242
+Ventura,93010: Camarillo,2020-09-18,416
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-09-18,222
+Ventura,93015: Fillmore,2020-09-18,473
+Ventura,93021: Moorpark,2020-09-18,481
+Ventura,93022: Oak View,2020-09-18,65
+Ventura,93023: Ojai,2020-09-18,107
+Ventura,93030: Oxnard,2020-09-18,1600
+Ventura,93033: Oxnard,2020-09-18,2060
+Ventura,93035: Oxnard,2020-09-18,367
+Ventura,93036: Oxnard,2020-09-18,753
+Ventura,93040: Piru,2020-09-18,100
+Ventura,93041: Port Hueneme,2020-09-18,363
+Ventura,93060: Santa Paula,2020-09-18,789
+Ventura,93063: Simi Valley (Santa Susana),2020-09-18,668
+Ventura,93065: Simi Valley,2020-09-18,953
+Ventura,93066: Somis,2020-09-18,50
+Ventura,91307: Bell Canyon,2020-09-17,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-09-17,321
+Ventura,91360: Thousand Oaks,2020-09-17,423
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-09-17,119
+Ventura,91362: Thousand Oaks/Westlake,2020-09-17,266
+Ventura,91377: Oak Park,2020-09-17,78
+Ventura,93001: Ventura,2020-09-17,444
+Ventura,93003: Ventura,2020-09-17,603
+Ventura,93004: Ventura,2020-09-17,241
+Ventura,93010: Camarillo,2020-09-17,414
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-09-17,221
+Ventura,93015: Fillmore,2020-09-17,472
+Ventura,93021: Moorpark,2020-09-17,478
+Ventura,93022: Oak View,2020-09-17,65
+Ventura,93023: Ojai,2020-09-17,107
+Ventura,93030: Oxnard,2020-09-17,1591
+Ventura,93033: Oxnard,2020-09-17,2051
+Ventura,93035: Oxnard,2020-09-17,365
+Ventura,93036: Oxnard,2020-09-17,753
+Ventura,93040: Piru,2020-09-17,100
+Ventura,93041: Port Hueneme,2020-09-17,362
+Ventura,93060: Santa Paula,2020-09-17,788
+Ventura,93063: Simi Valley (Santa Susana),2020-09-17,668
+Ventura,93065: Simi Valley,2020-09-17,947
+Ventura,93066: Somis,2020-09-17,50
+Ventura,91307: Bell Canyon,2020-09-16,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-09-16,319
+Ventura,91360: Thousand Oaks,2020-09-16,410
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-09-16,116
+Ventura,91362: Thousand Oaks/Westlake,2020-09-16,263
+Ventura,91377: Oak Park,2020-09-16,78
+Ventura,93001: Ventura,2020-09-16,443
+Ventura,93003: Ventura,2020-09-16,602
+Ventura,93004: Ventura,2020-09-16,236
+Ventura,93010: Camarillo,2020-09-16,411
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-09-16,217
+Ventura,93015: Fillmore,2020-09-16,469
+Ventura,93021: Moorpark,2020-09-16,473
+Ventura,93022: Oak View,2020-09-16,65
+Ventura,93023: Ojai,2020-09-16,107
+Ventura,93030: Oxnard,2020-09-16,1587
+Ventura,93033: Oxnard,2020-09-16,2037
+Ventura,93035: Oxnard,2020-09-16,362
+Ventura,93036: Oxnard,2020-09-16,748
+Ventura,93040: Piru,2020-09-16,100
+Ventura,93041: Port Hueneme,2020-09-16,361
+Ventura,93060: Santa Paula,2020-09-16,783
+Ventura,93063: Simi Valley (Santa Susana),2020-09-16,663
+Ventura,93065: Simi Valley,2020-09-16,940
+Ventura,93066: Somis,2020-09-16,50
+Ventura,91307: Bell Canyon,2020-09-15,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-09-15,317
+Ventura,91360: Thousand Oaks,2020-09-15,410
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-09-15,116
+Ventura,91362: Thousand Oaks/Westlake,2020-09-15,259
+Ventura,91377: Oak Park,2020-09-15,78
+Ventura,93001: Ventura,2020-09-15,441
+Ventura,93003: Ventura,2020-09-15,593
+Ventura,93004: Ventura,2020-09-15,233
+Ventura,93010: Camarillo,2020-09-15,407
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-09-15,213
+Ventura,93015: Fillmore,2020-09-15,464
+Ventura,93021: Moorpark,2020-09-15,468
+Ventura,93022: Oak View,2020-09-15,64
+Ventura,93023: Ojai,2020-09-15,106
+Ventura,93030: Oxnard,2020-09-15,1566
+Ventura,93033: Oxnard,2020-09-15,2007
+Ventura,93035: Oxnard,2020-09-15,351
+Ventura,93036: Oxnard,2020-09-15,739
+Ventura,93040: Piru,2020-09-15,100
+Ventura,93041: Port Hueneme,2020-09-15,356
+Ventura,93060: Santa Paula,2020-09-15,768
+Ventura,93063: Simi Valley (Santa Susana),2020-09-15,655
+Ventura,93065: Simi Valley,2020-09-15,931
+Ventura,93066: Somis,2020-09-15,49
+Ventura,93033: Oxnard,2020-09-14,2005
+Ventura,93030: Oxnard,2020-09-14,1564
+Ventura,93065: Simi Valley,2020-09-14,932
+Ventura,93060: Santa Paula,2020-09-14,765
+Ventura,93036: Oxnard,2020-09-14,739
+Ventura,93063: Simi Valley (Santa Susana),2020-09-14,655
+Ventura,93003: Ventura,2020-09-14,595
+Ventura,93021: Moorpark,2020-09-14,468
+Ventura,93015: Fillmore,2020-09-14,463
+Ventura,93001: Ventura,2020-09-14,440
+Ventura,91360: Thousand Oaks,2020-09-14,409
+Ventura,93010: Camarillo,2020-09-14,407
+Ventura,93041: Port Hueneme,2020-09-14,356
+Ventura,93035: Oxnard,2020-09-14,350
+Ventura,91320: Thousand Oaks/Newbury Park,2020-09-14,317
+Ventura,91362: Thousand Oaks/Westlake,2020-09-14,259
+Ventura,93004: Ventura,2020-09-14,233
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-09-14,211
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-09-14,116
+Ventura,93023: Ojai,2020-09-14,106
+Ventura,93040: Piru,2020-09-14,100
+Ventura,91377: Oak Park,2020-09-14,78
+Ventura,93022: Oak View,2020-09-14,64
+Ventura,93066: Somis,2020-09-14,49
+Ventura,91307: Bell Canyon,2020-09-14,2
+Ventura,91307: Bell Canyon,2020-09-11,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-09-11,315
+Ventura,91360: Thousand Oaks,2020-09-11,400
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-09-11,116
+Ventura,91362: Thousand Oaks/Westlake,2020-09-11,253
+Ventura,91377: Oak Park,2020-09-11,78
+Ventura,93001: Ventura,2020-09-11,428
+Ventura,93003: Ventura,2020-09-11,583
+Ventura,93004: Ventura,2020-09-11,231
+Ventura,93010: Camarillo,2020-09-11,401
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-09-11,207
+Ventura,93015: Fillmore,2020-09-11,457
+Ventura,93021: Moorpark,2020-09-11,459
+Ventura,93022: Oak View,2020-09-11,63
+Ventura,93023: Ojai,2020-09-11,103
+Ventura,93030: Oxnard,2020-09-11,1540
+Ventura,93033: Oxnard,2020-09-11,1959
+Ventura,93035: Oxnard,2020-09-11,345
+Ventura,93036: Oxnard,2020-09-11,729
+Ventura,93040: Piru,2020-09-11,100
+Ventura,93041: Port Hueneme,2020-09-11,345
+Ventura,93060: Santa Paula,2020-09-11,752
+Ventura,93063: Simi Valley (Santa Susana),2020-09-11,645
+Ventura,93065: Simi Valley,2020-09-11,922
+Ventura,93066: Somis,2020-09-11,49
+Ventura,91307: Bell Canyon,2020-09-10,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-09-10,314
+Ventura,91360: Thousand Oaks,2020-09-10,398
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-09-10,117
+Ventura,91362: Thousand Oaks/Westlake,2020-09-10,252
+Ventura,91377: Oak Park,2020-09-10,77
+Ventura,93001: Ventura,2020-09-10,426
+Ventura,93003: Ventura,2020-09-10,565
+Ventura,93004: Ventura,2020-09-10,228
+Ventura,93010: Camarillo,2020-09-10,399
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-09-10,206
+Ventura,93015: Fillmore,2020-09-10,453
+Ventura,93021: Moorpark,2020-09-10,458
+Ventura,93022: Oak View,2020-09-10,63
+Ventura,93023: Ojai,2020-09-10,102
+Ventura,93030: Oxnard,2020-09-10,1518
+Ventura,93033: Oxnard,2020-09-10,1946
+Ventura,93035: Oxnard,2020-09-10,338
+Ventura,93036: Oxnard,2020-09-10,722
+Ventura,93040: Piru,2020-09-10,100
+Ventura,93041: Port Hueneme,2020-09-10,342
+Ventura,93060: Santa Paula,2020-09-10,737
+Ventura,93063: Simi Valley (Santa Susana),2020-09-10,642
+Ventura,93065: Simi Valley,2020-09-10,919
+Ventura,93066: Somis,2020-09-10,49
+Ventura,91307: Bell Canyon,2020-09-09,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-09-09,312
+Ventura,91360: Thousand Oaks,2020-09-09,398
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-09-09,117
+Ventura,91362: Thousand Oaks/Westlake,2020-09-09,249
+Ventura,91377: Oak Park,2020-09-09,77
+Ventura,93001: Ventura,2020-09-09,419
+Ventura,93003: Ventura,2020-09-09,563
+Ventura,93004: Ventura,2020-09-09,226
+Ventura,93010: Camarillo,2020-09-09,397
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-09-09,205
+Ventura,93015: Fillmore,2020-09-09,448
+Ventura,93021: Moorpark,2020-09-09,454
+Ventura,93022: Oak View,2020-09-09,63
+Ventura,93023: Ojai,2020-09-09,102
+Ventura,93030: Oxnard,2020-09-09,1505
+Ventura,93033: Oxnard,2020-09-09,1929
+Ventura,93035: Oxnard,2020-09-09,334
+Ventura,93036: Oxnard,2020-09-09,715
+Ventura,93040: Piru,2020-09-09,100
+Ventura,93041: Port Hueneme,2020-09-09,339
+Ventura,93060: Santa Paula,2020-09-09,731
+Ventura,93063: Simi Valley (Santa Susana),2020-09-09,630
+Ventura,93065: Simi Valley,2020-09-09,913
+Ventura,93066: Somis,2020-09-09,48
+Ventura,91307: Bell Canyon,2020-09-08,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-09-08,311
+Ventura,91360: Thousand Oaks,2020-09-08,397
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-09-08,117
+Ventura,91362: Thousand Oaks/Westlake,2020-09-08,248
+Ventura,91377: Oak Park,2020-09-08,77
+Ventura,93001: Ventura,2020-09-08,417
+Ventura,93003: Ventura,2020-09-08,563
+Ventura,93004: Ventura,2020-09-08,225
+Ventura,93010: Camarillo,2020-09-08,396
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-09-08,204
+Ventura,93015: Fillmore,2020-09-08,447
+Ventura,93021: Moorpark,2020-09-08,449
+Ventura,93022: Oak View,2020-09-08,62
+Ventura,93023: Ojai,2020-09-08,100
+Ventura,93030: Oxnard,2020-09-08,1499
+Ventura,93033: Oxnard,2020-09-08,1926
+Ventura,93035: Oxnard,2020-09-08,330
+Ventura,93036: Oxnard,2020-09-08,711
+Ventura,93040: Piru,2020-09-08,100
+Ventura,93041: Port Hueneme,2020-09-08,339
+Ventura,93060: Santa Paula,2020-09-08,726
+Ventura,93063: Simi Valley (Santa Susana),2020-09-08,631
+Ventura,93065: Simi Valley,2020-09-08,914
+Ventura,93066: Somis,2020-09-08,48
+Ventura,93033: Oxnard,2020-09-04,1880
+Ventura,93030: Oxnard,2020-09-04,1470
+Ventura,93065: Simi Valley,2020-09-04,902
+Ventura,93036: Oxnard,2020-09-04,697
+Ventura,93060: Santa Paula,2020-09-04,709
+Ventura,93063: Simi Valley (Santa Susana),2020-09-04,613
+Ventura,93003: Ventura,2020-09-04,483
+Ventura,93015: Fillmore,2020-09-04,440
+Ventura,93021: Moorpark,2020-09-04,441
+Ventura,93001: Ventura,2020-09-04,407
+Ventura,93010: Camarillo,2020-09-04,395
+Ventura,91360: Thousand Oaks,2020-09-04,391
+Ventura,93041: Port Hueneme,2020-09-04,332
+Ventura,93035: Oxnard,2020-09-04,317
+Ventura,91320: Thousand Oaks/Newbury Park,2020-09-04,307
+Ventura,91362: Thousand Oaks/Westlake,2020-09-04,240
+Ventura,93004: Ventura,2020-09-04,219
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-09-04,201
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-09-04,117
+Ventura,93040: Piru,2020-09-04,100
+Ventura,93023: Ojai,2020-09-04,96
+Ventura,91377: Oak Park,2020-09-04,75
+Ventura,93022: Oak View,2020-09-04,62
+Ventura,93066: Somis,2020-09-04,47
+Ventura,91307: Bell Canyon,2020-09-04,2
+Ventura,93033: Oxnard,2020-09-03,1874
+Ventura,93030: Oxnard,2020-09-03,1461
+Ventura,93065: Simi Valley,2020-09-03,898
+Ventura,93036: Oxnard,2020-09-03,692
+Ventura,93060: Santa Paula,2020-09-03,700
+Ventura,93063: Simi Valley (Santa Susana),2020-09-03,612
+Ventura,93003: Ventura,2020-09-03,485
+Ventura,93015: Fillmore,2020-09-03,440
+Ventura,93021: Moorpark,2020-09-03,437
+Ventura,93001: Ventura,2020-09-03,405
+Ventura,93010: Camarillo,2020-09-03,394
+Ventura,91360: Thousand Oaks,2020-09-03,388
+Ventura,93041: Port Hueneme,2020-09-03,330
+Ventura,93035: Oxnard,2020-09-03,316
+Ventura,91320: Thousand Oaks/Newbury Park,2020-09-03,308
+Ventura,91362: Thousand Oaks/Westlake,2020-09-03,238
+Ventura,93004: Ventura,2020-09-03,218
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-09-03,200
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-09-03,115
+Ventura,93040: Piru,2020-09-03,100
+Ventura,93023: Ojai,2020-09-03,94
+Ventura,91377: Oak Park,2020-09-03,75
+Ventura,93022: Oak View,2020-09-03,61
+Ventura,93066: Somis,2020-09-03,47
+Ventura,91307: Bell Canyon,2020-09-03,2
+Ventura,93033: Oxnard,2020-09-02,1855
+Ventura,93030: Oxnard,2020-09-02,1455
+Ventura,93065: Simi Valley,2020-09-02,894
+Ventura,93036: Oxnard,2020-09-02,689
+Ventura,93060: Santa Paula,2020-09-02,691
+Ventura,93063: Simi Valley (Santa Susana),2020-09-02,602
+Ventura,93003: Ventura,2020-09-02,480
+Ventura,93015: Fillmore,2020-09-02,440
+Ventura,93021: Moorpark,2020-09-02,436
+Ventura,93001: Ventura,2020-09-02,402
+Ventura,93010: Camarillo,2020-09-02,390
+Ventura,91360: Thousand Oaks,2020-09-02,386
+Ventura,93041: Port Hueneme,2020-09-02,329
+Ventura,93035: Oxnard,2020-09-02,315
+Ventura,91320: Thousand Oaks/Newbury Park,2020-09-02,307
+Ventura,91362: Thousand Oaks/Westlake,2020-09-02,236
+Ventura,93004: Ventura,2020-09-02,215
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-09-02,192
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-09-02,115
+Ventura,93040: Piru,2020-09-02,98
+Ventura,93023: Ojai,2020-09-02,94
+Ventura,91377: Oak Park,2020-09-02,75
+Ventura,93022: Oak View,2020-09-02,61
+Ventura,93066: Somis,2020-09-02,47
+Ventura,91307: Bell Canyon,2020-09-02,2
+Ventura,93033: Oxnard,2020-09-01,1833
+Ventura,93030: Oxnard,2020-09-01,1441
+Ventura,93065: Simi Valley,2020-09-01,882
+Ventura,93036: Oxnard,2020-09-01,683
+Ventura,93060: Santa Paula,2020-09-01,677
+Ventura,93063: Simi Valley (Santa Susana),2020-09-01,595
+Ventura,93003: Ventura,2020-09-01,478
+Ventura,93015: Fillmore,2020-09-01,437
+Ventura,93021: Moorpark,2020-09-01,429
+Ventura,93001: Ventura,2020-09-01,398
+Ventura,93010: Camarillo,2020-09-01,383
+Ventura,91360: Thousand Oaks,2020-09-01,378
+Ventura,93041: Port Hueneme,2020-09-01,325
+Ventura,93035: Oxnard,2020-09-01,313
+Ventura,91320: Thousand Oaks/Newbury Park,2020-09-01,307
+Ventura,91362: Thousand Oaks/Westlake,2020-09-01,234
+Ventura,93004: Ventura,2020-09-01,214
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-09-01,191
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-09-01,112
+Ventura,93040: Piru,2020-09-01,98
+Ventura,93023: Ojai,2020-09-01,93
+Ventura,91377: Oak Park,2020-09-01,75
+Ventura,93022: Oak View,2020-09-01,61
+Ventura,93066: Somis,2020-09-01,47
+Ventura,91307: Bell Canyon,2020-09-01,2
+Ventura,93033: Oxnard,2020-08-31,1826
+Ventura,93030: Oxnard,2020-08-31,1433
+Ventura,93065: Simi Valley,2020-08-31,876
+Ventura,93036: Oxnard,2020-08-31,683
+Ventura,93060: Santa Paula,2020-08-31,677
+Ventura,93063: Simi Valley (Santa Susana),2020-08-31,592
+Ventura,93003: Ventura,2020-08-31,478
+Ventura,93015: Fillmore,2020-08-31,434
+Ventura,93021: Moorpark,2020-08-31,428
+Ventura,93001: Ventura,2020-08-31,397
+Ventura,93010: Camarillo,2020-08-31,384
+Ventura,91360: Thousand Oaks,2020-08-31,378
+Ventura,93041: Port Hueneme,2020-08-31,324
+Ventura,93035: Oxnard,2020-08-31,311
+Ventura,91320: Thousand Oaks/Newbury Park,2020-08-31,306
+Ventura,91362: Thousand Oaks/Westlake,2020-08-31,233
+Ventura,93004: Ventura,2020-08-31,213
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-08-31,192
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-08-31,112
+Ventura,93040: Piru,2020-08-31,98
+Ventura,93023: Ojai,2020-08-31,93
+Ventura,91377: Oak Park,2020-08-31,75
+Ventura,93022: Oak View,2020-08-31,61
+Ventura,93066: Somis,2020-08-31,47
+Ventura,91307: Bell Canyon,2020-08-31,2
+Ventura,93033: Oxnard,2020-08-28,1757
+Ventura,93030: Oxnard,2020-08-28,1391
+Ventura,93065: Simi Valley,2020-08-28,860
+Ventura,93036: Oxnard,2020-08-28,668
+Ventura,93060: Santa Paula,2020-08-28,659
+Ventura,93063: Simi Valley (Santa Susana),2020-08-28,580
+Ventura,93003: Ventura,2020-08-28,454
+Ventura,93015: Fillmore,2020-08-28,421
+Ventura,93021: Moorpark,2020-08-28,413
+Ventura,93001: Ventura,2020-08-28,389
+Ventura,93010: Camarillo,2020-08-28,373
+Ventura,91360: Thousand Oaks,2020-08-28,370
+Ventura,93041: Port Hueneme,2020-08-28,313
+Ventura,93035: Oxnard,2020-08-28,303
+Ventura,91320: Thousand Oaks/Newbury Park,2020-08-28,301
+Ventura,91362: Thousand Oaks/Westlake,2020-08-28,230
+Ventura,93004: Ventura,2020-08-28,206
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-08-28,182
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-08-28,108
+Ventura,93040: Piru,2020-08-28,95
+Ventura,93023: Ojai,2020-08-28,88
+Ventura,91377: Oak Park,2020-08-28,75
+Ventura,93022: Oak View,2020-08-28,61
+Ventura,93066: Somis,2020-08-28,47
+Ventura,91307: Bell Canyon,2020-08-28,2
+Ventura,91307: Bell Canyon,2020-08-27,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-08-27,299
+Ventura,91360: Thousand Oaks,2020-08-27,369
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-08-27,108
+Ventura,91362: Thousand Oaks/Westlake,2020-08-27,228
+Ventura,91377: Oak Park,2020-08-27,75
+Ventura,93001: Ventura,2020-08-27,388
+Ventura,93003: Ventura,2020-08-27,453
+Ventura,93004: Ventura,2020-08-27,202
+Ventura,93010: Camarillo,2020-08-27,371
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-08-27,181
+Ventura,93015: Fillmore,2020-08-27,421
+Ventura,93021: Moorpark,2020-08-27,411
+Ventura,93022: Oak View,2020-08-27,59
+Ventura,93023: Ojai,2020-08-27,85
+Ventura,93030: Oxnard,2020-08-27,1377
+Ventura,93033: Oxnard,2020-08-27,1744
+Ventura,93035: Oxnard,2020-08-27,301
+Ventura,93036: Oxnard,2020-08-27,665
+Ventura,93040: Piru,2020-08-27,95
+Ventura,93041: Port Hueneme,2020-08-27,312
+Ventura,93060: Santa Paula,2020-08-27,651
+Ventura,93063: Simi Valley (Santa Susana),2020-08-27,580
+Ventura,93065: Simi Valley,2020-08-27,852
+Ventura,93066: Somis,2020-08-27,47
+Ventura,91307: Bell Canyon,2020-08-26,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-08-26,298
+Ventura,91360: Thousand Oaks,2020-08-26,369
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-08-26,108
+Ventura,91362: Thousand Oaks/Westlake,2020-08-26,228
+Ventura,91377: Oak Park,2020-08-26,75
+Ventura,93001: Ventura,2020-08-26,388
+Ventura,93003: Ventura,2020-08-26,446
+Ventura,93004: Ventura,2020-08-26,201
+Ventura,93010: Camarillo,2020-08-26,370
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-08-26,181
+Ventura,93015: Fillmore,2020-08-26,420
+Ventura,93021: Moorpark,2020-08-26,408
+Ventura,93022: Oak View,2020-08-26,59
+Ventura,93023: Ojai,2020-08-26,83
+Ventura,93030: Oxnard,2020-08-26,1370
+Ventura,93033: Oxnard,2020-08-26,1726
+Ventura,93035: Oxnard,2020-08-26,298
+Ventura,93036: Oxnard,2020-08-26,656
+Ventura,93040: Piru,2020-08-26,95
+Ventura,93041: Port Hueneme,2020-08-26,310
+Ventura,93060: Santa Paula,2020-08-26,645
+Ventura,93063: Simi Valley (Santa Susana),2020-08-26,578
+Ventura,93065: Simi Valley,2020-08-26,847
+Ventura,93066: Somis,2020-08-26,46
+Ventura,91307: Bell Canyon,2020-08-25,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-08-25,292
+Ventura,91360: Thousand Oaks,2020-08-25,364
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-08-25,106
+Ventura,91362: Thousand Oaks/Westlake,2020-08-25,227
+Ventura,91377: Oak Park,2020-08-25,75
+Ventura,93001: Ventura,2020-08-25,388
+Ventura,93003: Ventura,2020-08-25,442
+Ventura,93004: Ventura,2020-08-25,201
+Ventura,93010: Camarillo,2020-08-25,370
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-08-25,180
+Ventura,93015: Fillmore,2020-08-25,420
+Ventura,93021: Moorpark,2020-08-25,404
+Ventura,93022: Oak View,2020-08-25,59
+Ventura,93023: Ojai,2020-08-25,82
+Ventura,93030: Oxnard,2020-08-25,1348
+Ventura,93033: Oxnard,2020-08-25,1712
+Ventura,93035: Oxnard,2020-08-25,294
+Ventura,93036: Oxnard,2020-08-25,645
+Ventura,93040: Piru,2020-08-25,95
+Ventura,93041: Port Hueneme,2020-08-25,301
+Ventura,93060: Santa Paula,2020-08-25,638
+Ventura,93063: Simi Valley (Santa Susana),2020-08-25,577
+Ventura,93065: Simi Valley,2020-08-25,843
+Ventura,93066: Somis,2020-08-25,46
+Ventura,91307: Bell Canyon,2020-08-24,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-08-24,291
+Ventura,91360: Thousand Oaks,2020-08-24,362
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-08-24,106
+Ventura,91362: Thousand Oaks/Westlake,2020-08-24,227
+Ventura,91377: Oak Park,2020-08-24,73
+Ventura,93001: Ventura,2020-08-24,388
+Ventura,93003: Ventura,2020-08-24,433
+Ventura,93004: Ventura,2020-08-24,201
+Ventura,93010: Camarillo,2020-08-24,368
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-08-24,181
+Ventura,93015: Fillmore,2020-08-24,419
+Ventura,93021: Moorpark,2020-08-24,402
+Ventura,93022: Oak View,2020-08-24,60
+Ventura,93023: Ojai,2020-08-24,80
+Ventura,93030: Oxnard,2020-08-24,1343
+Ventura,93033: Oxnard,2020-08-24,1705
+Ventura,93035: Oxnard,2020-08-24,292
+Ventura,93036: Oxnard,2020-08-24,643
+Ventura,93040: Piru,2020-08-24,95
+Ventura,93041: Port Hueneme,2020-08-24,295
+Ventura,93060: Santa Paula,2020-08-24,367
+Ventura,93063: Simi Valley (Santa Susana),2020-08-24,577
+Ventura,93065: Simi Valley,2020-08-24,837
+Ventura,93066: Somis,2020-08-24,46
+Ventura,91307: Bell Canyon,2020-08-21,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-08-21,288
+Ventura,91360: Thousand Oaks,2020-08-21,352
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-08-21,102
+Ventura,91362: Thousand Oaks/Westlake,2020-08-21,214
+Ventura,91377: Oak Park,2020-08-21,71
+Ventura,93001: Ventura,2020-08-21,378
+Ventura,93003: Ventura,2020-08-21,414
+Ventura,93004: Ventura,2020-08-21,198
+Ventura,93010: Camarillo,2020-08-21,357
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-08-21,169
+Ventura,93015: Fillmore,2020-08-21,406
+Ventura,93021: Moorpark,2020-08-21,386
+Ventura,93022: Oak View,2020-08-21,37
+Ventura,93023: Ojai,2020-08-21,73
+Ventura,93030: Oxnard,2020-08-21,1290
+Ventura,93033: Oxnard,2020-08-21,1648
+Ventura,93035: Oxnard,2020-08-21,280
+Ventura,93036: Oxnard,2020-08-21,625
+Ventura,93040: Piru,2020-08-21,94
+Ventura,93041: Port Hueneme,2020-08-21,281
+Ventura,93060: Santa Paula,2020-08-21,609
+Ventura,93063: Simi Valley (Santa Susana),2020-08-21,561
+Ventura,93065: Simi Valley,2020-08-21,814
+Ventura,93066: Somis,2020-08-21,45
+Ventura,91320: Thousand Oaks/Newbury Park,2020-08-20,288
+Ventura,91360: Thousand Oaks,2020-08-20,350
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-08-20,102
+Ventura,91362: Thousand Oaks/Westlake,2020-08-20,207
+Ventura,91377: Oak Park,2020-08-20,70
+Ventura,93001: Ventura,2020-08-20,373
+Ventura,93003: Ventura,2020-08-20,407
+Ventura,93004: Ventura,2020-08-20,198
+Ventura,93010: Camarillo,2020-08-20,357
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-08-20,168
+Ventura,93015: Fillmore,2020-08-20,404
+Ventura,93021: Moorpark,2020-08-20,378
+Ventura,93022: Oak View,2020-08-20,30
+Ventura,93023: Ojai,2020-08-20,65
+Ventura,93030: Oxnard,2020-08-20,1273
+Ventura,93033: Oxnard,2020-08-20,1616
+Ventura,93035: Oxnard,2020-08-20,277
+Ventura,93036: Oxnard,2020-08-20,618
+Ventura,93040: Piru,2020-08-20,92
+Ventura,93041: Port Hueneme,2020-08-20,281
+Ventura,93060: Santa Paula,2020-08-20,607
+Ventura,93063: Simi Valley (Santa Susana),2020-08-20,545
+Ventura,93065: Simi Valley,2020-08-20,806
+Ventura,93066: Somis,2020-08-20,45
+Ventura,91320: Thousand Oaks/Newbury Park,2020-08-19,282
+Ventura,91360: Thousand Oaks,2020-08-19,346
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-08-19,100
+Ventura,91362: Thousand Oaks/Westlake,2020-08-19,205
+Ventura,91377: Oak Park,2020-08-19,70
+Ventura,93001: Ventura,2020-08-19,373
+Ventura,93003: Ventura,2020-08-19,401
+Ventura,93004: Ventura,2020-08-19,197
+Ventura,93010: Camarillo,2020-08-19,349
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-08-19,166
+Ventura,93015: Fillmore,2020-08-19,403
+Ventura,93021: Moorpark,2020-08-19,374
+Ventura,93022: Oak View,2020-08-19,29
+Ventura,93023: Ojai,2020-08-19,64
+Ventura,93030: Oxnard,2020-08-19,1241
+Ventura,93033: Oxnard,2020-08-19,1571
+Ventura,93035: Oxnard,2020-08-19,271
+Ventura,93036: Oxnard,2020-08-19,607
+Ventura,93040: Piru,2020-08-19,89
+Ventura,93041: Port Hueneme,2020-08-19,278
+Ventura,93060: Santa Paula,2020-08-19,602
+Ventura,93063: Simi Valley (Santa Susana),2020-08-19,538
+Ventura,93065: Simi Valley,2020-08-19,793
+Ventura,93066: Somis,2020-08-19,45
+Ventura,91320: Thousand Oaks/Newbury Park,2020-08-18,280
+Ventura,91360: Thousand Oaks,2020-08-18,345
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-08-18,100
+Ventura,91362: Thousand Oaks/Westlake,2020-08-18,203
+Ventura,91377: Oak Park,2020-08-18,70
+Ventura,93001: Ventura,2020-08-18,371
+Ventura,93003: Ventura,2020-08-18,400
+Ventura,93004: Ventura,2020-08-18,195
+Ventura,93010: Camarillo,2020-08-18,348
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-08-18,162
+Ventura,93015: Fillmore,2020-08-18,400
+Ventura,93021: Moorpark,2020-08-18,368
+Ventura,93022: Oak View,2020-08-18,28
+Ventura,93023: Ojai,2020-08-18,64
+Ventura,93030: Oxnard,2020-08-18,1237
+Ventura,93033: Oxnard,2020-08-18,1564
+Ventura,93035: Oxnard,2020-08-18,269
+Ventura,93036: Oxnard,2020-08-18,601
+Ventura,93040: Piru,2020-08-18,89
+Ventura,93041: Port Hueneme,2020-08-18,278
+Ventura,93060: Santa Paula,2020-08-18,599
+Ventura,93063: Simi Valley (Santa Susana),2020-08-18,537
+Ventura,93065: Simi Valley,2020-08-18,787
+Ventura,93066: Somis,2020-08-18,45
+Ventura,91320: Thousand Oaks/Newbury Park,2020-08-17,279
+Ventura,91360: Thousand Oaks,2020-08-17,339
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-08-17,100
+Ventura,91362: Thousand Oaks/Westlake,2020-08-17,203
+Ventura,91377: Oak Park,2020-08-17,69
+Ventura,93001: Ventura,2020-08-17,369
+Ventura,93003: Ventura,2020-08-17,399
+Ventura,93004: Ventura,2020-08-17,195
+Ventura,93010: Camarillo,2020-08-17,347
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-08-17,163
+Ventura,93015: Fillmore,2020-08-17,400
+Ventura,93021: Moorpark,2020-08-17,368
+Ventura,93022: Oak View,2020-08-17,28
+Ventura,93023: Ojai,2020-08-17,61
+Ventura,93030: Oxnard,2020-08-17,1230
+Ventura,93033: Oxnard,2020-08-17,1556
+Ventura,93035: Oxnard,2020-08-17,266
+Ventura,93036: Oxnard,2020-08-17,598
+Ventura,93040: Piru,2020-08-17,88
+Ventura,93041: Port Hueneme,2020-08-17,279
+Ventura,93060: Santa Paula,2020-08-17,597
+Ventura,93063: Simi Valley (Santa Susana),2020-08-17,535
+Ventura,93065: Simi Valley,2020-08-17,783
+Ventura,93066: Somis,2020-08-17,45
+Ventura,91320: Thousand Oaks/Newbury Park,2020-08-13,274
+Ventura,91360: Thousand Oaks,2020-08-13,324
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-08-13,96
+Ventura,91362: Thousand Oaks/Westlake,2020-08-13,192
+Ventura,91377: Oak Park,2020-08-13,66
+Ventura,93001: Ventura,2020-08-13,359
+Ventura,93003: Ventura,2020-08-13,381
+Ventura,93004: Ventura,2020-08-13,190
+Ventura,93010: Camarillo,2020-08-13,332
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-08-13,146
+Ventura,93015: Fillmore,2020-08-13,389
+Ventura,93021: Moorpark,2020-08-13,358
+Ventura,93022: Oak View,2020-08-13,27
+Ventura,93023: Ojai,2020-08-13,59
+Ventura,93030: Oxnard,2020-08-13,1167
+Ventura,93033: Oxnard,2020-08-13,1481
+Ventura,93035: Oxnard,2020-08-13,246
+Ventura,93036: Oxnard,2020-08-13,581
+Ventura,93040: Piru,2020-08-13,87
+Ventura,93041: Port Hueneme,2020-08-13,264
+Ventura,93060: Santa Paula,2020-08-13,581
+Ventura,93063: Simi Valley (Santa Susana),2020-08-13,519
+Ventura,93065: Simi Valley,2020-08-13,747
+Ventura,93066: Somis,2020-08-13,43
+Ventura,91320: Thousand Oaks/Newbury Park,2020-08-12,274
+Ventura,91360: Thousand Oaks,2020-08-12,324
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-08-12,94
+Ventura,91362: Thousand Oaks/Westlake,2020-08-12,191
+Ventura,91377: Oak Park,2020-08-12,66
+Ventura,93001: Ventura,2020-08-12,355
+Ventura,93003: Ventura,2020-08-12,377
+Ventura,93004: Ventura,2020-08-12,187
+Ventura,93010: Camarillo,2020-08-12,328
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-08-12,143
+Ventura,93015: Fillmore,2020-08-12,388
+Ventura,93021: Moorpark,2020-08-12,357
+Ventura,93022: Oak View,2020-08-12,27
+Ventura,93023: Ojai,2020-08-12,59
+Ventura,93030: Oxnard,2020-08-12,1139
+Ventura,93033: Oxnard,2020-08-12,1456
+Ventura,93035: Oxnard,2020-08-12,241
+Ventura,93036: Oxnard,2020-08-12,574
+Ventura,93040: Piru,2020-08-12,86
+Ventura,93041: Port Hueneme,2020-08-12,258
+Ventura,93060: Santa Paula,2020-08-12,569
+Ventura,93063: Simi Valley (Santa Susana),2020-08-12,517
+Ventura,93065: Simi Valley,2020-08-12,737
+Ventura,93066: Somis,2020-08-12,43
+Ventura,91320: Thousand Oaks/Newbury Park,2020-08-11,275
+Ventura,91360: Thousand Oaks,2020-08-11,322
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-08-11,94
+Ventura,91362: Thousand Oaks/Westlake,2020-08-11,190
+Ventura,91377: Oak Park,2020-08-11,66
+Ventura,93001: Ventura,2020-08-11,356
+Ventura,93003: Ventura,2020-08-11,372
+Ventura,93004: Ventura,2020-08-11,187
+Ventura,93010: Camarillo,2020-08-11,322
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-08-11,142
+Ventura,93015: Fillmore,2020-08-11,387
+Ventura,93021: Moorpark,2020-08-11,356
+Ventura,93022: Oak View,2020-08-11,27
+Ventura,93023: Ojai,2020-08-11,59
+Ventura,93030: Oxnard,2020-08-11,1133
+Ventura,93033: Oxnard,2020-08-11,1442
+Ventura,93035: Oxnard,2020-08-11,241
+Ventura,93036: Oxnard,2020-08-11,568
+Ventura,93040: Piru,2020-08-11,86
+Ventura,93041: Port Hueneme,2020-08-11,253
+Ventura,93060: Santa Paula,2020-08-11,570
+Ventura,93063: Simi Valley (Santa Susana),2020-08-11,514
+Ventura,93065: Simi Valley,2020-08-11,735
+Ventura,93066: Somis,2020-08-11,43
+Ventura,91320: Thousand Oaks/Newbury Park,2020-08-10,272
+Ventura,91360: Thousand Oaks,2020-08-10,318
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-08-10,92
+Ventura,91362: Thousand Oaks/Westlake,2020-08-10,188
+Ventura,91377: Oak Park,2020-08-10,66
+Ventura,93001: Ventura,2020-08-10,352
+Ventura,93003: Ventura,2020-08-10,365
+Ventura,93004: Ventura,2020-08-10,185
+Ventura,93010: Camarillo,2020-08-10,317
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-08-10,138
+Ventura,93015: Fillmore,2020-08-10,385
+Ventura,93021: Moorpark,2020-08-10,354
+Ventura,93022: Oak View,2020-08-10,27
+Ventura,93023: Ojai,2020-08-10,58
+Ventura,93030: Oxnard,2020-08-10,1120
+Ventura,93033: Oxnard,2020-08-10,1424
+Ventura,93035: Oxnard,2020-08-10,237
+Ventura,93036: Oxnard,2020-08-10,560
+Ventura,93040: Piru,2020-08-10,86
+Ventura,93041: Port Hueneme,2020-08-10,245
+Ventura,93060: Santa Paula,2020-08-10,566
+Ventura,93063: Simi Valley (Santa Susana),2020-08-10,513
+Ventura,93065: Simi Valley,2020-08-10,726
+Ventura,93066: Somis,2020-08-10,40
+Ventura,91320: Thousand Oaks/Newbury Park,2020-08-07,266
+Ventura,91360: Thousand Oaks,2020-08-07,296
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-08-07,87
+Ventura,91362: Thousand Oaks/Westlake,2020-08-07,178
+Ventura,91377: Oak Park,2020-08-07,61
+Ventura,93001: Ventura,2020-08-07,339
+Ventura,93003: Ventura,2020-08-07,351
+Ventura,93004: Ventura,2020-08-07,180
+Ventura,93010: Camarillo,2020-08-07,295
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-08-07,127
+Ventura,93015: Fillmore,2020-08-07,358
+Ventura,93021: Moorpark,2020-08-07,337
+Ventura,93022: Oak View,2020-08-07,26
+Ventura,93023: Ojai,2020-08-07,55
+Ventura,93030: Oxnard,2020-08-07,1052
+Ventura,93033: Oxnard,2020-08-07,1352
+Ventura,93035: Oxnard,2020-08-07,216
+Ventura,93036: Oxnard,2020-08-07,524
+Ventura,93040: Piru,2020-08-07,85
+Ventura,93041: Port Hueneme,2020-08-07,228
+Ventura,93060: Santa Paula,2020-08-07,515
+Ventura,93063: Simi Valley (Santa Susana),2020-08-07,483
+Ventura,93065: Simi Valley,2020-08-07,697
+Ventura,93066: Somis,2020-08-07,38
+Ventura,91320: Thousand Oaks/Newbury Park,2020-08-06,265
+Ventura,91360: Thousand Oaks,2020-08-06,293
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-08-06,86
+Ventura,91362: Thousand Oaks/Westlake,2020-08-06,178
+Ventura,91377: Oak Park,2020-08-06,61
+Ventura,93001: Ventura,2020-08-06,337
+Ventura,93003: Ventura,2020-08-06,350
+Ventura,93004: Ventura,2020-08-06,180
+Ventura,93010: Camarillo,2020-08-06,287
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-08-06,126
+Ventura,93015: Fillmore,2020-08-06,356
+Ventura,93021: Moorpark,2020-08-06,334
+Ventura,93022: Oak View,2020-08-06,26
+Ventura,93023: Ojai,2020-08-06,55
+Ventura,93030: Oxnard,2020-08-06,1033
+Ventura,93033: Oxnard,2020-08-06,1325
+Ventura,93035: Oxnard,2020-08-06,213
+Ventura,93036: Oxnard,2020-08-06,519
+Ventura,93040: Piru,2020-08-06,85
+Ventura,93041: Port Hueneme,2020-08-06,221
+Ventura,93060: Santa Paula,2020-08-06,507
+Ventura,93063: Simi Valley (Santa Susana),2020-08-06,471
+Ventura,93065: Simi Valley,2020-08-06,689
+Ventura,93066: Somis,2020-08-06,38
+Ventura,91320: Thousand Oaks/Newbury Park,2020-08-05,264
+Ventura,91360: Thousand Oaks,2020-08-05,293
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-08-05,85
+Ventura,91362: Thousand Oaks/Westlake,2020-08-05,177
+Ventura,91377: Oak Park,2020-08-05,59
+Ventura,93001: Ventura,2020-08-05,337
+Ventura,93003: Ventura,2020-08-05,347
+Ventura,93004: Ventura,2020-08-05,179
+Ventura,93010: Camarillo,2020-08-05,284
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-08-05,124
+Ventura,93015: Fillmore,2020-08-05,356
+Ventura,93021: Moorpark,2020-08-05,334
+Ventura,93022: Oak View,2020-08-05,26
+Ventura,93023: Ojai,2020-08-05,55
+Ventura,93030: Oxnard,2020-08-05,1018
+Ventura,93033: Oxnard,2020-08-05,1300
+Ventura,93035: Oxnard,2020-08-05,212
+Ventura,93036: Oxnard,2020-08-05,512
+Ventura,93040: Piru,2020-08-05,85
+Ventura,93041: Port Hueneme,2020-08-05,219
+Ventura,93060: Santa Paula,2020-08-05,505
+Ventura,93063: Simi Valley (Santa Susana),2020-08-05,469
+Ventura,93065: Simi Valley,2020-08-05,675
+Ventura,93066: Somis,2020-08-05,38
+Ventura,91320: Thousand Oaks/Newbury Park,2020-08-03,262
+Ventura,91360: Thousand Oaks,2020-08-03,291
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-08-03,82
+Ventura,91362: Thousand Oaks/Westlake,2020-08-03,176
+Ventura,91377: Oak Park,2020-08-03,59
+Ventura,93001: Ventura,2020-08-03,332
+Ventura,93003: Ventura,2020-08-03,343
+Ventura,93004: Ventura,2020-08-03,178
+Ventura,93010: Camarillo,2020-08-03,280
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-08-03,121
+Ventura,93015: Fillmore,2020-08-03,356
+Ventura,93021: Moorpark,2020-08-03,332
+Ventura,93022: Oak View,2020-08-03,26
+Ventura,93023: Ojai,2020-08-03,55
+Ventura,93030: Oxnard,2020-08-03,1009
+Ventura,93033: Oxnard,2020-08-03,1283
+Ventura,93035: Oxnard,2020-08-03,209
+Ventura,93036: Oxnard,2020-08-03,506
+Ventura,93040: Piru,2020-08-03,85
+Ventura,93041: Port Hueneme,2020-08-03,219
+Ventura,93060: Santa Paula,2020-08-03,502
+Ventura,93063: Simi Valley (Santa Susana),2020-08-03,466
+Ventura,93065: Simi Valley,2020-08-03,668
+Ventura,93066: Somis,2020-08-03,37
+Ventura,91320: Thousand Oaks/Newbury Park,2020-07-31,251
+Ventura,91360: Thousand Oaks,2020-07-31,276
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-07-31,77
+Ventura,91362: Thousand Oaks/Westlake,2020-07-31,167
+Ventura,91377: Oak Park,2020-07-31,59
+Ventura,93001: Ventura,2020-07-31,312
+Ventura,93003: Ventura,2020-07-31,320
+Ventura,93004: Ventura,2020-07-31,154
+Ventura,93010: Camarillo,2020-07-31,264
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-07-31,110
+Ventura,93015: Fillmore,2020-07-31,340
+Ventura,93021: Moorpark,2020-07-31,323
+Ventura,93022: Oak View,2020-07-31,26
+Ventura,93023: Ojai,2020-07-31,51
+Ventura,93030: Oxnard,2020-07-31,920
+Ventura,93033: Oxnard,2020-07-31,1195
+Ventura,93035: Oxnard,2020-07-31,199
+Ventura,93036: Oxnard,2020-07-31,466
+Ventura,93040: Piru,2020-07-31,81
+Ventura,93041: Port Hueneme,2020-07-31,199
+Ventura,93060: Santa Paula,2020-07-31,466
+Ventura,93063: Simi Valley (Santa Susana),2020-07-31,449
+Ventura,93065: Simi Valley,2020-07-31,609
+Ventura,93066: Somis,2020-07-31,30
+Ventura,91320: Thousand Oaks/Newbury Park,2020-07-30,246
+Ventura,91360: Thousand Oaks,2020-07-30,269
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-07-30,78
+Ventura,91362: Thousand Oaks/Westlake,2020-07-30,163
+Ventura,91377: Oak Park,2020-07-30,59
+Ventura,93001: Ventura,2020-07-30,305
+Ventura,93003: Ventura,2020-07-30,307
+Ventura,93004: Ventura,2020-07-30,147
+Ventura,93010: Camarillo,2020-07-30,239
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-07-30,106
+Ventura,93015: Fillmore,2020-07-30,335
+Ventura,93021: Moorpark,2020-07-30,317
+Ventura,93022: Oak View,2020-07-30,26
+Ventura,93023: Ojai,2020-07-30,50
+Ventura,93030: Oxnard,2020-07-30,894
+Ventura,93033: Oxnard,2020-07-30,1142
+Ventura,93035: Oxnard,2020-07-30,190
+Ventura,93036: Oxnard,2020-07-30,451
+Ventura,93040: Piru,2020-07-30,80
+Ventura,93041: Port Hueneme,2020-07-30,185
+Ventura,93060: Santa Paula,2020-07-30,459
+Ventura,93063: Simi Valley (Santa Susana),2020-07-30,427
+Ventura,93065: Simi Valley,2020-07-30,600
+Ventura,93066: Somis,2020-07-30,28
+Ventura,91320: Thousand Oaks/Newbury Park,2020-07-29,240
+Ventura,91360: Thousand Oaks,2020-07-29,266
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-07-29,75
+Ventura,91362: Thousand Oaks/Westlake,2020-07-29,162
+Ventura,91377: Oak Park,2020-07-29,58
+Ventura,93001: Ventura,2020-07-29,298
+Ventura,93003: Ventura,2020-07-29,299
+Ventura,93004: Ventura,2020-07-29,147
+Ventura,93010: Camarillo,2020-07-29,234
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-07-29,106
+Ventura,93015: Fillmore,2020-07-29,332
+Ventura,93021: Moorpark,2020-07-29,313
+Ventura,93022: Oak View,2020-07-29,26
+Ventura,93023: Ojai,2020-07-29,50
+Ventura,93030: Oxnard,2020-07-29,881
+Ventura,93033: Oxnard,2020-07-29,1123
+Ventura,93035: Oxnard,2020-07-29,188
+Ventura,93036: Oxnard,2020-07-29,445
+Ventura,93040: Piru,2020-07-29,80
+Ventura,93041: Port Hueneme,2020-07-29,181
+Ventura,93060: Santa Paula,2020-07-29,455
+Ventura,93063: Simi Valley (Santa Susana),2020-07-29,418
+Ventura,93065: Simi Valley,2020-07-29,592
+Ventura,93066: Somis,2020-07-29,28
+Ventura,91320: Thousand Oaks/Newbury Park,2020-07-28,240
+Ventura,91360: Thousand Oaks,2020-07-28,265
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-07-28,72
+Ventura,91362: Thousand Oaks/Westlake,2020-07-28,160
+Ventura,91377: Oak Park,2020-07-28,58
+Ventura,93001: Ventura,2020-07-28,294
+Ventura,93003: Ventura,2020-07-28,291
+Ventura,93004: Ventura,2020-07-28,145
+Ventura,93010: Camarillo,2020-07-28,229
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-07-28,107
+Ventura,93015: Fillmore,2020-07-28,332
+Ventura,93021: Moorpark,2020-07-28,305
+Ventura,93022: Oak View,2020-07-28,26
+Ventura,93023: Ojai,2020-07-28,48
+Ventura,93030: Oxnard,2020-07-28,863
+Ventura,93033: Oxnard,2020-07-28,1101
+Ventura,93035: Oxnard,2020-07-28,182
+Ventura,93036: Oxnard,2020-07-28,433
+Ventura,93040: Piru,2020-07-28,80
+Ventura,93041: Port Hueneme,2020-07-28,178
+Ventura,93060: Santa Paula,2020-07-28,454
+Ventura,93063: Simi Valley (Santa Susana),2020-07-28,413
+Ventura,93065: Simi Valley,2020-07-28,589
+Ventura,93066: Somis,2020-07-28,28
+Ventura,91320: Thousand Oaks/Newbury Park,2020-07-27,298
+Ventura,91360: Thousand Oaks,2020-07-27,269
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-07-27,72
+Ventura,91362: Thousand Oaks/Westlake,2020-07-27,160
+Ventura,91377: Oak Park,2020-07-27,58
+Ventura,93001: Ventura,2020-07-27,293
+Ventura,93003: Ventura,2020-07-27,274
+Ventura,93004: Ventura,2020-07-27,143
+Ventura,93010: Camarillo,2020-07-27,227
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-07-27,104
+Ventura,93015: Fillmore,2020-07-27,331
+Ventura,93021: Moorpark,2020-07-27,302
+Ventura,93022: Oak View,2020-07-27,26
+Ventura,93023: Ojai,2020-07-27,48
+Ventura,93030: Oxnard,2020-07-27,859
+Ventura,93033: Oxnard,2020-07-27,1092
+Ventura,93035: Oxnard,2020-07-27,182
+Ventura,93036: Oxnard,2020-07-27,429
+Ventura,93040: Piru,2020-07-27,80
+Ventura,93041: Port Hueneme,2020-07-27,146
+Ventura,93060: Santa Paula,2020-07-27,449
+Ventura,93063: Simi Valley (Santa Susana),2020-07-27,411
+Ventura,93065: Simi Valley,2020-07-27,584
+Ventura,93066: Somis,2020-07-27,29
+Ventura,91320: Thousand Oaks/Newbury Park,2020-07-24,225
+Ventura,91360: Thousand Oaks,2020-07-24,251
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-07-24,67
+Ventura,91362: Thousand Oaks/Westlake,2020-07-24,154
+Ventura,91377: Oak Park,2020-07-24,55
+Ventura,93001: Ventura,2020-07-24,273
+Ventura,93003: Ventura,2020-07-24,252
+Ventura,93004: Ventura,2020-07-24,138
+Ventura,93010: Camarillo,2020-07-24,193
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-07-24,98
+Ventura,93015: Fillmore,2020-07-24,318
+Ventura,93021: Moorpark,2020-07-24,285
+Ventura,93022: Oak View,2020-07-24,24
+Ventura,93023: Ojai,2020-07-24,43
+Ventura,93030: Oxnard,2020-07-24,810
+Ventura,93033: Oxnard,2020-07-24,1008
+Ventura,93035: Oxnard,2020-07-24,164
+Ventura,93036: Oxnard,2020-07-24,391
+Ventura,93040: Piru,2020-07-24,78
+Ventura,93041: Port Hueneme,2020-07-24,156
+Ventura,93060: Santa Paula,2020-07-24,433
+Ventura,93063: Simi Valley (Santa Susana),2020-07-24,387
+Ventura,93065: Simi Valley,2020-07-24,560
+Ventura,93066: Somis,2020-07-24,29
+Ventura,91320: Thousand Oaks/Newbury Park,2020-07-23,217
+Ventura,91360: Thousand Oaks,2020-07-23,239
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-07-23,65
+Ventura,91362: Thousand Oaks/Westlake,2020-07-23,149
+Ventura,91377: Oak Park,2020-07-23,53
+Ventura,93001: Ventura,2020-07-23,259
+Ventura,93003: Ventura,2020-07-23,245
+Ventura,93004: Ventura,2020-07-23,134
+Ventura,93010: Camarillo,2020-07-23,184
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-07-23,96
+Ventura,93015: Fillmore,2020-07-23,313
+Ventura,93021: Moorpark,2020-07-23,275
+Ventura,93022: Oak View,2020-07-23,24
+Ventura,93023: Ojai,2020-07-23,43
+Ventura,93030: Oxnard,2020-07-23,785
+Ventura,93033: Oxnard,2020-07-23,950
+Ventura,93035: Oxnard,2020-07-23,157
+Ventura,93036: Oxnard,2020-07-23,376
+Ventura,93040: Piru,2020-07-23,78
+Ventura,93041: Port Hueneme,2020-07-23,150
+Ventura,93060: Santa Paula,2020-07-23,423
+Ventura,93063: Simi Valley (Santa Susana),2020-07-23,369
+Ventura,93065: Simi Valley,2020-07-23,543
+Ventura,93066: Somis,2020-07-23,29
+Ventura,91320: Thousand Oaks/Newbury Park,2020-07-22,212
+Ventura,91360: Thousand Oaks,2020-07-22,234
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-07-22,64
+Ventura,91362: Thousand Oaks/Westlake,2020-07-22,149
+Ventura,91377: Oak Park,2020-07-22,53
+Ventura,93001: Ventura,2020-07-22,256
+Ventura,93003: Ventura,2020-07-22,242
+Ventura,93004: Ventura,2020-07-22,129
+Ventura,93010: Camarillo,2020-07-22,181
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-07-22,96
+Ventura,93015: Fillmore,2020-07-22,310
+Ventura,93021: Moorpark,2020-07-22,274
+Ventura,93022: Oak View,2020-07-22,24
+Ventura,93023: Ojai,2020-07-22,41
+Ventura,93030: Oxnard,2020-07-22,777
+Ventura,93033: Oxnard,2020-07-22,916
+Ventura,93035: Oxnard,2020-07-22,155
+Ventura,93036: Oxnard,2020-07-22,370
+Ventura,93040: Piru,2020-07-22,78
+Ventura,93041: Port Hueneme,2020-07-22,148
+Ventura,93060: Santa Paula,2020-07-22,420
+Ventura,93063: Simi Valley (Santa Susana),2020-07-22,356
+Ventura,93065: Simi Valley,2020-07-22,535
+Ventura,93066: Somis,2020-07-22,29
+Ventura,91320: Thousand Oaks/Newbury Park,2020-07-21,201
+Ventura,91360: Thousand Oaks,2020-07-21,226
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-07-21,65
+Ventura,91362: Thousand Oaks/Westlake,2020-07-21,142
+Ventura,91377: Oak Park,2020-07-21,53
+Ventura,93001: Ventura,2020-07-21,251
+Ventura,93003: Ventura,2020-07-21,236
+Ventura,93004: Ventura,2020-07-21,124
+Ventura,93010: Camarillo,2020-07-21,178
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-07-21,92
+Ventura,93015: Fillmore,2020-07-21,308
+Ventura,93021: Moorpark,2020-07-21,271
+Ventura,93022: Oak View,2020-07-21,24
+Ventura,93023: Ojai,2020-07-21,42
+Ventura,93030: Oxnard,2020-07-21,768
+Ventura,93033: Oxnard,2020-07-21,903
+Ventura,93035: Oxnard,2020-07-21,150
+Ventura,93036: Oxnard,2020-07-21,366
+Ventura,93040: Piru,2020-07-21,78
+Ventura,93041: Port Hueneme,2020-07-21,147
+Ventura,93060: Santa Paula,2020-07-21,421
+Ventura,93063: Simi Valley (Santa Susana),2020-07-21,353
+Ventura,93065: Simi Valley,2020-07-21,528
+Ventura,93066: Somis,2020-07-21,28
+Ventura,91320: Thousand Oaks/Newbury Park,2020-07-20,195
+Ventura,91360: Thousand Oaks,2020-07-20,219
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-07-20,66
+Ventura,91362: Thousand Oaks/Westlake,2020-07-20,139
+Ventura,91377: Oak Park,2020-07-20,51
+Ventura,93001: Ventura,2020-07-20,242
+Ventura,93003: Ventura,2020-07-20,227
+Ventura,93004: Ventura,2020-07-20,118
+Ventura,93010: Camarillo,2020-07-20,167
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-07-20,87
+Ventura,93015: Fillmore,2020-07-20,296
+Ventura,93021: Moorpark,2020-07-20,266
+Ventura,93022: Oak View,2020-07-20,24
+Ventura,93023: Ojai,2020-07-20,41
+Ventura,93030: Oxnard,2020-07-20,741
+Ventura,93033: Oxnard,2020-07-20,865
+Ventura,93035: Oxnard,2020-07-20,146
+Ventura,93036: Oxnard,2020-07-20,345
+Ventura,93040: Piru,2020-07-20,78
+Ventura,93041: Port Hueneme,2020-07-20,139
+Ventura,93060: Santa Paula,2020-07-20,416
+Ventura,93063: Simi Valley (Santa Susana),2020-07-20,340
+Ventura,93065: Simi Valley,2020-07-20,512
+Ventura,93066: Somis,2020-07-20,28
+Ventura,91320: Thousand Oaks/Newbury Park,2020-07-17,173
+Ventura,91360: Thousand Oaks,2020-07-17,199
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-07-17,59
+Ventura,91362: Thousand Oaks/Westlake,2020-07-17,115
+Ventura,91377: Oak Park,2020-07-17,50
+Ventura,93001: Ventura,2020-07-17,209
+Ventura,93003: Ventura,2020-07-17,214
+Ventura,93004: Ventura,2020-07-17,103
+Ventura,93010: Camarillo,2020-07-17,148
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-07-17,81
+Ventura,93015: Fillmore,2020-07-17,283
+Ventura,93021: Moorpark,2020-07-17,235
+Ventura,93022: Oak View,2020-07-17,22
+Ventura,93023: Ojai,2020-07-17,35
+Ventura,93030: Oxnard,2020-07-17,670
+Ventura,93033: Oxnard,2020-07-17,757
+Ventura,93035: Oxnard,2020-07-17,132
+Ventura,93036: Oxnard,2020-07-17,300
+Ventura,93040: Piru,2020-07-17,76
+Ventura,93041: Port Hueneme,2020-07-17,122
+Ventura,93060: Santa Paula,2020-07-17,375
+Ventura,93063: Simi Valley (Santa Susana),2020-07-17,321
+Ventura,93065: Simi Valley,2020-07-17,485
+Ventura,93066: Somis,2020-07-17,28
+Ventura,91320: Thousand Oaks/Newbury Park,2020-07-16,167
+Ventura,91360: Thousand Oaks,2020-07-16,192
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-07-16,54
+Ventura,91362: Thousand Oaks/Westlake,2020-07-16,108
+Ventura,91377: Oak Park,2020-07-16,46
+Ventura,93001: Ventura,2020-07-16,193
+Ventura,93003: Ventura,2020-07-16,206
+Ventura,93004: Ventura,2020-07-16,97
+Ventura,93010: Camarillo,2020-07-16,144
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-07-16,78
+Ventura,93015: Fillmore,2020-07-16,279
+Ventura,93021: Moorpark,2020-07-16,226
+Ventura,93022: Oak View,2020-07-16,18
+Ventura,93023: Ojai,2020-07-16,32
+Ventura,93030: Oxnard,2020-07-16,644
+Ventura,93033: Oxnard,2020-07-16,712
+Ventura,93035: Oxnard,2020-07-16,129
+Ventura,93036: Oxnard,2020-07-16,283
+Ventura,93040: Piru,2020-07-16,76
+Ventura,93041: Port Hueneme,2020-07-16,110
+Ventura,93060: Santa Paula,2020-07-16,368
+Ventura,93063: Simi Valley (Santa Susana),2020-07-16,312
+Ventura,93065: Simi Valley,2020-07-16,467
+Ventura,93066: Somis,2020-07-16,27
+Ventura,91320: Thousand Oaks/Newbury Park,2020-07-15,168
+Ventura,91360: Thousand Oaks,2020-07-15,191
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-07-15,53
+Ventura,91362: Thousand Oaks/Westlake,2020-07-15,106
+Ventura,91377: Oak Park,2020-07-15,45
+Ventura,93001: Ventura,2020-07-15,190
+Ventura,93003: Ventura,2020-07-15,202
+Ventura,93004: Ventura,2020-07-15,92
+Ventura,93010: Camarillo,2020-07-15,141
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-07-15,78
+Ventura,93015: Fillmore,2020-07-15,277
+Ventura,93021: Moorpark,2020-07-15,221
+Ventura,93022: Oak View,2020-07-15,18
+Ventura,93023: Ojai,2020-07-15,32
+Ventura,93030: Oxnard,2020-07-15,632
+Ventura,93033: Oxnard,2020-07-15,692
+Ventura,93035: Oxnard,2020-07-15,126
+Ventura,93036: Oxnard,2020-07-15,277
+Ventura,93040: Piru,2020-07-15,75
+Ventura,93041: Port Hueneme,2020-07-15,101
+Ventura,93060: Santa Paula,2020-07-15,364
+Ventura,93063: Simi Valley (Santa Susana),2020-07-15,311
+Ventura,93065: Simi Valley,2020-07-15,465
+Ventura,93066: Somis,2020-07-15,27
+Ventura,91320: Thousand Oaks/Newbury Park,2020-07-12,156
+Ventura,91360: Thousand Oaks,2020-07-12,171
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-07-12,52
+Ventura,91362: Thousand Oaks/Westlake,2020-07-12,97
+Ventura,91377: Oak Park,2020-07-12,44
+Ventura,93001: Ventura,2020-07-12,177
+Ventura,93003: Ventura,2020-07-12,182
+Ventura,93004: Ventura,2020-07-12,89
+Ventura,93010: Camarillo,2020-07-12,125
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-07-12,76
+Ventura,93015: Fillmore,2020-07-12,271
+Ventura,93021: Moorpark,2020-07-12,213
+Ventura,93022: Oak View,2020-07-12,18
+Ventura,93023: Ojai,2020-07-12,29
+Ventura,93030: Oxnard,2020-07-12,602
+Ventura,93033: Oxnard,2020-07-12,644
+Ventura,93035: Oxnard,2020-07-12,120
+Ventura,93036: Oxnard,2020-07-12,250
+Ventura,93040: Piru,2020-07-12,73
+Ventura,93041: Port Hueneme,2020-07-12,95
+Ventura,93060: Santa Paula,2020-07-12,360
+Ventura,93063: Simi Valley (Santa Susana),2020-07-12,298
+Ventura,93065: Simi Valley,2020-07-12,446
+Ventura,93066: Somis,2020-07-12,27
+Ventura,91320: Thousand Oaks/Newbury Park,2020-07-10,146
+Ventura,91360: Thousand Oaks,2020-07-10,143
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-07-10,45
+Ventura,91362: Thousand Oaks/Westlake,2020-07-10,88
+Ventura,91377: Oak Park,2020-07-10,39
+Ventura,93001: Ventura,2020-07-10,153
+Ventura,93003: Ventura,2020-07-10,175
+Ventura,93004: Ventura,2020-07-10,81
+Ventura,93010: Camarillo,2020-07-10,108
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-07-10,68
+Ventura,93015: Fillmore,2020-07-10,258
+Ventura,93021: Moorpark,2020-07-10,196
+Ventura,93022: Oak View,2020-07-10,13
+Ventura,93023: Ojai,2020-07-10,28
+Ventura,93030: Oxnard,2020-07-10,581
+Ventura,93033: Oxnard,2020-07-10,602
+Ventura,93035: Oxnard,2020-07-10,110
+Ventura,93036: Oxnard,2020-07-10,225
+Ventura,93040: Piru,2020-07-10,72
+Ventura,93041: Port Hueneme,2020-07-10,91
+Ventura,93060: Santa Paula,2020-07-10,289
+Ventura,93063: Simi Valley (Santa Susana),2020-07-10,287
+Ventura,93065: Simi Valley,2020-07-10,424
+Ventura,93066: Somis,2020-07-10,24
+Ventura,91320: Thousand Oaks/Newbury Park,2020-07-09,140
+Ventura,91360: Thousand Oaks,2020-07-09,136
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-07-09,45
+Ventura,91362: Thousand Oaks/Westlake,2020-07-09,85
+Ventura,91377: Oak Park,2020-07-09,37
+Ventura,93001: Ventura,2020-07-09,141
+Ventura,93003: Ventura,2020-07-09,168
+Ventura,93004: Ventura,2020-07-09,73
+Ventura,93010: Camarillo,2020-07-09,104
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-07-09,62
+Ventura,93015: Fillmore,2020-07-09,252
+Ventura,93021: Moorpark,2020-07-09,194
+Ventura,93022: Oak View,2020-07-09,13
+Ventura,93023: Ojai,2020-07-09,27
+Ventura,93030: Oxnard,2020-07-09,565
+Ventura,93033: Oxnard,2020-07-09,577
+Ventura,93035: Oxnard,2020-07-09,103
+Ventura,93036: Oxnard,2020-07-09,214
+Ventura,93040: Piru,2020-07-09,71
+Ventura,93041: Port Hueneme,2020-07-09,83
+Ventura,93060: Santa Paula,2020-07-09,283
+Ventura,93063: Simi Valley (Santa Susana),2020-07-09,279
+Ventura,93065: Simi Valley,2020-07-09,417
+Ventura,93066: Somis,2020-07-09,24
+Ventura,91320: Thousand Oaks/Newbury Park,2020-07-08,134
+Ventura,91360: Thousand Oaks,2020-07-08,136
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-07-08,45
+Ventura,91362: Thousand Oaks/Westlake,2020-07-08,85
+Ventura,91377: Oak Park,2020-07-08,36
+Ventura,93001: Ventura,2020-07-08,136
+Ventura,93003: Ventura,2020-07-08,164
+Ventura,93004: Ventura,2020-07-08,71
+Ventura,93010: Camarillo,2020-07-08,102
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-07-08,60
+Ventura,93015: Fillmore,2020-07-08,244
+Ventura,93021: Moorpark,2020-07-08,194
+Ventura,93022: Oak View,2020-07-08,13
+Ventura,93023: Ojai,2020-07-08,27
+Ventura,93030: Oxnard,2020-07-08,542
+Ventura,93033: Oxnard,2020-07-08,560
+Ventura,93035: Oxnard,2020-07-08,99
+Ventura,93036: Oxnard,2020-07-08,200
+Ventura,93040: Piru,2020-07-08,70
+Ventura,93041: Port Hueneme,2020-07-08,81
+Ventura,93060: Santa Paula,2020-07-08,270
+Ventura,93063: Simi Valley (Santa Susana),2020-07-08,278
+Ventura,93065: Simi Valley,2020-07-08,414
+Ventura,93066: Somis,2020-07-08,22
+Ventura,91320: Thousand Oaks/Newbury Park,2020-07-07,130
+Ventura,91360: Thousand Oaks,2020-07-07,133
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-07-07,44
+Ventura,91362: Thousand Oaks/Westlake,2020-07-07,83
+Ventura,91377: Oak Park,2020-07-07,36
+Ventura,93001: Ventura,2020-07-07,125
+Ventura,93003: Ventura,2020-07-07,178
+Ventura,93004: Ventura,2020-07-07,70
+Ventura,93010: Camarillo,2020-07-07,97
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-07-07,60
+Ventura,93015: Fillmore,2020-07-07,238
+Ventura,93021: Moorpark,2020-07-07,192
+Ventura,93022: Oak View,2020-07-07,12
+Ventura,93023: Ojai,2020-07-07,27
+Ventura,93030: Oxnard,2020-07-07,494
+Ventura,93033: Oxnard,2020-07-07,544
+Ventura,93035: Oxnard,2020-07-07,97
+Ventura,93036: Oxnard,2020-07-07,190
+Ventura,93040: Piru,2020-07-07,69
+Ventura,93041: Port Hueneme,2020-07-07,79
+Ventura,93060: Santa Paula,2020-07-07,260
+Ventura,93063: Simi Valley (Santa Susana),2020-07-07,269
+Ventura,93065: Simi Valley,2020-07-07,410
+Ventura,93066: Somis,2020-07-07,21
+Ventura,91320: Thousand Oaks/Newbury Park,2020-07-06,128
+Ventura,91360: Thousand Oaks,2020-07-06,131
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-07-06,43
+Ventura,91362: Thousand Oaks/Westlake,2020-07-06,82
+Ventura,91377: Oak Park,2020-07-06,36
+Ventura,93001: Ventura,2020-07-06,118
+Ventura,93003: Ventura,2020-07-06,158
+Ventura,93004: Ventura,2020-07-06,68
+Ventura,93010: Camarillo,2020-07-06,94
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-07-06,59
+Ventura,93015: Fillmore,2020-07-06,236
+Ventura,93021: Moorpark,2020-07-06,191
+Ventura,93022: Oak View,2020-07-06,12
+Ventura,93023: Ojai,2020-07-06,26
+Ventura,93030: Oxnard,2020-07-06,501
+Ventura,93033: Oxnard,2020-07-06,528
+Ventura,93035: Oxnard,2020-07-06,94
+Ventura,93036: Oxnard,2020-07-06,189
+Ventura,93040: Piru,2020-07-06,69
+Ventura,93041: Port Hueneme,2020-07-06,77
+Ventura,93060: Santa Paula,2020-07-06,259
+Ventura,93063: Simi Valley (Santa Susana),2020-07-06,264
+Ventura,93065: Simi Valley,2020-07-06,405
+Ventura,93066: Somis,2020-07-06,21
+Ventura,91320: Thousand Oaks/Newbury Park,2020-07-02,105
+Ventura,91360: Thousand Oaks,2020-07-02,117
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-07-02,36
+Ventura,91362: Thousand Oaks/Westlake,2020-07-02,67
+Ventura,91377: Oak Park,2020-07-02,32
+Ventura,93001: Ventura,2020-07-02,97
+Ventura,93003: Ventura,2020-07-02,130
+Ventura,93004: Ventura,2020-07-02,61
+Ventura,93010: Camarillo,2020-07-02,82
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-07-02,50
+Ventura,93015: Fillmore,2020-07-02,191
+Ventura,93021: Moorpark,2020-07-02,184
+Ventura,93022: Oak View,2020-07-02,9
+Ventura,93023: Ojai,2020-07-02,23
+Ventura,93030: Oxnard,2020-07-02,401
+Ventura,93033: Oxnard,2020-07-02,437
+Ventura,93035: Oxnard,2020-07-02,86
+Ventura,93036: Oxnard,2020-07-02,157
+Ventura,93040: Piru,2020-07-02,59
+Ventura,93041: Port Hueneme,2020-07-02,68
+Ventura,93060: Santa Paula,2020-07-02,237
+Ventura,93063: Simi Valley (Santa Susana),2020-07-02,227
+Ventura,93065: Simi Valley,2020-07-02,365
+Ventura,93066: Somis,2020-07-02,19
+Ventura,91320: Thousand Oaks/Newbury Park,2020-07-01,96
+Ventura,91360: Thousand Oaks,2020-07-01,107
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-07-01,36
+Ventura,91362: Thousand Oaks/Westlake,2020-07-01,66
+Ventura,91377: Oak Park,2020-07-01,31
+Ventura,93001: Ventura,2020-07-01,91
+Ventura,93003: Ventura,2020-07-01,126
+Ventura,93004: Ventura,2020-07-01,57
+Ventura,93010: Camarillo,2020-07-01,76
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-07-01,46
+Ventura,93015: Fillmore,2020-07-01,188
+Ventura,93021: Moorpark,2020-07-01,181
+Ventura,93022: Oak View,2020-07-01,9
+Ventura,93023: Ojai,2020-07-01,22
+Ventura,93030: Oxnard,2020-07-01,376
+Ventura,93033: Oxnard,2020-07-01,408
+Ventura,93035: Oxnard,2020-07-01,84
+Ventura,93036: Oxnard,2020-07-01,148
+Ventura,93040: Piru,2020-07-01,58
+Ventura,93041: Port Hueneme,2020-07-01,66
+Ventura,93060: Santa Paula,2020-07-01,233
+Ventura,93063: Simi Valley (Santa Susana),2020-07-01,221
+Ventura,93065: Simi Valley,2020-07-01,353
+Ventura,93066: Somis,2020-07-01,17
+Ventura,91320: Thousand Oaks/Newbury Park,2020-06-30,93
+Ventura,91360: Thousand Oaks,2020-06-30,103
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-06-30,34
+Ventura,91362: Thousand Oaks/Westlake,2020-06-30,63
+Ventura,91377: Oak Park,2020-06-30,30
+Ventura,93001: Ventura,2020-06-30,85
+Ventura,93003: Ventura,2020-06-30,123
+Ventura,93004: Ventura,2020-06-30,57
+Ventura,93010: Camarillo,2020-06-30,74
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-06-30,46
+Ventura,93015: Fillmore,2020-06-30,181
+Ventura,93021: Moorpark,2020-06-30,171
+Ventura,93022: Oak View,2020-06-30,9
+Ventura,93023: Ojai,2020-06-30,21
+Ventura,93030: Oxnard,2020-06-30,309
+Ventura,93033: Oxnard,2020-06-30,386
+Ventura,93035: Oxnard,2020-06-30,80
+Ventura,93036: Oxnard,2020-06-30,143
+Ventura,93040: Piru,2020-06-30,55
+Ventura,93041: Port Hueneme,2020-06-30,63
+Ventura,93060: Santa Paula,2020-06-30,226
+Ventura,93063: Simi Valley (Santa Susana),2020-06-30,214
+Ventura,93065: Simi Valley,2020-06-30,343
+Ventura,93066: Somis,2020-06-30,17
+Ventura,91320: Thousand Oaks/Newbury Park,2020-06-29,90
+Ventura,91360: Thousand Oaks,2020-06-29,98
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-06-29,31
+Ventura,91362: Thousand Oaks/Westlake,2020-06-29,57
+Ventura,91377: Oak Park,2020-06-29,29
+Ventura,93001: Ventura,2020-06-29,83
+Ventura,93003: Ventura,2020-06-29,118
+Ventura,93004: Ventura,2020-06-29,52
+Ventura,93010: Camarillo,2020-06-29,70
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-06-29,44
+Ventura,93015: Fillmore,2020-06-29,166
+Ventura,93021: Moorpark,2020-06-29,162
+Ventura,93022: Oak View,2020-06-29,9
+Ventura,93023: Ojai,2020-06-29,17
+Ventura,93030: Oxnard,2020-06-29,251
+Ventura,93033: Oxnard,2020-06-29,367
+Ventura,93035: Oxnard,2020-06-29,78
+Ventura,93036: Oxnard,2020-06-29,136
+Ventura,93040: Piru,2020-06-29,50
+Ventura,93041: Port Hueneme,2020-06-29,62
+Ventura,93060: Santa Paula,2020-06-29,217
+Ventura,93063: Simi Valley (Santa Susana),2020-06-29,207
+Ventura,93065: Simi Valley,2020-06-29,329
+Ventura,93066: Somis,2020-06-29,17
+Ventura,91320: Thousand Oaks/Newbury Park,2020-06-26,69
+Ventura,91360: Thousand Oaks,2020-06-26,85
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-06-26,25
+Ventura,91362: Thousand Oaks/Westlake,2020-06-26,56
+Ventura,91377: Oak Park,2020-06-26,25
+Ventura,93001: Ventura,2020-06-26,63
+Ventura,93003: Ventura,2020-06-26,105
+Ventura,93004: Ventura,2020-06-26,47
+Ventura,93010: Camarillo,2020-06-26,67
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-06-26,41
+Ventura,93015: Fillmore,2020-06-26,134
+Ventura,93021: Moorpark,2020-06-26,137
+Ventura,93022: Oak View,2020-06-26,6
+Ventura,93023: Ojai,2020-06-26,15
+Ventura,93030: Oxnard,2020-06-26,223
+Ventura,93033: Oxnard,2020-06-26,311
+Ventura,93035: Oxnard,2020-06-26,60
+Ventura,93036: Oxnard,2020-06-26,114
+Ventura,93040: Piru,2020-06-26,34
+Ventura,93041: Port Hueneme,2020-06-26,54
+Ventura,93060: Santa Paula,2020-06-26,192
+Ventura,93063: Simi Valley (Santa Susana),2020-06-26,169
+Ventura,93065: Simi Valley,2020-06-26,294
+Ventura,93066: Somis,2020-06-26,10
+Ventura,91320: Thousand Oaks/Newbury Park,2020-06-25,68
+Ventura,91360: Thousand Oaks,2020-06-25,84
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-06-25,25
+Ventura,91362: Thousand Oaks/Westlake,2020-06-25,56
+Ventura,91377: Oak Park,2020-06-25,23
+Ventura,93001: Ventura,2020-06-25,61
+Ventura,93003: Ventura,2020-06-25,103
+Ventura,93004: Ventura,2020-06-25,45
+Ventura,93010: Camarillo,2020-06-25,66
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-06-25,41
+Ventura,93015: Fillmore,2020-06-25,129
+Ventura,93021: Moorpark,2020-06-25,137
+Ventura,93022: Oak View,2020-06-25,6
+Ventura,93023: Ojai,2020-06-25,15
+Ventura,93030: Oxnard,2020-06-25,218
+Ventura,93033: Oxnard,2020-06-25,300
+Ventura,93035: Oxnard,2020-06-25,59
+Ventura,93036: Oxnard,2020-06-25,114
+Ventura,93040: Piru,2020-06-25,31
+Ventura,93041: Port Hueneme,2020-06-25,53
+Ventura,93060: Santa Paula,2020-06-25,188
+Ventura,93063: Simi Valley (Santa Susana),2020-06-25,166
+Ventura,93065: Simi Valley,2020-06-25,290
+Ventura,93066: Somis,2020-06-25,9
+Ventura,91320: Thousand Oaks/Newbury Park,2020-06-24,67
+Ventura,91360: Thousand Oaks,2020-06-24,83
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-06-24,26
+Ventura,91362: Thousand Oaks/Westlake,2020-06-24,55
+Ventura,91377: Oak Park,2020-06-24,22
+Ventura,93001: Ventura,2020-06-24,60
+Ventura,93003: Ventura,2020-06-24,101
+Ventura,93004: Ventura,2020-06-24,45
+Ventura,93010: Camarillo,2020-06-24,67
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-06-24,41
+Ventura,93015: Fillmore,2020-06-24,131
+Ventura,93021: Moorpark,2020-06-24,134
+Ventura,93022: Oak View,2020-06-24,6
+Ventura,93023: Ojai,2020-06-24,15
+Ventura,93030: Oxnard,2020-06-24,214
+Ventura,93033: Oxnard,2020-06-24,293
+Ventura,93035: Oxnard,2020-06-24,59
+Ventura,93036: Oxnard,2020-06-24,114
+Ventura,93040: Piru,2020-06-24,30
+Ventura,93041: Port Hueneme,2020-06-24,49
+Ventura,93060: Santa Paula,2020-06-24,185
+Ventura,93063: Simi Valley (Santa Susana),2020-06-24,165
+Ventura,93065: Simi Valley,2020-06-24,289
+Ventura,93066: Somis,2020-06-24,9
+Ventura,91320: Thousand Oaks/Newbury Park,2020-06-23,65
+Ventura,91360: Thousand Oaks,2020-06-23,77
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-06-23,25
+Ventura,91362: Thousand Oaks/Westlake,2020-06-23,52
+Ventura,91377: Oak Park,2020-06-23,22
+Ventura,93001: Ventura,2020-06-23,55
+Ventura,93003: Ventura,2020-06-23,100
+Ventura,93004: Ventura,2020-06-23,42
+Ventura,93010: Camarillo,2020-06-23,64
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-06-23,40
+Ventura,93015: Fillmore,2020-06-23,127
+Ventura,93021: Moorpark,2020-06-23,128
+Ventura,93022: Oak View,2020-06-23,6
+Ventura,93023: Ojai,2020-06-23,14
+Ventura,93030: Oxnard,2020-06-23,199
+Ventura,93033: Oxnard,2020-06-23,272
+Ventura,93035: Oxnard,2020-06-23,56
+Ventura,93036: Oxnard,2020-06-23,111
+Ventura,93040: Piru,2020-06-23,24
+Ventura,93041: Port Hueneme,2020-06-23,49
+Ventura,93060: Santa Paula,2020-06-23,182
+Ventura,93063: Simi Valley (Santa Susana),2020-06-23,160
+Ventura,93065: Simi Valley,2020-06-23,286
+Ventura,93066: Somis,2020-06-23,6
+Ventura,91320: Thousand Oaks/Newbury Park,2020-06-22,63
+Ventura,91360: Thousand Oaks,2020-06-22,73
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-06-22,26
+Ventura,91362: Thousand Oaks/Westlake,2020-06-22,51
+Ventura,91377: Oak Park,2020-06-22,23
+Ventura,93001: Ventura,2020-06-22,47
+Ventura,93003: Ventura,2020-06-22,88
+Ventura,93004: Ventura,2020-06-22,40
+Ventura,93010: Camarillo,2020-06-22,61
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-06-22,39
+Ventura,93015: Fillmore,2020-06-22,110
+Ventura,93021: Moorpark,2020-06-22,120
+Ventura,93022: Oak View,2020-06-22,5
+Ventura,93023: Ojai,2020-06-22,14
+Ventura,93030: Oxnard,2020-06-22,192
+Ventura,93033: Oxnard,2020-06-22,260
+Ventura,93035: Oxnard,2020-06-22,51
+Ventura,93036: Oxnard,2020-06-22,110
+Ventura,93040: Piru,2020-06-22,17
+Ventura,93041: Port Hueneme,2020-06-22,43
+Ventura,93060: Santa Paula,2020-06-22,171
+Ventura,93063: Simi Valley (Santa Susana),2020-06-22,151
+Ventura,93065: Simi Valley,2020-06-22,271
+Ventura,93066: Somis,2020-06-22,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-06-19,54
+Ventura,91360: Thousand Oaks,2020-06-19,62
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-06-19,24
+Ventura,91362: Thousand Oaks/Westlake,2020-06-19,50
+Ventura,91377: Oak Park,2020-06-19,22
+Ventura,93001: Ventura,2020-06-19,41
+Ventura,93003: Ventura,2020-06-19,80
+Ventura,93004: Ventura,2020-06-19,35
+Ventura,93010: Camarillo,2020-06-19,57
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-06-19,35
+Ventura,93015: Fillmore,2020-06-19,103
+Ventura,93021: Moorpark,2020-06-19,100
+Ventura,93022: Oak View,2020-06-19,3
+Ventura,93023: Ojai,2020-06-19,13
+Ventura,93030: Oxnard,2020-06-19,180
+Ventura,93033: Oxnard,2020-06-19,230
+Ventura,93035: Oxnard,2020-06-19,46
+Ventura,93036: Oxnard,2020-06-19,100
+Ventura,93040: Piru,2020-06-19,9
+Ventura,93041: Port Hueneme,2020-06-19,39
+Ventura,93060: Santa Paula,2020-06-19,167
+Ventura,93063: Simi Valley (Santa Susana),2020-06-19,134
+Ventura,93065: Simi Valley,2020-06-19,247
+Ventura,93066: Somis,2020-06-19,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-06-18,53
+Ventura,91360: Thousand Oaks,2020-06-18,59
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-06-18,22
+Ventura,91362: Thousand Oaks/Westlake,2020-06-18,45
+Ventura,91377: Oak Park,2020-06-18,21
+Ventura,93001: Ventura,2020-06-18,40
+Ventura,93003: Ventura,2020-06-18,77
+Ventura,93004: Ventura,2020-06-18,33
+Ventura,93010: Camarillo,2020-06-18,55
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-06-18,33
+Ventura,93015: Fillmore,2020-06-18,102
+Ventura,93021: Moorpark,2020-06-18,95
+Ventura,93022: Oak View,2020-06-18,3
+Ventura,93023: Ojai,2020-06-18,13
+Ventura,93030: Oxnard,2020-06-18,170
+Ventura,93033: Oxnard,2020-06-18,213
+Ventura,93035: Oxnard,2020-06-18,44
+Ventura,93036: Oxnard,2020-06-18,95
+Ventura,93040: Piru,2020-06-18,9
+Ventura,93041: Port Hueneme,2020-06-18,39
+Ventura,93060: Santa Paula,2020-06-18,160
+Ventura,93063: Simi Valley (Santa Susana),2020-06-18,129
+Ventura,93065: Simi Valley,2020-06-18,239
+Ventura,93066: Somis,2020-06-18,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-06-17,51
+Ventura,91360: Thousand Oaks,2020-06-17,59
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-06-17,21
+Ventura,91362: Thousand Oaks/Westlake,2020-06-17,44
+Ventura,91377: Oak Park,2020-06-17,21
+Ventura,93001: Ventura,2020-06-17,40
+Ventura,93003: Ventura,2020-06-17,75
+Ventura,93004: Ventura,2020-06-17,33
+Ventura,93010: Camarillo,2020-06-17,54
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-06-17,33
+Ventura,93015: Fillmore,2020-06-17,102
+Ventura,93021: Moorpark,2020-06-17,93
+Ventura,93022: Oak View,2020-06-17,3
+Ventura,93023: Ojai,2020-06-17,13
+Ventura,93030: Oxnard,2020-06-17,164
+Ventura,93033: Oxnard,2020-06-17,206
+Ventura,93035: Oxnard,2020-06-17,44
+Ventura,93036: Oxnard,2020-06-17,93
+Ventura,93040: Piru,2020-06-17,9
+Ventura,93041: Port Hueneme,2020-06-17,39
+Ventura,93060: Santa Paula,2020-06-17,152
+Ventura,93063: Simi Valley (Santa Susana),2020-06-17,123
+Ventura,93065: Simi Valley,2020-06-17,230
+Ventura,93066: Somis,2020-06-17,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-06-16,49
+Ventura,91360: Thousand Oaks,2020-06-16,56
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-06-16,22
+Ventura,91362: Thousand Oaks/Westlake,2020-06-16,43
+Ventura,91377: Oak Park,2020-06-16,20
+Ventura,93001: Ventura,2020-06-16,38
+Ventura,93003: Ventura,2020-06-16,72
+Ventura,93004: Ventura,2020-06-16,31
+Ventura,93010: Camarillo,2020-06-16,52
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-06-16,32
+Ventura,93015: Fillmore,2020-06-16,101
+Ventura,93021: Moorpark,2020-06-16,90
+Ventura,93022: Oak View,2020-06-16,3
+Ventura,93023: Ojai,2020-06-16,13
+Ventura,93030: Oxnard,2020-06-16,159
+Ventura,93033: Oxnard,2020-06-16,197
+Ventura,93035: Oxnard,2020-06-16,44
+Ventura,93036: Oxnard,2020-06-16,91
+Ventura,93040: Piru,2020-06-16,8
+Ventura,93041: Port Hueneme,2020-06-16,39
+Ventura,93060: Santa Paula,2020-06-16,151
+Ventura,93063: Simi Valley (Santa Susana),2020-06-16,120
+Ventura,93065: Simi Valley,2020-06-16,220
+Ventura,93066: Somis,2020-06-16,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-06-15,47
+Ventura,91360: Thousand Oaks,2020-06-15,56
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-06-15,21
+Ventura,91362: Thousand Oaks/Westlake,2020-06-15,43
+Ventura,91377: Oak Park,2020-06-15,20
+Ventura,93001: Ventura,2020-06-15,36
+Ventura,93003: Ventura,2020-06-15,71
+Ventura,93004: Ventura,2020-06-15,31
+Ventura,93010: Camarillo,2020-06-15,50
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-06-15,32
+Ventura,93015: Fillmore,2020-06-15,101
+Ventura,93021: Moorpark,2020-06-15,90
+Ventura,93022: Oak View,2020-06-15,3
+Ventura,93023: Ojai,2020-06-15,13
+Ventura,93030: Oxnard,2020-06-15,156
+Ventura,93033: Oxnard,2020-06-15,191
+Ventura,93035: Oxnard,2020-06-15,43
+Ventura,93036: Oxnard,2020-06-15,90
+Ventura,93040: Piru,2020-06-15,8
+Ventura,93041: Port Hueneme,2020-06-15,38
+Ventura,93060: Santa Paula,2020-06-15,150
+Ventura,93063: Simi Valley (Santa Susana),2020-06-15,120
+Ventura,93065: Simi Valley,2020-06-15,219
+Ventura,93066: Somis,2020-06-15,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-06-12,43
+Ventura,91360: Thousand Oaks,2020-06-12,53
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-06-12,21
+Ventura,91362: Thousand Oaks/Westlake,2020-06-12,42
+Ventura,91377: Oak Park,2020-06-12,19
+Ventura,93001: Ventura,2020-06-12,34
+Ventura,93003: Ventura,2020-06-12,60
+Ventura,93004: Ventura,2020-06-12,25
+Ventura,93010: Camarillo,2020-06-12,49
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-06-12,31
+Ventura,93015: Fillmore,2020-06-12,97
+Ventura,93021: Moorpark,2020-06-12,87
+Ventura,93022: Oak View,2020-06-12,3
+Ventura,93023: Ojai,2020-06-12,13
+Ventura,93030: Oxnard,2020-06-12,136
+Ventura,93033: Oxnard,2020-06-12,172
+Ventura,93035: Oxnard,2020-06-12,42
+Ventura,93036: Oxnard,2020-06-12,82
+Ventura,93040: Piru,2020-06-12,8
+Ventura,93041: Port Hueneme,2020-06-12,35
+Ventura,93060: Santa Paula,2020-06-12,138
+Ventura,93063: Simi Valley (Santa Susana),2020-06-12,113
+Ventura,93065: Simi Valley,2020-06-12,211
+Ventura,93066: Somis,2020-06-12,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-06-11,42
+Ventura,91360: Thousand Oaks,2020-06-11,52
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-06-11,21
+Ventura,91362: Thousand Oaks/Westlake,2020-06-11,41
+Ventura,91377: Oak Park,2020-06-11,19
+Ventura,93001: Ventura,2020-06-11,34
+Ventura,93003: Ventura,2020-06-11,59
+Ventura,93004: Ventura,2020-06-11,24
+Ventura,93010: Camarillo,2020-06-11,49
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-06-11,31
+Ventura,93015: Fillmore,2020-06-11,91
+Ventura,93021: Moorpark,2020-06-11,82
+Ventura,93022: Oak View,2020-06-11,3
+Ventura,93023: Ojai,2020-06-11,12
+Ventura,93030: Oxnard,2020-06-11,123
+Ventura,93033: Oxnard,2020-06-11,163
+Ventura,93035: Oxnard,2020-06-11,42
+Ventura,93036: Oxnard,2020-06-11,79
+Ventura,93040: Piru,2020-06-11,9
+Ventura,93041: Port Hueneme,2020-06-11,35
+Ventura,93060: Santa Paula,2020-06-11,133
+Ventura,93063: Simi Valley (Santa Susana),2020-06-11,112
+Ventura,93065: Simi Valley,2020-06-11,206
+Ventura,93066: Somis,2020-06-11,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-06-10,39
+Ventura,91360: Thousand Oaks,2020-06-10,51
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-06-10,21
+Ventura,91362: Thousand Oaks/Westlake,2020-06-10,41
+Ventura,91377: Oak Park,2020-06-10,19
+Ventura,93001: Ventura,2020-06-10,32
+Ventura,93003: Ventura,2020-06-10,59
+Ventura,93004: Ventura,2020-06-10,23
+Ventura,93010: Camarillo,2020-06-10,47
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-06-10,30
+Ventura,93015: Fillmore,2020-06-10,89
+Ventura,93021: Moorpark,2020-06-10,82
+Ventura,93022: Oak View,2020-06-10,3
+Ventura,93023: Ojai,2020-06-10,11
+Ventura,93030: Oxnard,2020-06-10,105
+Ventura,93033: Oxnard,2020-06-10,155
+Ventura,93035: Oxnard,2020-06-10,39
+Ventura,93036: Oxnard,2020-06-10,74
+Ventura,93040: Piru,2020-06-10,9
+Ventura,93041: Port Hueneme,2020-06-10,33
+Ventura,93060: Santa Paula,2020-06-10,126
+Ventura,93063: Simi Valley (Santa Susana),2020-06-10,109
+Ventura,93065: Simi Valley,2020-06-10,203
+Ventura,93066: Somis,2020-06-10,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-06-09,37
+Ventura,91360: Thousand Oaks,2020-06-09,51
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-06-09,21
+Ventura,91362: Thousand Oaks/Westlake,2020-06-09,40
+Ventura,91377: Oak Park,2020-06-09,19
+Ventura,93001: Ventura,2020-06-09,33
+Ventura,93003: Ventura,2020-06-09,56
+Ventura,93004: Ventura,2020-06-09,22
+Ventura,93010: Camarillo,2020-06-09,47
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-06-09,30
+Ventura,93015: Fillmore,2020-06-09,87
+Ventura,93021: Moorpark,2020-06-09,82
+Ventura,93022: Oak View,2020-06-09,3
+Ventura,93023: Ojai,2020-06-09,11
+Ventura,93030: Oxnard,2020-06-09,103
+Ventura,93033: Oxnard,2020-06-09,151
+Ventura,93035: Oxnard,2020-06-09,38
+Ventura,93036: Oxnard,2020-06-09,73
+Ventura,93040: Piru,2020-06-09,9
+Ventura,93041: Port Hueneme,2020-06-09,31
+Ventura,93060: Santa Paula,2020-06-09,125
+Ventura,93063: Simi Valley (Santa Susana),2020-06-09,107
+Ventura,93065: Simi Valley,2020-06-09,201
+Ventura,93066: Somis,2020-06-09,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-06-08,34
+Ventura,91360: Thousand Oaks,2020-06-08,51
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-06-08,21
+Ventura,91362: Thousand Oaks/Westlake,2020-06-08,40
+Ventura,91377: Oak Park,2020-06-08,19
+Ventura,93001: Ventura,2020-06-08,31
+Ventura,93003: Ventura,2020-06-08,52
+Ventura,93004: Ventura,2020-06-08,21
+Ventura,93010: Camarillo,2020-06-08,47
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-06-08,28
+Ventura,93015: Fillmore,2020-06-08,86
+Ventura,93021: Moorpark,2020-06-08,81
+Ventura,93022: Oak View,2020-06-08,3
+Ventura,93023: Ojai,2020-06-08,11
+Ventura,93030: Oxnard,2020-06-08,98
+Ventura,93033: Oxnard,2020-06-08,143
+Ventura,93035: Oxnard,2020-06-08,35
+Ventura,93036: Oxnard,2020-06-08,73
+Ventura,93040: Piru,2020-06-08,8
+Ventura,93041: Port Hueneme,2020-06-08,28
+Ventura,93060: Santa Paula,2020-06-08,125
+Ventura,93063: Simi Valley (Santa Susana),2020-06-08,106
+Ventura,93065: Simi Valley,2020-06-08,196
+Ventura,93066: Somis,2020-06-08,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-06-05,33
+Ventura,91360: Thousand Oaks,2020-06-05,51
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-06-05,21
+Ventura,91362: Thousand Oaks/Westlake,2020-06-05,36
+Ventura,91377: Oak Park,2020-06-05,19
+Ventura,93001: Ventura,2020-06-05,30
+Ventura,93003: Ventura,2020-06-05,29
+Ventura,93004: Ventura,2020-06-05,21
+Ventura,93010: Camarillo,2020-06-05,47
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-06-05,26
+Ventura,93015: Fillmore,2020-06-05,83
+Ventura,93021: Moorpark,2020-06-05,81
+Ventura,93022: Oak View,2020-06-05,3
+Ventura,93023: Ojai,2020-06-05,9
+Ventura,93030: Oxnard,2020-06-05,88
+Ventura,93033: Oxnard,2020-06-05,132
+Ventura,93035: Oxnard,2020-06-05,35
+Ventura,93036: Oxnard,2020-06-05,71
+Ventura,93040: Piru,2020-06-05,5
+Ventura,93041: Port Hueneme,2020-06-05,26
+Ventura,93060: Santa Paula,2020-06-05,123
+Ventura,93063: Simi Valley (Santa Susana),2020-06-05,104
+Ventura,93065: Simi Valley,2020-06-05,184
+Ventura,93066: Somis,2020-06-05,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-06-04,31
+Ventura,91360: Thousand Oaks,2020-06-04,51
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-06-04,21
+Ventura,91362: Thousand Oaks/Westlake,2020-06-04,36
+Ventura,91377: Oak Park,2020-06-04,19
+Ventura,93001: Ventura,2020-06-04,26
+Ventura,93003: Ventura,2020-06-04,27
+Ventura,93004: Ventura,2020-06-04,21
+Ventura,93010: Camarillo,2020-06-04,45
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-06-04,25
+Ventura,93015: Fillmore,2020-06-04,80
+Ventura,93021: Moorpark,2020-06-04,73
+Ventura,93022: Oak View,2020-06-04,3
+Ventura,93023: Ojai,2020-06-04,8
+Ventura,93030: Oxnard,2020-06-04,88
+Ventura,93033: Oxnard,2020-06-04,121
+Ventura,93035: Oxnard,2020-06-04,35
+Ventura,93036: Oxnard,2020-06-04,68
+Ventura,93040: Piru,2020-06-04,5
+Ventura,93041: Port Hueneme,2020-06-04,25
+Ventura,93060: Santa Paula,2020-06-04,122
+Ventura,93063: Simi Valley (Santa Susana),2020-06-04,103
+Ventura,93065: Simi Valley,2020-06-04,179
+Ventura,93066: Somis,2020-06-04,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-06-03,31
+Ventura,91360: Thousand Oaks,2020-06-03,50
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-06-03,21
+Ventura,91362: Thousand Oaks/Westlake,2020-06-03,36
+Ventura,91377: Oak Park,2020-06-03,19
+Ventura,93001: Ventura,2020-06-03,26
+Ventura,93003: Ventura,2020-06-03,26
+Ventura,93004: Ventura,2020-06-03,20
+Ventura,93010: Camarillo,2020-06-03,45
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-06-03,25
+Ventura,93015: Fillmore,2020-06-03,77
+Ventura,93021: Moorpark,2020-06-03,70
+Ventura,93022: Oak View,2020-06-03,4
+Ventura,93023: Ojai,2020-06-03,8
+Ventura,93030: Oxnard,2020-06-03,84
+Ventura,93033: Oxnard,2020-06-03,120
+Ventura,93035: Oxnard,2020-06-03,33
+Ventura,93036: Oxnard,2020-06-03,66
+Ventura,93040: Piru,2020-06-03,5
+Ventura,93041: Port Hueneme,2020-06-03,23
+Ventura,93060: Santa Paula,2020-06-03,121
+Ventura,93063: Simi Valley (Santa Susana),2020-06-03,100
+Ventura,93065: Simi Valley,2020-06-03,176
+Ventura,93066: Somis,2020-06-03,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-06-02,31
+Ventura,91360: Thousand Oaks,2020-06-02,50
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-06-02,21
+Ventura,91362: Thousand Oaks/Westlake,2020-06-02,35
+Ventura,91377: Oak Park,2020-06-02,19
+Ventura,93001: Ventura,2020-06-02,25
+Ventura,93003: Ventura,2020-06-02,25
+Ventura,93004: Ventura,2020-06-02,19
+Ventura,93010: Camarillo,2020-06-02,42
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-06-02,25
+Ventura,93015: Fillmore,2020-06-02,77
+Ventura,93021: Moorpark,2020-06-02,67
+Ventura,93022: Oak View,2020-06-02,4
+Ventura,93023: Ojai,2020-06-02,8
+Ventura,93030: Oxnard,2020-06-02,83
+Ventura,93033: Oxnard,2020-06-02,114
+Ventura,93035: Oxnard,2020-06-02,33
+Ventura,93036: Oxnard,2020-06-02,65
+Ventura,93040: Piru,2020-06-02,4
+Ventura,93041: Port Hueneme,2020-06-02,22
+Ventura,93060: Santa Paula,2020-06-02,119
+Ventura,93063: Simi Valley (Santa Susana),2020-06-02,97
+Ventura,93065: Simi Valley,2020-06-02,175
+Ventura,93066: Somis,2020-06-02,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-06-01,31
+Ventura,91360: Thousand Oaks,2020-06-01,49
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-06-01,21
+Ventura,91362: Thousand Oaks/Westlake,2020-06-01,35
+Ventura,91377: Oak Park,2020-06-01,18
+Ventura,93001: Ventura,2020-06-01,26
+Ventura,93003: Ventura,2020-06-01,24
+Ventura,93004: Ventura,2020-06-01,18
+Ventura,93010: Camarillo,2020-06-01,42
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-06-01,25
+Ventura,93015: Fillmore,2020-06-01,76
+Ventura,93021: Moorpark,2020-06-01,67
+Ventura,93022: Oak View,2020-06-01,4
+Ventura,93023: Ojai,2020-06-01,8
+Ventura,93030: Oxnard,2020-06-01,77
+Ventura,93033: Oxnard,2020-06-01,114
+Ventura,93035: Oxnard,2020-06-01,32
+Ventura,93036: Oxnard,2020-06-01,64
+Ventura,93040: Piru,2020-06-01,4
+Ventura,93041: Port Hueneme,2020-06-01,22
+Ventura,93060: Santa Paula,2020-06-01,119
+Ventura,93063: Simi Valley (Santa Susana),2020-06-01,97
+Ventura,93065: Simi Valley,2020-06-01,175
+Ventura,93066: Somis,2020-06-01,4
+Ventura,91320: Thousand Oaks/Newbury Park,2020-05-29,30
+Ventura,91360: Thousand Oaks,2020-05-29,49
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-05-29,21
+Ventura,91362: Thousand Oaks/Westlake,2020-05-29,34
+Ventura,91377: Oak Park,2020-05-29,17
+Ventura,93001: Ventura,2020-05-29,25
+Ventura,93003: Ventura,2020-05-29,23
+Ventura,93004: Ventura,2020-05-29,18
+Ventura,93010: Camarillo,2020-05-29,41
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-05-29,23
+Ventura,93015: Fillmore,2020-05-29,69
+Ventura,93021: Moorpark,2020-05-29,63
+Ventura,93022: Oak View,2020-05-29,3
+Ventura,93023: Ojai,2020-05-29,6
+Ventura,93030: Oxnard,2020-05-29,69
+Ventura,93033: Oxnard,2020-05-29,105
+Ventura,93035: Oxnard,2020-05-29,32
+Ventura,93036: Oxnard,2020-05-29,62
+Ventura,93040: Piru,2020-05-29,4
+Ventura,93041: Port Hueneme,2020-05-29,21
+Ventura,93060: Santa Paula,2020-05-29,104
+Ventura,93063: Simi Valley (Santa Susana),2020-05-29,89
+Ventura,93065: Simi Valley,2020-05-29,167
+Ventura,93066: Somis,2020-05-29,3
+Ventura,91320: Thousand Oaks/Newbury Park,2020-05-28,30
+Ventura,91360: Thousand Oaks,2020-05-28,49
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-05-28,20
+Ventura,91362: Thousand Oaks/Westlake,2020-05-28,33
+Ventura,91377: Oak Park,2020-05-28,17
+Ventura,93001: Ventura,2020-05-28,25
+Ventura,93003: Ventura,2020-05-28,23
+Ventura,93004: Ventura,2020-05-28,17
+Ventura,93010: Camarillo,2020-05-28,41
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-05-28,22
+Ventura,93015: Fillmore,2020-05-28,64
+Ventura,93021: Moorpark,2020-05-28,62
+Ventura,93022: Oak View,2020-05-28,3
+Ventura,93023: Ojai,2020-05-28,6
+Ventura,93030: Oxnard,2020-05-28,67
+Ventura,93033: Oxnard,2020-05-28,106
+Ventura,93035: Oxnard,2020-05-28,32
+Ventura,93036: Oxnard,2020-05-28,62
+Ventura,93040: Piru,2020-05-28,4
+Ventura,93041: Port Hueneme,2020-05-28,21
+Ventura,93060: Santa Paula,2020-05-28,103
+Ventura,93063: Simi Valley (Santa Susana),2020-05-28,88
+Ventura,93065: Simi Valley,2020-05-28,164
+Ventura,93066: Somis,2020-05-28,3
+Ventura,91320: Thousand Oaks/Newbury Park,2020-05-27,27
+Ventura,91360: Thousand Oaks,2020-05-27,49
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-05-27,20
+Ventura,91362: Thousand Oaks/Westlake,2020-05-27,31
+Ventura,91377: Oak Park,2020-05-27,17
+Ventura,93001: Ventura,2020-05-27,25
+Ventura,93003: Ventura,2020-05-27,21
+Ventura,93004: Ventura,2020-05-27,15
+Ventura,93010: Camarillo,2020-05-27,41
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-05-27,22
+Ventura,93015: Fillmore,2020-05-27,59
+Ventura,93021: Moorpark,2020-05-27,62
+Ventura,93022: Oak View,2020-05-27,3
+Ventura,93023: Ojai,2020-05-27,6
+Ventura,93030: Oxnard,2020-05-27,67
+Ventura,93033: Oxnard,2020-05-27,105
+Ventura,93035: Oxnard,2020-05-27,32
+Ventura,93036: Oxnard,2020-05-27,60
+Ventura,93040: Piru,2020-05-27,4
+Ventura,93041: Port Hueneme,2020-05-27,19
+Ventura,93060: Santa Paula,2020-05-27,101
+Ventura,93063: Simi Valley (Santa Susana),2020-05-27,85
+Ventura,93065: Simi Valley,2020-05-27,164
+Ventura,93066: Somis,2020-05-27,3
+Ventura,91320: Thousand Oaks/Newbury Park,2020-05-26,24
+Ventura,91360: Thousand Oaks,2020-05-26,49
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-05-26,19
+Ventura,91362: Thousand Oaks/Westlake,2020-05-26,31
+Ventura,91377: Oak Park,2020-05-26,17
+Ventura,93001: Ventura,2020-05-26,25
+Ventura,93003: Ventura,2020-05-26,19
+Ventura,93004: Ventura,2020-05-26,15
+Ventura,93010: Camarillo,2020-05-26,41
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-05-26,22
+Ventura,93015: Fillmore,2020-05-26,59
+Ventura,93021: Moorpark,2020-05-26,60
+Ventura,93022: Oak View,2020-05-26,3
+Ventura,93023: Ojai,2020-05-26,6
+Ventura,93030: Oxnard,2020-05-26,67
+Ventura,93033: Oxnard,2020-05-26,98
+Ventura,93035: Oxnard,2020-05-26,31
+Ventura,93036: Oxnard,2020-05-26,59
+Ventura,93040: Piru,2020-05-26,4
+Ventura,93041: Port Hueneme,2020-05-26,19
+Ventura,93060: Santa Paula,2020-05-26,97
+Ventura,93063: Simi Valley (Santa Susana),2020-05-26,86
+Ventura,93065: Simi Valley,2020-05-26,163
+Ventura,93066: Somis,2020-05-26,3
+Ventura,91320: Thousand Oaks/Newbury Park,2020-05-22,22
+Ventura,91360: Thousand Oaks,2020-05-22,45
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-05-22,18
+Ventura,91362: Thousand Oaks/Westlake,2020-05-22,30
+Ventura,91377: Oak Park,2020-05-22,17
+Ventura,93001: Ventura,2020-05-22,25
+Ventura,93003: Ventura,2020-05-22,18
+Ventura,93004: Ventura,2020-05-22,14
+Ventura,93010: Camarillo,2020-05-22,40
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-05-22,19
+Ventura,93015: Fillmore,2020-05-22,41
+Ventura,93021: Moorpark,2020-05-22,55
+Ventura,93022: Oak View,2020-05-22,3
+Ventura,93023: Ojai,2020-05-22,6
+Ventura,93030: Oxnard,2020-05-22,58
+Ventura,93033: Oxnard,2020-05-22,96
+Ventura,93035: Oxnard,2020-05-22,31
+Ventura,93036: Oxnard,2020-05-22,56
+Ventura,93040: Piru,2020-05-22,4
+Ventura,93041: Port Hueneme,2020-05-22,17
+Ventura,93060: Santa Paula,2020-05-22,75
+Ventura,93063: Simi Valley (Santa Susana),2020-05-22,70
+Ventura,93065: Simi Valley,2020-05-22,149
+Ventura,93066: Somis,2020-05-22,3
+Ventura,91320: Thousand Oaks/Newbury Park,2020-05-21,21
+Ventura,91360: Thousand Oaks,2020-05-21,43
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-05-21,17
+Ventura,91362: Thousand Oaks/Westlake,2020-05-21,30
+Ventura,91377: Oak Park,2020-05-21,16
+Ventura,93001: Ventura,2020-05-21,24
+Ventura,93003: Ventura,2020-05-21,17
+Ventura,93004: Ventura,2020-05-21,14
+Ventura,93010: Camarillo,2020-05-21,39
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-05-21,18
+Ventura,93015: Fillmore,2020-05-21,38
+Ventura,93021: Moorpark,2020-05-21,53
+Ventura,93022: Oak View,2020-05-21,3
+Ventura,93023: Ojai,2020-05-21,6
+Ventura,93030: Oxnard,2020-05-21,57
+Ventura,93033: Oxnard,2020-05-21,94
+Ventura,93035: Oxnard,2020-05-21,31
+Ventura,93036: Oxnard,2020-05-21,50
+Ventura,93040: Piru,2020-05-21,3
+Ventura,93041: Port Hueneme,2020-05-21,17
+Ventura,93060: Santa Paula,2020-05-21,75
+Ventura,93063: Simi Valley (Santa Susana),2020-05-21,69
+Ventura,93065: Simi Valley,2020-05-21,145
+Ventura,93066: Somis,2020-05-21,3
+Ventura,91320: Thousand Oaks/Newbury Park,2020-05-20,21
+Ventura,91360: Thousand Oaks,2020-05-20,43
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-05-20,17
+Ventura,91362: Thousand Oaks/Westlake,2020-05-20,29
+Ventura,91377: Oak Park,2020-05-20,16
+Ventura,93001: Ventura,2020-05-20,22
+Ventura,93003: Ventura,2020-05-20,18
+Ventura,93004: Ventura,2020-05-20,13
+Ventura,93010: Camarillo,2020-05-20,39
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-05-20,18
+Ventura,93015: Fillmore,2020-05-20,37
+Ventura,93021: Moorpark,2020-05-20,48
+Ventura,93022: Oak View,2020-05-20,2
+Ventura,93023: Ojai,2020-05-20,6
+Ventura,93030: Oxnard,2020-05-20,57
+Ventura,93033: Oxnard,2020-05-20,91
+Ventura,93035: Oxnard,2020-05-20,30
+Ventura,93036: Oxnard,2020-05-20,46
+Ventura,93040: Piru,2020-05-20,3
+Ventura,93041: Port Hueneme,2020-05-20,16
+Ventura,93060: Santa Paula,2020-05-20,74
+Ventura,93063: Simi Valley (Santa Susana),2020-05-20,66
+Ventura,93065: Simi Valley,2020-05-20,143
+Ventura,93066: Somis,2020-05-20,3
+Ventura,91320: Thousand Oaks/Newbury Park,2020-05-19,21
+Ventura,91360: Thousand Oaks,2020-05-19,42
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-05-19,17
+Ventura,91362: Thousand Oaks/Westlake,2020-05-19,29
+Ventura,91377: Oak Park,2020-05-19,16
+Ventura,93001: Ventura,2020-05-19,21
+Ventura,93003: Ventura,2020-05-19,18
+Ventura,93004: Ventura,2020-05-19,13
+Ventura,93010: Camarillo,2020-05-19,37
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-05-19,17
+Ventura,93015: Fillmore,2020-05-19,35
+Ventura,93021: Moorpark,2020-05-19,43
+Ventura,93022: Oak View,2020-05-19,2
+Ventura,93023: Ojai,2020-05-19,6
+Ventura,93030: Oxnard,2020-05-19,56
+Ventura,93033: Oxnard,2020-05-19,89
+Ventura,93035: Oxnard,2020-05-19,30
+Ventura,93036: Oxnard,2020-05-19,44
+Ventura,93040: Piru,2020-05-19,3
+Ventura,93041: Port Hueneme,2020-05-19,16
+Ventura,93060: Santa Paula,2020-05-19,72
+Ventura,93063: Simi Valley (Santa Susana),2020-05-19,67
+Ventura,93065: Simi Valley,2020-05-19,140
+Ventura,93066: Somis,2020-05-19,3
+Ventura,91320: Thousand Oaks/Newbury Park,2020-05-18,21
+Ventura,91360: Thousand Oaks,2020-05-18,41
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-05-18,17
+Ventura,91362: Thousand Oaks/Westlake,2020-05-18,29
+Ventura,91377: Oak Park,2020-05-18,16
+Ventura,93001: Ventura,2020-05-18,21
+Ventura,93003: Ventura,2020-05-18,17
+Ventura,93004: Ventura,2020-05-18,13
+Ventura,93010: Camarillo,2020-05-18,36
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-05-18,17
+Ventura,93015: Fillmore,2020-05-18,33
+Ventura,93021: Moorpark,2020-05-18,42
+Ventura,93022: Oak View,2020-05-18,2
+Ventura,93023: Ojai,2020-05-18,6
+Ventura,93030: Oxnard,2020-05-18,57
+Ventura,93033: Oxnard,2020-05-18,87
+Ventura,93035: Oxnard,2020-05-18,30
+Ventura,93036: Oxnard,2020-05-18,44
+Ventura,93040: Piru,2020-05-18,3
+Ventura,93041: Port Hueneme,2020-05-18,16
+Ventura,93060: Santa Paula,2020-05-18,71
+Ventura,93063: Simi Valley (Santa Susana),2020-05-18,65
+Ventura,93065: Simi Valley,2020-05-18,138
+Ventura,93066: Somis,2020-05-18,3
+Ventura,91320: Thousand Oaks/Newbury Park,2020-05-15,20
+Ventura,91360: Thousand Oaks,2020-05-15,37
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-05-15,17
+Ventura,91362: Thousand Oaks/Westlake,2020-05-15,28
+Ventura,91377: Oak Park,2020-05-15,14
+Ventura,93001: Ventura,2020-05-15,21
+Ventura,93003: Ventura,2020-05-15,15
+Ventura,93004: Ventura,2020-05-15,11
+Ventura,93010: Camarillo,2020-05-15,36
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-05-15,17
+Ventura,93015: Fillmore,2020-05-15,29
+Ventura,93021: Moorpark,2020-05-15,41
+Ventura,93022: Oak View,2020-05-15,3
+Ventura,93023: Ojai,2020-05-15,6
+Ventura,93030: Oxnard,2020-05-15,48
+Ventura,93033: Oxnard,2020-05-15,80
+Ventura,93035: Oxnard,2020-05-15,29
+Ventura,93036: Oxnard,2020-05-15,35
+Ventura,93040: Piru,2020-05-15,3
+Ventura,93041: Port Hueneme,2020-05-15,14
+Ventura,93060: Santa Paula,2020-05-15,60
+Ventura,93063: Simi Valley (Santa Susana),2020-05-15,63
+Ventura,93065: Simi Valley,2020-05-15,134
+Ventura,93066: Somis,2020-05-15,3
+Ventura,91320: Thousand Oaks/Newbury Park,2020-05-14,20
+Ventura,91360: Thousand Oaks,2020-05-14,37
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-05-14,17
+Ventura,91362: Thousand Oaks/Westlake,2020-05-14,28
+Ventura,91377: Oak Park,2020-05-14,14
+Ventura,93001: Ventura,2020-05-14,21
+Ventura,93003: Ventura,2020-05-14,15
+Ventura,93004: Ventura,2020-05-14,11
+Ventura,93010: Camarillo,2020-05-14,36
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-05-14,17
+Ventura,93015: Fillmore,2020-05-14,27
+Ventura,93021: Moorpark,2020-05-14,40
+Ventura,93022: Oak View,2020-05-14,2
+Ventura,93023: Ojai,2020-05-14,6
+Ventura,93030: Oxnard,2020-05-14,47
+Ventura,93033: Oxnard,2020-05-14,78
+Ventura,93035: Oxnard,2020-05-14,29
+Ventura,93036: Oxnard,2020-05-14,35
+Ventura,93040: Piru,2020-05-14,3
+Ventura,93041: Port Hueneme,2020-05-14,14
+Ventura,93060: Santa Paula,2020-05-14,57
+Ventura,93063: Simi Valley (Santa Susana),2020-05-14,61
+Ventura,93065: Simi Valley,2020-05-14,130
+Ventura,93066: Somis,2020-05-14,3
+Ventura,91320: Thousand Oaks/Newbury Park,2020-05-13,20
+Ventura,91360: Thousand Oaks,2020-05-13,37
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-05-13,17
+Ventura,91362: Thousand Oaks/Westlake,2020-05-13,28
+Ventura,91377: Oak Park,2020-05-13,14
+Ventura,93001: Ventura,2020-05-13,20
+Ventura,93003: Ventura,2020-05-13,15
+Ventura,93004: Ventura,2020-05-13,11
+Ventura,93010: Camarillo,2020-05-13,36
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-05-13,18
+Ventura,93015: Fillmore,2020-05-13,25
+Ventura,93021: Moorpark,2020-05-13,39
+Ventura,93022: Oak View,2020-05-13,2
+Ventura,93023: Ojai,2020-05-13,6
+Ventura,93030: Oxnard,2020-05-13,44
+Ventura,93033: Oxnard,2020-05-13,77
+Ventura,93035: Oxnard,2020-05-13,29
+Ventura,93036: Oxnard,2020-05-13,34
+Ventura,93040: Piru,2020-05-13,3
+Ventura,93041: Port Hueneme,2020-05-13,13
+Ventura,93060: Santa Paula,2020-05-13,50
+Ventura,93063: Simi Valley (Santa Susana),2020-05-13,57
+Ventura,93065: Simi Valley,2020-05-13,127
+Ventura,93066: Somis,2020-05-13,3
+Ventura,91320: Thousand Oaks/Newbury Park,2020-05-12,19
+Ventura,91360: Thousand Oaks,2020-05-12,37
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-05-12,16
+Ventura,91362: Thousand Oaks/Westlake,2020-05-12,28
+Ventura,91377: Oak Park,2020-05-12,14
+Ventura,93001: Ventura,2020-05-12,20
+Ventura,93003: Ventura,2020-05-12,15
+Ventura,93004: Ventura,2020-05-12,11
+Ventura,93010: Camarillo,2020-05-12,36
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-05-12,18
+Ventura,93015: Fillmore,2020-05-12,21
+Ventura,93021: Moorpark,2020-05-12,39
+Ventura,93022: Oak View,2020-05-12,2
+Ventura,93023: Ojai,2020-05-12,6
+Ventura,93030: Oxnard,2020-05-12,41
+Ventura,93033: Oxnard,2020-05-12,77
+Ventura,93035: Oxnard,2020-05-12,29
+Ventura,93036: Oxnard,2020-05-12,33
+Ventura,93040: Piru,2020-05-12,3
+Ventura,93041: Port Hueneme,2020-05-12,13
+Ventura,93060: Santa Paula,2020-05-12,37
+Ventura,93063: Simi Valley (Santa Susana),2020-05-12,57
+Ventura,93065: Simi Valley,2020-05-12,125
+Ventura,93066: Somis,2020-05-12,3
+Ventura,91320: Thousand Oaks/Newbury Park,2020-05-11,19
+Ventura,91360: Thousand Oaks,2020-05-11,37
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-05-11,16
+Ventura,91362: Thousand Oaks/Westlake,2020-05-11,28
+Ventura,91377: Oak Park,2020-05-11,14
+Ventura,93001: Ventura,2020-05-11,19
+Ventura,93003: Ventura,2020-05-11,14
+Ventura,93004: Ventura,2020-05-11,11
+Ventura,93010: Camarillo,2020-05-11,36
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-05-11,17
+Ventura,93015: Fillmore,2020-05-11,19
+Ventura,93021: Moorpark,2020-05-11,37
+Ventura,93022: Oak View,2020-05-11,2
+Ventura,93023: Ojai,2020-05-11,6
+Ventura,93030: Oxnard,2020-05-11,40
+Ventura,93033: Oxnard,2020-05-11,74
+Ventura,93035: Oxnard,2020-05-11,29
+Ventura,93036: Oxnard,2020-05-11,31
+Ventura,93040: Piru,2020-05-11,3
+Ventura,93041: Port Hueneme,2020-05-11,13
+Ventura,93060: Santa Paula,2020-05-11,34
+Ventura,93063: Simi Valley (Santa Susana),2020-05-11,55
+Ventura,93065: Simi Valley,2020-05-11,122
+Ventura,93066: Somis,2020-05-11,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-05-09,20
+Ventura,91360: Thousand Oaks,2020-05-09,37
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-05-09,16
+Ventura,91362: Thousand Oaks/Westlake,2020-05-09,28
+Ventura,91377: Oak Park,2020-05-09,13
+Ventura,93001: Ventura,2020-05-09,18
+Ventura,93003: Ventura,2020-05-09,13
+Ventura,93004: Ventura,2020-05-09,11
+Ventura,93010: Camarillo,2020-05-09,36
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-05-09,17
+Ventura,93015: Fillmore,2020-05-09,18
+Ventura,93021: Moorpark,2020-05-09,37
+Ventura,93022: Oak View,2020-05-09,2
+Ventura,93023: Ojai,2020-05-09,6
+Ventura,93030: Oxnard,2020-05-09,40
+Ventura,93033: Oxnard,2020-05-09,73
+Ventura,93035: Oxnard,2020-05-09,29
+Ventura,93036: Oxnard,2020-05-09,31
+Ventura,93040: Piru,2020-05-09,3
+Ventura,93041: Port Hueneme,2020-05-09,12
+Ventura,93060: Santa Paula,2020-05-09,29
+Ventura,93063: Simi Valley (Santa Susana),2020-05-09,55
+Ventura,93065: Simi Valley,2020-05-09,120
+Ventura,93066: Somis,2020-05-09,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-05-08,19
+Ventura,91360: Thousand Oaks,2020-05-08,37
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-05-08,16
+Ventura,91362: Thousand Oaks/Westlake,2020-05-08,28
+Ventura,91377: Oak Park,2020-05-08,13
+Ventura,93001: Ventura,2020-05-08,18
+Ventura,93003: Ventura,2020-05-08,13
+Ventura,93004: Ventura,2020-05-08,10
+Ventura,93010: Camarillo,2020-05-08,36
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-05-08,17
+Ventura,93015: Fillmore,2020-05-08,17
+Ventura,93021: Moorpark,2020-05-08,35
+Ventura,93022: Oak View,2020-05-08,2
+Ventura,93023: Ojai,2020-05-08,6
+Ventura,93030: Oxnard,2020-05-08,39
+Ventura,93033: Oxnard,2020-05-08,68
+Ventura,93035: Oxnard,2020-05-08,29
+Ventura,93036: Oxnard,2020-05-08,31
+Ventura,93040: Piru,2020-05-08,3
+Ventura,93041: Port Hueneme,2020-05-08,12
+Ventura,93060: Santa Paula,2020-05-08,27
+Ventura,93063: Simi Valley (Santa Susana),2020-05-08,55
+Ventura,93065: Simi Valley,2020-05-08,119
+Ventura,93066: Somis,2020-05-08,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-05-07,19
+Ventura,91360: Thousand Oaks,2020-05-07,36
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-05-07,16
+Ventura,91362: Thousand Oaks/Westlake,2020-05-07,28
+Ventura,91377: Oak Park,2020-05-07,13
+Ventura,93001: Ventura,2020-05-07,17
+Ventura,93003: Ventura,2020-05-07,13
+Ventura,93004: Ventura,2020-05-07,10
+Ventura,93010: Camarillo,2020-05-07,36
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-05-07,17
+Ventura,93015: Fillmore,2020-05-07,15
+Ventura,93021: Moorpark,2020-05-07,33
+Ventura,93022: Oak View,2020-05-07,2
+Ventura,93023: Ojai,2020-05-07,6
+Ventura,93030: Oxnard,2020-05-07,38
+Ventura,93033: Oxnard,2020-05-07,67
+Ventura,93035: Oxnard,2020-05-07,28
+Ventura,93036: Oxnard,2020-05-07,30
+Ventura,93040: Piru,2020-05-07,3
+Ventura,93041: Port Hueneme,2020-05-07,12
+Ventura,93060: Santa Paula,2020-05-07,21
+Ventura,93063: Simi Valley (Santa Susana),2020-05-07,53
+Ventura,93065: Simi Valley,2020-05-07,116
+Ventura,93066: Somis,2020-05-07,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-05-06,18
+Ventura,91360: Thousand Oaks,2020-05-06,36
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-05-06,16
+Ventura,91362: Thousand Oaks/Westlake,2020-05-06,27
+Ventura,91377: Oak Park,2020-05-06,13
+Ventura,93001: Ventura,2020-05-06,17
+Ventura,93003: Ventura,2020-05-06,13
+Ventura,93004: Ventura,2020-05-06,10
+Ventura,93010: Camarillo,2020-05-06,35
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-05-06,16
+Ventura,93015: Fillmore,2020-05-06,13
+Ventura,93021: Moorpark,2020-05-06,32
+Ventura,93022: Oak View,2020-05-06,2
+Ventura,93023: Ojai,2020-05-06,6
+Ventura,93030: Oxnard,2020-05-06,35
+Ventura,93033: Oxnard,2020-05-06,59
+Ventura,93035: Oxnard,2020-05-06,28
+Ventura,93036: Oxnard,2020-05-06,30
+Ventura,93040: Piru,2020-05-06,3
+Ventura,93041: Port Hueneme,2020-05-06,12
+Ventura,93060: Santa Paula,2020-05-06,21
+Ventura,93063: Simi Valley (Santa Susana),2020-05-06,51
+Ventura,93065: Simi Valley,2020-05-06,113
+Ventura,93066: Somis,2020-05-06,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-05-05,18
+Ventura,91360: Thousand Oaks,2020-05-05,36
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-05-05,16
+Ventura,91362: Thousand Oaks/Westlake,2020-05-05,27
+Ventura,91377: Oak Park,2020-05-05,13
+Ventura,93001: Ventura,2020-05-05,17
+Ventura,93003: Ventura,2020-05-05,13
+Ventura,93004: Ventura,2020-05-05,10
+Ventura,93010: Camarillo,2020-05-05,34
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-05-05,15
+Ventura,93015: Fillmore,2020-05-05,13
+Ventura,93021: Moorpark,2020-05-05,31
+Ventura,93022: Oak View,2020-05-05,2
+Ventura,93023: Ojai,2020-05-05,6
+Ventura,93030: Oxnard,2020-05-05,33
+Ventura,93033: Oxnard,2020-05-05,54
+Ventura,93035: Oxnard,2020-05-05,27
+Ventura,93036: Oxnard,2020-05-05,30
+Ventura,93040: Piru,2020-05-05,3
+Ventura,93041: Port Hueneme,2020-05-05,12
+Ventura,93060: Santa Paula,2020-05-05,20
+Ventura,93063: Simi Valley (Santa Susana),2020-05-05,51
+Ventura,93065: Simi Valley,2020-05-05,112
+Ventura,93066: Somis,2020-05-05,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-05-04,15
+Ventura,91360: Thousand Oaks,2020-05-04,36
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-05-04,15
+Ventura,91362: Thousand Oaks/Westlake,2020-05-04,26
+Ventura,91377: Oak Park,2020-05-04,12
+Ventura,93001: Ventura,2020-05-04,17
+Ventura,93003: Ventura,2020-05-04,13
+Ventura,93004: Ventura,2020-05-04,10
+Ventura,93010: Camarillo,2020-05-04,33
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-05-04,15
+Ventura,93015: Fillmore,2020-05-04,13
+Ventura,93021: Moorpark,2020-05-04,30
+Ventura,93022: Oak View,2020-05-04,2
+Ventura,93023: Ojai,2020-05-04,6
+Ventura,93030: Oxnard,2020-05-04,33
+Ventura,93033: Oxnard,2020-05-04,53
+Ventura,93035: Oxnard,2020-05-04,26
+Ventura,93036: Oxnard,2020-05-04,30
+Ventura,93040: Piru,2020-05-04,3
+Ventura,93041: Port Hueneme,2020-05-04,11
+Ventura,93060: Santa Paula,2020-05-04,18
+Ventura,93063: Simi Valley (Santa Susana),2020-05-04,48
+Ventura,93065: Simi Valley,2020-05-04,110
+Ventura,93066: Somis,2020-05-04,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-05-03,15
+Ventura,91360: Thousand Oaks,2020-05-03,36
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-05-03,15
+Ventura,91362: Thousand Oaks/Westlake,2020-05-03,26
+Ventura,91377: Oak Park,2020-05-03,12
+Ventura,93001: Ventura,2020-05-03,17
+Ventura,93003: Ventura,2020-05-03,13
+Ventura,93004: Ventura,2020-05-03,10
+Ventura,93010: Camarillo,2020-05-03,33
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-05-03,15
+Ventura,93015: Fillmore,2020-05-03,13
+Ventura,93021: Moorpark,2020-05-03,30
+Ventura,93022: Oak View,2020-05-03,2
+Ventura,93023: Ojai,2020-05-03,6
+Ventura,93030: Oxnard,2020-05-03,30
+Ventura,93033: Oxnard,2020-05-03,48
+Ventura,93035: Oxnard,2020-05-03,26
+Ventura,93036: Oxnard,2020-05-03,30
+Ventura,93040: Piru,2020-05-03,3
+Ventura,93041: Port Hueneme,2020-05-03,11
+Ventura,93060: Santa Paula,2020-05-03,18
+Ventura,93063: Simi Valley (Santa Susana),2020-05-03,45
+Ventura,93065: Simi Valley,2020-05-03,110
+Ventura,93066: Somis,2020-05-03,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-05-02,15
+Ventura,91360: Thousand Oaks,2020-05-02,36
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-05-02,15
+Ventura,91362: Thousand Oaks/Westlake,2020-05-02,26
+Ventura,91377: Oak Park,2020-05-02,12
+Ventura,93001: Ventura,2020-05-02,17
+Ventura,93003: Ventura,2020-05-02,13
+Ventura,93004: Ventura,2020-05-02,10
+Ventura,93010: Camarillo,2020-05-02,33
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-05-02,15
+Ventura,93015: Fillmore,2020-05-02,13
+Ventura,93021: Moorpark,2020-05-02,29
+Ventura,93022: Oak View,2020-05-02,2
+Ventura,93023: Ojai,2020-05-02,5
+Ventura,93030: Oxnard,2020-05-02,30
+Ventura,93033: Oxnard,2020-05-02,47
+Ventura,93035: Oxnard,2020-05-02,26
+Ventura,93036: Oxnard,2020-05-02,30
+Ventura,93040: Piru,2020-05-02,3
+Ventura,93041: Port Hueneme,2020-05-02,11
+Ventura,93060: Santa Paula,2020-05-02,17
+Ventura,93063: Simi Valley (Santa Susana),2020-05-02,42
+Ventura,93065: Simi Valley,2020-05-02,110
+Ventura,93066: Somis,2020-05-02,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-05-01,15
+Ventura,91360: Thousand Oaks,2020-05-01,36
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-05-01,15
+Ventura,91362: Thousand Oaks/Westlake,2020-05-01,26
+Ventura,91377: Oak Park,2020-05-01,12
+Ventura,93001: Ventura,2020-05-01,16
+Ventura,93003: Ventura,2020-05-01,13
+Ventura,93004: Ventura,2020-05-01,9
+Ventura,93010: Camarillo,2020-05-01,33
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-05-01,15
+Ventura,93015: Fillmore,2020-05-01,13
+Ventura,93021: Moorpark,2020-05-01,28
+Ventura,93022: Oak View,2020-05-01,2
+Ventura,93023: Ojai,2020-05-01,5
+Ventura,93030: Oxnard,2020-05-01,28
+Ventura,93033: Oxnard,2020-05-01,47
+Ventura,93035: Oxnard,2020-05-01,25
+Ventura,93036: Oxnard,2020-05-01,30
+Ventura,93040: Piru,2020-05-01,3
+Ventura,93041: Port Hueneme,2020-05-01,11
+Ventura,93060: Santa Paula,2020-05-01,16
+Ventura,93063: Simi Valley (Santa Susana),2020-05-01,42
+Ventura,93065: Simi Valley,2020-05-01,102
+Ventura,93066: Somis,2020-05-01,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-04-30,15
+Ventura,91360: Thousand Oaks,2020-04-30,35
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-04-30,15
+Ventura,91362: Thousand Oaks/Westlake,2020-04-30,26
+Ventura,91377: Oak Park,2020-04-30,12
+Ventura,93001: Ventura,2020-04-30,15
+Ventura,93003: Ventura,2020-04-30,13
+Ventura,93004: Ventura,2020-04-30,9
+Ventura,93010: Camarillo,2020-04-30,33
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-04-30,15
+Ventura,93015: Fillmore,2020-04-30,13
+Ventura,93021: Moorpark,2020-04-30,28
+Ventura,93022: Oak View,2020-04-30,2
+Ventura,93023: Ojai,2020-04-30,5
+Ventura,93030: Oxnard,2020-04-30,28
+Ventura,93033: Oxnard,2020-04-30,44
+Ventura,93035: Oxnard,2020-04-30,24
+Ventura,93036: Oxnard,2020-04-30,30
+Ventura,93040: Piru,2020-04-30,3
+Ventura,93041: Port Hueneme,2020-04-30,11
+Ventura,93060: Santa Paula,2020-04-30,16
+Ventura,93063: Simi Valley (Santa Susana),2020-04-30,41
+Ventura,93065: Simi Valley,2020-04-30,100
+Ventura,93066: Somis,2020-04-30,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-04-29,15
+Ventura,91360: Thousand Oaks,2020-04-29,35
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-04-29,15
+Ventura,91362: Thousand Oaks/Westlake,2020-04-29,26
+Ventura,91377: Oak Park,2020-04-29,12
+Ventura,93001: Ventura,2020-04-29,14
+Ventura,93003: Ventura,2020-04-29,13
+Ventura,93004: Ventura,2020-04-29,9
+Ventura,93010: Camarillo,2020-04-29,30
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-04-29,15
+Ventura,93015: Fillmore,2020-04-29,12
+Ventura,93021: Moorpark,2020-04-29,27
+Ventura,93022: Oak View,2020-04-29,2
+Ventura,93023: Ojai,2020-04-29,5
+Ventura,93030: Oxnard,2020-04-29,26
+Ventura,93033: Oxnard,2020-04-29,43
+Ventura,93035: Oxnard,2020-04-29,23
+Ventura,93036: Oxnard,2020-04-29,26
+Ventura,93040: Piru,2020-04-29,3
+Ventura,93041: Port Hueneme,2020-04-29,11
+Ventura,93060: Santa Paula,2020-04-29,14
+Ventura,93063: Simi Valley (Santa Susana),2020-04-29,41
+Ventura,93065: Simi Valley,2020-04-29,98
+Ventura,93066: Somis,2020-04-29,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-04-28,13
+Ventura,91360: Thousand Oaks,2020-04-28,35
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-04-28,15
+Ventura,91362: Thousand Oaks/Westlake,2020-04-28,26
+Ventura,91377: Oak Park,2020-04-28,12
+Ventura,93001: Ventura,2020-04-28,14
+Ventura,93003: Ventura,2020-04-28,13
+Ventura,93004: Ventura,2020-04-28,9
+Ventura,93010: Camarillo,2020-04-28,29
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-04-28,15
+Ventura,93015: Fillmore,2020-04-28,11
+Ventura,93021: Moorpark,2020-04-28,27
+Ventura,93022: Oak View,2020-04-28,2
+Ventura,93023: Ojai,2020-04-28,5
+Ventura,93030: Oxnard,2020-04-28,25
+Ventura,93033: Oxnard,2020-04-28,42
+Ventura,93035: Oxnard,2020-04-28,23
+Ventura,93036: Oxnard,2020-04-28,26
+Ventura,93040: Piru,2020-04-28,3
+Ventura,93041: Port Hueneme,2020-04-28,11
+Ventura,93060: Santa Paula,2020-04-28,14
+Ventura,93063: Simi Valley (Santa Susana),2020-04-28,39
+Ventura,93065: Simi Valley,2020-04-28,97
+Ventura,93066: Somis,2020-04-28,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-04-27,13
+Ventura,91360: Thousand Oaks,2020-04-27,35
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-04-27,15
+Ventura,91362: Thousand Oaks/Westlake,2020-04-27,26
+Ventura,91377: Oak Park,2020-04-27,12
+Ventura,93001: Ventura,2020-04-27,14
+Ventura,93003: Ventura,2020-04-27,13
+Ventura,93004: Ventura,2020-04-27,9
+Ventura,93010: Camarillo,2020-04-27,29
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-04-27,15
+Ventura,93015: Fillmore,2020-04-27,11
+Ventura,93021: Moorpark,2020-04-27,27
+Ventura,93022: Oak View,2020-04-27,2
+Ventura,93023: Ojai,2020-04-27,5
+Ventura,93030: Oxnard,2020-04-27,24
+Ventura,93033: Oxnard,2020-04-27,41
+Ventura,93035: Oxnard,2020-04-27,23
+Ventura,93036: Oxnard,2020-04-27,26
+Ventura,93040: Piru,2020-04-27,3
+Ventura,93041: Port Hueneme,2020-04-27,11
+Ventura,93060: Santa Paula,2020-04-27,14
+Ventura,93063: Simi Valley (Santa Susana),2020-04-27,38
+Ventura,93065: Simi Valley,2020-04-27,95
+Ventura,93066: Somis,2020-04-27,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-04-26,13
+Ventura,91360: Thousand Oaks,2020-04-26,35
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-04-26,15
+Ventura,91362: Thousand Oaks/Westlake,2020-04-26,26
+Ventura,91377: Oak Park,2020-04-26,12
+Ventura,93001: Ventura,2020-04-26,13
+Ventura,93003: Ventura,2020-04-26,13
+Ventura,93004: Ventura,2020-04-26,9
+Ventura,93010: Camarillo,2020-04-26,29
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-04-26,15
+Ventura,93015: Fillmore,2020-04-26,11
+Ventura,93021: Moorpark,2020-04-26,27
+Ventura,93022: Oak View,2020-04-26,2
+Ventura,93023: Ojai,2020-04-26,5
+Ventura,93030: Oxnard,2020-04-26,24
+Ventura,93033: Oxnard,2020-04-26,41
+Ventura,93035: Oxnard,2020-04-26,23
+Ventura,93036: Oxnard,2020-04-26,26
+Ventura,93040: Piru,2020-04-26,3
+Ventura,93041: Port Hueneme,2020-04-26,11
+Ventura,93060: Santa Paula,2020-04-26,12
+Ventura,93063: Simi Valley (Santa Susana),2020-04-26,37
+Ventura,93065: Simi Valley,2020-04-26,93
+Ventura,93066: Somis,2020-04-26,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-04-25,13
+Ventura,91360: Thousand Oaks,2020-04-25,35
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-04-25,15
+Ventura,91362: Thousand Oaks/Westlake,2020-04-25,26
+Ventura,91377: Oak Park,2020-04-25,12
+Ventura,93001: Ventura,2020-04-25,13
+Ventura,93003: Ventura,2020-04-25,13
+Ventura,93004: Ventura,2020-04-25,9
+Ventura,93010: Camarillo,2020-04-25,29
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-04-25,15
+Ventura,93015: Fillmore,2020-04-25,10
+Ventura,93021: Moorpark,2020-04-25,27
+Ventura,93022: Oak View,2020-04-25,2
+Ventura,93023: Ojai,2020-04-25,5
+Ventura,93030: Oxnard,2020-04-25,24
+Ventura,93033: Oxnard,2020-04-25,41
+Ventura,93035: Oxnard,2020-04-25,23
+Ventura,93036: Oxnard,2020-04-25,26
+Ventura,93040: Piru,2020-04-25,3
+Ventura,93041: Port Hueneme,2020-04-25,11
+Ventura,93060: Santa Paula,2020-04-25,12
+Ventura,93063: Simi Valley (Santa Susana),2020-04-25,37
+Ventura,93065: Simi Valley,2020-04-25,93
+Ventura,93066: Somis,2020-04-25,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-04-24,13
+Ventura,91360: Thousand Oaks,2020-04-24,36
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-04-24,15
+Ventura,91362: Thousand Oaks/Westlake,2020-04-24,26
+Ventura,91377: Oak Park,2020-04-24,12
+Ventura,93001: Ventura,2020-04-24,12
+Ventura,93003: Ventura,2020-04-24,13
+Ventura,93004: Ventura,2020-04-24,8
+Ventura,93010: Camarillo,2020-04-24,29
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-04-24,15
+Ventura,93015: Fillmore,2020-04-24,9
+Ventura,93021: Moorpark,2020-04-24,26
+Ventura,93022: Oak View,2020-04-24,2
+Ventura,93023: Ojai,2020-04-24,5
+Ventura,93030: Oxnard,2020-04-24,24
+Ventura,93033: Oxnard,2020-04-24,38
+Ventura,93035: Oxnard,2020-04-24,19
+Ventura,93036: Oxnard,2020-04-24,26
+Ventura,93040: Piru,2020-04-24,3
+Ventura,93041: Port Hueneme,2020-04-24,9
+Ventura,93060: Santa Paula,2020-04-24,9
+Ventura,93063: Simi Valley (Santa Susana),2020-04-24,35
+Ventura,93065: Simi Valley,2020-04-24,90
+Ventura,93066: Somis,2020-04-24,2
+Ventura,91320: Thousand Oaks/Newbury Park,2020-04-23,13
+Ventura,91360: Thousand Oaks,2020-04-23,36
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-04-23,15
+Ventura,91362: Thousand Oaks/Westlake,2020-04-23,26
+Ventura,91377: Oak Park,2020-04-23,12
+Ventura,93001: Ventura,2020-04-23,11
+Ventura,93003: Ventura,2020-04-23,13
+Ventura,93004: Ventura,2020-04-23,8
+Ventura,93010: Camarillo,2020-04-23,30
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-04-23,15
+Ventura,93015: Fillmore,2020-04-23,9
+Ventura,93021: Moorpark,2020-04-23,25
+Ventura,93022: Oak View,2020-04-23,2
+Ventura,93023: Ojai,2020-04-23,5
+Ventura,93030: Oxnard,2020-04-23,24
+Ventura,93033: Oxnard,2020-04-23,38
+Ventura,93035: Oxnard,2020-04-23,18
+Ventura,93036: Oxnard,2020-04-23,26
+Ventura,93040: Piru,2020-04-23,3
+Ventura,93041: Port Hueneme,2020-04-23,8
+Ventura,93060: Santa Paula,2020-04-23,8
+Ventura,93063: Simi Valley (Santa Susana),2020-04-23,35
+Ventura,93065: Simi Valley,2020-04-23,84
+Ventura,93066: Somis,2020-04-23,1
+Ventura,91320: Thousand Oaks/Newbury Park,2020-04-22,13
+Ventura,91360: Thousand Oaks,2020-04-22,32
+Ventura,91361: Thousand Oaks/Lake Sherwood/Westlake,2020-04-22,15
+Ventura,91362: Thousand Oaks/Westlake,2020-04-22,25
+Ventura,91377: Oak Park,2020-04-22,12
+Ventura,93001: Ventura,2020-04-22,11
+Ventura,93003: Ventura,2020-04-22,13
+Ventura,93004: Ventura,2020-04-22,8
+Ventura,93010: Camarillo,2020-04-22,29
+Ventura,93012: Camarillo/Santa Rosa Valley,2020-04-22,15
+Ventura,93015: Fillmore,2020-04-22,9
+Ventura,93021: Moorpark,2020-04-22,25
+Ventura,93022: Oak View,2020-04-22,2
+Ventura,93023: Ojai,2020-04-22,5
+Ventura,93030: Oxnard,2020-04-22,24
+Ventura,93033: Oxnard,2020-04-22,37
+Ventura,93035: Oxnard,2020-04-22,17
+Ventura,93036: Oxnard,2020-04-22,25
+Ventura,93040: Piru,2020-04-22,3
+Ventura,93041: Port Hueneme,2020-04-22,7
+Ventura,93060: Santa Paula,2020-04-22,7
+Ventura,93063: Simi Valley (Santa Susana),2020-04-22,33
+Ventura,93065: Simi Valley,2020-04-22,83
+Ventura,93066: Somis,2020-04-22,1
+Ventura,Camarillo,2020-04-21,44
+Ventura,Fillmore,2020-04-21,9
+Ventura,Moorpark,2020-04-21,25
+Ventura,Oak Park,2020-04-21,12
+Ventura,Oak View,2020-04-21,2
+Ventura,Ojai,2020-04-21,5
+Ventura,Oxnard,2020-04-21,98
+Ventura,Piru,2020-04-21,3
+Ventura,Port Hueneme,2020-04-21,7
+Ventura,Santa Paula,2020-04-21,7
+Ventura,Simi Valley,2020-04-21,116
+Ventura,Somis,2020-04-21,1
+Ventura,Thousand Oaks,2020-04-21,83
+Ventura,Ventura,2020-04-21,31
+Ventura,Camarillo,2020-04-20,40
+Ventura,Fillmore,2020-04-20,9
+Ventura,Lake Sherwood,2020-04-20,3
+Ventura,Moorpark,2020-04-20,25
+Ventura,Newbury Park,2020-04-20,7
+Ventura,Oak Park,2020-04-20,12
+Ventura,Oak View,2020-04-20,2
+Ventura,Ojai,2020-04-20,5
+Ventura,Oxnard,2020-04-20,90
+Ventura,Piru,2020-04-20,3
+Ventura,Port Hueneme,2020-04-20,6
+Ventura,Santa Paula,2020-04-20,6
+Ventura,Santa Rosa Valley,2020-04-20,3
+Ventura,Simi Valley,2020-04-20,112
+Ventura,Somis,2020-04-20,1
+Ventura,Thousand Oaks,2020-04-20,65
+Ventura,Ventura,2020-04-20,31
+Ventura,Westlake,2020-04-20,8
+Ventura,Camarillo,2020-04-19,40
+Ventura,Fillmore,2020-04-19,9
+Ventura,Lake Sherwood,2020-04-19,3
+Ventura,Moorpark,2020-04-19,25
+Ventura,Newbury Park,2020-04-19,7
+Ventura,Oak Park,2020-04-19,12
+Ventura,Oak View,2020-04-19,2
+Ventura,Ojai,2020-04-19,5
+Ventura,Oxnard,2020-04-19,89
+Ventura,Piru,2020-04-19,3
+Ventura,Port Hueneme,2020-04-19,6
+Ventura,Santa Paula,2020-04-19,6
+Ventura,Santa Rosa Valley,2020-04-19,3
+Ventura,Simi Valley,2020-04-19,109
+Ventura,Somis,2020-04-19,1
+Ventura,Thousand Oaks,2020-04-19,63
+Ventura,Ventura,2020-04-19,31
+Ventura,Camarillo,2020-04-18,39
+Ventura,Fillmore,2020-04-18,9
+Ventura,Lake Sherwood,2020-04-18,3
+Ventura,Moorpark,2020-04-18,5
+Ventura,Newbury Park,2020-04-18,7
+Ventura,Oak Park,2020-04-18,12
+Ventura,Oak View,2020-04-18,2
+Ventura,Ojai,2020-04-18,5
+Ventura,Oxnard,2020-04-18,89
+Ventura,Piru,2020-04-18,3
+Ventura,Port Hueneme,2020-04-18,6
+Ventura,Santa Paula,2020-04-18,6
+Ventura,Santa Rosa Valley,2020-04-18,3
+Ventura,Simi Valley,2020-04-18,107
+Ventura,Somis,2020-04-18,1
+Ventura,Thousand Oaks,2020-04-18,60
+Ventura,Ventura,2020-04-18,31
+Ventura,Westlake,2020-04-18,8
+Ventura,Camarillo,2020-04-17,39
+Ventura,Fillmore,2020-04-17,8
+Ventura,Lake Sherwood,2020-04-17,3
+Ventura,Moorpark,2020-04-17,24
+Ventura,Newbury Park,2020-04-17,7
+Ventura,Oak Park,2020-04-17,12
+Ventura,Oak View,2020-04-17,2
+Ventura,Ojai,2020-04-17,5
+Ventura,Oxnard,2020-04-17,82
+Ventura,Piru,2020-04-17,2
+Ventura,Port Hueneme,2020-04-17,6
+Ventura,Santa Paula,2020-04-17,6
+Ventura,Santa Rosa Valley,2020-04-17,3
+Ventura,Simi Valley,2020-04-17,100
+Ventura,Somis,2020-04-17,1
+Ventura,Thousand Oaks,2020-04-17,58
+Ventura,Ventura,2020-04-17,30
+Ventura,Westlake,2020-04-17,8
+Ventura,Camarillo,2020-04-16,39
+Ventura,Fillmore,2020-04-16,6
+Ventura,Lake Sherwood,2020-04-16,3
+Ventura,Moorpark,2020-04-16,23
+Ventura,Newbury Park,2020-04-16,7
+Ventura,Oak Park,2020-04-16,12
+Ventura,Oak View,2020-04-16,2
+Ventura,Ojai,2020-04-16,5
+Ventura,Oxnard,2020-04-16,79
+Ventura,Piru,2020-04-16,1
+Ventura,Port Hueneme,2020-04-16,5
+Ventura,Santa Paula,2020-04-16,6
+Ventura,Santa Rosa Valley,2020-04-16,3
+Ventura,Simi Valley,2020-04-16,99
+Ventura,Somis,2020-04-16,1
+Ventura,Thousand Oaks,2020-04-16,55
+Ventura,Ventura,2020-04-16,30
+Ventura,Westlake,2020-04-16,8
+Ventura,Camarillo,2020-04-15,39
+Ventura,Fillmore,2020-04-15,6
+Ventura,Lake Sherwood,2020-04-15,3
+Ventura,Moorpark,2020-04-15,23
+Ventura,Newbury Park,2020-04-15,7
+Ventura,Oak Park,2020-04-15,12
+Ventura,Oak View,2020-04-15,2
+Ventura,Ojai,2020-04-15,5
+Ventura,Oxnard,2020-04-15,73
+Ventura,Piru,2020-04-15,1
+Ventura,Port Hueneme,2020-04-15,5
+Ventura,Santa Paula,2020-04-15,4
+Ventura,Santa Rosa Valley,2020-04-15,3
+Ventura,Simi Valley,2020-04-15,92
+Ventura,Somis,2020-04-15,1
+Ventura,Thousand Oaks,2020-04-15,52
+Ventura,Ventura,2020-04-15,29
+Ventura,Westlake,2020-04-15,8
+Ventura,Camarillo,2020-04-14,38
+Ventura,Fillmore,2020-04-14,6
+Ventura,Lake Sherwood,2020-04-14,3
+Ventura,Moorpark,2020-04-14,23
+Ventura,Newbury Park,2020-04-14,7
+Ventura,Oak Park,2020-04-14,10
+Ventura,Oak View,2020-04-14,2
+Ventura,Ojai,2020-04-14,5
+Ventura,Oxnard,2020-04-14,71
+Ventura,Piru,2020-04-14,1
+Ventura,Port Hueneme,2020-04-14,5
+Ventura,Santa Paula,2020-04-14,4
+Ventura,Santa Rosa Valley,2020-04-14,2
+Ventura,Simi Valley,2020-04-14,85
+Ventura,Somis,2020-04-14,1
+Ventura,Thousand Oaks,2020-04-14,50
+Ventura,Ventura,2020-04-14,29
+Ventura,Westlake,2020-04-14,8
+Ventura,Camarillo,2020-04-13,36
+Ventura,Fillmore,2020-04-13,3
+Ventura,Lake Sherwood,2020-04-13,3
+Ventura,Moorpark,2020-04-13,20
+Ventura,Newbury Park,2020-04-13,7
+Ventura,Oak Park,2020-04-13,10
+Ventura,Oak View,2020-04-13,1
+Ventura,Ojai,2020-04-13,5
+Ventura,Oxnard,2020-04-13,68
+Ventura,Piru,2020-04-13,1
+Ventura,Port Hueneme,2020-04-13,5
+Ventura,Santa Paula,2020-04-13,4
+Ventura,Santa Rosa Valley,2020-04-13,2
+Ventura,Simi Valley,2020-04-13,72
+Ventura,Somis,2020-04-13,1
+Ventura,Thousand Oaks,2020-04-13,45
+Ventura,Ventura,2020-04-13,26
+Ventura,Westlake,2020-04-13,8
+Ventura,Camarillo,2020-04-12,36
+Ventura,Fillmore,2020-04-12,2
+Ventura,Lake Sherwood,2020-04-12,3
+Ventura,Moorpark,2020-04-12,20
+Ventura,Newbury Park,2020-04-12,7
+Ventura,Oak Park,2020-04-12,9
+Ventura,Oak View,2020-04-12,1
+Ventura,Ojai,2020-04-12,4
+Ventura,Oxnard,2020-04-12,68
+Ventura,Piru,2020-04-12,1
+Ventura,Port Hueneme,2020-04-12,5
+Ventura,Santa Paula,2020-04-12,4
+Ventura,Santa Rosa Valley,2020-04-12,2
+Ventura,Simi Valley,2020-04-12,72
+Ventura,Somis,2020-04-12,1
+Ventura,Thousand Oaks,2020-04-12,45
+Ventura,Ventura,2020-04-12,26
+Ventura,Westlake,2020-04-12,8
+Ventura,Camarillo,2020-04-11,36
+Ventura,Fillmore,2020-04-11,1
+Ventura,Moorpark,2020-04-11,19
+Ventura,Ojai,2020-04-11,4
+Ventura,Oxnard,2020-04-11,65
+Ventura,Port Hueneme,2020-04-11,5
+Ventura,Santa Paula,2020-04-11,4
+Ventura,Simi Valley,2020-04-11,73
+Ventura,Thousand Oaks,2020-04-11,44
+Ventura,Ventura,2020-04-11,26
+Ventura,Lake Sherwood,2020-04-11,3
+Ventura,Newbury Park,2020-04-11,7
+Ventura,Oak Park,2020-04-11,9
+Ventura,Oak View,2020-04-11,1
+Ventura,Piru,2020-04-11,1
+Ventura,Santa Rosa Valley,2020-04-11,2
+Ventura,Somis,2020-04-11,1
+Ventura,Camarillo,2020-04-10,35
+Ventura,Fillmore,2020-04-10,1
+Ventura,Lake Sherwood,2020-04-10,3
+Ventura,Moorpark,2020-04-10,19
+Ventura,Newbury Park,2020-04-10,6
+Ventura,Oak Park,2020-04-10,9
+Ventura,Oak View,2020-04-10,1
+Ventura,Ojai,2020-04-10,4
+Ventura,Oxnard,2020-04-10,63
+Ventura,Piru,2020-04-10,1
+Ventura,Port Hueneme,2020-04-10,5
+Ventura,Santa Paula,2020-04-10,4
+Ventura,Santa Rosa Valley,2020-04-10,2
+Ventura,Simi Valley,2020-04-10,58
+Ventura,Somis,2020-04-10,1
+Ventura,Thousand Oaks,2020-04-10,43
+Ventura,Ventura,2020-04-10,25
+Ventura,Westlake,2020-04-10,8
+Ventura,Camarillo,2020-04-09,33
+Ventura,Fillmore,2020-04-09,1
+Ventura,Lake Sherwood,2020-04-09,2
+Ventura,Moorpark,2020-04-09,17
+Ventura,Newbury Park,2020-04-09,6
+Ventura,Oak Park,2020-04-09,9
+Ventura,Oak View,2020-04-09,1
+Ventura,Ojai,2020-04-09,4
+Ventura,Oxnard,2020-04-09,53
+Ventura,Piru,2020-04-09,1
+Ventura,Port Hueneme,2020-04-09,4
+Ventura,Santa Paula,2020-04-09,4
+Ventura,Santa Rosa Valley,2020-04-09,1
+Ventura,Simi Valley,2020-04-09,65
+Ventura,Somis,2020-04-09,1
+Ventura,Thousand Oaks,2020-04-09,40
+Ventura,Ventura,2020-04-09,24
+Ventura,Westlake,2020-04-09,8
+Ventura,Camarillo,2020-04-08,32
+Ventura,Lake Sherwood,2020-04-08,2
+Ventura,Moorpark,2020-04-08,17
+Ventura,Newbury Park,2020-04-08,7
+Ventura,Oak Park,2020-04-08,9
+Ventura,Oak View,2020-04-08,1
+Ventura,Ojai,2020-04-08,4
+Ventura,Oxnard,2020-04-08,49
+Ventura,Piru,2020-04-08,1
+Ventura,Port Hueneme,2020-04-08,3
+Ventura,Santa Paula,2020-04-08,4
+Ventura,Santa Rosa Valley,2020-04-08,1
+Ventura,Simi Valley,2020-04-08,61
+Ventura,Somis,2020-04-08,1
+Ventura,Thousand Oaks,2020-04-08,40
+Ventura,Ventura,2020-04-08,23
+Ventura,Westlake,2020-04-08,8
+Ventura,Camarillo,2020-04-07,32
+Ventura,Lake Sherwood,2020-04-07,2
+Ventura,Moorpark,2020-04-07,15
+Ventura,Newbury Park,2020-04-07,5
+Ventura,Oak Park,2020-04-07,9
+Ventura,Oak View,2020-04-07,1
+Ventura,Ojai,2020-04-07,4
+Ventura,Oxnard,2020-04-07,46
+Ventura,Piru,2020-04-07,1
+Ventura,Port Hueneme,2020-04-07,2
+Ventura,Santa Paula,2020-04-07,3
+Ventura,Santa Rosa Valley,2020-04-07,1
+Ventura,Simi Valley,2020-04-07,55
+Ventura,Somis,2020-04-07,1
+Ventura,Thousand Oaks,2020-04-07,36
+Ventura,Ventura,2020-04-07,21
+Ventura,Westlake,2020-04-07,9
+Ventura,Camarillo,2020-04-06,31
+Ventura,Lake Sherwood,2020-04-06,2
+Ventura,Moorpark,2020-04-06,15
+Ventura,Newbury Park,2020-04-06,5
+Ventura,Oak Park,2020-04-06,9
+Ventura,Oak View,2020-04-06,1
+Ventura,Ojai,2020-04-06,4
+Ventura,Oxnard,2020-04-06,42
+Ventura,Piru,2020-04-06,1
+Ventura,Port Hueneme,2020-04-06,2
+Ventura,Santa Paula,2020-04-06,3
+Ventura,Santa Rosa Valley,2020-04-06,1
+Ventura,Simi Valley,2020-04-06,47
+Ventura,Somis,2020-04-06,1
+Ventura,Thousand Oaks,2020-04-06,33
+Ventura,Ventura,2020-04-06,21
+Ventura,Westlake,2020-04-06,8
+Ventura,Camarillo,2020-04-05,30
+Ventura,Lake Sherwood,2020-04-05,2
+Ventura,Moorpark,2020-04-05,14
+Ventura,Newbury Park,2020-04-05,5
+Ventura,Oak Park,2020-04-05,9
+Ventura,Oak View,2020-04-05,1
+Ventura,Ojai,2020-04-05,4
+Ventura,Oxnard,2020-04-05,40
+Ventura,Piru,2020-04-05,1
+Ventura,Port Hueneme,2020-04-05,2
+Ventura,Santa Paula,2020-04-05,3
+Ventura,Santa Rosa Valley,2020-04-05,1
+Ventura,Simi Valley,2020-04-05,46
+Ventura,Somis,2020-04-05,1
+Ventura,Thousand Oaks,2020-04-05,33
+Ventura,Ventura,2020-04-05,21
+Ventura,Westlake,2020-04-05,8
+Ventura,Camarillo,2020-04-04,29
+Ventura,Lake Sherwood,2020-04-04,2
+Ventura,Moorpark,2020-04-04,14
+Ventura,Newbury Park,2020-04-04,4
+Ventura,Oak Park,2020-04-04,7
+Ventura,Oak View,2020-04-04,1
+Ventura,Ojai,2020-04-04,4
+Ventura,Oxnard,2020-04-04,39
+Ventura,Piru,2020-04-04,1
+Ventura,Port Hueneme,2020-04-04,2
+Ventura,Santa Paula,2020-04-04,3
+Ventura,Santa Rosa Valley,2020-04-04,1
+Ventura,Simi Valley,2020-04-04,39
+Ventura,Somis,2020-04-04,1
+Ventura,Thousand Oaks,2020-04-04,29
+Ventura,Ventura,2020-04-04,20
+Ventura,Westlake,2020-04-04,7
+Ventura,Camarillo,2020-04-03,28
+Ventura,Lake Sherwood,2020-04-03,2
+Ventura,Moorpark,2020-04-03,12
+Ventura,Newbury Park,2020-04-03,4
+Ventura,Oak Park,2020-04-03,7
+Ventura,Oak View,2020-04-03,1
+Ventura,Ojai,2020-04-03,4
+Ventura,Oxnard,2020-04-03,30
+Ventura,Piru,2020-04-03,1
+Ventura,Port Hueneme,2020-04-03,2
+Ventura,Santa Paula,2020-04-03,3
+Ventura,Santa Rosa Valley,2020-04-03,1
+Ventura,Simi Valley,2020-04-03,37
+Ventura,Somis,2020-04-03,1
+Ventura,Thousand Oaks,2020-04-03,30
+Ventura,Ventura,2020-04-03,19
+Ventura,Westlake,2020-04-03,7
+Ventura,Camarillo,2020-04-02,27
+Ventura,Lake Sherwood,2020-04-02,2
+Ventura,Moorpark,2020-04-02,12
+Ventura,Newbury Park,2020-04-02,4
+Ventura,Oak Park,2020-04-02,7
+Ventura,Oak View,2020-04-02,1
+Ventura,Ojai,2020-04-02,3
+Ventura,Oxnard,2020-04-02,29
+Ventura,Piru,2020-04-02,1
+Ventura,Port Hueneme,2020-04-02,2
+Ventura,Santa Paula,2020-04-02,3
+Ventura,Santa Rosa Valley,2020-04-02,1
+Ventura,Simi Valley,2020-04-02,30
+Ventura,Somis,2020-04-02,1
+Ventura,Thousand Oaks,2020-04-02,35
+Ventura,Ventura,2020-04-02,19
+Ventura,Camarillo,2020-04-01,24
+Ventura,Lake Sherwood,2020-04-01,2
+Ventura,Moorpark,2020-04-01,12
+Ventura,Newbury Park,2020-04-01,3
+Ventura,Oak Park,2020-04-01,7
+Ventura,Oak View,2020-04-01,1
+Ventura,Ojai,2020-04-01,2
+Ventura,Oxnard,2020-04-01,24
+Ventura,Piru,2020-04-01,1
+Ventura,Port Hueneme,2020-04-01,2
+Ventura,Santa Paula,2020-04-01,2
+Ventura,Santa Rosa Valley,2020-04-01,1
+Ventura,Simi Valley,2020-04-01,27
+Ventura,Somis,2020-04-01,1
+Ventura,Thousand Oaks,2020-04-01,33
+Ventura,Ventura,2020-04-01,18
+Ventura,Camarillo,2020-03-31,21
+Ventura,Lake Sherwood,2020-03-31,2
+Ventura,Moorpark,2020-03-31,8
+Ventura,Newbury Park,2020-03-31,1
+Ventura,Oak Park,2020-03-31,6
+Ventura,Oak View,2020-03-31,1
+Ventura,Ojai,2020-03-31,2
+Ventura,Oxnard,2020-03-31,18
+Ventura,Port Hueneme,2020-03-31,2
+Ventura,Santa Paula,2020-03-31,2
+Ventura,Simi Valley,2020-03-31,21
+Ventura,Somis,2020-03-31,1
+Ventura,Thousand Oaks,2020-03-31,22
+Ventura,Westlake Village,2020-03-31,5
+Ventura,Ventura,2020-03-31,14
+Ventura,Camarillo,2020-03-30,21
+Ventura,Lake Sherwood,2020-03-30,2
+Ventura,Moorpark,2020-03-30,8
+Ventura,Newbury Park,2020-03-30,1
+Ventura,Oak Park,2020-03-30,6
+Ventura,Oak View,2020-03-30,1
+Ventura,Ojai,2020-03-30,2
+Ventura,Oxnard,2020-03-30,18
+Ventura,Port Hueneme,2020-03-30,2
+Ventura,Santa Paula,2020-03-30,2
+Ventura,Simi Valley,2020-03-30,21
+Ventura,Somis,2020-03-30,1
+Ventura,Thousand Oaks,2020-03-30,22
+Ventura,Ventura,2020-03-30,14
+Ventura,Westlake Village,2020-03-30,5
+Ventura,Camarillo,2020-03-29,19
+Ventura,Lake Sherwood,2020-03-29,2
+Ventura,Moorpark,2020-03-29,7
+Ventura,Oak Park,2020-03-29,6
+Ventura,Oak View,2020-03-29,1
+Ventura,Ojai,2020-03-29,2
+Ventura,Oxnard,2020-03-29,15
+Ventura,Port Hueneme,2020-03-29,2
+Ventura,Santa Paula,2020-03-29,2
+Ventura,Simi Valley,2020-03-29,20
+Ventura,Somis,2020-03-29,1
+Ventura,Thousand Oaks,2020-03-29,15
+Ventura,Ventura,2020-03-29,11
+Ventura,Westlake Village,2020-03-29,6
+Ventura,Camarillo,2020-03-28,15
+Ventura,Lake Sherwood,2020-03-28,2
+Ventura,Moorpark,2020-03-28,7
+Ventura,Oak Park,2020-03-28,3
+Ventura,Oak View,2020-03-28,1
+Ventura,Ojai,2020-03-28,2
+Ventura,Oxnard,2020-03-28,12
+Ventura,Port Hueneme,2020-03-28,2
+Ventura,Santa Paula,2020-03-28,2
+Ventura,Simi Valley,2020-03-28,20
+Ventura,Somis,2020-03-28,1
+Ventura,Thousand Oaks,2020-03-28,15
+Ventura,Ventura,2020-03-28,11
+Ventura,Westlake Village,2020-03-28,5
+Ventura,Camarillo,2020-03-27,14
+Ventura,Lake Sherwood,2020-03-27,1
+Ventura,Moorpark,2020-03-27,7
+Ventura,Oak Park,2020-03-27,3
+Ventura,Oak View,2020-03-27,1
+Ventura,Ojai,2020-03-27,2
+Ventura,Oxnard,2020-03-27,11
+Ventura,Port Hueneme,2020-03-27,1
+Ventura,Santa Paula,2020-03-27,2
+Ventura,Simi Valley,2020-03-27,15
+Ventura,Somis,2020-03-27,1
+Ventura,Thousand Oaks,2020-03-27,10
+Ventura,Ventura,2020-03-27,10
+Ventura,Westlake Village,2020-03-27,5
+Ventura,Camarillo,2020-03-26,9
+Ventura,Lake Sherwood,2020-03-26,1
+Ventura,Moorpark,2020-03-26,3
+Ventura,Oak Park,2020-03-26,3
+Ventura,Ojai,2020-03-26,2
+Ventura,Oxnard,2020-03-26,8
+Ventura,Santa Paula,2020-03-26,2
+Ventura,Simi Valley,2020-03-26,15
+Ventura,Somis,2020-03-26,1
+Ventura,Thousand Oaks,2020-03-26,8
+Ventura,Ventura,2020-03-26,7
+Ventura,Westlake Village,2020-03-26,2
+Ventura,Camarillo,2020-03-25,8
+Ventura,Moorpark,2020-03-25,3
+Ventura,Oak Park,2020-03-25,2
+Ventura,Ojai,2020-03-25,2
+Ventura,Oxnard,2020-03-25,5
+Ventura,Santa Paula,2020-03-25,2
+Ventura,Simi Valley,2020-03-25,12
+Ventura,Somis,2020-03-25,1
+Ventura,Thousand Oaks,2020-03-25,7
+Ventura,Ventura,2020-03-25,6
+Ventura,Westlake Village,2020-03-25,2
+Ventura,Camarillo,2020-03-24,5
+Ventura,Moorpark,2020-03-24,3
+Ventura,Oak Park,2020-03-24,1
+Ventura,Ojai,2020-03-24,2
+Ventura,Oxnard,2020-03-24,4
+Ventura,Santa Paula,2020-03-24,2
+Ventura,Simi Valley,2020-03-24,11
+Ventura,Somis,2020-03-24,1
+Ventura,Thousand Oaks,2020-03-24,5
+Ventura,Ventura,2020-03-24,4
+Ventura,Westlake Village,2020-03-24,1
+Ventura,Camarillo,2020-03-23,5
+Ventura,Moorpark,2020-03-23,1
+Ventura,Oak Park,2020-03-23,1
+Ventura,Ojai,2020-03-23,1
+Ventura,Oxnard,2020-03-23,3
+Ventura,Santa Paula,2020-03-23,2
+Ventura,Simi Valley,2020-03-23,11
+Ventura,Somis,2020-03-23,1
+Ventura,Thousand Oaks,2020-03-23,5
+Ventura,Ventura,2020-03-23,4
+Ventura,Westlake Village,2020-03-23,1

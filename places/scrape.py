@@ -55,7 +55,7 @@ def _handle_exception(slug, exception):
     # If we're inside Github rn ...
     if GITHUB_ACTIONS:
         # Put together everything we need for pull request
-        title = f"Fix for {slug.replace('-', ' ').title()} County cities scraper"
+        title = f"Fix for {slug.replace('-', ' ').title()} County places scraper"
         timestamp = datetime.now().timestamp()
         head_branch = f"fix-{notebook_path.stem}-{timestamp}"
         body = GITHUB_TEMPLATE.format(
@@ -63,7 +63,7 @@ def _handle_exception(slug, exception):
             exception=_strip_color(str(exception)),
             head_branch=head_branch,
         ).strip()
-        relative_path = f"_notebooks/scrapers/places/{notebook_name}"
+        relative_path = f"places/{notebook_name}"
 
         # Open up the errored out output notebook
         output_path = NOTEBOOK_DIR.joinpath(f"{slug}-output.ipynb")
@@ -109,6 +109,41 @@ def main():
         'kings',
         'lake',
         'long-beach',
+        'los-angeles',
+        'madera',
+        'marin',
+        'mendocino',
+        'merced',
+        'mono',
+        'monterey',
+        'napa',
+        'nevada',
+        'orange',
+        'pasadena',
+        'placer',
+        'plumas',
+        'riverside',
+        'sacramento',
+        'san-bernardino',
+        'san-diego',
+        'san-francisco',
+        'san-joaquin',
+        'san-luis-obispo',
+        'san-mateo',
+        'santa-barbara',
+        'santa-clara',
+        'santa-cruz',
+        'shasta',
+        'sierra',
+        'siskiyou',
+        'solano',
+        'stanislaus',
+        'sutter',
+        'trinity',
+        'tulare',
+        'ventura',
+        'yolo',
+        'yuba',
     ]
     print(f"Scraping {len(slug_list)} agency place lists")
 

@@ -1,0 +1,441 @@
+county,area,date,confirmed_cases
+Madera,Reporting Area A,2020-12-03,1747
+Madera,Reporting Area B,2020-12-03,1142
+Madera,Reporting Area C,2020-12-03,2675
+Madera,Reporting Area D,2020-12-03,537
+Madera,Unknown,2020-12-03,381
+Madera,Reporting Area A,2020-12-02,1734
+Madera,Reporting Area B,2020-12-02,1126
+Madera,Reporting Area C,2020-12-02,2657
+Madera,Reporting Area D,2020-12-02,529
+Madera,Unknown,2020-12-02,381
+Madera,Reporting Area A,2020-12-01,1722
+Madera,Reporting Area B,2020-12-01,1088
+Madera,Reporting Area C,2020-12-01,2633
+Madera,Reporting Area D,2020-12-01,523
+Madera,Unknown,2020-12-01,380
+Madera,Reporting Area A,2020-11-30,1718
+Madera,Reporting Area B,2020-11-30,1043
+Madera,Reporting Area C,2020-11-30,2631
+Madera,Reporting Area D,2020-11-30,518
+Madera,Unknown,2020-11-30,380
+Madera,Reporting Area A,2020-11-25,1666
+Madera,Reporting Area B,2020-11-25,958
+Madera,Reporting Area C,2020-11-25,2561
+Madera,Reporting Area D,2020-11-25,482
+Madera,Unknown,2020-11-25,380
+Madera,Reporting Area A,2020-11-24,1645
+Madera,Reporting Area B,2020-11-24,900
+Madera,Reporting Area C,2020-11-24,2542
+Madera,Reporting Area D,2020-11-24,471
+Madera,Unknown,2020-11-24,380
+Madera,Reporting Area A,2020-11-20,1601
+Madera,Reporting Area B,2020-11-20,798
+Madera,Reporting Area C,2020-11-20,2481
+Madera,Reporting Area D,2020-11-20,454
+Madera,Unknown,2020-11-20,380
+Madera,Reporting Area A,2020-11-19,1588
+Madera,Reporting Area B,2020-11-19,757
+Madera,Reporting Area C,2020-11-19,2454
+Madera,Reporting Area D,2020-11-19,445
+Madera,Unknown,2020-11-19,380
+Madera,Reporting Area A,2020-11-18,1578
+Madera,Reporting Area B,2020-11-18,755
+Madera,Reporting Area C,2020-11-18,2449
+Madera,Reporting Area D,2020-11-18,440
+Madera,Unknown,2020-11-18,380
+Madera,Reporting Area A,2020-11-17,1563
+Madera,Reporting Area B,2020-11-17,749
+Madera,Reporting Area C,2020-11-17,2434
+Madera,Reporting Area D,2020-11-17,435
+Madera,Unknown,2020-11-17,380
+Madera,Reporting Area A,2020-11-16,1551
+Madera,Reporting Area B,2020-11-16,741
+Madera,Reporting Area C,2020-11-16,2420
+Madera,Reporting Area D,2020-11-16,422
+Madera,Unknown,2020-11-16,380
+Madera,Reporting Area A,2020-11-13,1529
+Madera,Reporting Area B,2020-11-13,730
+Madera,Reporting Area C,2020-11-13,2384
+Madera,Reporting Area D,2020-11-13,403
+Madera,Unknown,2020-11-13,380
+Madera,Reporting Area A,2020-11-12,1517
+Madera,Reporting Area B,2020-11-12,695
+Madera,Reporting Area C,2020-11-12,2369
+Madera,Reporting Area D,2020-11-12,400
+Madera,Unknown,2020-11-12,380
+Madera,Reporting Area A,2020-11-10,1512
+Madera,Reporting Area B,2020-11-10,680
+Madera,Reporting Area C,2020-11-10,2363
+Madera,Reporting Area D,2020-11-10,395
+Madera,Unknown,2020-11-10,380
+Madera,Reporting Area A,2020-11-09,1500
+Madera,Reporting Area B,2020-11-09,696
+Madera,Reporting Area C,2020-11-09,2358
+Madera,Reporting Area D,2020-11-09,394
+Madera,Unknown,2020-11-09,378
+Madera,Reporting Area A,2020-11-06,1487
+Madera,Reporting Area B,2020-11-06,669
+Madera,Reporting Area C,2020-11-06,2329
+Madera,Reporting Area D,2020-11-06,386
+Madera,Unknown,2020-11-06,378
+Madera,Reporting Area A,2020-11-05,1483
+Madera,Reporting Area B,2020-11-05,655
+Madera,Reporting Area C,2020-11-05,2322
+Madera,Reporting Area D,2020-11-05,381
+Madera,Unknown,2020-11-05,378
+Madera,Reporting Area A,2020-11-04,1468
+Madera,Reporting Area B,2020-11-04,645
+Madera,Reporting Area C,2020-11-04,2130
+Madera,Reporting Area D,2020-11-04,381
+Madera,Unknown,2020-11-04,378
+Madera,Reporting Area A,2020-11-03,1462
+Madera,Reporting Area B,2020-11-03,640
+Madera,Reporting Area C,2020-11-03,2301
+Madera,Reporting Area D,2020-11-03,377
+Madera,Unknown,2020-11-03,378
+Madera,Reporting Area A,2020-11-02,1455
+Madera,Reporting Area B,2020-11-02,637
+Madera,Reporting Area C,2020-11-02,2294
+Madera,Reporting Area D,2020-11-02,377
+Madera,Unknown,2020-11-02,378
+Madera,Reporting Area A,2020-10-30,1438
+Madera,Reporting Area B,2020-10-30,630
+Madera,Reporting Area C,2020-10-30,2275
+Madera,Reporting Area D,2020-10-30,373
+Madera,Unknown,2020-10-30,378
+Madera,Reporting Area A,2020-10-29,1432
+Madera,Reporting Area B,2020-10-29,629
+Madera,Reporting Area C,2020-10-29,2257
+Madera,Reporting Area D,2020-10-29,370
+Madera,Unknown,2020-10-29,378
+Madera,Reporting Area A,2020-10-28,1432
+Madera,Reporting Area B,2020-10-28,625
+Madera,Reporting Area C,2020-10-28,2254
+Madera,Reporting Area D,2020-10-28,368
+Madera,Unknown,2020-10-28,378
+Madera,Reporting Area A,2020-10-27,1416
+Madera,Reporting Area B,2020-10-27,625
+Madera,Reporting Area C,2020-10-27,2237
+Madera,Reporting Area D,2020-10-27,365
+Madera,Unknown,2020-10-27,377
+Madera,Reporting Area A,2020-10-25,1409
+Madera,Reporting Area B,2020-10-25,613
+Madera,Reporting Area C,2020-10-25,2222
+Madera,Reporting Area D,2020-10-25,360
+Madera,Unknown,2020-10-25,377
+Madera,Reporting Area A,2020-10-22,1395
+Madera,Reporting Area B,2020-10-22,607
+Madera,Reporting Area C,2020-10-22,2207
+Madera,Reporting Area D,2020-10-22,359
+Madera,Unknown,2020-10-22,377
+Madera,Reporting Area A,2020-10-21,1391
+Madera,Reporting Area B,2020-10-21,602
+Madera,Reporting Area C,2020-10-21,2201
+Madera,Reporting Area D,2020-10-21,357
+Madera,Unknown,2020-10-21,377
+Madera,Reporting Area A,2020-10-20,1388
+Madera,Reporting Area B,2020-10-20,602
+Madera,Reporting Area C,2020-10-20,2197
+Madera,Reporting Area D,2020-10-20,356
+Madera,Unknown,2020-10-20,377
+Madera,Reporting Area A,2020-10-19,1372
+Madera,Reporting Area B,2020-10-19,601
+Madera,Reporting Area C,2020-10-19,2184
+Madera,Reporting Area D,2020-10-19,352
+Madera,Unknown,2020-10-19,377
+Madera,Reporting Area A,2020-10-16,1353
+Madera,Reporting Area B,2020-10-16,586
+Madera,Reporting Area C,2020-10-16,2171
+Madera,Reporting Area D,2020-10-16,349
+Madera,Unknown,2020-10-16,377
+Madera,Reporting Area A,2020-10-15,1350
+Madera,Reporting Area B,2020-10-15,582
+Madera,Reporting Area C,2020-10-15,2165
+Madera,Reporting Area D,2020-10-15,349
+Madera,Unknown,2020-10-15,376
+Madera,Reporting Area A,2020-10-14,1348
+Madera,Reporting Area B,2020-10-14,575
+Madera,Reporting Area C,2020-10-14,2163
+Madera,Reporting Area D,2020-10-14,346
+Madera,Unknown,2020-10-14,376
+Madera,Reporting Area A,2020-10-13,1342
+Madera,Reporting Area B,2020-10-13,572
+Madera,Reporting Area C,2020-10-13,2158
+Madera,Reporting Area D,2020-10-13,346
+Madera,Unknown,2020-10-13,376
+Madera,Reporting Area A,2020-10-12,1341
+Madera,Reporting Area B,2020-10-12,567
+Madera,Reporting Area C,2020-10-12,2158
+Madera,Reporting Area D,2020-10-12,345
+Madera,Unknown,2020-10-12,375
+Madera,Reporting Area A,2020-10-09,1334
+Madera,Reporting Area B,2020-10-09,550
+Madera,Reporting Area C,2020-10-09,2149
+Madera,Reporting Area D,2020-10-09,340
+Madera,Unknown,2020-10-09,375
+Madera,Reporting Area A,2020-10-08,1332
+Madera,Reporting Area B,2020-10-08,549
+Madera,Reporting Area C,2020-10-08,2143
+Madera,Reporting Area D,2020-10-08,340
+Madera,Unknown,2020-10-08,375
+Madera,Reporting Area A,2020-10-07,1328
+Madera,Reporting Area B,2020-10-07,541
+Madera,Reporting Area C,2020-10-07,2138
+Madera,Reporting Area D,2020-10-07,338
+Madera,Unknown,2020-10-07,375
+Madera,Reporting Area A,2020-10-06,1326
+Madera,Reporting Area B,2020-10-06,541
+Madera,Reporting Area C,2020-10-06,2138
+Madera,Reporting Area D,2020-10-06,338
+Madera,Unknown,2020-10-06,375
+Madera,Reporting Area A,2020-10-02,1301
+Madera,Reporting Area B,2020-10-02,527
+Madera,Reporting Area C,2020-10-02,2109
+Madera,Reporting Area D,2020-10-02,330
+Madera,Unknown,2020-10-02,375
+Madera,Reporting Area A,2020-10-01,1293
+Madera,Reporting Area B,2020-10-01,523
+Madera,Reporting Area C,2020-10-01,2098
+Madera,Reporting Area D,2020-10-01,325
+Madera,Unknown,2020-10-01,375
+Madera,Reporting Area A,2020-09-30,1291
+Madera,Reporting Area B,2020-09-30,508
+Madera,Reporting Area C,2020-09-30,2088
+Madera,Reporting Area D,2020-09-30,321
+Madera,Unknown,2020-09-30,375
+Madera,Reporting Area A,2020-09-29,1287
+Madera,Reporting Area B,2020-09-29,497
+Madera,Reporting Area C,2020-09-29,2079
+Madera,Reporting Area D,2020-09-29,319
+Madera,Unknown,2020-09-29,375
+Madera,Reporting Area A,2020-09-28,1282
+Madera,Reporting Area B,2020-09-28,496
+Madera,Reporting Area C,2020-09-28,2067
+Madera,Reporting Area D,2020-09-28,319
+Madera,Unknown,2020-09-28,375
+Madera,Reporting Area A,2020-09-25,1263
+Madera,Reporting Area B,2020-09-25,495
+Madera,Reporting Area C,2020-09-25,2033
+Madera,Reporting Area D,2020-09-25,316
+Madera,Unknown,2020-09-25,374
+Madera,Reporting Area A,2020-09-24,1258
+Madera,Reporting Area B,2020-09-24,495
+Madera,Reporting Area C,2020-09-24,2019
+Madera,Reporting Area D,2020-09-24,313
+Madera,Unknown,2020-09-24,373
+Madera,Reporting Area A,2020-09-22,1254
+Madera,Reporting Area B,2020-09-22,469
+Madera,Reporting Area C,2020-09-22,2016
+Madera,Reporting Area D,2020-09-22,312
+Madera,Unknown,2020-09-22,373
+Madera,Reporting Area A,2020-09-21,1247
+Madera,Reporting Area B,2020-09-21,463
+Madera,Reporting Area C,2020-09-21,2001
+Madera,Reporting Area D,2020-09-21,308
+Madera,Unknown,2020-09-21,372
+Madera,Reporting Area A,2020-09-18,1211
+Madera,Reporting Area B,2020-09-18,401
+Madera,Reporting Area C,2020-09-18,1981
+Madera,Reporting Area D,2020-09-18,304
+Madera,Unknown,2020-09-18,399
+Madera,Reporting Area A,2020-09-17,1211
+Madera,Reporting Area B,2020-09-17,401
+Madera,Reporting Area C,2020-09-17,1981
+Madera,Reporting Area D,2020-09-17,304
+Madera,Unknown,2020-09-17,373
+Madera,Reporting Area A,2020-09-16,1210
+Madera,Reporting Area B,2020-09-16,401
+Madera,Reporting Area C,2020-09-16,1981
+Madera,Reporting Area D,2020-09-16,304
+Madera,Unknown,2020-09-16,371
+Madera,Reporting Area A,2020-09-15,1197
+Madera,Reporting Area B,2020-09-15,396
+Madera,Reporting Area C,2020-09-15,1965
+Madera,Reporting Area D,2020-09-15,304
+Madera,Unknown,2020-09-15,368
+Madera,Reporting Area A,2020-09-14,1200
+Madera,Reporting Area B,2020-09-14,396
+Madera,Reporting Area C,2020-09-14,1961
+Madera,Reporting Area D,2020-09-14,303
+Madera,Unknown,2020-09-14,366
+Madera,Reporting Area A,2020-09-11,1164
+Madera,Reporting Area B,2020-09-11,391
+Madera,Reporting Area C,2020-09-11,1929
+Madera,Reporting Area D,2020-09-11,301
+Madera,Unknown,2020-09-11,365
+Madera,Reporting Area A,2020-09-10,1159
+Madera,Reporting Area B,2020-09-10,333
+Madera,Reporting Area C,2020-09-10,1924
+Madera,Reporting Area D,2020-09-10,299
+Madera,Unknown,2020-09-10,364
+Madera,Reporting Area A,2020-09-09,1151
+Madera,Reporting Area B,2020-09-09,331
+Madera,Reporting Area C,2020-09-09,1920
+Madera,Reporting Area D,2020-09-09,298
+Madera,Unknown,2020-09-09,364
+Madera,Reporting Area A,2020-09-08,1141
+Madera,Reporting Area B,2020-09-08,326
+Madera,Reporting Area C,2020-09-08,1896
+Madera,Reporting Area D,2020-09-08,296
+Madera,Unknown,2020-09-08,366
+Madera,Reporting Area A,2020-09-04,1121
+Madera,Reporting Area B,2020-09-04,318
+Madera,Reporting Area C,2020-09-04,1866
+Madera,Reporting Area D,2020-09-04,287
+Madera,Unknown,2020-09-04,361
+Madera,Reporting Area A,2020-09-03,1095
+Madera,Reporting Area B,2020-09-03,312
+Madera,Reporting Area C,2020-09-03,1842
+Madera,Reporting Area D,2020-09-03,279
+Madera,Unknown,2020-09-03,361
+Madera,Reporting Area A,2020-09-02,1092
+Madera,Reporting Area B,2020-09-02,307
+Madera,Reporting Area C,2020-09-02,1840
+Madera,Reporting Area D,2020-09-02,277
+Madera,Unknown,2020-09-02,360
+Madera,Reporting Area A,2020-09-01,1070
+Madera,Reporting Area B,2020-09-01,307
+Madera,Reporting Area C,2020-09-01,1830
+Madera,Reporting Area D,2020-09-01,272
+Madera,Unknown,2020-09-01,357
+Madera,Reporting Area A,2020-08-31,1050
+Madera,Reporting Area B,2020-08-31,303
+Madera,Reporting Area C,2020-08-31,1804
+Madera,Reporting Area D,2020-08-31,266
+Madera,Unknown,2020-08-31,360
+Madera,Reporting Area A,2020-08-29,1019
+Madera,Reporting Area B,2020-08-29,297
+Madera,Reporting Area C,2020-08-29,1763
+Madera,Reporting Area D,2020-08-29,245
+Madera,Unknown,2020-08-29,350
+Madera,Reporting Area A,2020-08-26,988
+Madera,Reporting Area B,2020-08-26,290
+Madera,Reporting Area C,2020-08-26,1698
+Madera,Reporting Area D,2020-08-26,235
+Madera,Unknown,2020-08-26,340
+Madera,Reporting Area A,2020-08-25,972
+Madera,Reporting Area B,2020-08-25,287
+Madera,Reporting Area C,2020-08-25,1685
+Madera,Reporting Area D,2020-08-25,229
+Madera,Unknown,2020-08-25,336
+Madera,Reporting Area A,2020-08-24,968
+Madera,Reporting Area B,2020-08-24,282
+Madera,Reporting Area C,2020-08-24,1671
+Madera,Reporting Area D,2020-08-24,227
+Madera,Unknown,2020-08-24,337
+Madera,Reporting Area A,2020-08-21,925
+Madera,Reporting Area B,2020-08-21,270
+Madera,Reporting Area C,2020-08-21,1597
+Madera,Reporting Area D,2020-08-21,218
+Madera,Unknown,2020-08-21,329
+Madera,Reporting Area A,2020-08-20,897
+Madera,Reporting Area B,2020-08-20,269
+Madera,Reporting Area C,2020-08-20,1570
+Madera,Reporting Area D,2020-08-20,214
+Madera,Unknown,2020-08-20,328
+Madera,Reporting Area A,2020-08-19,879
+Madera,Reporting Area B,2020-08-19,268
+Madera,Reporting Area C,2020-08-19,1549
+Madera,Reporting Area D,2020-08-19,219
+Madera,Unknown,2020-08-19,330
+Madera,Reporting Area A,2020-08-18,863
+Madera,Reporting Area B,2020-08-18,268
+Madera,Reporting Area C,2020-08-18,1532
+Madera,Reporting Area D,2020-08-18,204
+Madera,Unknown,2020-08-18,329
+Madera,Reporting Area A,2020-08-17,850
+Madera,Reporting Area B,2020-08-17,259
+Madera,Reporting Area C,2020-08-17,1498
+Madera,Reporting Area D,2020-08-17,198
+Madera,Unknown,2020-08-17,324
+Madera,Reporting Area A,2020-08-14,794
+Madera,Reporting Area B,2020-08-14,237
+Madera,Reporting Area C,2020-08-14,1406
+Madera,Reporting Area D,2020-08-14,190
+Madera,Unknown,2020-08-14,297
+Madera,Reporting Area A,2020-08-12,750
+Madera,Reporting Area B,2020-08-12,218
+Madera,Reporting Area C,2020-08-12,1331
+Madera,Reporting Area D,2020-08-12,173
+Madera,Unknown,2020-08-12,287
+Madera,Reporting Area A,2020-08-11,722
+Madera,Reporting Area B,2020-08-11,194
+Madera,Reporting Area C,2020-08-11,1247
+Madera,Reporting Area D,2020-08-11,162
+Madera,Unknown,2020-08-11,265
+Madera,Reporting Area A,2020-08-07,644
+Madera,Reporting Area B,2020-08-07,158
+Madera,Reporting Area C,2020-08-07,1127
+Madera,Reporting Area D,2020-08-07,129
+Madera,Unknown,2020-08-07,244
+Madera,Reporting Area A,2020-08-06,632
+Madera,Reporting Area B,2020-08-06,157
+Madera,Reporting Area C,2020-08-06,1108
+Madera,Reporting Area D,2020-08-06,127
+Madera,Unknown,2020-08-06,243
+Madera,Reporting Area A,2020-08-05,574
+Madera,Reporting Area B,2020-08-05,152
+Madera,Reporting Area C,2020-08-05,1033
+Madera,Reporting Area D,2020-08-05,123
+Madera,Unknown,2020-08-05,232
+Madera,Reporting Area A,2020-08-04,574
+Madera,Reporting Area B,2020-08-04,152
+Madera,Reporting Area C,2020-08-04,1000
+Madera,Reporting Area D,2020-08-04,123
+Madera,Unknown,2020-08-04,232
+Madera,Reporting Area A,2020-08-03,565
+Madera,Reporting Area B,2020-08-03,151
+Madera,Reporting Area C,2020-08-03,1013
+Madera,Reporting Area D,2020-08-03,118
+Madera,Unknown,2020-08-03,228
+Madera,Reporting Area A,2020-07-31,536
+Madera,Reporting Area B,2020-07-31,138
+Madera,Reporting Area C,2020-07-31,947
+Madera,Reporting Area D,2020-07-31,115
+Madera,Unknown,2020-07-31,207
+Madera,Reporting Area A,2020-07-30,529
+Madera,Reporting Area B,2020-07-30,118
+Madera,Reporting Area C,2020-07-30,922
+Madera,Reporting Area D,2020-07-30,113
+Madera,Unknown,2020-07-30,204
+Madera,Reporting Area A,2020-07-29,522
+Madera,Reporting Area B,2020-07-29,115
+Madera,Reporting Area C,2020-07-29,903
+Madera,Reporting Area D,2020-07-29,113
+Madera,Unknown,2020-07-29,197
+Madera,Reporting Area A,2020-07-28,489
+Madera,Reporting Area B,2020-07-28,100
+Madera,Reporting Area C,2020-07-28,861
+Madera,Reporting Area D,2020-07-28,107
+Madera,Unknown,2020-07-28,166
+Madera,Reporting Area A,2020-07-24,466
+Madera,Reporting Area B,2020-07-24,98
+Madera,Reporting Area C,2020-07-24,808
+Madera,Reporting Area D,2020-07-24,102
+Madera,Unknown,2020-07-24,156
+Madera,Reporting Area A,2020-07-23,442
+Madera,Reporting Area B,2020-07-23,93
+Madera,Reporting Area C,2020-07-23,753
+Madera,Reporting Area D,2020-07-23,94
+Madera,Unknown,2020-07-23,217
+Madera,Reporting Area A,2020-07-22,441
+Madera,Reporting Area B,2020-07-22,94
+Madera,Reporting Area C,2020-07-22,749
+Madera,Reporting Area D,2020-07-22,94
+Madera,Unknown,2020-07-22,152
+Madera,Reporting Area A,2020-07-21,424
+Madera,Reporting Area B,2020-07-21,89
+Madera,Reporting Area C,2020-07-21,707
+Madera,Reporting Area D,2020-07-21,84
+Madera,Unknown,2020-07-21,135
+Madera,Reporting Area A,2020-07-20,418
+Madera,Reporting Area B,2020-07-20,125
+Madera,Reporting Area C,2020-07-20,697
+Madera,Reporting Area D,2020-07-20,78
+Madera,Unknown,2020-07-20,133
+Madera,Reporting Area A,2020-07-19,341
+Madera,Reporting Area B,2020-07-19,73
+Madera,Reporting Area C,2020-07-19,556
+Madera,Reporting Area D,2020-07-19,58
+Madera,Unknown,2020-07-19,151

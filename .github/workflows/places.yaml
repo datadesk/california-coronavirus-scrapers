@@ -8,6 +8,7 @@ jobs:
   scrape:
     name: Scrape
     runs-on: ubuntu-latest
+    continue-on-error: true
     steps:
       - id: checkout
         name: Checkout
@@ -27,6 +28,8 @@ jobs:
         name: Run make command
         run: make -f ./places/Makefile
         shell: bash
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - id: commit
         name: Commit results
