@@ -1,0 +1,20 @@
+name: Vaccine breakthrough cases, hospitalizations and deaths
+on:
+  schedule:
+    - cron: '10 * * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    name: Scrape
+    runs-on: ubuntu-latest
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v2
+
+      - id: run
+        name: Run
+        uses: ./.github/actions/scrape
+        with:
+          module: vaccine-breakthrough-cases
