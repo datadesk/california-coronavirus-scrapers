@@ -14,13 +14,13 @@ jobs:
         name: Checkout
         uses: actions/checkout@v2
 
-      - id: install
+      - id: python-install
         name: Install Python, pipenv and Pipfile packages
         uses: palewire/install-python-pipenv-pipfile@v2
         with:
           python-version: 3.8
 
-      - id: playwright-install
+      - id: chromium-install
         name: Playwright install Chromium
         run: pipenv run playwright install chromium
 
