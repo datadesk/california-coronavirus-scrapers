@@ -21,7 +21,7 @@ jobs:
           python-version: 3.8
 
       - id: chromium-install
-        name: Playwright install Chromium
+        name: Playwright install of Chromium
         run: pipenv run playwright install chromium
 
       - id: make
