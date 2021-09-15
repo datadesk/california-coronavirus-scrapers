@@ -5,7 +5,8 @@ MAKENAME = state-prisons
 
 scrape: ## Scrape data files. Example: make -f ./state-prisons/Makefile
 	$(call start,$(MAKENAME))
-	$(call python,./state-prisons/scrape.py)
+	$(call python,./state-prisons/inmates.py)
+	$(call python,./state-prisons/employees.ipynb)
 	$(call finish)
 
 help: ## Show this help. Example: make -f ./state-prisons/Makefile help
