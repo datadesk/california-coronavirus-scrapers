@@ -5,7 +5,7 @@ MAKENAME = skilled-nursing-totals
 
 scrape: ## Scrape data files. Example: make -f ./skilled-nursing-totals/Makefile
 	$(call start,$(MAKENAME))
-	$(call python,./skilled-nursing-totals/scrape.py)
+	$(call jupyter,./skilled-nursing-totals/scrape.ipynb)
 	$(call finish)
 
 help: ## Show this help. Example: make -f ./skilled-nursing-totals/Makefile help
