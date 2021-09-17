@@ -7,7 +7,7 @@ on:
 jobs:
   scrape:
     name: Scrape
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     steps:
       - id: checkout
         name: Checkout
