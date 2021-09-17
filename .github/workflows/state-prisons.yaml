@@ -7,11 +7,20 @@ on:
 jobs:
   scrape:
     name: Scrape
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     steps:
       - id: checkout
         name: Checkout
         uses: actions/checkout@v2
+
+      - id: install-chromedriver
+        uses: nanasess/setup-chromedriver@master
+
+      - id: configure-chromedriver
+        run: |
+          export DISPLAY=:99
+          chromedriver --url-base=/wd/hub &
+          sudo Xvfb -ac :99 -screen 0 1280x1024x24 > /dev/null 2>&1 & # optional
 
       - id: run
         name: Run
