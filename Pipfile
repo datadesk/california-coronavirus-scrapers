@@ -27,6 +27,7 @@ nbclient = "*"
 nbconvert = "*"
 playwright = "*"
 openpyxl = "*"
+slugify = "*"
 
 [requires]
 python_version = "3.8"
