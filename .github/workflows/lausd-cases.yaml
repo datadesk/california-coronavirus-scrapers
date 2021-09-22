@@ -1,0 +1,86 @@
+name: Scrape
+on:
+  schedule:
+    - cron: 0 11 * * *
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    name: Scrape
+    runs-on: macos-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - id: setup-python
+        name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+
+      - id: install-pipenv
+        name: Install pipenv
+        run: |
+          python -m pip install --upgrade --no-cache-dir pip
+          python -m pip install --no-cache-dir pipenv
+        shell: bash
+
+      - id: cache-pipfile
+        name: Cache Pipfile
+        uses: actions/cache@v2
+        with:
+          path: ~/.local/share/virtualenvs
+          key: ${{ runner.os }}-python-${{ steps.setup-python.outputs.python-version }}-pipenv-${{ hashFiles('Pipfile.lock') }}
+
+      - id: sync-pipfile
+        name: Sync Pipfile
+        run: pipenv sync
+        shell: bash
+
+      - name: Create Slack notification
+        uses: datadesk/notify-slack-on-build@master
+        id: slack
+        with:
+          slack-token: ${{ secrets.DATA_GRAPHICS_BOT_SLACK_TOKEN }}
+          channel-name: |
+              #data-and-graphics-feeds
+          status: in_progress
+          url: https://www.github.com/datadesk/school-cases/
+          status-text: "LAUSD download started"
+
+      - name: Scrape
+        run: pipenv run python lausd-cases/scrape.py
+
+      - name: Add and commit
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "actions@github.com"
+          git pull origin main
+          git add lausd-cases/
+          git commit -m "Downloading LAUSD case counts on $(TZ=America/Los_Angeles date +"%r on %F")" 
+          
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+
+      - name: Update Slack notification (success)
+        if: success()
+        uses: datadesk/notify-slack-on-build@master
+        with:
+          slack-token: ${{ secrets.DATA_GRAPHICS_BOT_SLACK_TOKEN }}
+          channel-id: | 
+              ${{ steps.slack.outputs.channel-id }}
+          status: success
+          url: https://www.github.com/datadesk/school-cases/
+          status-text: "LAUSD scrape complete"
+          message-id: ${{ steps.slack.outputs.message-id }}
+
+      - name: Update Slack notification (failure)
+        if: failure()
+        uses: datadesk/notify-slack-on-build@master
+        with:
+          slack-token: ${{ secrets.DATA_GRAPHICS_BOT_SLACK_TOKEN }}
+          channel-id: |
+              ${{ steps.slack.outputs.channel-id }}
+          status: failure
+          url: https://www.github.com/datadesk/school-cases/
+          message-id: ${{ steps.slack.outputs.message-id }}
