@@ -152,7 +152,7 @@ colors = {
 
 def get_data(i):
     """
-    get dat 
+    get data
     """
 
     while True:
