@@ -1,4 +1,4 @@
-name: Scrape
+name: LAUSD-scrape
 on:
   schedule:
     - cron: 0 11 * * *

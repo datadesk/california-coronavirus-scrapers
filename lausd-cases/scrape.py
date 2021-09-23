@@ -19,7 +19,7 @@ data_dir = cwd.joinpath("data/")
 print(data_dir.joinpath("latest.csv"))
 # config
 chrome_options = Options()
-# chrome_options.add_argument("--headless")
+chrome_options.add_argument("--headless")
 chrome_options.add_argument("--window-size=1230x970")
 
 
