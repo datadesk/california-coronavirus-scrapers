@@ -1,7 +1,7 @@
 """
 Download the California Department of Public Health's dataset of cases, deaths and tests by county.
 
-Source: https://data.ca.gov/dataset/covid-19-time-series-metrics-by-county-and-state
+Source: https://data.ca.gov/dataset/covid-19-time-series-metrics-by-county-and-state1/
 """
 import pathlib
 import pandas as pd
