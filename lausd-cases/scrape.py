@@ -19,13 +19,12 @@ data_dir = cwd.joinpath("data/")
 print(data_dir.joinpath("latest.csv"))
 # config
 chrome_options = Options()
-chrome_options.add_argument("--headless")
-chrome_options.add_argument("--window-size=1230x970")
+#chrome_options.add_argument("--headless")
+#chrome_options.add_argument("--window-size=1230x970")
 
 
 # set up dataframe
-df = pd.DataFrame(columns=["id", "school", "status", "color", "staff_student", "transmission", "staff_student_rate", "community_rate", "lac_rate", "community_schools", "community", "date", "time"])
-
+df = pd.DataFrame( columns = ["id","school","status","color", "staff_student", "transmission", "testing_period","tests", "pos","pos_rate","change", "cos", "cos_tests","cos_pos","cos_pos_rate","cos_change","lausd_tests","lausd_pos","lausd_pos_rate","lausd_change","date","time"])
 #
 url = 'https://achieve.lausd.net/covidreportcard'
 soup = BeautifulSoup(requests.get(url).content, 'html.parser')
@@ -41,26 +40,21 @@ def load():
     """
     load webdriver and wait for contents
     """
-
-    print("Wating to load")
-
     driver.get(soup.iframe['src'])
-
+    
     while True:
         divs = driver.find_elements_by_class_name("bringToFront")
-        time.sleep(15)
-        if len(divs) > 24:
+        time.sleep(5)
+        if len(divs)>24:
             time.sleep(30)
-            date_raw = divs[4]
-            date_raw.text != ''
+            date_raw = divs[5]
+            date_raw.text != '' 
             break
-
+        
     date_trim = date_raw.text.split()[2]
-    date_clean = date_trim.replace("/", "-")
+    date_clean = date_trim.replace("/","-")
     timestamp = f"{date_raw.text.split()[3].split(':')[0]}{date_raw.text.split()[4]}"
-
-    print(f"Updated date: {date_clean}-{timestamp}")
-
+        
     return date_clean, timestamp
 
 
@@ -152,76 +146,82 @@ colors = {
 
 def get_data(i):
     """
-    get data
+    get dat 
     """
-
+    
+    drop_btn = driver.find_elements_by_class_name("dropdown-chevron")
+    
+    
     while True:
         try:
             scroll_to(i)
-            time.sleep(0.2)
             dropper = driver.find_element_by_xpath(f".//div[@point-inset='{i}']")
             dropper.click()
 
         except NoSuchElementException:
             print(i)
-            print("no element")
+            print ("no element")
             time.sleep(1)
             continue
 
         except StaleElementReferenceException:
             print(i)
-            print("stale")
+            print ("stale")
             time.sleep(2)
             continue
-
+        
         except ElementNotInteractableException:
             print(i)
-            print("not interactable")
+            print ("not interactable")
             time.sleep(1)
             continue
-
-        except ElementClickInterceptedException:
-            print(i)
-            print("click intercepted")
-
-            time.sleep(1)
-            continue
-
+            
         break
-
+        
     time.sleep(0.8)
 
-    if i > 2:
+    if i>2:
         while True:
             time.sleep(0.1)
             cards = driver.find_elements_by_class_name("card")
-            # keep pulling cards till it's not same as one before
-            if cards[0].text != df.loc[(len(df)-1), "school"]:
+            #keep pulling cards till it's not same as one before
+            if cards[0].text != df.loc[(len(df)-1),"school"]:
                 break
-    else:
+    else: 
         cards = driver.find_elements_by_class_name("card")
-
-    # collect
-    school_name = cards[0].text
-    status = cards[1].text
+            
+    
+    #collect
+    school_name= cards[0].text
+    status= cards[1].text
     rgb = cards[1].find_elements_by_xpath('./*')[0].find_elements_by_xpath('./*')[0].get_attribute("style").split(';')[1].split(': ')[1]
     if rgb in colors.keys():
         color = colors[rgb]
     else:
-        color = 'red'
-
-    update_date = cards[2].text.split(": ")[1].split()[0]
+        color='red'
+    update_date =cards[2].text.split(": ")[1].split()[0]
     update_time = "".join(cards[2].text.split()[-2:])
-    staff_student = cards[3].text
-    transmission = cards[4].text
-    staff_student_rate = cards[5].text
-    community_rate = cards[6].text
-    lac_rate = cards[7].text
-    s_comm = cards[8].text
-    comm = cards[9].text
-
-    row = [i, school_name, status, color, staff_student, transmission, staff_student_rate, community_rate, lac_rate, s_comm, comm, update_date, update_time]
-
+    staff_student= cards[4].text
+    transmission = cards[5].text
+    testing_period= cards[3].text
+    tests= cards[7].text
+    pos= cards[8].text
+    pos_rate= cards[9].text
+    change= cards[10].text
+    cos=cards[11].text
+    cos_tests= cards[12].text
+    cos_pos=cards[13].text
+    cos_pos_rate= cards[14].text
+    cos_change= cards[15].text
+    lausd_tests=cards[19].text
+    lausd_pos=cards[16].text
+    lausd_pos_rate= cards[17].text
+    lausd_change=cards[18].text
+    
+    row = [i,school_name, status, color,staff_student, transmission, testing_period, tests, pos, pos_rate, change, cos,
+       cos_tests, cos_pos, cos_pos_rate, cos_change, lausd_tests,
+       lausd_pos, lausd_pos_rate, lausd_change,update_date,update_time]
+    
     df_length = len(df)
 
     df.loc[df_length] = row
