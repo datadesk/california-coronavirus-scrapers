@@ -137,6 +137,7 @@ def main():
         'sierra',
         'siskiyou',
         'solano',
+        'sonoma',
         'stanislaus',
         'sutter',
         'trinity',
