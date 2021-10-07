@@ -44,7 +44,7 @@ def load():
     
     while True:
         divs = driver.find_elements_by_class_name("bringToFront")
-        time.sleep(5)
+        time.sleep(10)
         if len(divs)>24:
             time.sleep(30)
             date_raw = divs[5]
