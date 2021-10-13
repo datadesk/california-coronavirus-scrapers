@@ -1,3 +1,5 @@
+ #!/usr/bin/env python
+    
 from pathlib import Path
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
