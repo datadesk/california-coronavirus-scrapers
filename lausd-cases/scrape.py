@@ -33,7 +33,7 @@ url = 'https://achieve.lausd.net/covidreportcard'
 soup = BeautifulSoup(requests.get(url).content, 'html.parser')
 html_data = requests.get(soup.iframe['src']).text
 
-driver = webdriver.Chrome(options=chrome_options, executable_path='/usr/bin/chromedriver')
+driver = webdriver.Chrome(options=chrome_options)
 
 
 def load():
