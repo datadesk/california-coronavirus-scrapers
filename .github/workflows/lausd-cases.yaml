@@ -27,20 +27,14 @@ jobs:
           python -m pip install --upgrade --no-cache-dir pip
           python -m pip install --no-cache-dir pipenv
 
-      - id: cache-pipfile
-        name: Cache Pipfile
-        uses: actions/cache@v2
-        with:
-          path: ~/.local/share/virtualenvs
-          key: ${{ runner.os }}-python-${{ steps.setup-python.outputs.python-version }}-pipenv-${{ hashFiles('Pipfile.lock') }}
-
       - name: Install dependencies
-        if: steps.cache-pipenv.outputs.cache-hit != 'true'
         run: |
           pipenv install
 
       - name: Scrape
-        run: pipenv run python lausd-cases/scrape.py
+        shell: bash
+        run: |
+          pipenv run python lausd-cases/scrape.py
 
       - name: Add and commit
         run: |
