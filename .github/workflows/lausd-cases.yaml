@@ -7,7 +7,8 @@ on:
 jobs:
   scrape:
     name: Scrape
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -16,7 +17,7 @@ jobs:
         name: Setup Python
         uses: actions/setup-python@v2
         with:
-          python-version: 3.9
+          python-version: 3.8
 
       - id: install-pipenv
         name: Install pipenv
@@ -48,6 +49,9 @@ jobs:
           url: https://www.github.com/datadesk/school-cases/
           status-text: "LAUSD download started"
 
+      - name: install-chromedriver
+        uses: nanasess/setup-chromedriver@master
+     
       - name: Scrape
         run: pipenv run python lausd-cases/scrape.py
 

@@ -6,7 +6,6 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import StaleElementReferenceException
 from selenium.common.exceptions import ElementNotInteractableException
 from selenium.common.exceptions import ElementClickInterceptedException
-from webdriver_manager.chrome import ChromeDriverManager
 import pandas as pd
 import requests
 import time
@@ -16,11 +15,16 @@ from bs4 import BeautifulSoup
 cwd = Path(__file__).parent.resolve()
 data_dir = cwd.joinpath("data/")
 
-print(data_dir.joinpath("latest.csv"))
+#print(data_dir.joinpath("latest.csv"))
 # config
 chrome_options = Options()
-chrome_options.add_argument("--headless")
 chrome_options.add_argument("--window-size=1230x970")
+chrome_options.add_argument("--headless")
+chrome_options.add_argument("--disable-dev-shm-usage")
+chrome_options.add_argument('--no-sandbox')
+chrome_options.add_argument('--disable-gpu')
+chrome_options.add_argument('disable-infobars')
+chrome_options.add_argument("--disable-extensions")
 
 
 # set up dataframe
@@ -30,10 +34,7 @@ url = 'https://achieve.lausd.net/covidreportcard'
 soup = BeautifulSoup(requests.get(url).content, 'html.parser')
 html_data = requests.get(soup.iframe['src']).text
 
-driver = webdriver.Chrome(
-    ChromeDriverManager().install(),
-    options=chrome_options
-)
+driver = webdriver.Chrome(options=chrome_options, executable_path='/usr/bin/chromedriver')
 
 
 def load():
