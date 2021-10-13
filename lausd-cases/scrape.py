@@ -220,6 +220,7 @@ def get_data(i):
     df_length = len(df)
 
     df.loc[df_length] = row
+    print(i)
 
 
 def scrape():
