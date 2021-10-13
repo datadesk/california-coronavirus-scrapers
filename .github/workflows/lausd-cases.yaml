@@ -11,6 +11,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+        
+      - name: install-chromedriver
+        uses: nanasess/setup-chromedriver@master
 
       - id: setup-python
         name: Setup Python
@@ -34,22 +37,8 @@ jobs:
       - name: Install dependencies
         if: steps.cache-pipenv.outputs.cache-hit != 'true'
         run: |
-          pipenv install --deploy --dev
+          pipenv install
 
-      - name: Create Slack notification
-        uses: datadesk/notify-slack-on-build@master
-        id: slack
-        with:
-          slack-token: ${{ secrets.DATA_GRAPHICS_BOT_SLACK_TOKEN }}
-          channel-name: |
-              #data-and-graphics-feeds
-          status: in_progress
-          url: https://www.github.com/datadesk/school-cases/
-          status-text: "LAUSD download started"
-
-      - name: install-chromedriver
-        uses: nanasess/setup-chromedriver@master
-     
       - name: Scrape
         run: pipenv run python lausd-cases/scrape.py
 
