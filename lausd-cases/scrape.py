@@ -1,3 +1,4 @@
+print ("starting")
 from pathlib import Path
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
