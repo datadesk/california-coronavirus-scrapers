@@ -1,4 +1,3 @@
-print ("starting")
 from pathlib import Path
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -6,6 +5,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import StaleElementReferenceException
 from selenium.common.exceptions import ElementNotInteractableException
+from webdriver_manager.chrome import ChromeDriverManager
 import pandas as pd
 import requests
 import time
@@ -29,12 +29,15 @@ chrome_options.add_argument("--disable-extensions")
 
 # set up dataframe
 df = pd.DataFrame(columns=["id", "school", "status", "color", "staff_student", "transmission", "testing_period", "tests", "pos", "pos_rate", "change", "cos", "cos_tests", "cos_pos", "cos_pos_rate", "cos_change", "lausd_tests", "lausd_pos", "lausd_pos_rate", "lausd_change", "date", "time"])
-#
+
 url = 'https://achieve.lausd.net/covidreportcard'
 soup = BeautifulSoup(requests.get(url).content, 'html.parser')
 html_data = requests.get(soup.iframe['src']).text
 
-driver = webdriver.Chrome(options=chrome_options)
+driver = webdriver.Chrome(
+    ChromeDriverManager().install()
+    # options=chrome_options
+    )
 
 
 def load():
