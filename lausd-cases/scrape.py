@@ -10,6 +10,7 @@ import pandas as pd
 import requests
 import time
 from bs4 import BeautifulSoup
+print("starting")
 
 # paths
 cwd = Path(__file__).parent.resolve()

@@ -26,7 +26,7 @@ def main():
 
     # Convert it to a dataframe
     df = pd.DataFrame.from_dict(data)
-    assert df.shape[0] == 65
+    assert df.shape[0] == 64
 
     # Deal with dates
     tz = pytz.timezone("America/Los_Angeles")

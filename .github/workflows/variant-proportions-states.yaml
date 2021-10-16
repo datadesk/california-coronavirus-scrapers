@@ -1,7 +1,5 @@
 name: Variants by state
 on:
-  schedule:
-    - cron: '50 */4 * * *'
   workflow_dispatch:
 
 jobs:
