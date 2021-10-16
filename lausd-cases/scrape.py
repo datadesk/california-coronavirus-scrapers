@@ -1,4 +1,3 @@
-print ("starting")
 from pathlib import Path
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -10,6 +9,7 @@ import pandas as pd
 import requests
 import time
 from bs4 import BeautifulSoup
+print("starting")
 
 # paths
 cwd = Path(__file__).parent.resolve()
