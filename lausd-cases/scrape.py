@@ -120,7 +120,7 @@ def findEndpoint():
     # get point-inset
     vis = driver.find_element_by_class_name("visibleGroup")
     children = vis.find_elements_by_xpath(".//div[@class='slicerItemContainer']")
-    last = children[-1].get_attribute("point-inset")
+    last = children[-1].get_attribute("aria-posinset")
 
     print(f"School count: {last}")
 
@@ -137,7 +137,7 @@ def scroll_to(i):
     while dropper is None:
         try:
             driver.execute_script("arguments[0].scrollBy(0,1);", scrollbar)
-            dropper = driver.find_element_by_xpath(f".//div[@point-inset='{i}']")
+            dropper = driver.find_element_by_xpath(f".//div[@aria-posinset='{i}']")
         except NoSuchElementException:
             driver.execute_script(f"arguments[0].scrollBy(0,{174});", scrollbar)
             time.sleep(0.2)
@@ -156,7 +156,7 @@ def get_data(i):
     while True:
         try:
             scroll_to(i)
-            dropper = driver.find_element_by_xpath(f".//div[@point-inset='{i}']")
+            dropper = driver.find_element_by_xpath(f".//div[@aria-posinset='{i}']")
             dropper.click()
 
         except NoSuchElementException:
