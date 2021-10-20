@@ -10557,35 +10557,291 @@ San Mateo,San Mateo,7146.0,2021-10-01,2021-10-05
 San Mateo,South San Francisco,5172.0,2021-10-01,2021-10-05
 San Mateo,West Menlo Park,103.0,2021-10-01,2021-10-05
 San Mateo,Woodside,214.0,2021-10-01,2021-10-05
-San Mateo,Atherton,288.0,2021-09-30,2021-10-06
-San Mateo,Belmont,1156.0,2021-09-30,2021-10-06
-San Mateo,Brisbane,236.0,2021-09-30,2021-10-06
-San Mateo,Broadmoor,305.0,2021-09-30,2021-10-06
-San Mateo,Burlingame,1622.0,2021-09-30,2021-10-06
-San Mateo,Colma,299.0,2021-09-30,2021-10-06
-San Mateo,Daly City,8099.0,2021-09-30,2021-10-06
-San Mateo,East Palo Alto,5134.0,2021-09-30,2021-10-06
-San Mateo,El Granada,185.0,2021-09-30,2021-10-06
-San Mateo,Emerald Hills,181.0,2021-09-30,2021-10-06
-San Mateo,Foster City,1076.0,2021-09-30,2021-10-06
-San Mateo,Half Moon Bay,928.0,2021-09-30,2021-10-06
-San Mateo,Hillsborough,419.0,2021-09-30,2021-10-06
-San Mateo,La Honda,21.0,2021-09-30,2021-10-06
-San Mateo,Ladera,54.0,2021-09-30,2021-10-06
-San Mateo,Loma Mar,<10,2021-09-30,2021-10-06
-San Mateo,Menlo Park,2038.0,2021-09-30,2021-10-06
-San Mateo,Millbrae,984.0,2021-09-30,2021-10-06
-San Mateo,Montara,91.0,2021-09-30,2021-10-06
-San Mateo,Moss Beach,70.0,2021-09-30,2021-10-06
-San Mateo,North Fair Oaks,1980.0,2021-09-30,2021-10-06
-San Mateo,Pacifica,1898.0,2021-09-30,2021-10-06
-San Mateo,Pescadero,68.0,2021-09-30,2021-10-06
-San Mateo,Portola Valley,139.0,2021-09-30,2021-10-06
-San Mateo,Princeton,<10,2021-09-30,2021-10-06
-San Mateo,Redwood City,6630.0,2021-09-30,2021-10-06
-San Mateo,San Bruno,3097.0,2021-09-30,2021-10-06
-San Mateo,San Carlos,1076.0,2021-09-30,2021-10-06
-San Mateo,San Mateo,7146.0,2021-09-30,2021-10-06
-San Mateo,South San Francisco,5172.0,2021-09-30,2021-10-06
-San Mateo,West Menlo Park,103.0,2021-09-30,2021-10-06
-San Mateo,Woodside,214.0,2021-09-30,2021-10-06
+San Mateo,Atherton,288.0,2021-10-01,2021-10-06
+San Mateo,Belmont,1156.0,2021-10-01,2021-10-06
+San Mateo,Brisbane,236.0,2021-10-01,2021-10-06
+San Mateo,Broadmoor,305.0,2021-10-01,2021-10-06
+San Mateo,Burlingame,1622.0,2021-10-01,2021-10-06
+San Mateo,Colma,299.0,2021-10-01,2021-10-06
+San Mateo,Daly City,8099.0,2021-10-01,2021-10-06
+San Mateo,East Palo Alto,5134.0,2021-10-01,2021-10-06
+San Mateo,El Granada,185.0,2021-10-01,2021-10-06
+San Mateo,Emerald Hills,181.0,2021-10-01,2021-10-06
+San Mateo,Foster City,1076.0,2021-10-01,2021-10-06
+San Mateo,Half Moon Bay,928.0,2021-10-01,2021-10-06
+San Mateo,Hillsborough,419.0,2021-10-01,2021-10-06
+San Mateo,La Honda,21.0,2021-10-01,2021-10-06
+San Mateo,Ladera,54.0,2021-10-01,2021-10-06
+San Mateo,Loma Mar,<10,2021-10-01,2021-10-06
+San Mateo,Menlo Park,2038.0,2021-10-01,2021-10-06
+San Mateo,Millbrae,984.0,2021-10-01,2021-10-06
+San Mateo,Montara,91.0,2021-10-01,2021-10-06
+San Mateo,Moss Beach,70.0,2021-10-01,2021-10-06
+San Mateo,North Fair Oaks,1980.0,2021-10-01,2021-10-06
+San Mateo,Pacifica,1898.0,2021-10-01,2021-10-06
+San Mateo,Pescadero,68.0,2021-10-01,2021-10-06
+San Mateo,Portola Valley,139.0,2021-10-01,2021-10-06
+San Mateo,Princeton,<10,2021-10-01,2021-10-06
+San Mateo,Redwood City,6630.0,2021-10-01,2021-10-06
+San Mateo,San Bruno,3097.0,2021-10-01,2021-10-06
+San Mateo,San Carlos,1076.0,2021-10-01,2021-10-06
+San Mateo,San Mateo,7146.0,2021-10-01,2021-10-06
+San Mateo,South San Francisco,5172.0,2021-10-01,2021-10-06
+San Mateo,West Menlo Park,103.0,2021-10-01,2021-10-06
+San Mateo,Woodside,214.0,2021-10-01,2021-10-06
+San Mateo,Atherton,288.0,2021-10-01,2021-10-07
+San Mateo,Belmont,1156.0,2021-10-01,2021-10-07
+San Mateo,Brisbane,236.0,2021-10-01,2021-10-07
+San Mateo,Broadmoor,305.0,2021-10-01,2021-10-07
+San Mateo,Burlingame,1622.0,2021-10-01,2021-10-07
+San Mateo,Colma,299.0,2021-10-01,2021-10-07
+San Mateo,Daly City,8099.0,2021-10-01,2021-10-07
+San Mateo,East Palo Alto,5134.0,2021-10-01,2021-10-07
+San Mateo,El Granada,185.0,2021-10-01,2021-10-07
+San Mateo,Emerald Hills,181.0,2021-10-01,2021-10-07
+San Mateo,Foster City,1076.0,2021-10-01,2021-10-07
+San Mateo,Half Moon Bay,928.0,2021-10-01,2021-10-07
+San Mateo,Hillsborough,419.0,2021-10-01,2021-10-07
+San Mateo,La Honda,21.0,2021-10-01,2021-10-07
+San Mateo,Ladera,54.0,2021-10-01,2021-10-07
+San Mateo,Loma Mar,<10,2021-10-01,2021-10-07
+San Mateo,Menlo Park,2038.0,2021-10-01,2021-10-07
+San Mateo,Millbrae,984.0,2021-10-01,2021-10-07
+San Mateo,Montara,91.0,2021-10-01,2021-10-07
+San Mateo,Moss Beach,70.0,2021-10-01,2021-10-07
+San Mateo,North Fair Oaks,1980.0,2021-10-01,2021-10-07
+San Mateo,Pacifica,1898.0,2021-10-01,2021-10-07
+San Mateo,Pescadero,68.0,2021-10-01,2021-10-07
+San Mateo,Portola Valley,139.0,2021-10-01,2021-10-07
+San Mateo,Princeton,<10,2021-10-01,2021-10-07
+San Mateo,Redwood City,6630.0,2021-10-01,2021-10-07
+San Mateo,San Bruno,3097.0,2021-10-01,2021-10-07
+San Mateo,San Carlos,1076.0,2021-10-01,2021-10-07
+San Mateo,San Mateo,7146.0,2021-10-01,2021-10-07
+San Mateo,South San Francisco,5172.0,2021-10-01,2021-10-07
+San Mateo,West Menlo Park,103.0,2021-10-01,2021-10-07
+San Mateo,Woodside,214.0,2021-10-01,2021-10-07
+San Mateo,Atherton,289.0,2021-10-08,2021-10-08
+San Mateo,Belmont,1129.0,2021-10-08,2021-10-08
+San Mateo,Brisbane,227.0,2021-10-08,2021-10-08
+San Mateo,Broadmoor,307.0,2021-10-08,2021-10-08
+San Mateo,Burlingame,1573.0,2021-10-08,2021-10-08
+San Mateo,Colma,296.0,2021-10-08,2021-10-08
+San Mateo,Daly City,8077.0,2021-10-08,2021-10-08
+San Mateo,East Palo Alto,5140.0,2021-10-08,2021-10-08
+San Mateo,El Granada,186.0,2021-10-08,2021-10-08
+San Mateo,Emerald Hills,181.0,2021-10-08,2021-10-08
+San Mateo,Foster City,984.0,2021-10-08,2021-10-08
+San Mateo,Half Moon Bay,927.0,2021-10-08,2021-10-08
+San Mateo,Hillsborough,402.0,2021-10-08,2021-10-08
+San Mateo,La Honda,21.0,2021-10-08,2021-10-08
+San Mateo,Ladera,54.0,2021-10-08,2021-10-08
+San Mateo,Loma Mar,<10,2021-10-08,2021-10-08
+San Mateo,Menlo Park,2040.0,2021-10-08,2021-10-08
+San Mateo,Millbrae,965.0,2021-10-08,2021-10-08
+San Mateo,Montara,88.0,2021-10-08,2021-10-08
+San Mateo,Moss Beach,68.0,2021-10-08,2021-10-08
+San Mateo,North Fair Oaks,1984.0,2021-10-08,2021-10-08
+San Mateo,Pacifica,1875.0,2021-10-08,2021-10-08
+San Mateo,Pescadero,68.0,2021-10-08,2021-10-08
+San Mateo,Portola Valley,139.0,2021-10-08,2021-10-08
+San Mateo,Princeton,<10,2021-10-08,2021-10-08
+San Mateo,Redwood City,6608.0,2021-10-08,2021-10-08
+San Mateo,San Bruno,3065.0,2021-10-08,2021-10-08
+San Mateo,San Carlos,1070.0,2021-10-08,2021-10-08
+San Mateo,San Mateo,6880.0,2021-10-08,2021-10-08
+San Mateo,South San Francisco,5154.0,2021-10-08,2021-10-08
+San Mateo,West Menlo Park,103.0,2021-10-08,2021-10-08
+San Mateo,Woodside,216.0,2021-10-08,2021-10-08
+San Mateo,Atherton,289.0,2021-10-08,2021-10-09
+San Mateo,Belmont,1129.0,2021-10-08,2021-10-09
+San Mateo,Brisbane,227.0,2021-10-08,2021-10-09
+San Mateo,Broadmoor,307.0,2021-10-08,2021-10-09
+San Mateo,Burlingame,1573.0,2021-10-08,2021-10-09
+San Mateo,Colma,296.0,2021-10-08,2021-10-09
+San Mateo,Daly City,8077.0,2021-10-08,2021-10-09
+San Mateo,East Palo Alto,5140.0,2021-10-08,2021-10-09
+San Mateo,El Granada,186.0,2021-10-08,2021-10-09
+San Mateo,Emerald Hills,181.0,2021-10-08,2021-10-09
+San Mateo,Foster City,984.0,2021-10-08,2021-10-09
+San Mateo,Half Moon Bay,927.0,2021-10-08,2021-10-09
+San Mateo,Hillsborough,402.0,2021-10-08,2021-10-09
+San Mateo,La Honda,21.0,2021-10-08,2021-10-09
+San Mateo,Ladera,54.0,2021-10-08,2021-10-09
+San Mateo,Loma Mar,<10,2021-10-08,2021-10-09
+San Mateo,Menlo Park,2040.0,2021-10-08,2021-10-09
+San Mateo,Millbrae,965.0,2021-10-08,2021-10-09
+San Mateo,Montara,88.0,2021-10-08,2021-10-09
+San Mateo,Moss Beach,68.0,2021-10-08,2021-10-09
+San Mateo,North Fair Oaks,1984.0,2021-10-08,2021-10-09
+San Mateo,Pacifica,1875.0,2021-10-08,2021-10-09
+San Mateo,Pescadero,68.0,2021-10-08,2021-10-09
+San Mateo,Portola Valley,139.0,2021-10-08,2021-10-09
+San Mateo,Princeton,<10,2021-10-08,2021-10-09
+San Mateo,Redwood City,6608.0,2021-10-08,2021-10-09
+San Mateo,San Bruno,3065.0,2021-10-08,2021-10-09
+San Mateo,San Carlos,1070.0,2021-10-08,2021-10-09
+San Mateo,San Mateo,6880.0,2021-10-08,2021-10-09
+San Mateo,South San Francisco,5154.0,2021-10-08,2021-10-09
+San Mateo,West Menlo Park,103.0,2021-10-08,2021-10-09
+San Mateo,Woodside,216.0,2021-10-08,2021-10-09
+San Mateo,Atherton,289.0,2021-10-08,2021-10-10
+San Mateo,Belmont,1129.0,2021-10-08,2021-10-10
+San Mateo,Brisbane,227.0,2021-10-08,2021-10-10
+San Mateo,Broadmoor,307.0,2021-10-08,2021-10-10
+San Mateo,Burlingame,1573.0,2021-10-08,2021-10-10
+San Mateo,Colma,296.0,2021-10-08,2021-10-10
+San Mateo,Daly City,8077.0,2021-10-08,2021-10-10
+San Mateo,East Palo Alto,5140.0,2021-10-08,2021-10-10
+San Mateo,El Granada,186.0,2021-10-08,2021-10-10
+San Mateo,Emerald Hills,181.0,2021-10-08,2021-10-10
+San Mateo,Foster City,984.0,2021-10-08,2021-10-10
+San Mateo,Half Moon Bay,927.0,2021-10-08,2021-10-10
+San Mateo,Hillsborough,402.0,2021-10-08,2021-10-10
+San Mateo,La Honda,21.0,2021-10-08,2021-10-10
+San Mateo,Ladera,54.0,2021-10-08,2021-10-10
+San Mateo,Loma Mar,<10,2021-10-08,2021-10-10
+San Mateo,Menlo Park,2040.0,2021-10-08,2021-10-10
+San Mateo,Millbrae,965.0,2021-10-08,2021-10-10
+San Mateo,Montara,88.0,2021-10-08,2021-10-10
+San Mateo,Moss Beach,68.0,2021-10-08,2021-10-10
+San Mateo,North Fair Oaks,1984.0,2021-10-08,2021-10-10
+San Mateo,Pacifica,1875.0,2021-10-08,2021-10-10
+San Mateo,Pescadero,68.0,2021-10-08,2021-10-10
+San Mateo,Portola Valley,139.0,2021-10-08,2021-10-10
+San Mateo,Princeton,<10,2021-10-08,2021-10-10
+San Mateo,Redwood City,6608.0,2021-10-08,2021-10-10
+San Mateo,San Bruno,3065.0,2021-10-08,2021-10-10
+San Mateo,San Carlos,1070.0,2021-10-08,2021-10-10
+San Mateo,San Mateo,6880.0,2021-10-08,2021-10-10
+San Mateo,South San Francisco,5154.0,2021-10-08,2021-10-10
+San Mateo,West Menlo Park,103.0,2021-10-08,2021-10-10
+San Mateo,Woodside,216.0,2021-10-08,2021-10-10
+San Mateo,Atherton,289.0,2021-10-08,2021-10-11
+San Mateo,Belmont,1129.0,2021-10-08,2021-10-11
+San Mateo,Brisbane,227.0,2021-10-08,2021-10-11
+San Mateo,Broadmoor,307.0,2021-10-08,2021-10-11
+San Mateo,Burlingame,1573.0,2021-10-08,2021-10-11
+San Mateo,Colma,296.0,2021-10-08,2021-10-11
+San Mateo,Daly City,8077.0,2021-10-08,2021-10-11
+San Mateo,East Palo Alto,5140.0,2021-10-08,2021-10-11
+San Mateo,El Granada,186.0,2021-10-08,2021-10-11
+San Mateo,Emerald Hills,181.0,2021-10-08,2021-10-11
+San Mateo,Foster City,984.0,2021-10-08,2021-10-11
+San Mateo,Half Moon Bay,927.0,2021-10-08,2021-10-11
+San Mateo,Hillsborough,402.0,2021-10-08,2021-10-11
+San Mateo,La Honda,21.0,2021-10-08,2021-10-11
+San Mateo,Ladera,54.0,2021-10-08,2021-10-11
+San Mateo,Loma Mar,<10,2021-10-08,2021-10-11
+San Mateo,Menlo Park,2040.0,2021-10-08,2021-10-11
+San Mateo,Millbrae,965.0,2021-10-08,2021-10-11
+San Mateo,Montara,88.0,2021-10-08,2021-10-11
+San Mateo,Moss Beach,68.0,2021-10-08,2021-10-11
+San Mateo,North Fair Oaks,1984.0,2021-10-08,2021-10-11
+San Mateo,Pacifica,1875.0,2021-10-08,2021-10-11
+San Mateo,Pescadero,68.0,2021-10-08,2021-10-11
+San Mateo,Portola Valley,139.0,2021-10-08,2021-10-11
+San Mateo,Princeton,<10,2021-10-08,2021-10-11
+San Mateo,Redwood City,6608.0,2021-10-08,2021-10-11
+San Mateo,San Bruno,3065.0,2021-10-08,2021-10-11
+San Mateo,San Carlos,1070.0,2021-10-08,2021-10-11
+San Mateo,San Mateo,6880.0,2021-10-08,2021-10-11
+San Mateo,South San Francisco,5154.0,2021-10-08,2021-10-11
+San Mateo,West Menlo Park,103.0,2021-10-08,2021-10-11
+San Mateo,Woodside,216.0,2021-10-08,2021-10-11
+San Mateo,Atherton,289.0,2021-10-08,2021-10-12
+San Mateo,Belmont,1129.0,2021-10-08,2021-10-12
+San Mateo,Brisbane,227.0,2021-10-08,2021-10-12
+San Mateo,Broadmoor,307.0,2021-10-08,2021-10-12
+San Mateo,Burlingame,1573.0,2021-10-08,2021-10-12
+San Mateo,Colma,296.0,2021-10-08,2021-10-12
+San Mateo,Daly City,8077.0,2021-10-08,2021-10-12
+San Mateo,East Palo Alto,5140.0,2021-10-08,2021-10-12
+San Mateo,El Granada,186.0,2021-10-08,2021-10-12
+San Mateo,Emerald Hills,181.0,2021-10-08,2021-10-12
+San Mateo,Foster City,984.0,2021-10-08,2021-10-12
+San Mateo,Half Moon Bay,927.0,2021-10-08,2021-10-12
+San Mateo,Hillsborough,402.0,2021-10-08,2021-10-12
+San Mateo,La Honda,21.0,2021-10-08,2021-10-12
+San Mateo,Ladera,54.0,2021-10-08,2021-10-12
+San Mateo,Loma Mar,<10,2021-10-08,2021-10-12
+San Mateo,Menlo Park,2040.0,2021-10-08,2021-10-12
+San Mateo,Millbrae,965.0,2021-10-08,2021-10-12
+San Mateo,Montara,88.0,2021-10-08,2021-10-12
+San Mateo,Moss Beach,68.0,2021-10-08,2021-10-12
+San Mateo,North Fair Oaks,1984.0,2021-10-08,2021-10-12
+San Mateo,Pacifica,1875.0,2021-10-08,2021-10-12
+San Mateo,Pescadero,68.0,2021-10-08,2021-10-12
+San Mateo,Portola Valley,139.0,2021-10-08,2021-10-12
+San Mateo,Princeton,<10,2021-10-08,2021-10-12
+San Mateo,Redwood City,6608.0,2021-10-08,2021-10-12
+San Mateo,San Bruno,3065.0,2021-10-08,2021-10-12
+San Mateo,San Carlos,1070.0,2021-10-08,2021-10-12
+San Mateo,San Mateo,6880.0,2021-10-08,2021-10-12
+San Mateo,South San Francisco,5154.0,2021-10-08,2021-10-12
+San Mateo,West Menlo Park,103.0,2021-10-08,2021-10-12
+San Mateo,Woodside,216.0,2021-10-08,2021-10-12
+San Mateo,Atherton,289.0,2021-10-08,2021-10-13
+San Mateo,Belmont,1129.0,2021-10-08,2021-10-13
+San Mateo,Brisbane,227.0,2021-10-08,2021-10-13
+San Mateo,Broadmoor,307.0,2021-10-08,2021-10-13
+San Mateo,Burlingame,1573.0,2021-10-08,2021-10-13
+San Mateo,Colma,296.0,2021-10-08,2021-10-13
+San Mateo,Daly City,8077.0,2021-10-08,2021-10-13
+San Mateo,East Palo Alto,5140.0,2021-10-08,2021-10-13
+San Mateo,El Granada,186.0,2021-10-08,2021-10-13
+San Mateo,Emerald Hills,181.0,2021-10-08,2021-10-13
+San Mateo,Foster City,984.0,2021-10-08,2021-10-13
+San Mateo,Half Moon Bay,927.0,2021-10-08,2021-10-13
+San Mateo,Hillsborough,402.0,2021-10-08,2021-10-13
+San Mateo,La Honda,21.0,2021-10-08,2021-10-13
+San Mateo,Ladera,54.0,2021-10-08,2021-10-13
+San Mateo,Loma Mar,<10,2021-10-08,2021-10-13
+San Mateo,Menlo Park,2040.0,2021-10-08,2021-10-13
+San Mateo,Millbrae,965.0,2021-10-08,2021-10-13
+San Mateo,Montara,88.0,2021-10-08,2021-10-13
+San Mateo,Moss Beach,68.0,2021-10-08,2021-10-13
+San Mateo,North Fair Oaks,1984.0,2021-10-08,2021-10-13
+San Mateo,Pacifica,1875.0,2021-10-08,2021-10-13
+San Mateo,Pescadero,68.0,2021-10-08,2021-10-13
+San Mateo,Portola Valley,139.0,2021-10-08,2021-10-13
+San Mateo,Princeton,<10,2021-10-08,2021-10-13
+San Mateo,Redwood City,6608.0,2021-10-08,2021-10-13
+San Mateo,San Bruno,3065.0,2021-10-08,2021-10-13
+San Mateo,San Carlos,1070.0,2021-10-08,2021-10-13
+San Mateo,San Mateo,6880.0,2021-10-08,2021-10-13
+San Mateo,South San Francisco,5154.0,2021-10-08,2021-10-13
+San Mateo,West Menlo Park,103.0,2021-10-08,2021-10-13
+San Mateo,Woodside,216.0,2021-10-08,2021-10-13
+San Mateo,Atherton,289.0,2021-10-08,2021-10-14
+San Mateo,Belmont,1129.0,2021-10-08,2021-10-14
+San Mateo,Brisbane,227.0,2021-10-08,2021-10-14
+San Mateo,Broadmoor,307.0,2021-10-08,2021-10-14
+San Mateo,Burlingame,1573.0,2021-10-08,2021-10-14
+San Mateo,Colma,296.0,2021-10-08,2021-10-14
+San Mateo,Daly City,8077.0,2021-10-08,2021-10-14
+San Mateo,East Palo Alto,5140.0,2021-10-08,2021-10-14
+San Mateo,El Granada,186.0,2021-10-08,2021-10-14
+San Mateo,Emerald Hills,181.0,2021-10-08,2021-10-14
+San Mateo,Foster City,984.0,2021-10-08,2021-10-14
+San Mateo,Half Moon Bay,927.0,2021-10-08,2021-10-14
+San Mateo,Hillsborough,402.0,2021-10-08,2021-10-14
+San Mateo,La Honda,21.0,2021-10-08,2021-10-14
+San Mateo,Ladera,54.0,2021-10-08,2021-10-14
+San Mateo,Loma Mar,<10,2021-10-08,2021-10-14
+San Mateo,Menlo Park,2040.0,2021-10-08,2021-10-14
+San Mateo,Millbrae,965.0,2021-10-08,2021-10-14
+San Mateo,Montara,88.0,2021-10-08,2021-10-14
+San Mateo,Moss Beach,68.0,2021-10-08,2021-10-14
+San Mateo,North Fair Oaks,1984.0,2021-10-08,2021-10-14
+San Mateo,Pacifica,1875.0,2021-10-08,2021-10-14
+San Mateo,Pescadero,68.0,2021-10-08,2021-10-14
+San Mateo,Portola Valley,139.0,2021-10-08,2021-10-14
+San Mateo,Princeton,<10,2021-10-08,2021-10-14
+San Mateo,Redwood City,6608.0,2021-10-08,2021-10-14
+San Mateo,San Bruno,3065.0,2021-10-08,2021-10-14
+San Mateo,San Carlos,1070.0,2021-10-08,2021-10-14
+San Mateo,San Mateo,6880.0,2021-10-08,2021-10-14
+San Mateo,South San Francisco,5154.0,2021-10-08,2021-10-14
+San Mateo,West Menlo Park,103.0,2021-10-08,2021-10-14
+San Mateo,Woodside,216.0,2021-10-08,2021-10-14

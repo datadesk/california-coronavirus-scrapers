@@ -1,4 +1,13 @@
 variant_name,who_label,cases_caused_by_variant,update_date,filename
+B.1.1.7*,Alpha,17305,2021-10-17,variants_of_concern_ca_2021-10-17_.csv
+​B.1.351,Beta,228,2021-10-17,variants_of_concern_ca_2021-10-17_.csv
+​P.1,Gamma,"​3,133",2021-10-17,variants_of_concern_ca_2021-10-17_.csv
+B.1.427 and B.1.429,Epsilon,31560,2021-10-17,variants_of_concern_ca_2021-10-17_.csv
+​P.2,Zeta,​112,2021-10-17,variants_of_concern_ca_2021-10-17_.csv
+​B.1.525,Eta,​79,2021-10-17,variants_of_concern_ca_2021-10-17_.csv
+​B.1.526,Iota​,"​1,479",2021-10-17,variants_of_concern_ca_2021-10-17_.csv
+​B.1.617.1,Kappa​,​87,2021-10-17,variants_of_concern_ca_2021-10-17_.csv
+​B.1.621*,Mu​,​918,2021-10-17,variants_of_concern_ca_2021-10-17_.csv
 B.1.1.7*,Alpha,17218,2021-10-04,variants_of_concern_ca_2021-10-04_.csv
 ​B.1.351,Beta,221,2021-10-04,variants_of_concern_ca_2021-10-04_.csv
 ​P.1,Gamma,"​3,407",2021-10-04,variants_of_concern_ca_2021-10-04_.csv
@@ -8,6 +17,15 @@ B.1.427 and B.1.429,Epsilon,32082,2021-10-04,variants_of_concern_ca_2021-10-04_.
 ​B.1.526,Iota​,"​1,415",2021-10-04,variants_of_concern_ca_2021-10-04_.csv
 ​B.1.617.1,Kappa​,​86,2021-10-04,variants_of_concern_ca_2021-10-04_.csv
 ​B.1.621*,Mu​,​862,2021-10-04,variants_of_concern_ca_2021-10-04_.csv
+B.1.1.7*,Alpha,17305,2021-10-16,variants_of_concern_ca_2021-10-16_.csv
+​B.1.351,Beta,228,2021-10-16,variants_of_concern_ca_2021-10-16_.csv
+​P.1,Gamma,"​3,133",2021-10-16,variants_of_concern_ca_2021-10-16_.csv
+B.1.427 and B.1.429,Epsilon,31560,2021-10-16,variants_of_concern_ca_2021-10-16_.csv
+​P.2,Zeta,​112,2021-10-16,variants_of_concern_ca_2021-10-16_.csv
+​B.1.525,Eta,​79,2021-10-16,variants_of_concern_ca_2021-10-16_.csv
+​B.1.526,Iota​,"​1,479",2021-10-16,variants_of_concern_ca_2021-10-16_.csv
+​B.1.617.1,Kappa​,​87,2021-10-16,variants_of_concern_ca_2021-10-16_.csv
+​B.1.621*,Mu​,​918,2021-10-16,variants_of_concern_ca_2021-10-16_.csv
 B.1.1.7,,5750,2021-05-19,variants_of_concern_ca_2021-05-19_.csv
 B.1.351,,72,2021-05-19,variants_of_concern_ca_2021-05-19_.csv
 P.1,,670,2021-05-19,variants_of_concern_ca_2021-05-19_.csv
@@ -112,6 +130,15 @@ B.1.429,,9862,2021-04-29,variants_of_concern_ca_2021-04-29_.csv
 ​B.1.351,​Beta,​171,2021-09-18,variants_of_concern_ca_2021-09-18_.csv
 ​P.1,​Gamma,"​3,168",2021-09-18,variants_of_concern_ca_2021-09-18_.csv
 ​B.1.617.2*,Delta,"​60,573",2021-09-18,variants_of_concern_ca_2021-09-18_.csv
+B.1.1.7*,Alpha,17251,2021-10-12,variants_of_concern_ca_2021-10-12_.csv
+​B.1.351,Beta,221,2021-10-12,variants_of_concern_ca_2021-10-12_.csv
+​P.1,Gamma,"​3,109",2021-10-12,variants_of_concern_ca_2021-10-12_.csv
+B.1.427 and B.1.429,Epsilon,31411,2021-10-12,variants_of_concern_ca_2021-10-12_.csv
+​P.2,Zeta,​112,2021-10-12,variants_of_concern_ca_2021-10-12_.csv
+​B.1.525,Eta,​77,2021-10-12,variants_of_concern_ca_2021-10-12_.csv
+​B.1.526,Iota​,"​1,417",2021-10-12,variants_of_concern_ca_2021-10-12_.csv
+​B.1.617.1,Kappa​,​86,2021-10-12,variants_of_concern_ca_2021-10-12_.csv
+​B.1.621*,Mu​,​897,2021-10-12,variants_of_concern_ca_2021-10-12_.csv
 B.1.1.7*,Alpha,16525,2021-09-28,variants_of_concern_ca_2021-09-28_.csv
 ​B.1.351,Beta,191,2021-09-28,variants_of_concern_ca_2021-09-28_.csv
 ​P.1,Gamma,"​3,334",2021-09-28,variants_of_concern_ca_2021-09-28_.csv
@@ -145,6 +172,15 @@ B.1.429,,11844,2021-05-10,variants_of_concern_ca_2021-05-10_.csv
 ​B.1.351,​Beta,​163,2021-08-18,variants_of_concern_ca_2021-08-18_.csv
 ​P.1,​Gamma,"​2,832",2021-08-18,variants_of_concern_ca_2021-08-18_.csv
 ​B.1.617.2*,Delta​,"​10,507",2021-08-18,variants_of_concern_ca_2021-08-18_.csv
+B.1.1.7*,Alpha,17251,2021-10-07,variants_of_concern_ca_2021-10-07_.csv
+​B.1.351,Beta,221,2021-10-07,variants_of_concern_ca_2021-10-07_.csv
+​P.1,Gamma,"​3,109",2021-10-07,variants_of_concern_ca_2021-10-07_.csv
+B.1.427 and B.1.429,Epsilon,31411,2021-10-07,variants_of_concern_ca_2021-10-07_.csv
+​P.2,Zeta,​112,2021-10-07,variants_of_concern_ca_2021-10-07_.csv
+​B.1.525,Eta,​77,2021-10-07,variants_of_concern_ca_2021-10-07_.csv
+​B.1.526,Iota​,"​1,417",2021-10-07,variants_of_concern_ca_2021-10-07_.csv
+​B.1.617.1,Kappa​,​86,2021-10-07,variants_of_concern_ca_2021-10-07_.csv
+​B.1.621*,Mu​,​897,2021-10-07,variants_of_concern_ca_2021-10-07_.csv
 B.1.1.7,,7949,2021-06-01,variants_of_concern_ca_2021-06-01_.csv
 B.1.351,,105,2021-06-01,variants_of_concern_ca_2021-06-01_.csv
 P.1,,1068,2021-06-01,variants_of_concern_ca_2021-06-01_.csv
@@ -364,6 +400,15 @@ B.1.429,,9334,2021-04-26,variants_of_concern_ca_2021-04-26_.csv
 ​B.1.351,​Beta,​167,2021-09-05,variants_of_concern_ca_2021-09-05_.csv
 ​P.1,​Gamma,"​3,266",2021-09-05,variants_of_concern_ca_2021-09-05_.csv
 ​B.1.617.2*,Delta,"​41,866",2021-09-05,variants_of_concern_ca_2021-09-05_.csv
+B.1.1.7*,Alpha,17251,2021-10-13,variants_of_concern_ca_2021-10-13_.csv
+​B.1.351,Beta,221,2021-10-13,variants_of_concern_ca_2021-10-13_.csv
+​P.1,Gamma,"​3,109",2021-10-13,variants_of_concern_ca_2021-10-13_.csv
+B.1.427 and B.1.429,Epsilon,31411,2021-10-13,variants_of_concern_ca_2021-10-13_.csv
+​P.2,Zeta,​112,2021-10-13,variants_of_concern_ca_2021-10-13_.csv
+​B.1.525,Eta,​77,2021-10-13,variants_of_concern_ca_2021-10-13_.csv
+​B.1.526,Iota​,"​1,417",2021-10-13,variants_of_concern_ca_2021-10-13_.csv
+​B.1.617.1,Kappa​,​86,2021-10-13,variants_of_concern_ca_2021-10-13_.csv
+​B.1.621*,Mu​,​897,2021-10-13,variants_of_concern_ca_2021-10-13_.csv
 ​B.1.1.7,​Alpha,"​14,775",2021-08-14,variants_of_concern_ca_2021-08-14_.csv
 ​B.1.351,​Beta,​163,2021-08-14,variants_of_concern_ca_2021-08-14_.csv
 ​P.1,​Gamma,"​2,832",2021-08-14,variants_of_concern_ca_2021-08-14_.csv
@@ -425,6 +470,24 @@ B.1.427 and B.1.429,Epsilon,32082,2021-09-30,variants_of_concern_ca_2021-09-30_.
 ​B.1.526,Iota​,"​1,415",2021-09-30,variants_of_concern_ca_2021-09-30_.csv
 ​B.1.617.1,Kappa​,​86,2021-09-30,variants_of_concern_ca_2021-09-30_.csv
 ​B.1.621*,Mu​,​862,2021-09-30,variants_of_concern_ca_2021-09-30_.csv
+B.1.1.7*,Alpha,17251,2021-10-08,variants_of_concern_ca_2021-10-08_.csv
+​B.1.351,Beta,221,2021-10-08,variants_of_concern_ca_2021-10-08_.csv
+​P.1,Gamma,"​3,109",2021-10-08,variants_of_concern_ca_2021-10-08_.csv
+B.1.427 and B.1.429,Epsilon,31411,2021-10-08,variants_of_concern_ca_2021-10-08_.csv
+​P.2,Zeta,​112,2021-10-08,variants_of_concern_ca_2021-10-08_.csv
+​B.1.525,Eta,​77,2021-10-08,variants_of_concern_ca_2021-10-08_.csv
+​B.1.526,Iota​,"​1,417",2021-10-08,variants_of_concern_ca_2021-10-08_.csv
+​B.1.617.1,Kappa​,​86,2021-10-08,variants_of_concern_ca_2021-10-08_.csv
+​B.1.621*,Mu​,​897,2021-10-08,variants_of_concern_ca_2021-10-08_.csv
+B.1.1.7*,Alpha,17251,2021-10-09,variants_of_concern_ca_2021-10-09_.csv
+​B.1.351,Beta,221,2021-10-09,variants_of_concern_ca_2021-10-09_.csv
+​P.1,Gamma,"​3,109",2021-10-09,variants_of_concern_ca_2021-10-09_.csv
+B.1.427 and B.1.429,Epsilon,31411,2021-10-09,variants_of_concern_ca_2021-10-09_.csv
+​P.2,Zeta,​112,2021-10-09,variants_of_concern_ca_2021-10-09_.csv
+​B.1.525,Eta,​77,2021-10-09,variants_of_concern_ca_2021-10-09_.csv
+​B.1.526,Iota​,"​1,417",2021-10-09,variants_of_concern_ca_2021-10-09_.csv
+​B.1.617.1,Kappa​,​86,2021-10-09,variants_of_concern_ca_2021-10-09_.csv
+​B.1.621*,Mu​,​897,2021-10-09,variants_of_concern_ca_2021-10-09_.csv
 B.1.1.7,,3478,2021-05-02,variants_of_concern_ca_2021-05-02_.csv
 B.1.351,,67,2021-05-02,variants_of_concern_ca_2021-05-02_.csv
 P.1,,389,2021-05-02,variants_of_concern_ca_2021-05-02_.csv
@@ -434,6 +497,15 @@ B.1.429,,9862,2021-05-02,variants_of_concern_ca_2021-05-02_.csv
 ​B.1.351,​Beta,​168,2021-09-12,variants_of_concern_ca_2021-09-12_.csv
 ​P.1,​Gamma,"​3,018",2021-09-12,variants_of_concern_ca_2021-09-12_.csv
 ​B.1.617.2*,Delta,"​48,224",2021-09-12,variants_of_concern_ca_2021-09-12_.csv
+B.1.1.7*,Alpha,17305,2021-10-20,variants_of_concern_ca_2021-10-20_.csv
+​B.1.351,Beta,228,2021-10-20,variants_of_concern_ca_2021-10-20_.csv
+​P.1,Gamma,"​3,133",2021-10-20,variants_of_concern_ca_2021-10-20_.csv
+B.1.427 and B.1.429,Epsilon,31560,2021-10-20,variants_of_concern_ca_2021-10-20_.csv
+​P.2,Zeta,​112,2021-10-20,variants_of_concern_ca_2021-10-20_.csv
+​B.1.525,Eta,​79,2021-10-20,variants_of_concern_ca_2021-10-20_.csv
+​B.1.526,Iota​,"​1,479",2021-10-20,variants_of_concern_ca_2021-10-20_.csv
+​B.1.617.1,Kappa​,​87,2021-10-20,variants_of_concern_ca_2021-10-20_.csv
+​B.1.621*,Mu​,​918,2021-10-20,variants_of_concern_ca_2021-10-20_.csv
 B.1.1.7,,1937,2021-04-18,variants_of_concern_ca_2021-04-18_.csv
 B.1.351,,27,2021-04-18,variants_of_concern_ca_2021-04-18_.csv
 P.1,,166,2021-04-18,variants_of_concern_ca_2021-04-18_.csv
@@ -483,6 +555,15 @@ B.1.429,,9334,2021-04-27,variants_of_concern_ca_2021-04-27_.csv
 ​B.1.351,​Beta,​167,2021-08-30,variants_of_concern_ca_2021-08-30_.csv
 ​P.1,​Gamma,"​3,109",2021-08-30,variants_of_concern_ca_2021-08-30_.csv
 ​B.1.617.2*,Delta,"​29,194",2021-08-30,variants_of_concern_ca_2021-08-30_.csv
+B.1.1.7*,Alpha,17251,2021-10-11,variants_of_concern_ca_2021-10-11_.csv
+​B.1.351,Beta,221,2021-10-11,variants_of_concern_ca_2021-10-11_.csv
+​P.1,Gamma,"​3,109",2021-10-11,variants_of_concern_ca_2021-10-11_.csv
+B.1.427 and B.1.429,Epsilon,31411,2021-10-11,variants_of_concern_ca_2021-10-11_.csv
+​P.2,Zeta,​112,2021-10-11,variants_of_concern_ca_2021-10-11_.csv
+​B.1.525,Eta,​77,2021-10-11,variants_of_concern_ca_2021-10-11_.csv
+​B.1.526,Iota​,"​1,417",2021-10-11,variants_of_concern_ca_2021-10-11_.csv
+​B.1.617.1,Kappa​,​86,2021-10-11,variants_of_concern_ca_2021-10-11_.csv
+​B.1.621*,Mu​,​897,2021-10-11,variants_of_concern_ca_2021-10-11_.csv
 ​B.1.1.7,​Alpha,"​14,019",2021-08-10,variants_of_concern_ca_2021-08-10_.csv
 ​B.1.351,​Beta,​163,2021-08-10,variants_of_concern_ca_2021-08-10_.csv
 ​P.1,​Gamma,"​2,520",2021-08-10,variants_of_concern_ca_2021-08-10_.csv
@@ -599,6 +680,15 @@ B.1.427 and B.1.429,Epsilon,32082,2021-10-01,variants_of_concern_ca_2021-10-01_.
 ​B.1.351,​Beta,​150,2021-07-15,variants_of_concern_ca_2021-07-15_.csv
 ​P.1,​Gamma,"​2,209",2021-07-15,variants_of_concern_ca_2021-07-15_.csv
 ​B.1.617.2*,Delta​,"​2,142",2021-07-15,variants_of_concern_ca_2021-07-15_.csv
+B.1.1.7*,Alpha,17305,2021-10-15,variants_of_concern_ca_2021-10-15_.csv
+​B.1.351,Beta,228,2021-10-15,variants_of_concern_ca_2021-10-15_.csv
+​P.1,Gamma,"​3,133",2021-10-15,variants_of_concern_ca_2021-10-15_.csv
+B.1.427 and B.1.429,Epsilon,31560,2021-10-15,variants_of_concern_ca_2021-10-15_.csv
+​P.2,Zeta,​112,2021-10-15,variants_of_concern_ca_2021-10-15_.csv
+​B.1.525,Eta,​79,2021-10-15,variants_of_concern_ca_2021-10-15_.csv
+​B.1.526,Iota​,"​1,479",2021-10-15,variants_of_concern_ca_2021-10-15_.csv
+​B.1.617.1,Kappa​,​87,2021-10-15,variants_of_concern_ca_2021-10-15_.csv
+​B.1.621*,Mu​,​918,2021-10-15,variants_of_concern_ca_2021-10-15_.csv
 ​B.1.1.7,​Alpha,"​13,164",2021-07-16,variants_of_concern_ca_2021-07-16_.csv
 ​B.1.351,​Beta,​150,2021-07-16,variants_of_concern_ca_2021-07-16_.csv
 ​P.1,​Gamma,"​2,209",2021-07-16,variants_of_concern_ca_2021-07-16_.csv
@@ -607,6 +697,15 @@ B.1.427 and B.1.429,Epsilon,32082,2021-10-01,variants_of_concern_ca_2021-10-01_.
 ​B.1.351,​Beta,​163,2021-08-13,variants_of_concern_ca_2021-08-13_.csv
 ​P.1,​Gamma,"​2,832",2021-08-13,variants_of_concern_ca_2021-08-13_.csv
 ​B.1.617.2*,Delta​,"​10,507",2021-08-13,variants_of_concern_ca_2021-08-13_.csv
+B.1.1.7*,Alpha,17305,2021-10-14,variants_of_concern_ca_2021-10-14_.csv
+​B.1.351,Beta,228,2021-10-14,variants_of_concern_ca_2021-10-14_.csv
+​P.1,Gamma,"​3,133",2021-10-14,variants_of_concern_ca_2021-10-14_.csv
+B.1.427 and B.1.429,Epsilon,31560,2021-10-14,variants_of_concern_ca_2021-10-14_.csv
+​P.2,Zeta,​112,2021-10-14,variants_of_concern_ca_2021-10-14_.csv
+​B.1.525,Eta,​79,2021-10-14,variants_of_concern_ca_2021-10-14_.csv
+​B.1.526,Iota​,"​1,479",2021-10-14,variants_of_concern_ca_2021-10-14_.csv
+​B.1.617.1,Kappa​,​87,2021-10-14,variants_of_concern_ca_2021-10-14_.csv
+​B.1.621*,Mu​,​918,2021-10-14,variants_of_concern_ca_2021-10-14_.csv
 ​B.1.1.7,​Alpha,"​8,582",2021-06-03,variants_of_concern_ca_2021-06-03_.csv
 ​B.1.351,​Beta,​102,2021-06-03,variants_of_concern_ca_2021-06-03_.csv
 ​P.1,​Gamma,"​1,164",2021-06-03,variants_of_concern_ca_2021-06-03_.csv
@@ -649,6 +748,15 @@ B.1.351,,27,2021-04-20,variants_of_concern_ca_2021-04-20_.csv
 P.1,,166,2021-04-20,variants_of_concern_ca_2021-04-20_.csv
 B.1.427,,4416,2021-04-20,variants_of_concern_ca_2021-04-20_.csv
 B.1.429,,9074,2021-04-20,variants_of_concern_ca_2021-04-20_.csv
+B.1.1.7*,Alpha,17305,2021-10-18,variants_of_concern_ca_2021-10-18_.csv
+​B.1.351,Beta,228,2021-10-18,variants_of_concern_ca_2021-10-18_.csv
+​P.1,Gamma,"​3,133",2021-10-18,variants_of_concern_ca_2021-10-18_.csv
+B.1.427 and B.1.429,Epsilon,31560,2021-10-18,variants_of_concern_ca_2021-10-18_.csv
+​P.2,Zeta,​112,2021-10-18,variants_of_concern_ca_2021-10-18_.csv
+​B.1.525,Eta,​79,2021-10-18,variants_of_concern_ca_2021-10-18_.csv
+​B.1.526,Iota​,"​1,479",2021-10-18,variants_of_concern_ca_2021-10-18_.csv
+​B.1.617.1,Kappa​,​87,2021-10-18,variants_of_concern_ca_2021-10-18_.csv
+​B.1.621*,Mu​,​918,2021-10-18,variants_of_concern_ca_2021-10-18_.csv
 ​B.1.1.7*,​Alpha,"​15,674",2021-09-07,variants_of_concern_ca_2021-09-07_.csv
 ​B.1.351,​Beta,​167,2021-09-07,variants_of_concern_ca_2021-09-07_.csv
 ​P.1,​Gamma,"​3,266",2021-09-07,variants_of_concern_ca_2021-09-07_.csv
@@ -671,6 +779,15 @@ B.1.351,,72,2021-05-14,variants_of_concern_ca_2021-05-14_.csv
 P.1,,670,2021-05-14,variants_of_concern_ca_2021-05-14_.csv
 B.1.427,,6421,2021-05-14,variants_of_concern_ca_2021-05-14_.csv
 B.1.429,,11961,2021-05-14,variants_of_concern_ca_2021-05-14_.csv
+B.1.1.7*,Alpha,17305,2021-10-19,variants_of_concern_ca_2021-10-19_.csv
+​B.1.351,Beta,228,2021-10-19,variants_of_concern_ca_2021-10-19_.csv
+​P.1,Gamma,"​3,133",2021-10-19,variants_of_concern_ca_2021-10-19_.csv
+B.1.427 and B.1.429,Epsilon,31560,2021-10-19,variants_of_concern_ca_2021-10-19_.csv
+​P.2,Zeta,​112,2021-10-19,variants_of_concern_ca_2021-10-19_.csv
+​B.1.525,Eta,​79,2021-10-19,variants_of_concern_ca_2021-10-19_.csv
+​B.1.526,Iota​,"​1,479",2021-10-19,variants_of_concern_ca_2021-10-19_.csv
+​B.1.617.1,Kappa​,​87,2021-10-19,variants_of_concern_ca_2021-10-19_.csv
+​B.1.621*,Mu​,​918,2021-10-19,variants_of_concern_ca_2021-10-19_.csv
 ​B.1.1.7,​Alpha,"​13,214",2021-08-19,variants_of_concern_ca_2021-08-19_.csv
 ​B.1.351,​Beta,​164,2021-08-19,variants_of_concern_ca_2021-08-19_.csv
 ​P.1,​Gamma,"​3,043",2021-08-19,variants_of_concern_ca_2021-08-19_.csv
@@ -725,6 +842,15 @@ B.1.429,,9334,2021-04-28,variants_of_concern_ca_2021-04-28_.csv
 ​B.1.351,​Beta,​168,2021-09-15,variants_of_concern_ca_2021-09-15_.csv
 ​P.1,​Gamma,"​3,018",2021-09-15,variants_of_concern_ca_2021-09-15_.csv
 ​B.1.617.2*,Delta,"​48,224",2021-09-15,variants_of_concern_ca_2021-09-15_.csv
+B.1.1.7*,Alpha,17251,2021-10-10,variants_of_concern_ca_2021-10-10_.csv
+​B.1.351,Beta,221,2021-10-10,variants_of_concern_ca_2021-10-10_.csv
+​P.1,Gamma,"​3,109",2021-10-10,variants_of_concern_ca_2021-10-10_.csv
+B.1.427 and B.1.429,Epsilon,31411,2021-10-10,variants_of_concern_ca_2021-10-10_.csv
+​P.2,Zeta,​112,2021-10-10,variants_of_concern_ca_2021-10-10_.csv
+​B.1.525,Eta,​77,2021-10-10,variants_of_concern_ca_2021-10-10_.csv
+​B.1.526,Iota​,"​1,417",2021-10-10,variants_of_concern_ca_2021-10-10_.csv
+​B.1.617.1,Kappa​,​86,2021-10-10,variants_of_concern_ca_2021-10-10_.csv
+​B.1.621*,Mu​,​897,2021-10-10,variants_of_concern_ca_2021-10-10_.csv
 ​B.1.1.7,​Alpha,"​9,964",2021-07-03,variants_of_concern_ca_2021-07-03_.csv
 ​B.1.351,​Beta,​112,2021-07-03,variants_of_concern_ca_2021-07-03_.csv
 ​P.1,​Gamma,"​1,587",2021-07-03,variants_of_concern_ca_2021-07-03_.csv

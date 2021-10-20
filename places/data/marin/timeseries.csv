@@ -19584,57 +19584,489 @@ Marin,Census Tract 1302.02: Sausalito: Waldo Point,163,2021-10-05,2021-10-05
 Marin,Dillon Beach-Inverness-Point Reyes Station-Tomales,99,2021-10-05,2021-10-05
 Marin,Nicasio-Lagunitas-Forest Knolls,58,2021-10-05,2021-10-05
 Marin,San Geronimo-Woodacre,61,2021-10-05,2021-10-05
-Marin,Bolinas-Muir Beach-Stinson Beach,53,2021-10-05,2021-10-06
-Marin,Census Tract 1011.00: Novato: Black Point; North Novato,105,2021-10-05,2021-10-06
-Marin,Census Tract 1012.00: Novato,188,2021-10-05,2021-10-06
-Marin,Census Tract 1021.00: Novato,89,2021-10-05,2021-10-06
-Marin,Census Tract 1022.02: Novato,365,2021-10-05,2021-10-06
-Marin,Census Tract 1022.03: Novato,492,2021-10-05,2021-10-06
-Marin,Census Tract 1031.00: Novato: Indian Valley,376,2021-10-05,2021-10-06
-Marin,Census Tract 1032.00: Novato,679,2021-10-05,2021-10-06
-Marin,Census Tract 1041.01: Novato,465,2021-10-05,2021-10-06
-Marin,Census Tract 1041.02: Novato,432,2021-10-05,2021-10-06
-Marin,Census Tract 1042.00: Novato: Loma Verde,370,2021-10-05,2021-10-06
-Marin,Census Tract 1043.00: Bel Marin Keys,64,2021-10-05,2021-10-06
-Marin,Census Tract 1050.00: Novato,500,2021-10-05,2021-10-06
-Marin,Census Tract 1060.01: San Rafael; Unincorporated Marin,547,2021-10-05,2021-10-06
-Marin,Census Tract 1060.02: San Rafael: Santa Venetia,428,2021-10-05,2021-10-06
-Marin,Census Tract 1070.00: Lucas Valley; Lucas Valley Environs; Marinwood,235,2021-10-05,2021-10-06
-Marin,Census Tract 1081.00: San Rafael,280,2021-10-05,2021-10-06
-Marin,Census Tract 1082.00: San Rafael: Los Ranchitos,492,2021-10-05,2021-10-06
-Marin,Census Tract 1090.01: San Rafael: Sun Valley,388,2021-10-05,2021-10-06
-Marin,Census Tract 1090.02: San Rafael: Sun Valley,156,2021-10-05,2021-10-06
-Marin,Census Tract 1101.00: San Rafael: Country Club,514,2021-10-05,2021-10-06
-Marin,Census Tract 1102.00: San Rafael: Bayside Acres; Point San Pedro,163,2021-10-05,2021-10-06
-Marin,Census Tract 1110.00: San Rafael,507,2021-10-05,2021-10-06
-Marin,Census Tract 1121.00: San Rafael: California Park,375,2021-10-05,2021-10-06
-Marin,Census Tract 1122.01: San Rafael: Canal,1716,2021-10-05,2021-10-06
-Marin,Census Tract 1122.02: San Rafael: Canal,641,2021-10-05,2021-10-06
-Marin,Census Tract 1141.00: Fairfax; Unincorporated Marin,158,2021-10-05,2021-10-06
-Marin,Census Tract 1142.00: Fairfax; Unincorporated Fairfax,118,2021-10-05,2021-10-06
-Marin,Census Tract 1150.00: San Anselmo; Sleepy Hollow,249,2021-10-05,2021-10-06
-Marin,Census Tract 1160.00: San Anselmo,110,2021-10-05,2021-10-06
-Marin,Census Tract 1170.00: San Anselmo,183,2021-10-05,2021-10-06
-Marin,Census Tract 1181.00: Ross,95,2021-10-05,2021-10-06
-Marin,Census Tract 1191.00: Kentfield,211,2021-10-05,2021-10-06
-Marin,Census Tract 1192.01: Larkspur; Kentfield,209,2021-10-05,2021-10-06
-Marin,Census Tract 1192.02: Larkspur; Kentfield,110,2021-10-05,2021-10-06
-Marin,Census Tract 1200.00: Larkspur,222,2021-10-05,2021-10-06
-Marin,Census Tract 1211.00: Corte Madera,242,2021-10-05,2021-10-06
-Marin,Census Tract 1212.00: Corte Madera,319,2021-10-05,2021-10-06
-Marin,Census Tract 1220.00: San Quentin,0,2021-10-05,2021-10-06
-Marin,Census Tract 1230.00: Belvedere,80,2021-10-05,2021-10-06
-Marin,Census Tract 1241.00: Tiburon; Strawberry,156,2021-10-05,2021-10-06
-Marin,Census Tract 1242.00: Tiburon,207,2021-10-05,2021-10-06
-Marin,Census Tract 1250.00: Strawberry,113,2021-10-05,2021-10-06
-Marin,Census Tract 1261.00: Mill Valley,144,2021-10-05,2021-10-06
-Marin,Census Tract 1262.00: Mill Valley,162,2021-10-05,2021-10-06
-Marin,Census Tract 1270.00: Mill Valley,133,2021-10-05,2021-10-06
-Marin,Census Tract 1281.00: Tamalpais Valley; Homestead Valley,175,2021-10-05,2021-10-06
-Marin,Census Tract 1282.00: Almonte; Homestead; Muir Woods Park,129,2021-10-05,2021-10-06
-Marin,Census Tract 1290.00: Marin City,195,2021-10-05,2021-10-06
-Marin,Census Tract 1302.01: Sausalito: Waldo Point,105,2021-10-05,2021-10-06
-Marin,Census Tract 1302.02: Sausalito: Waldo Point,163,2021-10-05,2021-10-06
-Marin,Dillon Beach-Inverness-Point Reyes Station-Tomales,99,2021-10-05,2021-10-06
-Marin,Nicasio-Lagunitas-Forest Knolls,58,2021-10-05,2021-10-06
-Marin,San Geronimo-Woodacre,61,2021-10-05,2021-10-06
+Marin,Bolinas-Muir Beach-Stinson Beach,53,2021-10-06,2021-10-06
+Marin,Census Tract 1011.00: Novato: Black Point; North Novato,105,2021-10-06,2021-10-06
+Marin,Census Tract 1012.00: Novato,188,2021-10-06,2021-10-06
+Marin,Census Tract 1021.00: Novato,89,2021-10-06,2021-10-06
+Marin,Census Tract 1022.02: Novato,365,2021-10-06,2021-10-06
+Marin,Census Tract 1022.03: Novato,494,2021-10-06,2021-10-06
+Marin,Census Tract 1031.00: Novato: Indian Valley,376,2021-10-06,2021-10-06
+Marin,Census Tract 1032.00: Novato,679,2021-10-06,2021-10-06
+Marin,Census Tract 1041.01: Novato,466,2021-10-06,2021-10-06
+Marin,Census Tract 1041.02: Novato,432,2021-10-06,2021-10-06
+Marin,Census Tract 1042.00: Novato: Loma Verde,370,2021-10-06,2021-10-06
+Marin,Census Tract 1043.00: Bel Marin Keys,64,2021-10-06,2021-10-06
+Marin,Census Tract 1050.00: Novato,500,2021-10-06,2021-10-06
+Marin,Census Tract 1060.01: San Rafael; Unincorporated Marin,547,2021-10-06,2021-10-06
+Marin,Census Tract 1060.02: San Rafael: Santa Venetia,428,2021-10-06,2021-10-06
+Marin,Census Tract 1070.00: Lucas Valley; Lucas Valley Environs; Marinwood,235,2021-10-06,2021-10-06
+Marin,Census Tract 1081.00: San Rafael,280,2021-10-06,2021-10-06
+Marin,Census Tract 1082.00: San Rafael: Los Ranchitos,492,2021-10-06,2021-10-06
+Marin,Census Tract 1090.01: San Rafael: Sun Valley,389,2021-10-06,2021-10-06
+Marin,Census Tract 1090.02: San Rafael: Sun Valley,156,2021-10-06,2021-10-06
+Marin,Census Tract 1101.00: San Rafael: Country Club,514,2021-10-06,2021-10-06
+Marin,Census Tract 1102.00: San Rafael: Bayside Acres; Point San Pedro,164,2021-10-06,2021-10-06
+Marin,Census Tract 1110.00: San Rafael,508,2021-10-06,2021-10-06
+Marin,Census Tract 1121.00: San Rafael: California Park,375,2021-10-06,2021-10-06
+Marin,Census Tract 1122.01: San Rafael: Canal,1717,2021-10-06,2021-10-06
+Marin,Census Tract 1122.02: San Rafael: Canal,641,2021-10-06,2021-10-06
+Marin,Census Tract 1141.00: Fairfax; Unincorporated Marin,159,2021-10-06,2021-10-06
+Marin,Census Tract 1142.00: Fairfax; Unincorporated Fairfax,118,2021-10-06,2021-10-06
+Marin,Census Tract 1150.00: San Anselmo; Sleepy Hollow,249,2021-10-06,2021-10-06
+Marin,Census Tract 1160.00: San Anselmo,110,2021-10-06,2021-10-06
+Marin,Census Tract 1170.00: San Anselmo,183,2021-10-06,2021-10-06
+Marin,Census Tract 1181.00: Ross,95,2021-10-06,2021-10-06
+Marin,Census Tract 1191.00: Kentfield,211,2021-10-06,2021-10-06
+Marin,Census Tract 1192.01: Larkspur; Kentfield,209,2021-10-06,2021-10-06
+Marin,Census Tract 1192.02: Larkspur; Kentfield,110,2021-10-06,2021-10-06
+Marin,Census Tract 1200.00: Larkspur,222,2021-10-06,2021-10-06
+Marin,Census Tract 1211.00: Corte Madera,243,2021-10-06,2021-10-06
+Marin,Census Tract 1212.00: Corte Madera,319,2021-10-06,2021-10-06
+Marin,Census Tract 1220.00: San Quentin,0,2021-10-06,2021-10-06
+Marin,Census Tract 1230.00: Belvedere,80,2021-10-06,2021-10-06
+Marin,Census Tract 1241.00: Tiburon; Strawberry,157,2021-10-06,2021-10-06
+Marin,Census Tract 1242.00: Tiburon,207,2021-10-06,2021-10-06
+Marin,Census Tract 1250.00: Strawberry,113,2021-10-06,2021-10-06
+Marin,Census Tract 1261.00: Mill Valley,144,2021-10-06,2021-10-06
+Marin,Census Tract 1262.00: Mill Valley,162,2021-10-06,2021-10-06
+Marin,Census Tract 1270.00: Mill Valley,133,2021-10-06,2021-10-06
+Marin,Census Tract 1281.00: Tamalpais Valley; Homestead Valley,176,2021-10-06,2021-10-06
+Marin,Census Tract 1282.00: Almonte; Homestead; Muir Woods Park,129,2021-10-06,2021-10-06
+Marin,Census Tract 1290.00: Marin City,195,2021-10-06,2021-10-06
+Marin,Census Tract 1302.01: Sausalito: Waldo Point,106,2021-10-06,2021-10-06
+Marin,Census Tract 1302.02: Sausalito: Waldo Point,163,2021-10-06,2021-10-06
+Marin,Dillon Beach-Inverness-Point Reyes Station-Tomales,100,2021-10-06,2021-10-06
+Marin,Nicasio-Lagunitas-Forest Knolls,58,2021-10-06,2021-10-06
+Marin,San Geronimo-Woodacre,61,2021-10-06,2021-10-06
+Marin,Bolinas-Muir Beach-Stinson Beach,54,2021-10-07,2021-10-07
+Marin,Census Tract 1011.00: Novato: Black Point; North Novato,105,2021-10-07,2021-10-07
+Marin,Census Tract 1012.00: Novato,188,2021-10-07,2021-10-07
+Marin,Census Tract 1021.00: Novato,90,2021-10-07,2021-10-07
+Marin,Census Tract 1022.02: Novato,367,2021-10-07,2021-10-07
+Marin,Census Tract 1022.03: Novato,494,2021-10-07,2021-10-07
+Marin,Census Tract 1031.00: Novato: Indian Valley,377,2021-10-07,2021-10-07
+Marin,Census Tract 1032.00: Novato,680,2021-10-07,2021-10-07
+Marin,Census Tract 1041.01: Novato,468,2021-10-07,2021-10-07
+Marin,Census Tract 1041.02: Novato,433,2021-10-07,2021-10-07
+Marin,Census Tract 1042.00: Novato: Loma Verde,370,2021-10-07,2021-10-07
+Marin,Census Tract 1043.00: Bel Marin Keys,64,2021-10-07,2021-10-07
+Marin,Census Tract 1050.00: Novato,500,2021-10-07,2021-10-07
+Marin,Census Tract 1060.01: San Rafael; Unincorporated Marin,547,2021-10-07,2021-10-07
+Marin,Census Tract 1060.02: San Rafael: Santa Venetia,428,2021-10-07,2021-10-07
+Marin,Census Tract 1070.00: Lucas Valley; Lucas Valley Environs; Marinwood,235,2021-10-07,2021-10-07
+Marin,Census Tract 1081.00: San Rafael,281,2021-10-07,2021-10-07
+Marin,Census Tract 1082.00: San Rafael: Los Ranchitos,492,2021-10-07,2021-10-07
+Marin,Census Tract 1090.01: San Rafael: Sun Valley,390,2021-10-07,2021-10-07
+Marin,Census Tract 1090.02: San Rafael: Sun Valley,157,2021-10-07,2021-10-07
+Marin,Census Tract 1101.00: San Rafael: Country Club,513,2021-10-07,2021-10-07
+Marin,Census Tract 1102.00: San Rafael: Bayside Acres; Point San Pedro,164,2021-10-07,2021-10-07
+Marin,Census Tract 1110.00: San Rafael,508,2021-10-07,2021-10-07
+Marin,Census Tract 1121.00: San Rafael: California Park,375,2021-10-07,2021-10-07
+Marin,Census Tract 1122.01: San Rafael: Canal,1720,2021-10-07,2021-10-07
+Marin,Census Tract 1122.02: San Rafael: Canal,642,2021-10-07,2021-10-07
+Marin,Census Tract 1141.00: Fairfax; Unincorporated Marin,159,2021-10-07,2021-10-07
+Marin,Census Tract 1142.00: Fairfax; Unincorporated Fairfax,118,2021-10-07,2021-10-07
+Marin,Census Tract 1150.00: San Anselmo; Sleepy Hollow,249,2021-10-07,2021-10-07
+Marin,Census Tract 1160.00: San Anselmo,110,2021-10-07,2021-10-07
+Marin,Census Tract 1170.00: San Anselmo,183,2021-10-07,2021-10-07
+Marin,Census Tract 1181.00: Ross,95,2021-10-07,2021-10-07
+Marin,Census Tract 1191.00: Kentfield,212,2021-10-07,2021-10-07
+Marin,Census Tract 1192.01: Larkspur; Kentfield,209,2021-10-07,2021-10-07
+Marin,Census Tract 1192.02: Larkspur; Kentfield,110,2021-10-07,2021-10-07
+Marin,Census Tract 1200.00: Larkspur,223,2021-10-07,2021-10-07
+Marin,Census Tract 1211.00: Corte Madera,244,2021-10-07,2021-10-07
+Marin,Census Tract 1212.00: Corte Madera,319,2021-10-07,2021-10-07
+Marin,Census Tract 1220.00: San Quentin,0,2021-10-07,2021-10-07
+Marin,Census Tract 1230.00: Belvedere,81,2021-10-07,2021-10-07
+Marin,Census Tract 1241.00: Tiburon; Strawberry,157,2021-10-07,2021-10-07
+Marin,Census Tract 1242.00: Tiburon,207,2021-10-07,2021-10-07
+Marin,Census Tract 1250.00: Strawberry,113,2021-10-07,2021-10-07
+Marin,Census Tract 1261.00: Mill Valley,144,2021-10-07,2021-10-07
+Marin,Census Tract 1262.00: Mill Valley,162,2021-10-07,2021-10-07
+Marin,Census Tract 1270.00: Mill Valley,133,2021-10-07,2021-10-07
+Marin,Census Tract 1281.00: Tamalpais Valley; Homestead Valley,176,2021-10-07,2021-10-07
+Marin,Census Tract 1282.00: Almonte; Homestead; Muir Woods Park,129,2021-10-07,2021-10-07
+Marin,Census Tract 1290.00: Marin City,195,2021-10-07,2021-10-07
+Marin,Census Tract 1302.01: Sausalito: Waldo Point,106,2021-10-07,2021-10-07
+Marin,Census Tract 1302.02: Sausalito: Waldo Point,164,2021-10-07,2021-10-07
+Marin,Dillon Beach-Inverness-Point Reyes Station-Tomales,100,2021-10-07,2021-10-07
+Marin,Nicasio-Lagunitas-Forest Knolls,58,2021-10-07,2021-10-07
+Marin,San Geronimo-Woodacre,61,2021-10-07,2021-10-07
+Marin,Bolinas-Muir Beach-Stinson Beach,54,2021-10-08,2021-10-08
+Marin,Census Tract 1011.00: Novato: Black Point; North Novato,105,2021-10-08,2021-10-08
+Marin,Census Tract 1012.00: Novato,188,2021-10-08,2021-10-08
+Marin,Census Tract 1021.00: Novato,92,2021-10-08,2021-10-08
+Marin,Census Tract 1022.02: Novato,367,2021-10-08,2021-10-08
+Marin,Census Tract 1022.03: Novato,495,2021-10-08,2021-10-08
+Marin,Census Tract 1031.00: Novato: Indian Valley,377,2021-10-08,2021-10-08
+Marin,Census Tract 1032.00: Novato,680,2021-10-08,2021-10-08
+Marin,Census Tract 1041.01: Novato,468,2021-10-08,2021-10-08
+Marin,Census Tract 1041.02: Novato,433,2021-10-08,2021-10-08
+Marin,Census Tract 1042.00: Novato: Loma Verde,370,2021-10-08,2021-10-08
+Marin,Census Tract 1043.00: Bel Marin Keys,64,2021-10-08,2021-10-08
+Marin,Census Tract 1050.00: Novato,502,2021-10-08,2021-10-08
+Marin,Census Tract 1060.01: San Rafael; Unincorporated Marin,547,2021-10-08,2021-10-08
+Marin,Census Tract 1060.02: San Rafael: Santa Venetia,428,2021-10-08,2021-10-08
+Marin,Census Tract 1070.00: Lucas Valley; Lucas Valley Environs; Marinwood,235,2021-10-08,2021-10-08
+Marin,Census Tract 1081.00: San Rafael,281,2021-10-08,2021-10-08
+Marin,Census Tract 1082.00: San Rafael: Los Ranchitos,492,2021-10-08,2021-10-08
+Marin,Census Tract 1090.01: San Rafael: Sun Valley,391,2021-10-08,2021-10-08
+Marin,Census Tract 1090.02: San Rafael: Sun Valley,157,2021-10-08,2021-10-08
+Marin,Census Tract 1101.00: San Rafael: Country Club,514,2021-10-08,2021-10-08
+Marin,Census Tract 1102.00: San Rafael: Bayside Acres; Point San Pedro,164,2021-10-08,2021-10-08
+Marin,Census Tract 1110.00: San Rafael,508,2021-10-08,2021-10-08
+Marin,Census Tract 1121.00: San Rafael: California Park,375,2021-10-08,2021-10-08
+Marin,Census Tract 1122.01: San Rafael: Canal,1721,2021-10-08,2021-10-08
+Marin,Census Tract 1122.02: San Rafael: Canal,644,2021-10-08,2021-10-08
+Marin,Census Tract 1141.00: Fairfax; Unincorporated Marin,161,2021-10-08,2021-10-08
+Marin,Census Tract 1142.00: Fairfax; Unincorporated Fairfax,118,2021-10-08,2021-10-08
+Marin,Census Tract 1150.00: San Anselmo; Sleepy Hollow,249,2021-10-08,2021-10-08
+Marin,Census Tract 1160.00: San Anselmo,110,2021-10-08,2021-10-08
+Marin,Census Tract 1170.00: San Anselmo,184,2021-10-08,2021-10-08
+Marin,Census Tract 1181.00: Ross,95,2021-10-08,2021-10-08
+Marin,Census Tract 1191.00: Kentfield,213,2021-10-08,2021-10-08
+Marin,Census Tract 1192.01: Larkspur; Kentfield,209,2021-10-08,2021-10-08
+Marin,Census Tract 1192.02: Larkspur; Kentfield,110,2021-10-08,2021-10-08
+Marin,Census Tract 1200.00: Larkspur,224,2021-10-08,2021-10-08
+Marin,Census Tract 1211.00: Corte Madera,245,2021-10-08,2021-10-08
+Marin,Census Tract 1212.00: Corte Madera,320,2021-10-08,2021-10-08
+Marin,Census Tract 1220.00: San Quentin,0,2021-10-08,2021-10-08
+Marin,Census Tract 1230.00: Belvedere,82,2021-10-08,2021-10-08
+Marin,Census Tract 1241.00: Tiburon; Strawberry,157,2021-10-08,2021-10-08
+Marin,Census Tract 1242.00: Tiburon,207,2021-10-08,2021-10-08
+Marin,Census Tract 1250.00: Strawberry,113,2021-10-08,2021-10-08
+Marin,Census Tract 1261.00: Mill Valley,144,2021-10-08,2021-10-08
+Marin,Census Tract 1262.00: Mill Valley,163,2021-10-08,2021-10-08
+Marin,Census Tract 1270.00: Mill Valley,134,2021-10-08,2021-10-08
+Marin,Census Tract 1281.00: Tamalpais Valley; Homestead Valley,176,2021-10-08,2021-10-08
+Marin,Census Tract 1282.00: Almonte; Homestead; Muir Woods Park,130,2021-10-08,2021-10-08
+Marin,Census Tract 1290.00: Marin City,195,2021-10-08,2021-10-08
+Marin,Census Tract 1302.01: Sausalito: Waldo Point,106,2021-10-08,2021-10-08
+Marin,Census Tract 1302.02: Sausalito: Waldo Point,165,2021-10-08,2021-10-08
+Marin,Dillon Beach-Inverness-Point Reyes Station-Tomales,100,2021-10-08,2021-10-08
+Marin,Nicasio-Lagunitas-Forest Knolls,58,2021-10-08,2021-10-08
+Marin,San Geronimo-Woodacre,60,2021-10-08,2021-10-08
+Marin,Bolinas-Muir Beach-Stinson Beach,54,2021-10-09,2021-10-09
+Marin,Census Tract 1011.00: Novato: Black Point; North Novato,105,2021-10-09,2021-10-09
+Marin,Census Tract 1012.00: Novato,188,2021-10-09,2021-10-09
+Marin,Census Tract 1021.00: Novato,92,2021-10-09,2021-10-09
+Marin,Census Tract 1022.02: Novato,368,2021-10-09,2021-10-09
+Marin,Census Tract 1022.03: Novato,495,2021-10-09,2021-10-09
+Marin,Census Tract 1031.00: Novato: Indian Valley,377,2021-10-09,2021-10-09
+Marin,Census Tract 1032.00: Novato,680,2021-10-09,2021-10-09
+Marin,Census Tract 1041.01: Novato,469,2021-10-09,2021-10-09
+Marin,Census Tract 1041.02: Novato,434,2021-10-09,2021-10-09
+Marin,Census Tract 1042.00: Novato: Loma Verde,370,2021-10-09,2021-10-09
+Marin,Census Tract 1043.00: Bel Marin Keys,64,2021-10-09,2021-10-09
+Marin,Census Tract 1050.00: Novato,502,2021-10-09,2021-10-09
+Marin,Census Tract 1060.01: San Rafael; Unincorporated Marin,547,2021-10-09,2021-10-09
+Marin,Census Tract 1060.02: San Rafael: Santa Venetia,429,2021-10-09,2021-10-09
+Marin,Census Tract 1070.00: Lucas Valley; Lucas Valley Environs; Marinwood,235,2021-10-09,2021-10-09
+Marin,Census Tract 1081.00: San Rafael,281,2021-10-09,2021-10-09
+Marin,Census Tract 1082.00: San Rafael: Los Ranchitos,494,2021-10-09,2021-10-09
+Marin,Census Tract 1090.01: San Rafael: Sun Valley,391,2021-10-09,2021-10-09
+Marin,Census Tract 1090.02: San Rafael: Sun Valley,157,2021-10-09,2021-10-09
+Marin,Census Tract 1101.00: San Rafael: Country Club,514,2021-10-09,2021-10-09
+Marin,Census Tract 1102.00: San Rafael: Bayside Acres; Point San Pedro,164,2021-10-09,2021-10-09
+Marin,Census Tract 1110.00: San Rafael,509,2021-10-09,2021-10-09
+Marin,Census Tract 1121.00: San Rafael: California Park,375,2021-10-09,2021-10-09
+Marin,Census Tract 1122.01: San Rafael: Canal,1722,2021-10-09,2021-10-09
+Marin,Census Tract 1122.02: San Rafael: Canal,644,2021-10-09,2021-10-09
+Marin,Census Tract 1141.00: Fairfax; Unincorporated Marin,161,2021-10-09,2021-10-09
+Marin,Census Tract 1142.00: Fairfax; Unincorporated Fairfax,119,2021-10-09,2021-10-09
+Marin,Census Tract 1150.00: San Anselmo; Sleepy Hollow,250,2021-10-09,2021-10-09
+Marin,Census Tract 1160.00: San Anselmo,110,2021-10-09,2021-10-09
+Marin,Census Tract 1170.00: San Anselmo,185,2021-10-09,2021-10-09
+Marin,Census Tract 1181.00: Ross,96,2021-10-09,2021-10-09
+Marin,Census Tract 1191.00: Kentfield,214,2021-10-09,2021-10-09
+Marin,Census Tract 1192.01: Larkspur; Kentfield,210,2021-10-09,2021-10-09
+Marin,Census Tract 1192.02: Larkspur; Kentfield,110,2021-10-09,2021-10-09
+Marin,Census Tract 1200.00: Larkspur,224,2021-10-09,2021-10-09
+Marin,Census Tract 1211.00: Corte Madera,245,2021-10-09,2021-10-09
+Marin,Census Tract 1212.00: Corte Madera,321,2021-10-09,2021-10-09
+Marin,Census Tract 1220.00: San Quentin,0,2021-10-09,2021-10-09
+Marin,Census Tract 1230.00: Belvedere,82,2021-10-09,2021-10-09
+Marin,Census Tract 1241.00: Tiburon; Strawberry,157,2021-10-09,2021-10-09
+Marin,Census Tract 1242.00: Tiburon,208,2021-10-09,2021-10-09
+Marin,Census Tract 1250.00: Strawberry,113,2021-10-09,2021-10-09
+Marin,Census Tract 1261.00: Mill Valley,144,2021-10-09,2021-10-09
+Marin,Census Tract 1262.00: Mill Valley,164,2021-10-09,2021-10-09
+Marin,Census Tract 1270.00: Mill Valley,134,2021-10-09,2021-10-09
+Marin,Census Tract 1281.00: Tamalpais Valley; Homestead Valley,177,2021-10-09,2021-10-09
+Marin,Census Tract 1282.00: Almonte; Homestead; Muir Woods Park,130,2021-10-09,2021-10-09
+Marin,Census Tract 1290.00: Marin City,195,2021-10-09,2021-10-09
+Marin,Census Tract 1302.01: Sausalito: Waldo Point,106,2021-10-09,2021-10-09
+Marin,Census Tract 1302.02: Sausalito: Waldo Point,165,2021-10-09,2021-10-09
+Marin,Dillon Beach-Inverness-Point Reyes Station-Tomales,100,2021-10-09,2021-10-09
+Marin,Nicasio-Lagunitas-Forest Knolls,58,2021-10-09,2021-10-09
+Marin,San Geronimo-Woodacre,60,2021-10-09,2021-10-09
+Marin,Bolinas-Muir Beach-Stinson Beach,54,2021-10-10,2021-10-10
+Marin,Census Tract 1011.00: Novato: Black Point; North Novato,106,2021-10-10,2021-10-10
+Marin,Census Tract 1012.00: Novato,188,2021-10-10,2021-10-10
+Marin,Census Tract 1021.00: Novato,92,2021-10-10,2021-10-10
+Marin,Census Tract 1022.02: Novato,368,2021-10-10,2021-10-10
+Marin,Census Tract 1022.03: Novato,495,2021-10-10,2021-10-10
+Marin,Census Tract 1031.00: Novato: Indian Valley,377,2021-10-10,2021-10-10
+Marin,Census Tract 1032.00: Novato,680,2021-10-10,2021-10-10
+Marin,Census Tract 1041.01: Novato,469,2021-10-10,2021-10-10
+Marin,Census Tract 1041.02: Novato,435,2021-10-10,2021-10-10
+Marin,Census Tract 1042.00: Novato: Loma Verde,370,2021-10-10,2021-10-10
+Marin,Census Tract 1043.00: Bel Marin Keys,64,2021-10-10,2021-10-10
+Marin,Census Tract 1050.00: Novato,502,2021-10-10,2021-10-10
+Marin,Census Tract 1060.01: San Rafael; Unincorporated Marin,547,2021-10-10,2021-10-10
+Marin,Census Tract 1060.02: San Rafael: Santa Venetia,429,2021-10-10,2021-10-10
+Marin,Census Tract 1070.00: Lucas Valley; Lucas Valley Environs; Marinwood,235,2021-10-10,2021-10-10
+Marin,Census Tract 1081.00: San Rafael,281,2021-10-10,2021-10-10
+Marin,Census Tract 1082.00: San Rafael: Los Ranchitos,494,2021-10-10,2021-10-10
+Marin,Census Tract 1090.01: San Rafael: Sun Valley,391,2021-10-10,2021-10-10
+Marin,Census Tract 1090.02: San Rafael: Sun Valley,157,2021-10-10,2021-10-10
+Marin,Census Tract 1101.00: San Rafael: Country Club,514,2021-10-10,2021-10-10
+Marin,Census Tract 1102.00: San Rafael: Bayside Acres; Point San Pedro,164,2021-10-10,2021-10-10
+Marin,Census Tract 1110.00: San Rafael,509,2021-10-10,2021-10-10
+Marin,Census Tract 1121.00: San Rafael: California Park,375,2021-10-10,2021-10-10
+Marin,Census Tract 1122.01: San Rafael: Canal,1722,2021-10-10,2021-10-10
+Marin,Census Tract 1122.02: San Rafael: Canal,644,2021-10-10,2021-10-10
+Marin,Census Tract 1141.00: Fairfax; Unincorporated Marin,163,2021-10-10,2021-10-10
+Marin,Census Tract 1142.00: Fairfax; Unincorporated Fairfax,119,2021-10-10,2021-10-10
+Marin,Census Tract 1150.00: San Anselmo; Sleepy Hollow,250,2021-10-10,2021-10-10
+Marin,Census Tract 1160.00: San Anselmo,110,2021-10-10,2021-10-10
+Marin,Census Tract 1170.00: San Anselmo,185,2021-10-10,2021-10-10
+Marin,Census Tract 1181.00: Ross,96,2021-10-10,2021-10-10
+Marin,Census Tract 1191.00: Kentfield,215,2021-10-10,2021-10-10
+Marin,Census Tract 1192.01: Larkspur; Kentfield,210,2021-10-10,2021-10-10
+Marin,Census Tract 1192.02: Larkspur; Kentfield,110,2021-10-10,2021-10-10
+Marin,Census Tract 1200.00: Larkspur,224,2021-10-10,2021-10-10
+Marin,Census Tract 1211.00: Corte Madera,246,2021-10-10,2021-10-10
+Marin,Census Tract 1212.00: Corte Madera,320,2021-10-10,2021-10-10
+Marin,Census Tract 1220.00: San Quentin,0,2021-10-10,2021-10-10
+Marin,Census Tract 1230.00: Belvedere,82,2021-10-10,2021-10-10
+Marin,Census Tract 1241.00: Tiburon; Strawberry,157,2021-10-10,2021-10-10
+Marin,Census Tract 1242.00: Tiburon,208,2021-10-10,2021-10-10
+Marin,Census Tract 1250.00: Strawberry,113,2021-10-10,2021-10-10
+Marin,Census Tract 1261.00: Mill Valley,145,2021-10-10,2021-10-10
+Marin,Census Tract 1262.00: Mill Valley,164,2021-10-10,2021-10-10
+Marin,Census Tract 1270.00: Mill Valley,134,2021-10-10,2021-10-10
+Marin,Census Tract 1281.00: Tamalpais Valley; Homestead Valley,179,2021-10-10,2021-10-10
+Marin,Census Tract 1282.00: Almonte; Homestead; Muir Woods Park,130,2021-10-10,2021-10-10
+Marin,Census Tract 1290.00: Marin City,195,2021-10-10,2021-10-10
+Marin,Census Tract 1302.01: Sausalito: Waldo Point,106,2021-10-10,2021-10-10
+Marin,Census Tract 1302.02: Sausalito: Waldo Point,165,2021-10-10,2021-10-10
+Marin,Dillon Beach-Inverness-Point Reyes Station-Tomales,100,2021-10-10,2021-10-10
+Marin,Nicasio-Lagunitas-Forest Knolls,58,2021-10-10,2021-10-10
+Marin,San Geronimo-Woodacre,60,2021-10-10,2021-10-10
+Marin,Bolinas-Muir Beach-Stinson Beach,54,2021-10-11,2021-10-11
+Marin,Census Tract 1011.00: Novato: Black Point; North Novato,106,2021-10-11,2021-10-11
+Marin,Census Tract 1012.00: Novato,188,2021-10-11,2021-10-11
+Marin,Census Tract 1021.00: Novato,92,2021-10-11,2021-10-11
+Marin,Census Tract 1022.02: Novato,368,2021-10-11,2021-10-11
+Marin,Census Tract 1022.03: Novato,494,2021-10-11,2021-10-11
+Marin,Census Tract 1031.00: Novato: Indian Valley,377,2021-10-11,2021-10-11
+Marin,Census Tract 1032.00: Novato,680,2021-10-11,2021-10-11
+Marin,Census Tract 1041.01: Novato,469,2021-10-11,2021-10-11
+Marin,Census Tract 1041.02: Novato,434,2021-10-11,2021-10-11
+Marin,Census Tract 1042.00: Novato: Loma Verde,370,2021-10-11,2021-10-11
+Marin,Census Tract 1043.00: Bel Marin Keys,64,2021-10-11,2021-10-11
+Marin,Census Tract 1050.00: Novato,502,2021-10-11,2021-10-11
+Marin,Census Tract 1060.01: San Rafael; Unincorporated Marin,547,2021-10-11,2021-10-11
+Marin,Census Tract 1060.02: San Rafael: Santa Venetia,429,2021-10-11,2021-10-11
+Marin,Census Tract 1070.00: Lucas Valley; Lucas Valley Environs; Marinwood,235,2021-10-11,2021-10-11
+Marin,Census Tract 1081.00: San Rafael,281,2021-10-11,2021-10-11
+Marin,Census Tract 1082.00: San Rafael: Los Ranchitos,495,2021-10-11,2021-10-11
+Marin,Census Tract 1090.01: San Rafael: Sun Valley,391,2021-10-11,2021-10-11
+Marin,Census Tract 1090.02: San Rafael: Sun Valley,157,2021-10-11,2021-10-11
+Marin,Census Tract 1101.00: San Rafael: Country Club,514,2021-10-11,2021-10-11
+Marin,Census Tract 1102.00: San Rafael: Bayside Acres; Point San Pedro,166,2021-10-11,2021-10-11
+Marin,Census Tract 1110.00: San Rafael,509,2021-10-11,2021-10-11
+Marin,Census Tract 1121.00: San Rafael: California Park,375,2021-10-11,2021-10-11
+Marin,Census Tract 1122.01: San Rafael: Canal,1722,2021-10-11,2021-10-11
+Marin,Census Tract 1122.02: San Rafael: Canal,644,2021-10-11,2021-10-11
+Marin,Census Tract 1141.00: Fairfax; Unincorporated Marin,163,2021-10-11,2021-10-11
+Marin,Census Tract 1142.00: Fairfax; Unincorporated Fairfax,119,2021-10-11,2021-10-11
+Marin,Census Tract 1150.00: San Anselmo; Sleepy Hollow,250,2021-10-11,2021-10-11
+Marin,Census Tract 1160.00: San Anselmo,110,2021-10-11,2021-10-11
+Marin,Census Tract 1170.00: San Anselmo,185,2021-10-11,2021-10-11
+Marin,Census Tract 1181.00: Ross,96,2021-10-11,2021-10-11
+Marin,Census Tract 1191.00: Kentfield,216,2021-10-11,2021-10-11
+Marin,Census Tract 1192.01: Larkspur; Kentfield,210,2021-10-11,2021-10-11
+Marin,Census Tract 1192.02: Larkspur; Kentfield,110,2021-10-11,2021-10-11
+Marin,Census Tract 1200.00: Larkspur,225,2021-10-11,2021-10-11
+Marin,Census Tract 1211.00: Corte Madera,247,2021-10-11,2021-10-11
+Marin,Census Tract 1212.00: Corte Madera,319,2021-10-11,2021-10-11
+Marin,Census Tract 1220.00: San Quentin,0,2021-10-11,2021-10-11
+Marin,Census Tract 1230.00: Belvedere,82,2021-10-11,2021-10-11
+Marin,Census Tract 1241.00: Tiburon; Strawberry,157,2021-10-11,2021-10-11
+Marin,Census Tract 1242.00: Tiburon,208,2021-10-11,2021-10-11
+Marin,Census Tract 1250.00: Strawberry,113,2021-10-11,2021-10-11
+Marin,Census Tract 1261.00: Mill Valley,146,2021-10-11,2021-10-11
+Marin,Census Tract 1262.00: Mill Valley,164,2021-10-11,2021-10-11
+Marin,Census Tract 1270.00: Mill Valley,134,2021-10-11,2021-10-11
+Marin,Census Tract 1281.00: Tamalpais Valley; Homestead Valley,180,2021-10-11,2021-10-11
+Marin,Census Tract 1282.00: Almonte; Homestead; Muir Woods Park,131,2021-10-11,2021-10-11
+Marin,Census Tract 1290.00: Marin City,195,2021-10-11,2021-10-11
+Marin,Census Tract 1302.01: Sausalito: Waldo Point,106,2021-10-11,2021-10-11
+Marin,Census Tract 1302.02: Sausalito: Waldo Point,165,2021-10-11,2021-10-11
+Marin,Dillon Beach-Inverness-Point Reyes Station-Tomales,100,2021-10-11,2021-10-11
+Marin,Nicasio-Lagunitas-Forest Knolls,58,2021-10-11,2021-10-11
+Marin,San Geronimo-Woodacre,60,2021-10-11,2021-10-11
+Marin,Bolinas-Muir Beach-Stinson Beach,54,2021-10-12,2021-10-12
+Marin,Census Tract 1011.00: Novato: Black Point; North Novato,106,2021-10-12,2021-10-12
+Marin,Census Tract 1012.00: Novato,188,2021-10-12,2021-10-12
+Marin,Census Tract 1021.00: Novato,92,2021-10-12,2021-10-12
+Marin,Census Tract 1022.02: Novato,368,2021-10-12,2021-10-12
+Marin,Census Tract 1022.03: Novato,494,2021-10-12,2021-10-12
+Marin,Census Tract 1031.00: Novato: Indian Valley,377,2021-10-12,2021-10-12
+Marin,Census Tract 1032.00: Novato,680,2021-10-12,2021-10-12
+Marin,Census Tract 1041.01: Novato,469,2021-10-12,2021-10-12
+Marin,Census Tract 1041.02: Novato,433,2021-10-12,2021-10-12
+Marin,Census Tract 1042.00: Novato: Loma Verde,370,2021-10-12,2021-10-12
+Marin,Census Tract 1043.00: Bel Marin Keys,64,2021-10-12,2021-10-12
+Marin,Census Tract 1050.00: Novato,503,2021-10-12,2021-10-12
+Marin,Census Tract 1060.01: San Rafael; Unincorporated Marin,547,2021-10-12,2021-10-12
+Marin,Census Tract 1060.02: San Rafael: Santa Venetia,429,2021-10-12,2021-10-12
+Marin,Census Tract 1070.00: Lucas Valley; Lucas Valley Environs; Marinwood,235,2021-10-12,2021-10-12
+Marin,Census Tract 1081.00: San Rafael,281,2021-10-12,2021-10-12
+Marin,Census Tract 1082.00: San Rafael: Los Ranchitos,496,2021-10-12,2021-10-12
+Marin,Census Tract 1090.01: San Rafael: Sun Valley,391,2021-10-12,2021-10-12
+Marin,Census Tract 1090.02: San Rafael: Sun Valley,157,2021-10-12,2021-10-12
+Marin,Census Tract 1101.00: San Rafael: Country Club,515,2021-10-12,2021-10-12
+Marin,Census Tract 1102.00: San Rafael: Bayside Acres; Point San Pedro,166,2021-10-12,2021-10-12
+Marin,Census Tract 1110.00: San Rafael,509,2021-10-12,2021-10-12
+Marin,Census Tract 1121.00: San Rafael: California Park,375,2021-10-12,2021-10-12
+Marin,Census Tract 1122.01: San Rafael: Canal,1722,2021-10-12,2021-10-12
+Marin,Census Tract 1122.02: San Rafael: Canal,644,2021-10-12,2021-10-12
+Marin,Census Tract 1141.00: Fairfax; Unincorporated Marin,163,2021-10-12,2021-10-12
+Marin,Census Tract 1142.00: Fairfax; Unincorporated Fairfax,119,2021-10-12,2021-10-12
+Marin,Census Tract 1150.00: San Anselmo; Sleepy Hollow,251,2021-10-12,2021-10-12
+Marin,Census Tract 1160.00: San Anselmo,110,2021-10-12,2021-10-12
+Marin,Census Tract 1170.00: San Anselmo,185,2021-10-12,2021-10-12
+Marin,Census Tract 1181.00: Ross,96,2021-10-12,2021-10-12
+Marin,Census Tract 1191.00: Kentfield,216,2021-10-12,2021-10-12
+Marin,Census Tract 1192.01: Larkspur; Kentfield,210,2021-10-12,2021-10-12
+Marin,Census Tract 1192.02: Larkspur; Kentfield,110,2021-10-12,2021-10-12
+Marin,Census Tract 1200.00: Larkspur,226,2021-10-12,2021-10-12
+Marin,Census Tract 1211.00: Corte Madera,247,2021-10-12,2021-10-12
+Marin,Census Tract 1212.00: Corte Madera,319,2021-10-12,2021-10-12
+Marin,Census Tract 1220.00: San Quentin,0,2021-10-12,2021-10-12
+Marin,Census Tract 1230.00: Belvedere,82,2021-10-12,2021-10-12
+Marin,Census Tract 1241.00: Tiburon; Strawberry,158,2021-10-12,2021-10-12
+Marin,Census Tract 1242.00: Tiburon,208,2021-10-12,2021-10-12
+Marin,Census Tract 1250.00: Strawberry,114,2021-10-12,2021-10-12
+Marin,Census Tract 1261.00: Mill Valley,146,2021-10-12,2021-10-12
+Marin,Census Tract 1262.00: Mill Valley,165,2021-10-12,2021-10-12
+Marin,Census Tract 1270.00: Mill Valley,134,2021-10-12,2021-10-12
+Marin,Census Tract 1281.00: Tamalpais Valley; Homestead Valley,180,2021-10-12,2021-10-12
+Marin,Census Tract 1282.00: Almonte; Homestead; Muir Woods Park,131,2021-10-12,2021-10-12
+Marin,Census Tract 1290.00: Marin City,196,2021-10-12,2021-10-12
+Marin,Census Tract 1302.01: Sausalito: Waldo Point,108,2021-10-12,2021-10-12
+Marin,Census Tract 1302.02: Sausalito: Waldo Point,165,2021-10-12,2021-10-12
+Marin,Dillon Beach-Inverness-Point Reyes Station-Tomales,101,2021-10-12,2021-10-12
+Marin,Nicasio-Lagunitas-Forest Knolls,58,2021-10-12,2021-10-12
+Marin,San Geronimo-Woodacre,60,2021-10-12,2021-10-12
+Marin,Bolinas-Muir Beach-Stinson Beach,54,2021-10-13,2021-10-13
+Marin,Census Tract 1011.00: Novato: Black Point; North Novato,106,2021-10-13,2021-10-13
+Marin,Census Tract 1012.00: Novato,189,2021-10-13,2021-10-13
+Marin,Census Tract 1021.00: Novato,92,2021-10-13,2021-10-13
+Marin,Census Tract 1022.02: Novato,368,2021-10-13,2021-10-13
+Marin,Census Tract 1022.03: Novato,495,2021-10-13,2021-10-13
+Marin,Census Tract 1031.00: Novato: Indian Valley,376,2021-10-13,2021-10-13
+Marin,Census Tract 1032.00: Novato,680,2021-10-13,2021-10-13
+Marin,Census Tract 1041.01: Novato,470,2021-10-13,2021-10-13
+Marin,Census Tract 1041.02: Novato,434,2021-10-13,2021-10-13
+Marin,Census Tract 1042.00: Novato: Loma Verde,370,2021-10-13,2021-10-13
+Marin,Census Tract 1043.00: Bel Marin Keys,64,2021-10-13,2021-10-13
+Marin,Census Tract 1050.00: Novato,503,2021-10-13,2021-10-13
+Marin,Census Tract 1060.01: San Rafael; Unincorporated Marin,547,2021-10-13,2021-10-13
+Marin,Census Tract 1060.02: San Rafael: Santa Venetia,429,2021-10-13,2021-10-13
+Marin,Census Tract 1070.00: Lucas Valley; Lucas Valley Environs; Marinwood,235,2021-10-13,2021-10-13
+Marin,Census Tract 1081.00: San Rafael,280,2021-10-13,2021-10-13
+Marin,Census Tract 1082.00: San Rafael: Los Ranchitos,498,2021-10-13,2021-10-13
+Marin,Census Tract 1090.01: San Rafael: Sun Valley,392,2021-10-13,2021-10-13
+Marin,Census Tract 1090.02: San Rafael: Sun Valley,157,2021-10-13,2021-10-13
+Marin,Census Tract 1101.00: San Rafael: Country Club,515,2021-10-13,2021-10-13
+Marin,Census Tract 1102.00: San Rafael: Bayside Acres; Point San Pedro,166,2021-10-13,2021-10-13
+Marin,Census Tract 1110.00: San Rafael,509,2021-10-13,2021-10-13
+Marin,Census Tract 1121.00: San Rafael: California Park,376,2021-10-13,2021-10-13
+Marin,Census Tract 1122.01: San Rafael: Canal,1722,2021-10-13,2021-10-13
+Marin,Census Tract 1122.02: San Rafael: Canal,644,2021-10-13,2021-10-13
+Marin,Census Tract 1141.00: Fairfax; Unincorporated Marin,164,2021-10-13,2021-10-13
+Marin,Census Tract 1142.00: Fairfax; Unincorporated Fairfax,119,2021-10-13,2021-10-13
+Marin,Census Tract 1150.00: San Anselmo; Sleepy Hollow,251,2021-10-13,2021-10-13
+Marin,Census Tract 1160.00: San Anselmo,110,2021-10-13,2021-10-13
+Marin,Census Tract 1170.00: San Anselmo,185,2021-10-13,2021-10-13
+Marin,Census Tract 1181.00: Ross,96,2021-10-13,2021-10-13
+Marin,Census Tract 1191.00: Kentfield,216,2021-10-13,2021-10-13
+Marin,Census Tract 1192.01: Larkspur; Kentfield,212,2021-10-13,2021-10-13
+Marin,Census Tract 1192.02: Larkspur; Kentfield,110,2021-10-13,2021-10-13
+Marin,Census Tract 1200.00: Larkspur,226,2021-10-13,2021-10-13
+Marin,Census Tract 1211.00: Corte Madera,247,2021-10-13,2021-10-13
+Marin,Census Tract 1212.00: Corte Madera,319,2021-10-13,2021-10-13
+Marin,Census Tract 1220.00: San Quentin,0,2021-10-13,2021-10-13
+Marin,Census Tract 1230.00: Belvedere,83,2021-10-13,2021-10-13
+Marin,Census Tract 1241.00: Tiburon; Strawberry,159,2021-10-13,2021-10-13
+Marin,Census Tract 1242.00: Tiburon,208,2021-10-13,2021-10-13
+Marin,Census Tract 1250.00: Strawberry,114,2021-10-13,2021-10-13
+Marin,Census Tract 1261.00: Mill Valley,146,2021-10-13,2021-10-13
+Marin,Census Tract 1262.00: Mill Valley,165,2021-10-13,2021-10-13
+Marin,Census Tract 1270.00: Mill Valley,134,2021-10-13,2021-10-13
+Marin,Census Tract 1281.00: Tamalpais Valley; Homestead Valley,180,2021-10-13,2021-10-13
+Marin,Census Tract 1282.00: Almonte; Homestead; Muir Woods Park,131,2021-10-13,2021-10-13
+Marin,Census Tract 1290.00: Marin City,196,2021-10-13,2021-10-13
+Marin,Census Tract 1302.01: Sausalito: Waldo Point,108,2021-10-13,2021-10-13
+Marin,Census Tract 1302.02: Sausalito: Waldo Point,167,2021-10-13,2021-10-13
+Marin,Dillon Beach-Inverness-Point Reyes Station-Tomales,101,2021-10-13,2021-10-13
+Marin,Nicasio-Lagunitas-Forest Knolls,58,2021-10-13,2021-10-13
+Marin,San Geronimo-Woodacre,60,2021-10-13,2021-10-13
+Marin,Bolinas-Muir Beach-Stinson Beach,54,2021-10-13,2021-10-14
+Marin,Census Tract 1011.00: Novato: Black Point; North Novato,106,2021-10-13,2021-10-14
+Marin,Census Tract 1012.00: Novato,189,2021-10-13,2021-10-14
+Marin,Census Tract 1021.00: Novato,92,2021-10-13,2021-10-14
+Marin,Census Tract 1022.02: Novato,368,2021-10-13,2021-10-14
+Marin,Census Tract 1022.03: Novato,495,2021-10-13,2021-10-14
+Marin,Census Tract 1031.00: Novato: Indian Valley,376,2021-10-13,2021-10-14
+Marin,Census Tract 1032.00: Novato,680,2021-10-13,2021-10-14
+Marin,Census Tract 1041.01: Novato,470,2021-10-13,2021-10-14
+Marin,Census Tract 1041.02: Novato,434,2021-10-13,2021-10-14
+Marin,Census Tract 1042.00: Novato: Loma Verde,370,2021-10-13,2021-10-14
+Marin,Census Tract 1043.00: Bel Marin Keys,64,2021-10-13,2021-10-14
+Marin,Census Tract 1050.00: Novato,503,2021-10-13,2021-10-14
+Marin,Census Tract 1060.01: San Rafael; Unincorporated Marin,547,2021-10-13,2021-10-14
+Marin,Census Tract 1060.02: San Rafael: Santa Venetia,429,2021-10-13,2021-10-14
+Marin,Census Tract 1070.00: Lucas Valley; Lucas Valley Environs; Marinwood,235,2021-10-13,2021-10-14
+Marin,Census Tract 1081.00: San Rafael,280,2021-10-13,2021-10-14
+Marin,Census Tract 1082.00: San Rafael: Los Ranchitos,498,2021-10-13,2021-10-14
+Marin,Census Tract 1090.01: San Rafael: Sun Valley,392,2021-10-13,2021-10-14
+Marin,Census Tract 1090.02: San Rafael: Sun Valley,157,2021-10-13,2021-10-14
+Marin,Census Tract 1101.00: San Rafael: Country Club,515,2021-10-13,2021-10-14
+Marin,Census Tract 1102.00: San Rafael: Bayside Acres; Point San Pedro,166,2021-10-13,2021-10-14
+Marin,Census Tract 1110.00: San Rafael,509,2021-10-13,2021-10-14
+Marin,Census Tract 1121.00: San Rafael: California Park,376,2021-10-13,2021-10-14
+Marin,Census Tract 1122.01: San Rafael: Canal,1722,2021-10-13,2021-10-14
+Marin,Census Tract 1122.02: San Rafael: Canal,644,2021-10-13,2021-10-14
+Marin,Census Tract 1141.00: Fairfax; Unincorporated Marin,164,2021-10-13,2021-10-14
+Marin,Census Tract 1142.00: Fairfax; Unincorporated Fairfax,119,2021-10-13,2021-10-14
+Marin,Census Tract 1150.00: San Anselmo; Sleepy Hollow,251,2021-10-13,2021-10-14
+Marin,Census Tract 1160.00: San Anselmo,110,2021-10-13,2021-10-14
+Marin,Census Tract 1170.00: San Anselmo,185,2021-10-13,2021-10-14
+Marin,Census Tract 1181.00: Ross,96,2021-10-13,2021-10-14
+Marin,Census Tract 1191.00: Kentfield,216,2021-10-13,2021-10-14
+Marin,Census Tract 1192.01: Larkspur; Kentfield,212,2021-10-13,2021-10-14
+Marin,Census Tract 1192.02: Larkspur; Kentfield,110,2021-10-13,2021-10-14
+Marin,Census Tract 1200.00: Larkspur,226,2021-10-13,2021-10-14
+Marin,Census Tract 1211.00: Corte Madera,247,2021-10-13,2021-10-14
+Marin,Census Tract 1212.00: Corte Madera,319,2021-10-13,2021-10-14
+Marin,Census Tract 1220.00: San Quentin,0,2021-10-13,2021-10-14
+Marin,Census Tract 1230.00: Belvedere,83,2021-10-13,2021-10-14
+Marin,Census Tract 1241.00: Tiburon; Strawberry,159,2021-10-13,2021-10-14
+Marin,Census Tract 1242.00: Tiburon,208,2021-10-13,2021-10-14
+Marin,Census Tract 1250.00: Strawberry,114,2021-10-13,2021-10-14
+Marin,Census Tract 1261.00: Mill Valley,146,2021-10-13,2021-10-14
+Marin,Census Tract 1262.00: Mill Valley,165,2021-10-13,2021-10-14
+Marin,Census Tract 1270.00: Mill Valley,134,2021-10-13,2021-10-14
+Marin,Census Tract 1281.00: Tamalpais Valley; Homestead Valley,180,2021-10-13,2021-10-14
+Marin,Census Tract 1282.00: Almonte; Homestead; Muir Woods Park,131,2021-10-13,2021-10-14
+Marin,Census Tract 1290.00: Marin City,196,2021-10-13,2021-10-14
+Marin,Census Tract 1302.01: Sausalito: Waldo Point,108,2021-10-13,2021-10-14
+Marin,Census Tract 1302.02: Sausalito: Waldo Point,167,2021-10-13,2021-10-14
+Marin,Dillon Beach-Inverness-Point Reyes Station-Tomales,101,2021-10-13,2021-10-14
+Marin,Nicasio-Lagunitas-Forest Knolls,58,2021-10-13,2021-10-14
+Marin,San Geronimo-Woodacre,60,2021-10-13,2021-10-14

@@ -15747,34 +15747,282 @@ Contra Costa,Rodeo,853,3.0,0.0,3.0,2021-10-05,2021-10-05
 Contra Costa,San Pablo*,6408,55.0,13.0,42.0,2021-10-05,2021-10-05
 Contra Costa,San Ramon*,3089,25.0,8.0,17.0,2021-10-05,2021-10-05
 Contra Costa,Walnut Creek*,4135,92.0,66.0,26.0,2021-10-05,2021-10-05
-Contra Costa,Alamo,706,5.0,1.0,4.0,2021-10-05,2021-10-06
-Contra Costa,Antioch,14109,130.0,33.0,97.0,2021-10-05,2021-10-06
-Contra Costa,Bay Point,3699,25.0,2.0,23.0,2021-10-05,2021-10-06
-Contra Costa,Bethel Island,158,2.0,1.0,1.0,2021-10-05,2021-10-06
-Contra Costa,Brentwood,5990,51.0,13.0,38.0,2021-10-05,2021-10-06
-Contra Costa,Byron,171,0.0,0.0,0.0,2021-10-05,2021-10-06
-Contra Costa,Clayton,640,9.0,2.0,7.0,2021-10-05,2021-10-06
-Contra Costa,Concord*,10860,149.0,93.0,56.0,2021-10-05,2021-10-06
-Contra Costa,Crockett*,215,1.0,1.0,0.0,2021-10-05,2021-10-06
-Contra Costa,Danville*,2406,24.0,16.0,8.0,2021-10-05,2021-10-06
-Contra Costa,Diablo,50,0.0,0.0,0.0,2021-10-05,2021-10-06
-Contra Costa,Discovery Bay,1399,6.0,1.0,5.0,2021-10-05,2021-10-06
-Contra Costa,El Cerrito,992,15.0,6.0,9.0,2021-10-05,2021-10-06
-Contra Costa,Hercules,1829,17.0,1.0,16.0,2021-10-05,2021-10-06
-Contra Costa,Kensington,90,0.0,0.0,0.0,2021-10-05,2021-10-06
-Contra Costa,Knightsen,34,0.0,0.0,0.0,2021-10-05,2021-10-06
-Contra Costa,Lafayette,931,5.0,3.0,2.0,2021-10-05,2021-10-06
-Contra Costa,Martinez*,3046,28.0,9.0,19.0,2021-10-05,2021-10-06
-Contra Costa,Moraga,456,4.0,3.0,1.0,2021-10-05,2021-10-06
-Contra Costa,Oakley,5085,37.0,5.0,32.0,2021-10-05,2021-10-06
-Contra Costa,Orinda,569,16.0,9.0,7.0,2021-10-05,2021-10-06
-Contra Costa,Other/Unspecified,873,7.0,5.0,2.0,2021-10-05,2021-10-06
-Contra Costa,Pacheco,322,1.0,0.0,1.0,2021-10-05,2021-10-06
-Contra Costa,Pinole,1554,6.0,0.0,6.0,2021-10-05,2021-10-06
-Contra Costa,Pittsburg,9250,73.0,14.0,59.0,2021-10-05,2021-10-06
-Contra Costa,Pleasant Hill*,1761,35.0,27.0,8.0,2021-10-05,2021-10-06
-Contra Costa,Richmond*,14715,117.0,2.0,115.0,2021-10-05,2021-10-06
-Contra Costa,Rodeo,853,3.0,0.0,3.0,2021-10-05,2021-10-06
-Contra Costa,San Pablo*,6408,55.0,13.0,42.0,2021-10-05,2021-10-06
-Contra Costa,San Ramon*,3089,25.0,8.0,17.0,2021-10-05,2021-10-06
-Contra Costa,Walnut Creek*,4135,92.0,66.0,26.0,2021-10-05,2021-10-06
+Contra Costa,Alamo,711,5.0,1.0,4.0,2021-10-06,2021-10-06
+Contra Costa,Antioch,14122,131.0,33.0,98.0,2021-10-06,2021-10-06
+Contra Costa,Bay Point,3703,25.0,2.0,23.0,2021-10-06,2021-10-06
+Contra Costa,Bethel Island,158,2.0,1.0,1.0,2021-10-06,2021-10-06
+Contra Costa,Brentwood,5993,52.0,13.0,39.0,2021-10-06,2021-10-06
+Contra Costa,Byron,171,0.0,0.0,0.0,2021-10-06,2021-10-06
+Contra Costa,Clayton,640,9.0,2.0,7.0,2021-10-06,2021-10-06
+Contra Costa,Concord*,10866,149.0,93.0,56.0,2021-10-06,2021-10-06
+Contra Costa,Crockett*,215,1.0,1.0,0.0,2021-10-06,2021-10-06
+Contra Costa,Danville*,2407,24.0,16.0,8.0,2021-10-06,2021-10-06
+Contra Costa,Diablo,50,0.0,0.0,0.0,2021-10-06,2021-10-06
+Contra Costa,Discovery Bay,1400,6.0,1.0,5.0,2021-10-06,2021-10-06
+Contra Costa,El Cerrito,992,15.0,6.0,9.0,2021-10-06,2021-10-06
+Contra Costa,Hercules,1829,17.0,1.0,16.0,2021-10-06,2021-10-06
+Contra Costa,Kensington,90,0.0,0.0,0.0,2021-10-06,2021-10-06
+Contra Costa,Knightsen,34,0.0,0.0,0.0,2021-10-06,2021-10-06
+Contra Costa,Lafayette,933,5.0,3.0,2.0,2021-10-06,2021-10-06
+Contra Costa,Martinez*,3050,28.0,9.0,19.0,2021-10-06,2021-10-06
+Contra Costa,Moraga,457,4.0,3.0,1.0,2021-10-06,2021-10-06
+Contra Costa,Oakley,5087,40.0,5.0,35.0,2021-10-06,2021-10-06
+Contra Costa,Orinda,569,16.0,9.0,7.0,2021-10-06,2021-10-06
+Contra Costa,Other/Unspecified,881,7.0,5.0,2.0,2021-10-06,2021-10-06
+Contra Costa,Pacheco,322,1.0,0.0,1.0,2021-10-06,2021-10-06
+Contra Costa,Pinole,1554,6.0,0.0,6.0,2021-10-06,2021-10-06
+Contra Costa,Pittsburg,9260,74.0,14.0,60.0,2021-10-06,2021-10-06
+Contra Costa,Pleasant Hill*,1762,35.0,27.0,8.0,2021-10-06,2021-10-06
+Contra Costa,Richmond*,14730,122.0,3.0,119.0,2021-10-06,2021-10-06
+Contra Costa,Rodeo,855,3.0,0.0,3.0,2021-10-06,2021-10-06
+Contra Costa,San Pablo*,6412,55.0,13.0,42.0,2021-10-06,2021-10-06
+Contra Costa,San Ramon*,3096,25.0,8.0,17.0,2021-10-06,2021-10-06
+Contra Costa,Walnut Creek*,4139,93.0,66.0,27.0,2021-10-06,2021-10-06
+Contra Costa,Alamo,715,5.0,1.0,4.0,2021-10-07,2021-10-07
+Contra Costa,Antioch,14147,132.0,33.0,99.0,2021-10-07,2021-10-07
+Contra Costa,Bay Point,3711,25.0,2.0,23.0,2021-10-07,2021-10-07
+Contra Costa,Bethel Island,160,2.0,1.0,1.0,2021-10-07,2021-10-07
+Contra Costa,Brentwood,6011,52.0,13.0,39.0,2021-10-07,2021-10-07
+Contra Costa,Byron,171,0.0,0.0,0.0,2021-10-07,2021-10-07
+Contra Costa,Clayton,642,9.0,2.0,7.0,2021-10-07,2021-10-07
+Contra Costa,Concord*,10893,150.0,94.0,56.0,2021-10-07,2021-10-07
+Contra Costa,Crockett*,215,1.0,1.0,0.0,2021-10-07,2021-10-07
+Contra Costa,Danville*,2409,24.0,16.0,8.0,2021-10-07,2021-10-07
+Contra Costa,Diablo,50,0.0,0.0,0.0,2021-10-07,2021-10-07
+Contra Costa,Discovery Bay,1404,6.0,1.0,5.0,2021-10-07,2021-10-07
+Contra Costa,El Cerrito,994,15.0,6.0,9.0,2021-10-07,2021-10-07
+Contra Costa,Hercules,1831,17.0,1.0,16.0,2021-10-07,2021-10-07
+Contra Costa,Kensington,90,0.0,0.0,0.0,2021-10-07,2021-10-07
+Contra Costa,Knightsen,34,0.0,0.0,0.0,2021-10-07,2021-10-07
+Contra Costa,Lafayette,937,5.0,3.0,2.0,2021-10-07,2021-10-07
+Contra Costa,Martinez*,3063,28.0,9.0,19.0,2021-10-07,2021-10-07
+Contra Costa,Moraga,458,4.0,3.0,1.0,2021-10-07,2021-10-07
+Contra Costa,Oakley,5092,41.0,5.0,36.0,2021-10-07,2021-10-07
+Contra Costa,Orinda,569,16.0,9.0,7.0,2021-10-07,2021-10-07
+Contra Costa,Other/Unspecified,882,7.0,5.0,2.0,2021-10-07,2021-10-07
+Contra Costa,Pacheco,322,1.0,0.0,1.0,2021-10-07,2021-10-07
+Contra Costa,Pinole,1554,6.0,0.0,6.0,2021-10-07,2021-10-07
+Contra Costa,Pittsburg,9292,74.0,14.0,60.0,2021-10-07,2021-10-07
+Contra Costa,Pleasant Hill*,1768,35.0,27.0,8.0,2021-10-07,2021-10-07
+Contra Costa,Richmond*,14746,124.0,3.0,121.0,2021-10-07,2021-10-07
+Contra Costa,Rodeo,857,3.0,0.0,3.0,2021-10-07,2021-10-07
+Contra Costa,San Pablo*,6417,55.0,13.0,42.0,2021-10-07,2021-10-07
+Contra Costa,San Ramon*,3102,25.0,8.0,17.0,2021-10-07,2021-10-07
+Contra Costa,Walnut Creek*,4147,93.0,66.0,27.0,2021-10-07,2021-10-07
+Contra Costa,Alamo,716,5.0,1.0,4.0,2021-10-08,2021-10-08
+Contra Costa,Antioch,14160,132.0,33.0,99.0,2021-10-08,2021-10-08
+Contra Costa,Bay Point,3711,26.0,2.0,24.0,2021-10-08,2021-10-08
+Contra Costa,Bethel Island,160,2.0,1.0,1.0,2021-10-08,2021-10-08
+Contra Costa,Brentwood,6023,52.0,13.0,39.0,2021-10-08,2021-10-08
+Contra Costa,Byron,171,0.0,0.0,0.0,2021-10-08,2021-10-08
+Contra Costa,Clayton,645,9.0,2.0,7.0,2021-10-08,2021-10-08
+Contra Costa,Concord*,10911,150.0,94.0,56.0,2021-10-08,2021-10-08
+Contra Costa,Crockett*,216,1.0,1.0,0.0,2021-10-08,2021-10-08
+Contra Costa,Danville*,2420,24.0,16.0,8.0,2021-10-08,2021-10-08
+Contra Costa,Diablo,50,0.0,0.0,0.0,2021-10-08,2021-10-08
+Contra Costa,Discovery Bay,1407,6.0,1.0,5.0,2021-10-08,2021-10-08
+Contra Costa,El Cerrito,994,15.0,6.0,9.0,2021-10-08,2021-10-08
+Contra Costa,Hercules,1833,17.0,1.0,16.0,2021-10-08,2021-10-08
+Contra Costa,Kensington,91,0.0,0.0,0.0,2021-10-08,2021-10-08
+Contra Costa,Knightsen,34,0.0,0.0,0.0,2021-10-08,2021-10-08
+Contra Costa,Lafayette,937,5.0,3.0,2.0,2021-10-08,2021-10-08
+Contra Costa,Martinez*,3067,28.0,9.0,19.0,2021-10-08,2021-10-08
+Contra Costa,Moraga,460,4.0,3.0,1.0,2021-10-08,2021-10-08
+Contra Costa,Oakley,5097,41.0,5.0,36.0,2021-10-08,2021-10-08
+Contra Costa,Orinda,569,16.0,9.0,7.0,2021-10-08,2021-10-08
+Contra Costa,Other/Unspecified,885,7.0,5.0,2.0,2021-10-08,2021-10-08
+Contra Costa,Pacheco,323,1.0,0.0,1.0,2021-10-08,2021-10-08
+Contra Costa,Pinole,1554,6.0,0.0,6.0,2021-10-08,2021-10-08
+Contra Costa,Pittsburg,9302,75.0,14.0,61.0,2021-10-08,2021-10-08
+Contra Costa,Pleasant Hill*,1772,35.0,27.0,8.0,2021-10-08,2021-10-08
+Contra Costa,Richmond*,14756,124.0,4.0,120.0,2021-10-08,2021-10-08
+Contra Costa,Rodeo,857,3.0,0.0,3.0,2021-10-08,2021-10-08
+Contra Costa,San Pablo*,6421,55.0,13.0,42.0,2021-10-08,2021-10-08
+Contra Costa,San Ramon*,3112,25.0,8.0,17.0,2021-10-08,2021-10-08
+Contra Costa,Walnut Creek*,4149,94.0,66.0,28.0,2021-10-08,2021-10-08
+Contra Costa,Alamo,719,5.0,1.0,4.0,2021-10-09,2021-10-09
+Contra Costa,Antioch,14182,132.0,33.0,99.0,2021-10-09,2021-10-09
+Contra Costa,Bay Point,3719,26.0,2.0,24.0,2021-10-09,2021-10-09
+Contra Costa,Bethel Island,160,2.0,1.0,1.0,2021-10-09,2021-10-09
+Contra Costa,Brentwood,6029,52.0,13.0,39.0,2021-10-09,2021-10-09
+Contra Costa,Byron,176,0.0,0.0,0.0,2021-10-09,2021-10-09
+Contra Costa,Clayton,646,9.0,2.0,7.0,2021-10-09,2021-10-09
+Contra Costa,Concord*,10928,150.0,94.0,56.0,2021-10-09,2021-10-09
+Contra Costa,Crockett*,216,1.0,1.0,0.0,2021-10-09,2021-10-09
+Contra Costa,Danville*,2424,24.0,16.0,8.0,2021-10-09,2021-10-09
+Contra Costa,Diablo,50,0.0,0.0,0.0,2021-10-09,2021-10-09
+Contra Costa,Discovery Bay,1408,6.0,1.0,5.0,2021-10-09,2021-10-09
+Contra Costa,El Cerrito,995,15.0,6.0,9.0,2021-10-09,2021-10-09
+Contra Costa,Hercules,1835,17.0,1.0,16.0,2021-10-09,2021-10-09
+Contra Costa,Kensington,91,0.0,0.0,0.0,2021-10-09,2021-10-09
+Contra Costa,Knightsen,34,0.0,0.0,0.0,2021-10-09,2021-10-09
+Contra Costa,Lafayette,945,5.0,3.0,2.0,2021-10-09,2021-10-09
+Contra Costa,Martinez*,3071,28.0,9.0,19.0,2021-10-09,2021-10-09
+Contra Costa,Moraga,462,4.0,3.0,1.0,2021-10-09,2021-10-09
+Contra Costa,Oakley,5107,41.0,5.0,36.0,2021-10-09,2021-10-09
+Contra Costa,Orinda,571,16.0,9.0,7.0,2021-10-09,2021-10-09
+Contra Costa,Other/Unspecified,890,7.0,5.0,2.0,2021-10-09,2021-10-09
+Contra Costa,Pacheco,323,1.0,0.0,1.0,2021-10-09,2021-10-09
+Contra Costa,Pinole,1557,6.0,0.0,6.0,2021-10-09,2021-10-09
+Contra Costa,Pittsburg,9317,75.0,14.0,61.0,2021-10-09,2021-10-09
+Contra Costa,Pleasant Hill*,1775,35.0,27.0,8.0,2021-10-09,2021-10-09
+Contra Costa,Richmond*,14771,124.0,4.0,120.0,2021-10-09,2021-10-09
+Contra Costa,Rodeo,858,3.0,0.0,3.0,2021-10-09,2021-10-09
+Contra Costa,San Pablo*,6427,55.0,13.0,42.0,2021-10-09,2021-10-09
+Contra Costa,San Ramon*,3118,25.0,8.0,17.0,2021-10-09,2021-10-09
+Contra Costa,Walnut Creek*,4160,94.0,66.0,28.0,2021-10-09,2021-10-09
+Contra Costa,Alamo,725,5.0,1.0,4.0,2021-10-10,2021-10-10
+Contra Costa,Antioch,14193,132.0,33.0,99.0,2021-10-10,2021-10-10
+Contra Costa,Bay Point,3718,26.0,2.0,24.0,2021-10-10,2021-10-10
+Contra Costa,Bethel Island,160,2.0,1.0,1.0,2021-10-10,2021-10-10
+Contra Costa,Brentwood,6039,52.0,13.0,39.0,2021-10-10,2021-10-10
+Contra Costa,Byron,176,0.0,0.0,0.0,2021-10-10,2021-10-10
+Contra Costa,Clayton,646,9.0,2.0,7.0,2021-10-10,2021-10-10
+Contra Costa,Concord*,10937,150.0,94.0,56.0,2021-10-10,2021-10-10
+Contra Costa,Crockett*,218,1.0,1.0,0.0,2021-10-10,2021-10-10
+Contra Costa,Danville*,2427,24.0,16.0,8.0,2021-10-10,2021-10-10
+Contra Costa,Diablo,50,0.0,0.0,0.0,2021-10-10,2021-10-10
+Contra Costa,Discovery Bay,1413,6.0,1.0,5.0,2021-10-10,2021-10-10
+Contra Costa,El Cerrito,995,15.0,6.0,9.0,2021-10-10,2021-10-10
+Contra Costa,Hercules,1835,17.0,1.0,16.0,2021-10-10,2021-10-10
+Contra Costa,Kensington,92,0.0,0.0,0.0,2021-10-10,2021-10-10
+Contra Costa,Knightsen,34,0.0,0.0,0.0,2021-10-10,2021-10-10
+Contra Costa,Lafayette,946,5.0,3.0,2.0,2021-10-10,2021-10-10
+Contra Costa,Martinez*,3076,28.0,9.0,19.0,2021-10-10,2021-10-10
+Contra Costa,Moraga,462,4.0,3.0,1.0,2021-10-10,2021-10-10
+Contra Costa,Oakley,5111,41.0,5.0,36.0,2021-10-10,2021-10-10
+Contra Costa,Orinda,572,16.0,9.0,7.0,2021-10-10,2021-10-10
+Contra Costa,Other/Unspecified,894,7.0,5.0,2.0,2021-10-10,2021-10-10
+Contra Costa,Pacheco,325,1.0,0.0,1.0,2021-10-10,2021-10-10
+Contra Costa,Pinole,1558,6.0,0.0,6.0,2021-10-10,2021-10-10
+Contra Costa,Pittsburg,9328,75.0,14.0,61.0,2021-10-10,2021-10-10
+Contra Costa,Pleasant Hill*,1777,35.0,27.0,8.0,2021-10-10,2021-10-10
+Contra Costa,Richmond*,14778,124.0,4.0,120.0,2021-10-10,2021-10-10
+Contra Costa,Rodeo,859,3.0,0.0,3.0,2021-10-10,2021-10-10
+Contra Costa,San Pablo*,6434,55.0,13.0,42.0,2021-10-10,2021-10-10
+Contra Costa,San Ramon*,3122,25.0,8.0,17.0,2021-10-10,2021-10-10
+Contra Costa,Walnut Creek*,4167,94.0,66.0,28.0,2021-10-10,2021-10-10
+Contra Costa,Alamo,725,5.0,1.0,4.0,2021-10-11,2021-10-11
+Contra Costa,Antioch,14208,132.0,33.0,99.0,2021-10-11,2021-10-11
+Contra Costa,Bay Point,3718,26.0,2.0,24.0,2021-10-11,2021-10-11
+Contra Costa,Bethel Island,160,2.0,1.0,1.0,2021-10-11,2021-10-11
+Contra Costa,Brentwood,6048,52.0,13.0,39.0,2021-10-11,2021-10-11
+Contra Costa,Byron,176,0.0,0.0,0.0,2021-10-11,2021-10-11
+Contra Costa,Clayton,647,9.0,2.0,7.0,2021-10-11,2021-10-11
+Contra Costa,Concord*,10944,150.0,94.0,56.0,2021-10-11,2021-10-11
+Contra Costa,Crockett*,219,1.0,1.0,0.0,2021-10-11,2021-10-11
+Contra Costa,Danville*,2429,24.0,16.0,8.0,2021-10-11,2021-10-11
+Contra Costa,Diablo,50,0.0,0.0,0.0,2021-10-11,2021-10-11
+Contra Costa,Discovery Bay,1414,6.0,1.0,5.0,2021-10-11,2021-10-11
+Contra Costa,El Cerrito,996,15.0,6.0,9.0,2021-10-11,2021-10-11
+Contra Costa,Hercules,1835,17.0,1.0,16.0,2021-10-11,2021-10-11
+Contra Costa,Kensington,92,0.0,0.0,0.0,2021-10-11,2021-10-11
+Contra Costa,Knightsen,34,0.0,0.0,0.0,2021-10-11,2021-10-11
+Contra Costa,Lafayette,947,5.0,3.0,2.0,2021-10-11,2021-10-11
+Contra Costa,Martinez*,3081,28.0,9.0,19.0,2021-10-11,2021-10-11
+Contra Costa,Moraga,463,4.0,3.0,1.0,2021-10-11,2021-10-11
+Contra Costa,Oakley,5117,41.0,5.0,36.0,2021-10-11,2021-10-11
+Contra Costa,Orinda,573,16.0,9.0,7.0,2021-10-11,2021-10-11
+Contra Costa,Other/Unspecified,895,7.0,5.0,2.0,2021-10-11,2021-10-11
+Contra Costa,Pacheco,325,1.0,0.0,1.0,2021-10-11,2021-10-11
+Contra Costa,Pinole,1562,6.0,0.0,6.0,2021-10-11,2021-10-11
+Contra Costa,Pittsburg,9331,75.0,14.0,61.0,2021-10-11,2021-10-11
+Contra Costa,Pleasant Hill*,1779,35.0,27.0,8.0,2021-10-11,2021-10-11
+Contra Costa,Richmond*,14779,124.0,4.0,120.0,2021-10-11,2021-10-11
+Contra Costa,Rodeo,859,3.0,0.0,3.0,2021-10-11,2021-10-11
+Contra Costa,San Pablo*,6434,55.0,13.0,42.0,2021-10-11,2021-10-11
+Contra Costa,San Ramon*,3123,25.0,8.0,17.0,2021-10-11,2021-10-11
+Contra Costa,Walnut Creek*,4175,94.0,66.0,28.0,2021-10-11,2021-10-11
+Contra Costa,Alamo,727,5.0,1.0,4.0,2021-10-12,2021-10-12
+Contra Costa,Antioch,14217,132.0,33.0,99.0,2021-10-12,2021-10-12
+Contra Costa,Bay Point,3718,26.0,2.0,24.0,2021-10-12,2021-10-12
+Contra Costa,Bethel Island,160,2.0,1.0,1.0,2021-10-12,2021-10-12
+Contra Costa,Brentwood,6051,52.0,13.0,39.0,2021-10-12,2021-10-12
+Contra Costa,Byron,176,0.0,0.0,0.0,2021-10-12,2021-10-12
+Contra Costa,Clayton,648,9.0,2.0,7.0,2021-10-12,2021-10-12
+Contra Costa,Concord*,10951,150.0,94.0,56.0,2021-10-12,2021-10-12
+Contra Costa,Crockett*,220,1.0,1.0,0.0,2021-10-12,2021-10-12
+Contra Costa,Danville*,2435,24.0,16.0,8.0,2021-10-12,2021-10-12
+Contra Costa,Diablo,50,0.0,0.0,0.0,2021-10-12,2021-10-12
+Contra Costa,Discovery Bay,1414,6.0,1.0,5.0,2021-10-12,2021-10-12
+Contra Costa,El Cerrito,997,15.0,6.0,9.0,2021-10-12,2021-10-12
+Contra Costa,Hercules,1836,17.0,1.0,16.0,2021-10-12,2021-10-12
+Contra Costa,Kensington,92,0.0,0.0,0.0,2021-10-12,2021-10-12
+Contra Costa,Knightsen,34,0.0,0.0,0.0,2021-10-12,2021-10-12
+Contra Costa,Lafayette,950,5.0,3.0,2.0,2021-10-12,2021-10-12
+Contra Costa,Martinez*,3083,28.0,9.0,19.0,2021-10-12,2021-10-12
+Contra Costa,Moraga,464,4.0,3.0,1.0,2021-10-12,2021-10-12
+Contra Costa,Oakley,5124,41.0,5.0,36.0,2021-10-12,2021-10-12
+Contra Costa,Orinda,574,16.0,9.0,7.0,2021-10-12,2021-10-12
+Contra Costa,Other/Unspecified,895,7.0,5.0,2.0,2021-10-12,2021-10-12
+Contra Costa,Pacheco,325,1.0,0.0,1.0,2021-10-12,2021-10-12
+Contra Costa,Pinole,1563,6.0,0.0,6.0,2021-10-12,2021-10-12
+Contra Costa,Pittsburg,9338,75.0,14.0,61.0,2021-10-12,2021-10-12
+Contra Costa,Pleasant Hill*,1780,35.0,27.0,8.0,2021-10-12,2021-10-12
+Contra Costa,Richmond*,14792,124.0,4.0,120.0,2021-10-12,2021-10-12
+Contra Costa,Rodeo,859,3.0,0.0,3.0,2021-10-12,2021-10-12
+Contra Costa,San Pablo*,6440,55.0,13.0,42.0,2021-10-12,2021-10-12
+Contra Costa,San Ramon*,3128,25.0,8.0,17.0,2021-10-12,2021-10-12
+Contra Costa,Walnut Creek*,4178,94.0,66.0,28.0,2021-10-12,2021-10-12
+Contra Costa,Alamo,728,5.0,1.0,4.0,2021-10-13,2021-10-13
+Contra Costa,Antioch,14223,136.0,33.0,103.0,2021-10-13,2021-10-13
+Contra Costa,Bay Point,3720,27.0,2.0,25.0,2021-10-13,2021-10-13
+Contra Costa,Bethel Island,160,2.0,1.0,1.0,2021-10-13,2021-10-13
+Contra Costa,Brentwood,6057,54.0,13.0,41.0,2021-10-13,2021-10-13
+Contra Costa,Byron,176,0.0,0.0,0.0,2021-10-13,2021-10-13
+Contra Costa,Clayton,650,9.0,2.0,7.0,2021-10-13,2021-10-13
+Contra Costa,Concord*,10962,151.0,94.0,57.0,2021-10-13,2021-10-13
+Contra Costa,Crockett*,220,1.0,1.0,0.0,2021-10-13,2021-10-13
+Contra Costa,Danville*,2437,24.0,16.0,8.0,2021-10-13,2021-10-13
+Contra Costa,Diablo,50,0.0,0.0,0.0,2021-10-13,2021-10-13
+Contra Costa,Discovery Bay,1415,6.0,1.0,5.0,2021-10-13,2021-10-13
+Contra Costa,El Cerrito,999,15.0,6.0,9.0,2021-10-13,2021-10-13
+Contra Costa,Hercules,1838,17.0,1.0,16.0,2021-10-13,2021-10-13
+Contra Costa,Kensington,92,0.0,0.0,0.0,2021-10-13,2021-10-13
+Contra Costa,Knightsen,34,0.0,0.0,0.0,2021-10-13,2021-10-13
+Contra Costa,Lafayette,951,5.0,3.0,2.0,2021-10-13,2021-10-13
+Contra Costa,Martinez*,3089,28.0,9.0,19.0,2021-10-13,2021-10-13
+Contra Costa,Moraga,464,4.0,3.0,1.0,2021-10-13,2021-10-13
+Contra Costa,Oakley,5127,41.0,5.0,36.0,2021-10-13,2021-10-13
+Contra Costa,Orinda,575,16.0,9.0,7.0,2021-10-13,2021-10-13
+Contra Costa,Other/Unspecified,897,7.0,5.0,2.0,2021-10-13,2021-10-13
+Contra Costa,Pacheco,325,1.0,0.0,1.0,2021-10-13,2021-10-13
+Contra Costa,Pinole,1564,6.0,0.0,6.0,2021-10-13,2021-10-13
+Contra Costa,Pittsburg,9342,76.0,14.0,62.0,2021-10-13,2021-10-13
+Contra Costa,Pleasant Hill*,1780,35.0,27.0,8.0,2021-10-13,2021-10-13
+Contra Costa,Richmond*,14807,124.0,4.0,120.0,2021-10-13,2021-10-13
+Contra Costa,Rodeo,859,3.0,0.0,3.0,2021-10-13,2021-10-13
+Contra Costa,San Pablo*,6448,55.0,13.0,42.0,2021-10-13,2021-10-13
+Contra Costa,San Ramon*,3136,25.0,8.0,17.0,2021-10-13,2021-10-13
+Contra Costa,Walnut Creek*,4183,94.0,66.0,28.0,2021-10-13,2021-10-13
+Contra Costa,Alamo,728,5.0,1.0,4.0,2021-10-13,2021-10-14
+Contra Costa,Antioch,14223,136.0,33.0,103.0,2021-10-13,2021-10-14
+Contra Costa,Bay Point,3720,27.0,2.0,25.0,2021-10-13,2021-10-14
+Contra Costa,Bethel Island,160,2.0,1.0,1.0,2021-10-13,2021-10-14
+Contra Costa,Brentwood,6057,54.0,13.0,41.0,2021-10-13,2021-10-14
+Contra Costa,Byron,176,0.0,0.0,0.0,2021-10-13,2021-10-14
+Contra Costa,Clayton,650,9.0,2.0,7.0,2021-10-13,2021-10-14
+Contra Costa,Concord*,10962,151.0,94.0,57.0,2021-10-13,2021-10-14
+Contra Costa,Crockett*,220,1.0,1.0,0.0,2021-10-13,2021-10-14
+Contra Costa,Danville*,2437,24.0,16.0,8.0,2021-10-13,2021-10-14
+Contra Costa,Diablo,50,0.0,0.0,0.0,2021-10-13,2021-10-14
+Contra Costa,Discovery Bay,1415,6.0,1.0,5.0,2021-10-13,2021-10-14
+Contra Costa,El Cerrito,999,15.0,6.0,9.0,2021-10-13,2021-10-14
+Contra Costa,Hercules,1838,17.0,1.0,16.0,2021-10-13,2021-10-14
+Contra Costa,Kensington,92,0.0,0.0,0.0,2021-10-13,2021-10-14
+Contra Costa,Knightsen,34,0.0,0.0,0.0,2021-10-13,2021-10-14
+Contra Costa,Lafayette,951,5.0,3.0,2.0,2021-10-13,2021-10-14
+Contra Costa,Martinez*,3089,28.0,9.0,19.0,2021-10-13,2021-10-14
+Contra Costa,Moraga,464,4.0,3.0,1.0,2021-10-13,2021-10-14
+Contra Costa,Oakley,5127,41.0,5.0,36.0,2021-10-13,2021-10-14
+Contra Costa,Orinda,575,16.0,9.0,7.0,2021-10-13,2021-10-14
+Contra Costa,Other/Unspecified,897,7.0,5.0,2.0,2021-10-13,2021-10-14
+Contra Costa,Pacheco,325,1.0,0.0,1.0,2021-10-13,2021-10-14
+Contra Costa,Pinole,1564,6.0,0.0,6.0,2021-10-13,2021-10-14
+Contra Costa,Pittsburg,9342,76.0,14.0,62.0,2021-10-13,2021-10-14
+Contra Costa,Pleasant Hill*,1780,35.0,27.0,8.0,2021-10-13,2021-10-14
+Contra Costa,Richmond*,14807,124.0,4.0,120.0,2021-10-13,2021-10-14
+Contra Costa,Rodeo,859,3.0,0.0,3.0,2021-10-13,2021-10-14
+Contra Costa,San Pablo*,6448,55.0,13.0,42.0,2021-10-13,2021-10-14
+Contra Costa,San Ramon*,3136,25.0,8.0,17.0,2021-10-13,2021-10-14
+Contra Costa,Walnut Creek*,4183,94.0,66.0,28.0,2021-10-13,2021-10-14

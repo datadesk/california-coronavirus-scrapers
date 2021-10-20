@@ -31768,67 +31768,579 @@ San Bernardino,Wrightwood,419,2021-10-05,2021-10-05
 San Bernardino,Yermo,106,2021-10-05,2021-10-05
 San Bernardino,Yucaipa,7125,2021-10-05,2021-10-05
 San Bernardino,Yucca Valley,2092,2021-10-05,2021-10-05
-San Bernardino,Adelanto,6439,2021-10-05,2021-10-06
-San Bernardino,Angelus Oaks,47,2021-10-05,2021-10-06
-San Bernardino,Apple Valley,11899,2021-10-05,2021-10-06
-San Bernardino,Arrowbear,7,2021-10-05,2021-10-06
-San Bernardino,Baker,58,2021-10-05,2021-10-06
-San Bernardino,Barstow,4131,2021-10-05,2021-10-06
-San Bernardino,Big Bear City,861,2021-10-05,2021-10-06
-San Bernardino,Big Bear Lake,563,2021-10-05,2021-10-06
-San Bernardino,Big River,24,2021-10-05,2021-10-06
-San Bernardino,Bloomington,6851,2021-10-05,2021-10-06
-San Bernardino,Blue Jay,196,2021-10-05,2021-10-06
-San Bernardino,Cedar Glen,7,2021-10-05,2021-10-06
-San Bernardino,Chino,15433,2021-10-05,2021-10-06
-San Bernardino,Chino Hills,7281,2021-10-05,2021-10-06
-San Bernardino,Colton,11569,2021-10-05,2021-10-06
-San Bernardino,Crestline,814,2021-10-05,2021-10-06
-San Bernardino,Daggett,32,2021-10-05,2021-10-06
-San Bernardino,Devore,2,2021-10-05,2021-10-06
-San Bernardino,Fawnskin,31,2021-10-05,2021-10-06
-San Bernardino,Fontana,45474,2021-10-05,2021-10-06
-San Bernardino,Forest Falls,52,2021-10-05,2021-10-06
-San Bernardino,Grand Terrace,1968,2021-10-05,2021-10-06
-San Bernardino,Green Valley Lake,18,2021-10-05,2021-10-06
-San Bernardino,Havasu,35,2021-10-05,2021-10-06
-San Bernardino,Helendale,625,2021-10-05,2021-10-06
-San Bernardino,Hesperia,16482,2021-10-05,2021-10-06
-San Bernardino,Highland,9480,2021-10-05,2021-10-06
-San Bernardino,Hinkley,67,2021-10-05,2021-10-06
-San Bernardino,Joshua Tree,532,2021-10-05,2021-10-06
-San Bernardino,Lake Arrowhead,582,2021-10-05,2021-10-06
-San Bernardino,Landers,85,2021-10-05,2021-10-06
-San Bernardino,Loma Linda,3112,2021-10-05,2021-10-06
-San Bernardino,Lucerne Valley,450,2021-10-05,2021-10-06
-San Bernardino,Lytle Creek,85,2021-10-05,2021-10-06
-San Bernardino,Mentone,1316,2021-10-05,2021-10-06
-San Bernardino,Montclair,6946,2021-10-05,2021-10-06
-San Bernardino,Morongo Valley,242,2021-10-05,2021-10-06
-San Bernardino,Mt Baldy,2,2021-10-05,2021-10-06
-San Bernardino,Muscoy,122,2021-10-05,2021-10-06
-San Bernardino,Needles,479,2021-10-05,2021-10-06
-San Bernardino,Newberry Springs,168,2021-10-05,2021-10-06
-San Bernardino,Oak Glen,18,2021-10-05,2021-10-06
-San Bernardino,Oak Hills,1906,2021-10-05,2021-10-06
-San Bernardino,Ontario,30034,2021-10-05,2021-10-06
-San Bernardino,Oro Grande,149,2021-10-05,2021-10-06
-San Bernardino,Phelan,2022,2021-10-05,2021-10-06
-San Bernardino,Pioneertown,14,2021-10-05,2021-10-06
-San Bernardino,Piñon Hills,551,2021-10-05,2021-10-06
-San Bernardino,Rancho Cucamonga,22673,2021-10-05,2021-10-06
-San Bernardino,Redlands,10448,2021-10-05,2021-10-06
-San Bernardino,Rialto,21178,2021-10-05,2021-10-06
-San Bernardino,Rimforest,55,2021-10-05,2021-10-06
-San Bernardino,Running Springs,388,2021-10-05,2021-10-06
-San Bernardino,San Bernardino,46520,2021-10-05,2021-10-06
-San Bernardino,Sugarloaf,154,2021-10-05,2021-10-06
-San Bernardino,Trona,53,2021-10-05,2021-10-06
-San Bernardino,Twentynine Palms,1761,2021-10-05,2021-10-06
-San Bernardino,Twin Peaks,170,2021-10-05,2021-10-06
-San Bernardino,Upland,10171,2021-10-05,2021-10-06
-San Bernardino,Victorville,25390,2021-10-05,2021-10-06
-San Bernardino,Wrightwood,419,2021-10-05,2021-10-06
-San Bernardino,Yermo,106,2021-10-05,2021-10-06
-San Bernardino,Yucaipa,7125,2021-10-05,2021-10-06
-San Bernardino,Yucca Valley,2092,2021-10-05,2021-10-06
+San Bernardino,Adelanto,6439,2021-10-06,2021-10-06
+San Bernardino,Angelus Oaks,47,2021-10-06,2021-10-06
+San Bernardino,Apple Valley,11899,2021-10-06,2021-10-06
+San Bernardino,Arrowbear,7,2021-10-06,2021-10-06
+San Bernardino,Baker,58,2021-10-06,2021-10-06
+San Bernardino,Barstow,4131,2021-10-06,2021-10-06
+San Bernardino,Big Bear City,861,2021-10-06,2021-10-06
+San Bernardino,Big Bear Lake,563,2021-10-06,2021-10-06
+San Bernardino,Big River,24,2021-10-06,2021-10-06
+San Bernardino,Bloomington,6851,2021-10-06,2021-10-06
+San Bernardino,Blue Jay,196,2021-10-06,2021-10-06
+San Bernardino,Cedar Glen,7,2021-10-06,2021-10-06
+San Bernardino,Chino,15433,2021-10-06,2021-10-06
+San Bernardino,Chino Hills,7281,2021-10-06,2021-10-06
+San Bernardino,Colton,11569,2021-10-06,2021-10-06
+San Bernardino,Crestline,814,2021-10-06,2021-10-06
+San Bernardino,Daggett,32,2021-10-06,2021-10-06
+San Bernardino,Devore,2,2021-10-06,2021-10-06
+San Bernardino,Fawnskin,31,2021-10-06,2021-10-06
+San Bernardino,Fontana,45474,2021-10-06,2021-10-06
+San Bernardino,Forest Falls,52,2021-10-06,2021-10-06
+San Bernardino,Grand Terrace,1968,2021-10-06,2021-10-06
+San Bernardino,Green Valley Lake,18,2021-10-06,2021-10-06
+San Bernardino,Havasu,35,2021-10-06,2021-10-06
+San Bernardino,Helendale,625,2021-10-06,2021-10-06
+San Bernardino,Hesperia,16482,2021-10-06,2021-10-06
+San Bernardino,Highland,9480,2021-10-06,2021-10-06
+San Bernardino,Hinkley,67,2021-10-06,2021-10-06
+San Bernardino,Joshua Tree,532,2021-10-06,2021-10-06
+San Bernardino,Lake Arrowhead,582,2021-10-06,2021-10-06
+San Bernardino,Landers,85,2021-10-06,2021-10-06
+San Bernardino,Loma Linda,3112,2021-10-06,2021-10-06
+San Bernardino,Lucerne Valley,450,2021-10-06,2021-10-06
+San Bernardino,Lytle Creek,85,2021-10-06,2021-10-06
+San Bernardino,Mentone,1316,2021-10-06,2021-10-06
+San Bernardino,Montclair,6946,2021-10-06,2021-10-06
+San Bernardino,Morongo Valley,242,2021-10-06,2021-10-06
+San Bernardino,Mt Baldy,2,2021-10-06,2021-10-06
+San Bernardino,Muscoy,122,2021-10-06,2021-10-06
+San Bernardino,Needles,479,2021-10-06,2021-10-06
+San Bernardino,Newberry Springs,168,2021-10-06,2021-10-06
+San Bernardino,Oak Glen,18,2021-10-06,2021-10-06
+San Bernardino,Oak Hills,1906,2021-10-06,2021-10-06
+San Bernardino,Ontario,30034,2021-10-06,2021-10-06
+San Bernardino,Oro Grande,149,2021-10-06,2021-10-06
+San Bernardino,Phelan,2022,2021-10-06,2021-10-06
+San Bernardino,Pioneertown,14,2021-10-06,2021-10-06
+San Bernardino,Piñon Hills,551,2021-10-06,2021-10-06
+San Bernardino,Rancho Cucamonga,22673,2021-10-06,2021-10-06
+San Bernardino,Redlands,10448,2021-10-06,2021-10-06
+San Bernardino,Rialto,21178,2021-10-06,2021-10-06
+San Bernardino,Rimforest,55,2021-10-06,2021-10-06
+San Bernardino,Running Springs,388,2021-10-06,2021-10-06
+San Bernardino,San Bernardino,46520,2021-10-06,2021-10-06
+San Bernardino,Sugarloaf,154,2021-10-06,2021-10-06
+San Bernardino,Trona,53,2021-10-06,2021-10-06
+San Bernardino,Twentynine Palms,1761,2021-10-06,2021-10-06
+San Bernardino,Twin Peaks,170,2021-10-06,2021-10-06
+San Bernardino,Upland,10171,2021-10-06,2021-10-06
+San Bernardino,Victorville,25390,2021-10-06,2021-10-06
+San Bernardino,Wrightwood,419,2021-10-06,2021-10-06
+San Bernardino,Yermo,106,2021-10-06,2021-10-06
+San Bernardino,Yucaipa,7125,2021-10-06,2021-10-06
+San Bernardino,Yucca Valley,2092,2021-10-06,2021-10-06
+San Bernardino,Adelanto,6446,2021-10-07,2021-10-07
+San Bernardino,Angelus Oaks,47,2021-10-07,2021-10-07
+San Bernardino,Apple Valley,11924,2021-10-07,2021-10-07
+San Bernardino,Arrowbear,7,2021-10-07,2021-10-07
+San Bernardino,Baker,58,2021-10-07,2021-10-07
+San Bernardino,Barstow,4145,2021-10-07,2021-10-07
+San Bernardino,Big Bear City,862,2021-10-07,2021-10-07
+San Bernardino,Big Bear Lake,564,2021-10-07,2021-10-07
+San Bernardino,Big River,24,2021-10-07,2021-10-07
+San Bernardino,Bloomington,6852,2021-10-07,2021-10-07
+San Bernardino,Blue Jay,197,2021-10-07,2021-10-07
+San Bernardino,Cedar Glen,7,2021-10-07,2021-10-07
+San Bernardino,Chino,15453,2021-10-07,2021-10-07
+San Bernardino,Chino Hills,7281,2021-10-07,2021-10-07
+San Bernardino,Colton,11582,2021-10-07,2021-10-07
+San Bernardino,Crestline,820,2021-10-07,2021-10-07
+San Bernardino,Daggett,34,2021-10-07,2021-10-07
+San Bernardino,Devore,2,2021-10-07,2021-10-07
+San Bernardino,Fawnskin,31,2021-10-07,2021-10-07
+San Bernardino,Fontana,45513,2021-10-07,2021-10-07
+San Bernardino,Forest Falls,52,2021-10-07,2021-10-07
+San Bernardino,Grand Terrace,1973,2021-10-07,2021-10-07
+San Bernardino,Green Valley Lake,18,2021-10-07,2021-10-07
+San Bernardino,Havasu,35,2021-10-07,2021-10-07
+San Bernardino,Helendale,626,2021-10-07,2021-10-07
+San Bernardino,Hesperia,16509,2021-10-07,2021-10-07
+San Bernardino,Highland,9478,2021-10-07,2021-10-07
+San Bernardino,Hinkley,67,2021-10-07,2021-10-07
+San Bernardino,Joshua Tree,533,2021-10-07,2021-10-07
+San Bernardino,Lake Arrowhead,583,2021-10-07,2021-10-07
+San Bernardino,Landers,84,2021-10-07,2021-10-07
+San Bernardino,Loma Linda,3117,2021-10-07,2021-10-07
+San Bernardino,Lucerne Valley,452,2021-10-07,2021-10-07
+San Bernardino,Lytle Creek,85,2021-10-07,2021-10-07
+San Bernardino,Mentone,1317,2021-10-07,2021-10-07
+San Bernardino,Montclair,6954,2021-10-07,2021-10-07
+San Bernardino,Morongo Valley,244,2021-10-07,2021-10-07
+San Bernardino,Mt Baldy,2,2021-10-07,2021-10-07
+San Bernardino,Muscoy,122,2021-10-07,2021-10-07
+San Bernardino,Needles,479,2021-10-07,2021-10-07
+San Bernardino,Newberry Springs,168,2021-10-07,2021-10-07
+San Bernardino,Oak Glen,18,2021-10-07,2021-10-07
+San Bernardino,Oak Hills,1913,2021-10-07,2021-10-07
+San Bernardino,Ontario,30057,2021-10-07,2021-10-07
+San Bernardino,Oro Grande,149,2021-10-07,2021-10-07
+San Bernardino,Phelan,2023,2021-10-07,2021-10-07
+San Bernardino,Pioneertown,14,2021-10-07,2021-10-07
+San Bernardino,Piñon Hills,553,2021-10-07,2021-10-07
+San Bernardino,Rancho Cucamonga,22697,2021-10-07,2021-10-07
+San Bernardino,Redlands,10455,2021-10-07,2021-10-07
+San Bernardino,Rialto,21207,2021-10-07,2021-10-07
+San Bernardino,Rimforest,55,2021-10-07,2021-10-07
+San Bernardino,Running Springs,388,2021-10-07,2021-10-07
+San Bernardino,San Bernardino,46563,2021-10-07,2021-10-07
+San Bernardino,Sugarloaf,155,2021-10-07,2021-10-07
+San Bernardino,Trona,53,2021-10-07,2021-10-07
+San Bernardino,Twentynine Palms,1773,2021-10-07,2021-10-07
+San Bernardino,Twin Peaks,171,2021-10-07,2021-10-07
+San Bernardino,Upland,10180,2021-10-07,2021-10-07
+San Bernardino,Victorville,25424,2021-10-07,2021-10-07
+San Bernardino,Wrightwood,419,2021-10-07,2021-10-07
+San Bernardino,Yermo,106,2021-10-07,2021-10-07
+San Bernardino,Yucaipa,7143,2021-10-07,2021-10-07
+San Bernardino,Yucca Valley,2111,2021-10-07,2021-10-07
+San Bernardino,Adelanto,6452,2021-10-08,2021-10-08
+San Bernardino,Angelus Oaks,47,2021-10-08,2021-10-08
+San Bernardino,Apple Valley,11934,2021-10-08,2021-10-08
+San Bernardino,Arrowbear,7,2021-10-08,2021-10-08
+San Bernardino,Baker,59,2021-10-08,2021-10-08
+San Bernardino,Barstow,4149,2021-10-08,2021-10-08
+San Bernardino,Big Bear City,865,2021-10-08,2021-10-08
+San Bernardino,Big Bear Lake,564,2021-10-08,2021-10-08
+San Bernardino,Big River,24,2021-10-08,2021-10-08
+San Bernardino,Bloomington,6853,2021-10-08,2021-10-08
+San Bernardino,Blue Jay,197,2021-10-08,2021-10-08
+San Bernardino,Cedar Glen,7,2021-10-08,2021-10-08
+San Bernardino,Chino,15460,2021-10-08,2021-10-08
+San Bernardino,Chino Hills,7289,2021-10-08,2021-10-08
+San Bernardino,Colton,11583,2021-10-08,2021-10-08
+San Bernardino,Crestline,821,2021-10-08,2021-10-08
+San Bernardino,Daggett,33,2021-10-08,2021-10-08
+San Bernardino,Devore,2,2021-10-08,2021-10-08
+San Bernardino,Fawnskin,31,2021-10-08,2021-10-08
+San Bernardino,Fontana,45528,2021-10-08,2021-10-08
+San Bernardino,Forest Falls,52,2021-10-08,2021-10-08
+San Bernardino,Grand Terrace,1975,2021-10-08,2021-10-08
+San Bernardino,Green Valley Lake,18,2021-10-08,2021-10-08
+San Bernardino,Havasu,35,2021-10-08,2021-10-08
+San Bernardino,Helendale,628,2021-10-08,2021-10-08
+San Bernardino,Hesperia,16519,2021-10-08,2021-10-08
+San Bernardino,Highland,9480,2021-10-08,2021-10-08
+San Bernardino,Hinkley,67,2021-10-08,2021-10-08
+San Bernardino,Joshua Tree,533,2021-10-08,2021-10-08
+San Bernardino,Lake Arrowhead,583,2021-10-08,2021-10-08
+San Bernardino,Landers,84,2021-10-08,2021-10-08
+San Bernardino,Loma Linda,3120,2021-10-08,2021-10-08
+San Bernardino,Lucerne Valley,453,2021-10-08,2021-10-08
+San Bernardino,Lytle Creek,85,2021-10-08,2021-10-08
+San Bernardino,Mentone,1320,2021-10-08,2021-10-08
+San Bernardino,Montclair,6956,2021-10-08,2021-10-08
+San Bernardino,Morongo Valley,247,2021-10-08,2021-10-08
+San Bernardino,Mt Baldy,2,2021-10-08,2021-10-08
+San Bernardino,Muscoy,122,2021-10-08,2021-10-08
+San Bernardino,Needles,479,2021-10-08,2021-10-08
+San Bernardino,Newberry Springs,168,2021-10-08,2021-10-08
+San Bernardino,Oak Glen,18,2021-10-08,2021-10-08
+San Bernardino,Oak Hills,1916,2021-10-08,2021-10-08
+San Bernardino,Ontario,30075,2021-10-08,2021-10-08
+San Bernardino,Oro Grande,149,2021-10-08,2021-10-08
+San Bernardino,Phelan,2023,2021-10-08,2021-10-08
+San Bernardino,Pioneertown,14,2021-10-08,2021-10-08
+San Bernardino,Piñon Hills,553,2021-10-08,2021-10-08
+San Bernardino,Rancho Cucamonga,22713,2021-10-08,2021-10-08
+San Bernardino,Redlands,10458,2021-10-08,2021-10-08
+San Bernardino,Rialto,21223,2021-10-08,2021-10-08
+San Bernardino,Rimforest,55,2021-10-08,2021-10-08
+San Bernardino,Running Springs,388,2021-10-08,2021-10-08
+San Bernardino,San Bernardino,46602,2021-10-08,2021-10-08
+San Bernardino,Sugarloaf,155,2021-10-08,2021-10-08
+San Bernardino,Trona,53,2021-10-08,2021-10-08
+San Bernardino,Twentynine Palms,1782,2021-10-08,2021-10-08
+San Bernardino,Twin Peaks,172,2021-10-08,2021-10-08
+San Bernardino,Upland,10187,2021-10-08,2021-10-08
+San Bernardino,Victorville,25443,2021-10-08,2021-10-08
+San Bernardino,Wrightwood,419,2021-10-08,2021-10-08
+San Bernardino,Yermo,106,2021-10-08,2021-10-08
+San Bernardino,Yucaipa,7147,2021-10-08,2021-10-08
+San Bernardino,Yucca Valley,2117,2021-10-08,2021-10-08
+San Bernardino,Adelanto,6452,2021-10-08,2021-10-09
+San Bernardino,Angelus Oaks,47,2021-10-08,2021-10-09
+San Bernardino,Apple Valley,11934,2021-10-08,2021-10-09
+San Bernardino,Arrowbear,7,2021-10-08,2021-10-09
+San Bernardino,Baker,59,2021-10-08,2021-10-09
+San Bernardino,Barstow,4149,2021-10-08,2021-10-09
+San Bernardino,Big Bear City,865,2021-10-08,2021-10-09
+San Bernardino,Big Bear Lake,564,2021-10-08,2021-10-09
+San Bernardino,Big River,24,2021-10-08,2021-10-09
+San Bernardino,Bloomington,6853,2021-10-08,2021-10-09
+San Bernardino,Blue Jay,197,2021-10-08,2021-10-09
+San Bernardino,Cedar Glen,7,2021-10-08,2021-10-09
+San Bernardino,Chino,15460,2021-10-08,2021-10-09
+San Bernardino,Chino Hills,7289,2021-10-08,2021-10-09
+San Bernardino,Colton,11583,2021-10-08,2021-10-09
+San Bernardino,Crestline,821,2021-10-08,2021-10-09
+San Bernardino,Daggett,33,2021-10-08,2021-10-09
+San Bernardino,Devore,2,2021-10-08,2021-10-09
+San Bernardino,Fawnskin,31,2021-10-08,2021-10-09
+San Bernardino,Fontana,45528,2021-10-08,2021-10-09
+San Bernardino,Forest Falls,52,2021-10-08,2021-10-09
+San Bernardino,Grand Terrace,1975,2021-10-08,2021-10-09
+San Bernardino,Green Valley Lake,18,2021-10-08,2021-10-09
+San Bernardino,Havasu,35,2021-10-08,2021-10-09
+San Bernardino,Helendale,628,2021-10-08,2021-10-09
+San Bernardino,Hesperia,16519,2021-10-08,2021-10-09
+San Bernardino,Highland,9480,2021-10-08,2021-10-09
+San Bernardino,Hinkley,67,2021-10-08,2021-10-09
+San Bernardino,Joshua Tree,533,2021-10-08,2021-10-09
+San Bernardino,Lake Arrowhead,583,2021-10-08,2021-10-09
+San Bernardino,Landers,84,2021-10-08,2021-10-09
+San Bernardino,Loma Linda,3120,2021-10-08,2021-10-09
+San Bernardino,Lucerne Valley,453,2021-10-08,2021-10-09
+San Bernardino,Lytle Creek,85,2021-10-08,2021-10-09
+San Bernardino,Mentone,1320,2021-10-08,2021-10-09
+San Bernardino,Montclair,6956,2021-10-08,2021-10-09
+San Bernardino,Morongo Valley,247,2021-10-08,2021-10-09
+San Bernardino,Mt Baldy,2,2021-10-08,2021-10-09
+San Bernardino,Muscoy,122,2021-10-08,2021-10-09
+San Bernardino,Needles,479,2021-10-08,2021-10-09
+San Bernardino,Newberry Springs,168,2021-10-08,2021-10-09
+San Bernardino,Oak Glen,18,2021-10-08,2021-10-09
+San Bernardino,Oak Hills,1916,2021-10-08,2021-10-09
+San Bernardino,Ontario,30075,2021-10-08,2021-10-09
+San Bernardino,Oro Grande,149,2021-10-08,2021-10-09
+San Bernardino,Phelan,2023,2021-10-08,2021-10-09
+San Bernardino,Pioneertown,14,2021-10-08,2021-10-09
+San Bernardino,Piñon Hills,553,2021-10-08,2021-10-09
+San Bernardino,Rancho Cucamonga,22713,2021-10-08,2021-10-09
+San Bernardino,Redlands,10458,2021-10-08,2021-10-09
+San Bernardino,Rialto,21223,2021-10-08,2021-10-09
+San Bernardino,Rimforest,55,2021-10-08,2021-10-09
+San Bernardino,Running Springs,388,2021-10-08,2021-10-09
+San Bernardino,San Bernardino,46602,2021-10-08,2021-10-09
+San Bernardino,Sugarloaf,155,2021-10-08,2021-10-09
+San Bernardino,Trona,53,2021-10-08,2021-10-09
+San Bernardino,Twentynine Palms,1782,2021-10-08,2021-10-09
+San Bernardino,Twin Peaks,172,2021-10-08,2021-10-09
+San Bernardino,Upland,10187,2021-10-08,2021-10-09
+San Bernardino,Victorville,25443,2021-10-08,2021-10-09
+San Bernardino,Wrightwood,419,2021-10-08,2021-10-09
+San Bernardino,Yermo,106,2021-10-08,2021-10-09
+San Bernardino,Yucaipa,7147,2021-10-08,2021-10-09
+San Bernardino,Yucca Valley,2117,2021-10-08,2021-10-09
+San Bernardino,Adelanto,6452,2021-10-08,2021-10-10
+San Bernardino,Angelus Oaks,47,2021-10-08,2021-10-10
+San Bernardino,Apple Valley,11934,2021-10-08,2021-10-10
+San Bernardino,Arrowbear,7,2021-10-08,2021-10-10
+San Bernardino,Baker,59,2021-10-08,2021-10-10
+San Bernardino,Barstow,4149,2021-10-08,2021-10-10
+San Bernardino,Big Bear City,865,2021-10-08,2021-10-10
+San Bernardino,Big Bear Lake,564,2021-10-08,2021-10-10
+San Bernardino,Big River,24,2021-10-08,2021-10-10
+San Bernardino,Bloomington,6853,2021-10-08,2021-10-10
+San Bernardino,Blue Jay,197,2021-10-08,2021-10-10
+San Bernardino,Cedar Glen,7,2021-10-08,2021-10-10
+San Bernardino,Chino,15460,2021-10-08,2021-10-10
+San Bernardino,Chino Hills,7289,2021-10-08,2021-10-10
+San Bernardino,Colton,11583,2021-10-08,2021-10-10
+San Bernardino,Crestline,821,2021-10-08,2021-10-10
+San Bernardino,Daggett,33,2021-10-08,2021-10-10
+San Bernardino,Devore,2,2021-10-08,2021-10-10
+San Bernardino,Fawnskin,31,2021-10-08,2021-10-10
+San Bernardino,Fontana,45528,2021-10-08,2021-10-10
+San Bernardino,Forest Falls,52,2021-10-08,2021-10-10
+San Bernardino,Grand Terrace,1975,2021-10-08,2021-10-10
+San Bernardino,Green Valley Lake,18,2021-10-08,2021-10-10
+San Bernardino,Havasu,35,2021-10-08,2021-10-10
+San Bernardino,Helendale,628,2021-10-08,2021-10-10
+San Bernardino,Hesperia,16519,2021-10-08,2021-10-10
+San Bernardino,Highland,9480,2021-10-08,2021-10-10
+San Bernardino,Hinkley,67,2021-10-08,2021-10-10
+San Bernardino,Joshua Tree,533,2021-10-08,2021-10-10
+San Bernardino,Lake Arrowhead,583,2021-10-08,2021-10-10
+San Bernardino,Landers,84,2021-10-08,2021-10-10
+San Bernardino,Loma Linda,3120,2021-10-08,2021-10-10
+San Bernardino,Lucerne Valley,453,2021-10-08,2021-10-10
+San Bernardino,Lytle Creek,85,2021-10-08,2021-10-10
+San Bernardino,Mentone,1320,2021-10-08,2021-10-10
+San Bernardino,Montclair,6956,2021-10-08,2021-10-10
+San Bernardino,Morongo Valley,247,2021-10-08,2021-10-10
+San Bernardino,Mt Baldy,2,2021-10-08,2021-10-10
+San Bernardino,Muscoy,122,2021-10-08,2021-10-10
+San Bernardino,Needles,479,2021-10-08,2021-10-10
+San Bernardino,Newberry Springs,168,2021-10-08,2021-10-10
+San Bernardino,Oak Glen,18,2021-10-08,2021-10-10
+San Bernardino,Oak Hills,1916,2021-10-08,2021-10-10
+San Bernardino,Ontario,30075,2021-10-08,2021-10-10
+San Bernardino,Oro Grande,149,2021-10-08,2021-10-10
+San Bernardino,Phelan,2023,2021-10-08,2021-10-10
+San Bernardino,Pioneertown,14,2021-10-08,2021-10-10
+San Bernardino,Piñon Hills,553,2021-10-08,2021-10-10
+San Bernardino,Rancho Cucamonga,22713,2021-10-08,2021-10-10
+San Bernardino,Redlands,10458,2021-10-08,2021-10-10
+San Bernardino,Rialto,21223,2021-10-08,2021-10-10
+San Bernardino,Rimforest,55,2021-10-08,2021-10-10
+San Bernardino,Running Springs,388,2021-10-08,2021-10-10
+San Bernardino,San Bernardino,46602,2021-10-08,2021-10-10
+San Bernardino,Sugarloaf,155,2021-10-08,2021-10-10
+San Bernardino,Trona,53,2021-10-08,2021-10-10
+San Bernardino,Twentynine Palms,1782,2021-10-08,2021-10-10
+San Bernardino,Twin Peaks,172,2021-10-08,2021-10-10
+San Bernardino,Upland,10187,2021-10-08,2021-10-10
+San Bernardino,Victorville,25443,2021-10-08,2021-10-10
+San Bernardino,Wrightwood,419,2021-10-08,2021-10-10
+San Bernardino,Yermo,106,2021-10-08,2021-10-10
+San Bernardino,Yucaipa,7147,2021-10-08,2021-10-10
+San Bernardino,Yucca Valley,2117,2021-10-08,2021-10-10
+San Bernardino,Adelanto,6452,2021-10-08,2021-10-11
+San Bernardino,Angelus Oaks,47,2021-10-08,2021-10-11
+San Bernardino,Apple Valley,11934,2021-10-08,2021-10-11
+San Bernardino,Arrowbear,7,2021-10-08,2021-10-11
+San Bernardino,Baker,59,2021-10-08,2021-10-11
+San Bernardino,Barstow,4149,2021-10-08,2021-10-11
+San Bernardino,Big Bear City,865,2021-10-08,2021-10-11
+San Bernardino,Big Bear Lake,564,2021-10-08,2021-10-11
+San Bernardino,Big River,24,2021-10-08,2021-10-11
+San Bernardino,Bloomington,6853,2021-10-08,2021-10-11
+San Bernardino,Blue Jay,197,2021-10-08,2021-10-11
+San Bernardino,Cedar Glen,7,2021-10-08,2021-10-11
+San Bernardino,Chino,15460,2021-10-08,2021-10-11
+San Bernardino,Chino Hills,7289,2021-10-08,2021-10-11
+San Bernardino,Colton,11583,2021-10-08,2021-10-11
+San Bernardino,Crestline,821,2021-10-08,2021-10-11
+San Bernardino,Daggett,33,2021-10-08,2021-10-11
+San Bernardino,Devore,2,2021-10-08,2021-10-11
+San Bernardino,Fawnskin,31,2021-10-08,2021-10-11
+San Bernardino,Fontana,45528,2021-10-08,2021-10-11
+San Bernardino,Forest Falls,52,2021-10-08,2021-10-11
+San Bernardino,Grand Terrace,1975,2021-10-08,2021-10-11
+San Bernardino,Green Valley Lake,18,2021-10-08,2021-10-11
+San Bernardino,Havasu,35,2021-10-08,2021-10-11
+San Bernardino,Helendale,628,2021-10-08,2021-10-11
+San Bernardino,Hesperia,16519,2021-10-08,2021-10-11
+San Bernardino,Highland,9480,2021-10-08,2021-10-11
+San Bernardino,Hinkley,67,2021-10-08,2021-10-11
+San Bernardino,Joshua Tree,533,2021-10-08,2021-10-11
+San Bernardino,Lake Arrowhead,583,2021-10-08,2021-10-11
+San Bernardino,Landers,84,2021-10-08,2021-10-11
+San Bernardino,Loma Linda,3120,2021-10-08,2021-10-11
+San Bernardino,Lucerne Valley,453,2021-10-08,2021-10-11
+San Bernardino,Lytle Creek,85,2021-10-08,2021-10-11
+San Bernardino,Mentone,1320,2021-10-08,2021-10-11
+San Bernardino,Montclair,6956,2021-10-08,2021-10-11
+San Bernardino,Morongo Valley,247,2021-10-08,2021-10-11
+San Bernardino,Mt Baldy,2,2021-10-08,2021-10-11
+San Bernardino,Muscoy,122,2021-10-08,2021-10-11
+San Bernardino,Needles,479,2021-10-08,2021-10-11
+San Bernardino,Newberry Springs,168,2021-10-08,2021-10-11
+San Bernardino,Oak Glen,18,2021-10-08,2021-10-11
+San Bernardino,Oak Hills,1916,2021-10-08,2021-10-11
+San Bernardino,Ontario,30075,2021-10-08,2021-10-11
+San Bernardino,Oro Grande,149,2021-10-08,2021-10-11
+San Bernardino,Phelan,2023,2021-10-08,2021-10-11
+San Bernardino,Pioneertown,14,2021-10-08,2021-10-11
+San Bernardino,Piñon Hills,553,2021-10-08,2021-10-11
+San Bernardino,Rancho Cucamonga,22713,2021-10-08,2021-10-11
+San Bernardino,Redlands,10458,2021-10-08,2021-10-11
+San Bernardino,Rialto,21223,2021-10-08,2021-10-11
+San Bernardino,Rimforest,55,2021-10-08,2021-10-11
+San Bernardino,Running Springs,388,2021-10-08,2021-10-11
+San Bernardino,San Bernardino,46602,2021-10-08,2021-10-11
+San Bernardino,Sugarloaf,155,2021-10-08,2021-10-11
+San Bernardino,Trona,53,2021-10-08,2021-10-11
+San Bernardino,Twentynine Palms,1782,2021-10-08,2021-10-11
+San Bernardino,Twin Peaks,172,2021-10-08,2021-10-11
+San Bernardino,Upland,10187,2021-10-08,2021-10-11
+San Bernardino,Victorville,25443,2021-10-08,2021-10-11
+San Bernardino,Wrightwood,419,2021-10-08,2021-10-11
+San Bernardino,Yermo,106,2021-10-08,2021-10-11
+San Bernardino,Yucaipa,7147,2021-10-08,2021-10-11
+San Bernardino,Yucca Valley,2117,2021-10-08,2021-10-11
+San Bernardino,Adelanto,6469,2021-10-12,2021-10-12
+San Bernardino,Angelus Oaks,47,2021-10-12,2021-10-12
+San Bernardino,Apple Valley,11962,2021-10-12,2021-10-12
+San Bernardino,Arrowbear,7,2021-10-12,2021-10-12
+San Bernardino,Baker,59,2021-10-12,2021-10-12
+San Bernardino,Barstow,4166,2021-10-12,2021-10-12
+San Bernardino,Big Bear City,867,2021-10-12,2021-10-12
+San Bernardino,Big Bear Lake,564,2021-10-12,2021-10-12
+San Bernardino,Big River,24,2021-10-12,2021-10-12
+San Bernardino,Bloomington,6857,2021-10-12,2021-10-12
+San Bernardino,Blue Jay,197,2021-10-12,2021-10-12
+San Bernardino,Cedar Glen,7,2021-10-12,2021-10-12
+San Bernardino,Chino,15476,2021-10-12,2021-10-12
+San Bernardino,Chino Hills,7295,2021-10-12,2021-10-12
+San Bernardino,Colton,11590,2021-10-12,2021-10-12
+San Bernardino,Crestline,821,2021-10-12,2021-10-12
+San Bernardino,Daggett,33,2021-10-12,2021-10-12
+San Bernardino,Devore,2,2021-10-12,2021-10-12
+San Bernardino,Fawnskin,31,2021-10-12,2021-10-12
+San Bernardino,Fontana,45577,2021-10-12,2021-10-12
+San Bernardino,Forest Falls,52,2021-10-12,2021-10-12
+San Bernardino,Grand Terrace,1977,2021-10-12,2021-10-12
+San Bernardino,Green Valley Lake,18,2021-10-12,2021-10-12
+San Bernardino,Havasu,35,2021-10-12,2021-10-12
+San Bernardino,Helendale,629,2021-10-12,2021-10-12
+San Bernardino,Hesperia,16542,2021-10-12,2021-10-12
+San Bernardino,Highland,9491,2021-10-12,2021-10-12
+San Bernardino,Hinkley,67,2021-10-12,2021-10-12
+San Bernardino,Joshua Tree,533,2021-10-12,2021-10-12
+San Bernardino,Lake Arrowhead,583,2021-10-12,2021-10-12
+San Bernardino,Landers,84,2021-10-12,2021-10-12
+San Bernardino,Loma Linda,3126,2021-10-12,2021-10-12
+San Bernardino,Lucerne Valley,457,2021-10-12,2021-10-12
+San Bernardino,Lytle Creek,85,2021-10-12,2021-10-12
+San Bernardino,Mentone,1320,2021-10-12,2021-10-12
+San Bernardino,Montclair,6963,2021-10-12,2021-10-12
+San Bernardino,Morongo Valley,247,2021-10-12,2021-10-12
+San Bernardino,Mt Baldy,2,2021-10-12,2021-10-12
+San Bernardino,Muscoy,122,2021-10-12,2021-10-12
+San Bernardino,Needles,479,2021-10-12,2021-10-12
+San Bernardino,Newberry Springs,168,2021-10-12,2021-10-12
+San Bernardino,Oak Glen,18,2021-10-12,2021-10-12
+San Bernardino,Oak Hills,1922,2021-10-12,2021-10-12
+San Bernardino,Ontario,30094,2021-10-12,2021-10-12
+San Bernardino,Oro Grande,149,2021-10-12,2021-10-12
+San Bernardino,Phelan,2025,2021-10-12,2021-10-12
+San Bernardino,Pioneertown,14,2021-10-12,2021-10-12
+San Bernardino,Piñon Hills,555,2021-10-12,2021-10-12
+San Bernardino,Rancho Cucamonga,22727,2021-10-12,2021-10-12
+San Bernardino,Redlands,10476,2021-10-12,2021-10-12
+San Bernardino,Rialto,21246,2021-10-12,2021-10-12
+San Bernardino,Rimforest,55,2021-10-12,2021-10-12
+San Bernardino,Running Springs,390,2021-10-12,2021-10-12
+San Bernardino,San Bernardino,46640,2021-10-12,2021-10-12
+San Bernardino,Sugarloaf,156,2021-10-12,2021-10-12
+San Bernardino,Trona,53,2021-10-12,2021-10-12
+San Bernardino,Twentynine Palms,1786,2021-10-12,2021-10-12
+San Bernardino,Twin Peaks,173,2021-10-12,2021-10-12
+San Bernardino,Upland,10198,2021-10-12,2021-10-12
+San Bernardino,Victorville,25473,2021-10-12,2021-10-12
+San Bernardino,Wrightwood,419,2021-10-12,2021-10-12
+San Bernardino,Yermo,106,2021-10-12,2021-10-12
+San Bernardino,Yucaipa,7158,2021-10-12,2021-10-12
+San Bernardino,Yucca Valley,2126,2021-10-12,2021-10-12
+San Bernardino,Adelanto,6493,2021-10-13,2021-10-13
+San Bernardino,Angelus Oaks,48,2021-10-13,2021-10-13
+San Bernardino,Apple Valley,12025,2021-10-13,2021-10-13
+San Bernardino,Arrowbear,7,2021-10-13,2021-10-13
+San Bernardino,Baker,59,2021-10-13,2021-10-13
+San Bernardino,Barstow,4191,2021-10-13,2021-10-13
+San Bernardino,Big Bear City,871,2021-10-13,2021-10-13
+San Bernardino,Big Bear Lake,564,2021-10-13,2021-10-13
+San Bernardino,Big River,25,2021-10-13,2021-10-13
+San Bernardino,Bloomington,6870,2021-10-13,2021-10-13
+San Bernardino,Blue Jay,197,2021-10-13,2021-10-13
+San Bernardino,Cedar Glen,7,2021-10-13,2021-10-13
+San Bernardino,Chino,15502,2021-10-13,2021-10-13
+San Bernardino,Chino Hills,7315,2021-10-13,2021-10-13
+San Bernardino,Colton,11611,2021-10-13,2021-10-13
+San Bernardino,Crestline,823,2021-10-13,2021-10-13
+San Bernardino,Daggett,33,2021-10-13,2021-10-13
+San Bernardino,Devore,2,2021-10-13,2021-10-13
+San Bernardino,Fawnskin,31,2021-10-13,2021-10-13
+San Bernardino,Fontana,45651,2021-10-13,2021-10-13
+San Bernardino,Forest Falls,52,2021-10-13,2021-10-13
+San Bernardino,Grand Terrace,1982,2021-10-13,2021-10-13
+San Bernardino,Green Valley Lake,18,2021-10-13,2021-10-13
+San Bernardino,Havasu,37,2021-10-13,2021-10-13
+San Bernardino,Helendale,631,2021-10-13,2021-10-13
+San Bernardino,Hesperia,16615,2021-10-13,2021-10-13
+San Bernardino,Highland,9504,2021-10-13,2021-10-13
+San Bernardino,Hinkley,67,2021-10-13,2021-10-13
+San Bernardino,Joshua Tree,537,2021-10-13,2021-10-13
+San Bernardino,Lake Arrowhead,583,2021-10-13,2021-10-13
+San Bernardino,Landers,84,2021-10-13,2021-10-13
+San Bernardino,Loma Linda,3129,2021-10-13,2021-10-13
+San Bernardino,Lucerne Valley,459,2021-10-13,2021-10-13
+San Bernardino,Lytle Creek,85,2021-10-13,2021-10-13
+San Bernardino,Mentone,1326,2021-10-13,2021-10-13
+San Bernardino,Montclair,6977,2021-10-13,2021-10-13
+San Bernardino,Morongo Valley,247,2021-10-13,2021-10-13
+San Bernardino,Mt Baldy,2,2021-10-13,2021-10-13
+San Bernardino,Muscoy,122,2021-10-13,2021-10-13
+San Bernardino,Needles,480,2021-10-13,2021-10-13
+San Bernardino,Newberry Springs,169,2021-10-13,2021-10-13
+San Bernardino,Oak Glen,18,2021-10-13,2021-10-13
+San Bernardino,Oak Hills,1927,2021-10-13,2021-10-13
+San Bernardino,Ontario,30122,2021-10-13,2021-10-13
+San Bernardino,Oro Grande,149,2021-10-13,2021-10-13
+San Bernardino,Phelan,2031,2021-10-13,2021-10-13
+San Bernardino,Pioneertown,14,2021-10-13,2021-10-13
+San Bernardino,Piñon Hills,557,2021-10-13,2021-10-13
+San Bernardino,Rancho Cucamonga,22787,2021-10-13,2021-10-13
+San Bernardino,Redlands,10502,2021-10-13,2021-10-13
+San Bernardino,Rialto,21279,2021-10-13,2021-10-13
+San Bernardino,Rimforest,55,2021-10-13,2021-10-13
+San Bernardino,Running Springs,391,2021-10-13,2021-10-13
+San Bernardino,San Bernardino,46718,2021-10-13,2021-10-13
+San Bernardino,Sugarloaf,156,2021-10-13,2021-10-13
+San Bernardino,Trona,53,2021-10-13,2021-10-13
+San Bernardino,Twentynine Palms,1795,2021-10-13,2021-10-13
+San Bernardino,Twin Peaks,173,2021-10-13,2021-10-13
+San Bernardino,Upland,10229,2021-10-13,2021-10-13
+San Bernardino,Victorville,25565,2021-10-13,2021-10-13
+San Bernardino,Wrightwood,421,2021-10-13,2021-10-13
+San Bernardino,Yermo,106,2021-10-13,2021-10-13
+San Bernardino,Yucaipa,7175,2021-10-13,2021-10-13
+San Bernardino,Yucca Valley,2143,2021-10-13,2021-10-13
+San Bernardino,Adelanto,6493,2021-10-13,2021-10-14
+San Bernardino,Angelus Oaks,48,2021-10-13,2021-10-14
+San Bernardino,Apple Valley,12025,2021-10-13,2021-10-14
+San Bernardino,Arrowbear,7,2021-10-13,2021-10-14
+San Bernardino,Baker,59,2021-10-13,2021-10-14
+San Bernardino,Barstow,4191,2021-10-13,2021-10-14
+San Bernardino,Big Bear City,871,2021-10-13,2021-10-14
+San Bernardino,Big Bear Lake,564,2021-10-13,2021-10-14
+San Bernardino,Big River,25,2021-10-13,2021-10-14
+San Bernardino,Bloomington,6870,2021-10-13,2021-10-14
+San Bernardino,Blue Jay,197,2021-10-13,2021-10-14
+San Bernardino,Cedar Glen,7,2021-10-13,2021-10-14
+San Bernardino,Chino,15502,2021-10-13,2021-10-14
+San Bernardino,Chino Hills,7315,2021-10-13,2021-10-14
+San Bernardino,Colton,11611,2021-10-13,2021-10-14
+San Bernardino,Crestline,823,2021-10-13,2021-10-14
+San Bernardino,Daggett,33,2021-10-13,2021-10-14
+San Bernardino,Devore,2,2021-10-13,2021-10-14
+San Bernardino,Fawnskin,31,2021-10-13,2021-10-14
+San Bernardino,Fontana,45651,2021-10-13,2021-10-14
+San Bernardino,Forest Falls,52,2021-10-13,2021-10-14
+San Bernardino,Grand Terrace,1982,2021-10-13,2021-10-14
+San Bernardino,Green Valley Lake,18,2021-10-13,2021-10-14
+San Bernardino,Havasu,37,2021-10-13,2021-10-14
+San Bernardino,Helendale,631,2021-10-13,2021-10-14
+San Bernardino,Hesperia,16615,2021-10-13,2021-10-14
+San Bernardino,Highland,9504,2021-10-13,2021-10-14
+San Bernardino,Hinkley,67,2021-10-13,2021-10-14
+San Bernardino,Joshua Tree,537,2021-10-13,2021-10-14
+San Bernardino,Lake Arrowhead,583,2021-10-13,2021-10-14
+San Bernardino,Landers,84,2021-10-13,2021-10-14
+San Bernardino,Loma Linda,3129,2021-10-13,2021-10-14
+San Bernardino,Lucerne Valley,459,2021-10-13,2021-10-14
+San Bernardino,Lytle Creek,85,2021-10-13,2021-10-14
+San Bernardino,Mentone,1326,2021-10-13,2021-10-14
+San Bernardino,Montclair,6977,2021-10-13,2021-10-14
+San Bernardino,Morongo Valley,247,2021-10-13,2021-10-14
+San Bernardino,Mt Baldy,2,2021-10-13,2021-10-14
+San Bernardino,Muscoy,122,2021-10-13,2021-10-14
+San Bernardino,Needles,480,2021-10-13,2021-10-14
+San Bernardino,Newberry Springs,169,2021-10-13,2021-10-14
+San Bernardino,Oak Glen,18,2021-10-13,2021-10-14
+San Bernardino,Oak Hills,1927,2021-10-13,2021-10-14
+San Bernardino,Ontario,30122,2021-10-13,2021-10-14
+San Bernardino,Oro Grande,149,2021-10-13,2021-10-14
+San Bernardino,Phelan,2031,2021-10-13,2021-10-14
+San Bernardino,Pioneertown,14,2021-10-13,2021-10-14
+San Bernardino,Piñon Hills,557,2021-10-13,2021-10-14
+San Bernardino,Rancho Cucamonga,22787,2021-10-13,2021-10-14
+San Bernardino,Redlands,10502,2021-10-13,2021-10-14
+San Bernardino,Rialto,21279,2021-10-13,2021-10-14
+San Bernardino,Rimforest,55,2021-10-13,2021-10-14
+San Bernardino,Running Springs,391,2021-10-13,2021-10-14
+San Bernardino,San Bernardino,46718,2021-10-13,2021-10-14
+San Bernardino,Sugarloaf,156,2021-10-13,2021-10-14
+San Bernardino,Trona,53,2021-10-13,2021-10-14
+San Bernardino,Twentynine Palms,1795,2021-10-13,2021-10-14
+San Bernardino,Twin Peaks,173,2021-10-13,2021-10-14
+San Bernardino,Upland,10229,2021-10-13,2021-10-14
+San Bernardino,Victorville,25565,2021-10-13,2021-10-14
+San Bernardino,Wrightwood,421,2021-10-13,2021-10-14
+San Bernardino,Yermo,106,2021-10-13,2021-10-14
+San Bernardino,Yucaipa,7175,2021-10-13,2021-10-14
+San Bernardino,Yucca Valley,2143,2021-10-13,2021-10-14

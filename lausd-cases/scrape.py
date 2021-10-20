@@ -5,61 +5,60 @@ from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import StaleElementReferenceException
 from selenium.common.exceptions import ElementNotInteractableException
-from selenium.common.exceptions import ElementClickInterceptedException
 from webdriver_manager.chrome import ChromeDriverManager
 import pandas as pd
 import requests
 import time
 from bs4 import BeautifulSoup
+print("starting")
 
 # paths
 cwd = Path(__file__).parent.resolve()
 data_dir = cwd.joinpath("data/")
 
-print(data_dir.joinpath("latest.csv"))
+# print(data_dir.joinpath("latest.csv"))
 # config
 chrome_options = Options()
-chrome_options.add_argument("--headless")
 chrome_options.add_argument("--window-size=1230x970")
+chrome_options.add_argument("--headless")
+chrome_options.add_argument("--disable-dev-shm-usage")
+chrome_options.add_argument('--no-sandbox')
+chrome_options.add_argument('--disable-gpu')
+chrome_options.add_argument('disable-infobars')
+chrome_options.add_argument("--disable-extensions")
 
 
 # set up dataframe
-df = pd.DataFrame(columns=["id", "school", "status", "color", "staff_student", "transmission", "staff_student_rate", "community_rate", "lac_rate", "community_schools", "community", "date", "time"])
+df = pd.DataFrame(columns=["id", "school", "status", "color", "staff_student", "transmission", "testing_period", "tests", "pos", "pos_rate", "change", "cos", "cos_tests", "cos_pos", "cos_pos_rate", "cos_change", "lausd_tests", "lausd_pos", "lausd_pos_rate", "lausd_change", "date", "time"])
 
-#
 url = 'https://achieve.lausd.net/covidreportcard'
 soup = BeautifulSoup(requests.get(url).content, 'html.parser')
 html_data = requests.get(soup.iframe['src']).text
 
 driver = webdriver.Chrome(
-    ChromeDriverManager().install(),
-    options=chrome_options
-)
+    ChromeDriverManager().install()
+    # options=chrome_options
+    )
 
 
 def load():
     """
     load webdriver and wait for contents
     """
-
-    print("Wating to load")
-
     driver.get(soup.iframe['src'])
 
     while True:
         divs = driver.find_elements_by_class_name("bringToFront")
-        time.sleep(15)
+        time.sleep(10)
         if len(divs) > 24:
             time.sleep(30)
-            date_raw = divs[4]
+            date_raw = divs[5]
             date_raw.text != ''
             break
 
     date_trim = date_raw.text.split()[2]
     date_clean = date_trim.replace("/", "-")
     timestamp = f"{date_raw.text.split()[3].split(':')[0]}{date_raw.text.split()[4]}"
-
-    print(f"Updated date: {date_clean}-{timestamp}")
 
     return date_clean, timestamp
 
@@ -121,7 +120,7 @@ def findEndpoint():
     # get point-inset
     vis = driver.find_element_by_class_name("visibleGroup")
     children = vis.find_elements_by_xpath(".//div[@class='slicerItemContainer']")
-    last = children[-1].get_attribute("point-inset")
+    last = children[-1].get_attribute("aria-posinset")
 
     print(f"School count: {last}")
 
@@ -138,7 +137,7 @@ def scroll_to(i):
     while dropper is None:
         try:
             driver.execute_script("arguments[0].scrollBy(0,1);", scrollbar)
-            dropper = driver.find_element_by_xpath(f".//div[@point-inset='{i}']")
+            dropper = driver.find_element_by_xpath(f".//div[@aria-posinset='{i}']")
         except NoSuchElementException:
             driver.execute_script(f"arguments[0].scrollBy(0,{174});", scrollbar)
             time.sleep(0.2)
@@ -154,12 +153,10 @@ def get_data(i):
     """
     get data
     """
-
     while True:
         try:
             scroll_to(i)
-            time.sleep(0.2)
-            dropper = driver.find_element_by_xpath(f".//div[@point-inset='{i}']")
+            dropper = driver.find_element_by_xpath(f".//div[@aria-posinset='{i}']")
             dropper.click()
 
         except NoSuchElementException:
@@ -177,13 +174,6 @@ def get_data(i):
         except ElementNotInteractableException:
             print(i)
             print("not interactable")
-            time.sleep(1)
-            continue
-
-        except ElementClickInterceptedException:
-            print(i)
-            print("click intercepted")
-
             time.sleep(1)
             continue
 
@@ -209,22 +199,33 @@ def get_data(i):
         color = colors[rgb]
     else:
         color = 'red'
-
     update_date = cards[2].text.split(": ")[1].split()[0]
     update_time = "".join(cards[2].text.split()[-2:])
-    staff_student = cards[3].text
-    transmission = cards[4].text
-    staff_student_rate = cards[5].text
-    community_rate = cards[6].text
-    lac_rate = cards[7].text
-    s_comm = cards[8].text
-    comm = cards[9].text
+    staff_student = cards[4].text
+    transmission = cards[5].text
+    testing_period = cards[3].text
+    tests = cards[7].text
+    pos = cards[8].text
+    pos_rate = cards[9].text
+    change = cards[10].text
+    cos = cards[11].text
+    cos_tests = cards[12].text
+    cos_pos = cards[13].text
+    cos_pos_rate = cards[14].text
+    cos_change = cards[15].text
+    lausd_tests = cards[19].text
+    lausd_pos = cards[16].text
+    lausd_pos_rate = cards[17].text
+    lausd_change = cards[18].text
 
-    row = [i, school_name, status, color, staff_student, transmission, staff_student_rate, community_rate, lac_rate, s_comm, comm, update_date, update_time]
+    row = [i, school_name, status, color, staff_student, transmission, testing_period, tests, pos, pos_rate, change, cos,
+           cos_tests, cos_pos, cos_pos_rate, cos_change, lausd_tests,
+           lausd_pos, lausd_pos_rate, lausd_change, update_date, update_time]
 
     df_length = len(df)
 
     df.loc[df_length] = row
+    print(i)
 
 
 def scrape():
