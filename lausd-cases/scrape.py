@@ -36,8 +36,8 @@ soup = BeautifulSoup(requests.get(url).content, 'html.parser')
 html_data = requests.get(soup.iframe['src']).text
 
 driver = webdriver.Chrome(
-    ChromeDriverManager().install()
-    # options=chrome_options
+    ChromeDriverManager().install(),
+    options=chrome_options
     )
 
 
