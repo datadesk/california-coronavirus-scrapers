@@ -37,7 +37,7 @@ def main():
     df.to_csv(DATA_DIR / f"{today}.csv", index=False)
 
     # Roll up everything
-    csv_list = [i for i in DATA_DIR.glob("*.csv") if not str(i).endswith('latest.csv')]
+    csv_list = [i for i in DATA_DIR.glob("*.csv") if not str(i).endswith('latest.csv') and not str(i).endswith('timeseries.csv')]
     df = (
         pd.concat(pd.read_csv(c, parse_dates=["Date"],) for c in csv_list)
         .sort_values(["Date", "Location"])
