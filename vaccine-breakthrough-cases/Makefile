@@ -5,7 +5,7 @@ MAKENAME = vaccine-breakthrough-cases
 
 scrape: ## Scrape data files. Example: make -f ./vaccine-breakthrough-cases/Makefile
 	$(call start,$(MAKENAME))
-	$(call python,./vaccine-breakthrough-cases/scrape.ipynb)
+	$(call python,./vaccine-breakthrough-cases/scrape.py)
 	$(call finish)
 
 help: ## Show this help. Example: make -f ./vaccine-breakthrough-cases/Makefile help
