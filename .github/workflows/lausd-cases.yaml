@@ -43,26 +43,3 @@ jobs:
           
       - name: Push changes
         uses: ad-m/github-push-action@master
-
-      - name: Update Slack notification (success)
-        if: success()
-        uses: datadesk/notify-slack-on-build@master
-        with:
-          slack-token: ${{ secrets.DATA_GRAPHICS_BOT_SLACK_TOKEN }}
-          channel-id: | 
-              ${{ steps.slack.outputs.channel-id }}
-          status: success
-          url: https://www.github.com/datadesk/school-cases/
-          status-text: "LAUSD scrape complete"
-          message-id: ${{ steps.slack.outputs.message-id }}
-
-      - name: Update Slack notification (failure)
-        if: failure()
-        uses: datadesk/notify-slack-on-build@master
-        with:
-          slack-token: ${{ secrets.DATA_GRAPHICS_BOT_SLACK_TOKEN }}
-          channel-id: |
-              ${{ steps.slack.outputs.channel-id }}
-          status: failure
-          url: https://www.github.com/datadesk/school-cases/
-          message-id: ${{ steps.slack.outputs.message-id }}
