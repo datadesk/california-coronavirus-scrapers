@@ -27,6 +27,10 @@ jobs:
       - name: Install dependencies
         run: |
           pipenv install
+          
+      - id: install-chromedriver
+        name: Install chromedriver
+        uses: nanasess/setup-chromedriver@master
 
       - name: Scrape
         shell: bash
