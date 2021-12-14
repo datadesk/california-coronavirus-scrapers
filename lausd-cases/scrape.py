@@ -5,7 +5,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import StaleElementReferenceException
 from selenium.common.exceptions import ElementNotInteractableException
-from webdriver_manager.chrome import ChromeDriverManager
+# from webdriver_manager.chrome import ChromeDriverManager
 import pandas as pd
 import requests
 import time
@@ -38,7 +38,7 @@ html_data = requests.get(soup.iframe['src']).text
 driver = webdriver.Chrome(
     # ChromeDriverManager().install(),
     options=chrome_options
-    )
+)
 
 
 def load():
