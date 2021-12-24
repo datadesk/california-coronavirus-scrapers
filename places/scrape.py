@@ -8,7 +8,6 @@ from datetime import datetime
 # Jupyter stuff
 import nbformat
 from nbclient import NotebookClient
-from nbconvert.preprocessors import CellExecutionError
 
 # Github stuff
 from github import Github
@@ -166,7 +165,7 @@ def main():
                 resources={'metadata': {'path': NOTEBOOK_DIR}}
             )
             client.execute()
-        except CellExecutionError as e:
+        except Exception as e:
             # If there's an error, stuff 'em here.
             exceptions.append([slug, e])
         finally:
@@ -177,8 +176,6 @@ def main():
     # If we've got exceptions, spread the word.
     if exceptions:
         [_handle_exception(slug, exception) for slug, exception in exceptions]
-        ctx = click.get_current_context()
-        ctx.exit(1)
 
 
 if __name__ == "__main__":
