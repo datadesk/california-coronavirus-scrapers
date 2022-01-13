@@ -120,7 +120,7 @@ def main():
         'orange',
         'pasadena',
         'placer',
-        'plumas',
+        # 'plumas',
         'riverside',
         'sacramento',
         'san-bernardino',
