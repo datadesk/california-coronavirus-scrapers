@@ -5,7 +5,6 @@ Additional_County_Information,Reporting_Period,Deaths,Hospitalized,Staff_Resolve
 ,08/15/20,0,0,,Santa Rita Jail,,Alameda,234,,<11,0,,<11,0,"1,794",4,<11
 ,08/22/20,0,0,,Santa Rita Jail,,Alameda,197,,<11,<11,,<11,0,"1,789",5,<11
 ,08/29/20,0,0,,Santa Rita Jail,,Alameda,277,,0,0,,<11,<11,"1,802",6,<11
-,06/19/21,,,<11,,,Alameda,,<11,,,427,,,,127,
 ,09/05/20,0,0,,Santa Rita Jail,,Alameda,165,,<11,<11,,<11,<11,"1,820",7,<11
 ,09/12/20,0,0,,Santa Rita Jail,,Alameda,177,,<11,0,,0,0,"1,857",8,0
 ,09/19/20,0,0,,Santa Rita Jail,,Alameda,211,,<11,0,,<11,0,"1,821",9,<11
@@ -71,7 +70,7 @@ Additional_County_Information,Reporting_Period,Deaths,Hospitalized,Staff_Resolve
 ,11/13/21,0,0,,Santa Rita Jail,,Alameda,313,,<11,<11,,<11,<11,"2,100",69,<11
 ,11/20/21,0,0,,Santa Rita Jail,,Alameda,263,,<11,<11,,0,<11,"2,071",70,<11
 ,11/27/21,0,0,,Santa Rita Jail,,Alameda,272,,0,0,,0,0,"2,103",71,0
-,06/26/21,,,<11,,,Alameda,,<11,,,526,,,,128,
+,06/19/21,,,<11,,,Alameda,,<11,,,427,,,,127,
 ,12/04/21,0,0,,Santa Rita Jail,,Alameda,277,,0,<11,,<11,<11,"2,121",72,<11
 ,12/11/21,0,0,,Santa Rita Jail,,Alameda,287,,<11,<11,,0,<11,"2,107",73,<11
 ,12/18/21,0,0,,Santa Rita Jail,,Alameda,329,,<11,<11,,0,<11,"2,103",74,<11
@@ -127,6 +126,7 @@ Additional_County_Information,Reporting_Period,Deaths,Hospitalized,Staff_Resolve
 ,05/29/21,,,0,,,Alameda,,<11,,,408,,,,124,
 ,06/05/21,,,0,,,Alameda,,<11,,,359,,,,125,
 ,06/12/21,,,0,,,Alameda,,<11,,,496,,,,126,
+,06/26/21,,,<11,,,Alameda,,<11,,,526,,,,128,
 ,07/03/21,,,,,,Alameda,,,,,No Data Reported,,,,129,
 ,07/10/21,,,0,,,Alameda,,<11,,,433,,,,130,
 ,07/17/21,,,0,,,Alameda,,<11,,,475,,,,131,
@@ -338,7 +338,6 @@ Additional_County_Information,Reporting_Period,Deaths,Hospitalized,Staff_Resolve
 ,12/05/20,0,0,,Butte County Jail,,Butte,<11,,0,0,,0,0,516,337,0
 ,12/12/20,0,0,,Butte County Jail,,Butte,76,,0,<11,,29,<11,517,338,29
 ,12/19/20,0,0,,Butte County Jail,,Butte,88,,26,<11,,53,<11,519,339,53
-,03/13/21,,,0,,,Butte,,0,,,<11,,,,430,
 ,12/26/20,0,0,,Butte County Jail,,Butte,66,,54,<11,,66,<11,533,340,<11
 ,01/02/21,0,0,,Butte County Jail,,Butte,106,,<11,0,,<11,<11,539,341,<11
 ,01/09/21,0,0,,Butte County Jail,,Butte,70,,30,0,,37,0,542,342,37
@@ -430,6 +429,7 @@ Additional_County_Information,Reporting_Period,Deaths,Hospitalized,Staff_Resolve
 ,02/20/21,,,0,,,Butte,,0,,,0,,,,427,
 ,02/27/21,,,0,,,Butte,,0,,,0,,,,428,
 ,03/06/21,,,0,,,Butte,,0,,,0,,,,429,
+,03/13/21,,,0,,,Butte,,0,,,<11,,,,430,
 ,03/20/21,,,<11,,,Butte,,<11,,,<11,,,,431,
 ,03/27/21,,,<11,,,Butte,,<11,,,<11,,,,432,
 ,04/03/21,,,<11,,,Butte,,0,,,<11,,,,433,
@@ -485,7 +485,6 @@ Additional_County_Information,Reporting_Period,Deaths,Hospitalized,Staff_Resolve
 ,09/12/20,0,0,,Calaveras Co. Adult Detention Facility,,Calaveras,0,,0,,,,,91,483,0
 ,09/19/20,0,0,,Calaveras Co. Adult Detention Facility,,Calaveras,0,,0,,,,,95,484,0
 ,09/26/20,0,0,,Calaveras Co. Adult Detention Facility,,Calaveras,<11,,<11,,,,,94,485,0
-,09/18/21,,,0,,,Calaveras,,<11,,,<11,,,,614,
 ,10/03/20,0,0,,Calaveras Co. Adult Detention Facility,,Calaveras,0,,0,,,,,96,486,0
 ,08/22/20,,,0,,,Calaveras,,0,,,0,,,,559,
 ,10/10/20,0,0,,Calaveras Co. Adult Detention Facility,,Calaveras,0,,0,,,,,94,487,0
@@ -519,7 +518,7 @@ Additional_County_Information,Reporting_Period,Deaths,Hospitalized,Staff_Resolve
 ,04/24/21,0,0,,Calaveras Co. Adult Detention Facility,,Calaveras,0,,0,,,,,72,515,0
 ,05/01/21,0,0,,Calaveras Co. Adult Detention Facility,,Calaveras,0,,0,,,,,74,516,0
 ,05/08/21,0,0,,Calaveras Co. Adult Detention Facility,,Calaveras,0,,0,,,,,76,517,0
-,09/25/21,,,0,,,Calaveras,,0,,,0,,,,615,
+,09/18/21,,,0,,,Calaveras,,<11,,,<11,,,,614,
 ,05/15/21,0,0,,Calaveras Co. Adult Detention Facility,,Calaveras,0,,0,,,,,65,518,0
 ,05/22/21,0,0,,Calaveras Co. Adult Detention Facility,,Calaveras,0,,0,,,,,62,519,0
 ,05/29/21,0,0,,Calaveras Co. Adult Detention Facility,,Calaveras,0,,0,,,,,69,520,0
@@ -614,6 +613,7 @@ Additional_County_Information,Reporting_Period,Deaths,Hospitalized,Staff_Resolve
 ,08/28/21,,,0,,,Calaveras,,0,,,0,,,,611,
 ,09/04/21,,,0,,,Calaveras,,0,,,0,,,,612,
 ,09/11/21,,,<11,,,Calaveras,,<11,,,<11,,,,613,
+,09/25/21,,,0,,,Calaveras,,0,,,0,,,,615,
 ,10/02/21,,,0,,,Calaveras,,<11,,,<11,,,,616,
 ,10/09/21,,,0,,,Calaveras,,0,,,0,,,,617,
 ,10/16/21,,,0,,,Calaveras,,0,,,0,,,,618,
@@ -657,6 +657,7 @@ Additional_County_Information,Reporting_Period,Deaths,Hospitalized,Staff_Resolve
 ,01/02/21,0,0,,Colusa County Jail,,Colusa,0,,0,0,,0,0,39,656,0
 ,01/09/21,0,0,,Colusa County Jail,,Colusa,0,,0,0,,0,0,38,657,0
 ,01/16/21,0,0,,Colusa County Jail,,Colusa,0,,0,0,,0,0,40,658,0
+,05/22/21,,,0,,,Colusa,,0,,,0,,,,755,
 ,01/23/21,0,0,,Colusa County Jail,,Colusa,0,,0,0,,0,0,34,659,0
 ,01/30/21,0,0,,Colusa County Jail,,Colusa,0,,0,0,,0,0,38,660,0
 ,05/29/21,,,0,,,Colusa,,0,,,0,,,,756,
@@ -754,7 +755,6 @@ Additional_County_Information,Reporting_Period,Deaths,Hospitalized,Staff_Resolve
 ,05/01/21,,,0,,,Colusa,,0,,,0,,,,752,
 ,05/08/21,,,0,,,Colusa,,<11,,,<11,,,,753,
 ,05/15/21,,,<11,,,Colusa,,<11,,,<11,,,,754,
-,05/22/21,,,0,,,Colusa,,0,,,0,,,,755,
 ,06/05/21,,,0,,,Colusa,,0,,,0,,,,757,
 ,06/12/21,,,0,,,Colusa,,0,,,0,,,,758,
 ,06/19/21,,,0,,,Colusa,,0,,,0,,,,759,
@@ -803,7 +803,6 @@ Additional_County_Information,Reporting_Period,Deaths,Hospitalized,Staff_Resolve
 ,10/10/20,0,0,,Martinez Detention Facility,,Contra Costa,179,,0,0,,0,0,381,802,<11
 ,10/17/20,0,0,,Martinez Detention Facility,,Contra Costa,266,,0,<11,,0,0,400,803,<11
 ,10/24/20,0,0,,Martinez Detention Facility,,Contra Costa,182,,<11,<11,,0,0,396,804,<11
-,07/25/20,,,<11,,,Contra Costa,,<11,,,23,,,,948,
 ,10/31/20,0,0,,Martinez Detention Facility,,Contra Costa,236,,<11,0,,0,0,392,805,<11
 ,11/07/20,0,0,,Martinez Detention Facility,,Contra Costa,196,,<11,0,,0,0,389,806,0
 ,11/14/20,0,0,,Martinez Detention Facility,,Contra Costa,159,,<11,0,,0,0,404,807,<11
@@ -862,7 +861,7 @@ Additional_County_Information,Reporting_Period,Deaths,Hospitalized,Staff_Resolve
 ,11/27/21,0,0,,Martinez Detention Facility,,Contra Costa,179,,<11,0,,0,0,333,860,0
 ,12/04/21,0,0,,Martinez Detention Facility,,Contra Costa,164,,0,0,,0,0,318,861,0
 ,12/11/21,0,0,,Martinez Detention Facility,,Contra Costa,173,,0,0,,0,0,334,862,0
-,08/01/20,,,<11,,,Contra Costa,,0,,,13,,,,949,
+,07/25/20,,,<11,,,Contra Costa,,<11,,,23,,,,948,
 ,12/18/21,0,0,,Martinez Detention Facility,,Contra Costa,148,,<11,0,,0,0,330,863,0
 ,12/25/21,0,0,,Martinez Detention Facility,,Contra Costa,156,,0,0,,0,0,334,864,13
 ,01/01/22,0,0,,Martinez Detention Facility,,Contra Costa,137,,0,0,,0,0,310,865,13
@@ -948,7 +947,8 @@ Additional_County_Information,Reporting_Period,Deaths,Hospitalized,Staff_Resolve
 ,01/08/22,0,0,,West County Detention Facility,,Contra Costa,159,,0,0,,0,0,412,945,27
 ,01/15/22,0,0,,West County Detention Facility,,Contra Costa,159,,18,0,,0,0,430,946,38
 ,01/22/22,0,0,,West County Detention Facility,,Contra Costa,318,,58,0,,0,0,429,947,56
-,03/27/21,,,0,,,Del Norte,,0,,,0,,,,1141,
+,03/13/21,,,0,,,Del Norte,,0,,,0,,,,1139,
+,08/01/20,,,<11,,,Contra Costa,,0,,,13,,,,949,
 ,08/08/20,,,0,,,Contra Costa,,0,,,<11,,,,950,
 ,08/15/20,,,0,,,Contra Costa,,0,,,<11,,,,951,
 ,08/22/20,,,0,,,Contra Costa,,<11,,,24,,,,952,
@@ -1138,8 +1138,8 @@ Additional_County_Information,Reporting_Period,Deaths,Hospitalized,Staff_Resolve
 ,02/20/21,,,0,,,Del Norte,,0,,,0,,,,1136,
 ,02/27/21,,,0,,,Del Norte,,0,,,0,,,,1137,
 ,03/06/21,,,0,,,Del Norte,,0,,,0,,,,1138,
-,03/13/21,,,0,,,Del Norte,,0,,,0,,,,1139,
 ,03/20/21,,,0,,,Del Norte,,0,,,0,,,,1140,
+,03/27/21,,,0,,,Del Norte,,0,,,0,,,,1141,
 ,04/03/21,,,0,,,Del Norte,,0,,,0,,,,1142,
 ,04/10/21,,,0,,,Del Norte,,0,,,0,,,,1143,
 ,04/17/21,,,0,,,Del Norte,,0,,,0,,,,1144,
@@ -1191,8 +1191,8 @@ Additional_County_Information,Reporting_Period,Deaths,Hospitalized,Staff_Resolve
 ,09/05/20,0,0,,El Dorado County Jail,,El Dorado,25,,0,0,,<11,<11,227,1190,<11
 ,09/12/20,0,0,,El Dorado County Jail,,El Dorado,30,,0,0,,0,0,221,1191,0
 ,09/19/20,0,0,,El Dorado County Jail,,El Dorado,17,,0,0,,0,0,222,1192,0
+,01/16/21,,,0,,,El Dorado,,0,,,52,,,,1367,
 ,09/26/20,0,0,,El Dorado County Jail,,El Dorado,26,,0,0,,0,0,228,1193,0
-,01/23/21,,,0,,,El Dorado,,0,,,45,,,,1368,
 ,10/03/20,0,0,,El Dorado County Jail,,El Dorado,15,,0,0,,0,0,227,1194,0
 ,10/10/20,0,0,,El Dorado County Jail,,El Dorado,12,,0,0,,0,0,225,1195,0
 ,10/17/20,0,0,,El Dorado County Jail,,El Dorado,24,,0,0,,0,0,223,1196,0
@@ -1227,8 +1227,8 @@ Additional_County_Information,Reporting_Period,Deaths,Hospitalized,Staff_Resolve
 ,05/08/21,0,0,,El Dorado County Jail,,El Dorado,17,,0,,,,,218,1225,0
 ,05/15/21,0,0,,El Dorado County Jail,,El Dorado,<11,,0,,,,,220,1226,<11
 ,05/22/21,0,0,,El Dorado County Jail,,El Dorado,13,,0,,,,,221,1227,0
-,05/29/21,0,0,,El Dorado County Jail,,El Dorado,16,,0,,,,,225,1228,0
 ,09/19/20,,,<11,,,Fresno,,<11,,,222,,,,1508,
+,05/29/21,0,0,,El Dorado County Jail,,El Dorado,16,,0,,,,,225,1228,0
 ,06/05/21,0,0,,El Dorado County Jail,,El Dorado,15,,0,,,,,217,1229,0
 ,06/12/21,0,0,,El Dorado County Jail,,El Dorado,37,,0,,,,,205,1230,0
 ,06/19/21,0,0,,El Dorado County Jail,,El Dorado,36,,0,,,,,193,1231,0
@@ -1293,8 +1293,8 @@ Additional_County_Information,Reporting_Period,Deaths,Hospitalized,Staff_Resolve
 ,01/30/21,0,0,,South Lake Tahoe Jail,,El Dorado,11,,0,,,,,125,1290,<11
 ,02/06/21,0,0,,South Lake Tahoe Jail,,El Dorado,12,,0,,,0,0,125,1291,<11
 ,02/13/21,0,0,,South Lake Tahoe Jail,,El Dorado,15,,<11,0,,,,126,1292,<11
+,01/23/21,,,0,,,El Dorado,,0,,,45,,,,1368,
 ,02/20/21,0,0,,South Lake Tahoe Jail,,El Dorado,44,,<11,,,0,0,117,1293,14
-,01/02/21,,,0,,,Glenn,,0,,,0,,,,1682,
 ,02/27/21,0,<11,,South Lake Tahoe Jail,,El Dorado,<11,,<11,,,,,111,1294,<11
 ,03/06/21,0,<11,,South Lake Tahoe Jail,,El Dorado,61,,14,,,0,0,110,1295,11
 ,03/13/21,0,0,,South Lake Tahoe Jail,,El Dorado,<11,,11,,,,,119,1296,0
@@ -1323,8 +1323,8 @@ Additional_County_Information,Reporting_Period,Deaths,Hospitalized,Staff_Resolve
 ,09/04/21,0,0,,South Lake Tahoe Jail,Tahoe facility evacuated due to Caldor fire.,El Dorado,0,,0,0,,0,0,U,1319,0
 ,09/11/21,0,0,,South Lake Tahoe Jail,"Due to the Caldor Fire, the SLT facility was evacuated.  This group of inmates were housed in a dorm in Placer County jail but staffed by EDSO staff.  They had no contact with Placer County Inmates.",El Dorado,25,,0,,,,,25,1320,11
 ,09/18/21,0,0,,South Lake Tahoe Jail,Tahoe facility dates are from the 14th to the 18th.  The SLT inmates were previously housed in Placerville from the fire.,El Dorado,66,,0,,,,,105,1321,<11
+,08/22/20,,,<11,,,Fresno,,<11,,,226,,,,1504,
 ,09/25/21,0,0,,South Lake Tahoe Jail,,El Dorado,<11,,<11,,,,,103,1322,0
-,01/30/21,,,<11,,,El Dorado,,<11,,,73,,,,1369,
 ,10/02/21,0,0,,South Lake Tahoe Jail,,El Dorado,120,,<11,,,,,97,1323,<11
 ,10/09/21,0,0,,South Lake Tahoe Jail,,El Dorado,<11,,0,,,,,96,1324,0
 ,10/16/21,0,0,,South Lake Tahoe Jail,,El Dorado,<11,,0,,,,,95,1325,<11
@@ -1369,7 +1369,7 @@ Additional_County_Information,Reporting_Period,Deaths,Hospitalized,Staff_Resolve
 ,12/26/20,,,0,,,El Dorado,,0,,,<11,,,,1364,
 ,01/02/21,,,0,,,El Dorado,,0,,,<11,,,,1365,
 ,01/09/21,,,<11,,,El Dorado,,<11,,,<11,,,,1366,
-,01/16/21,,,0,,,El Dorado,,0,,,52,,,,1367,
+,01/30/21,,,<11,,,El Dorado,,<11,,,73,,,,1369,
 ,02/06/21,,,0,,,El Dorado,,0,,,75,,,,1370,
 ,02/13/21,,,<11,,,El Dorado,,0,,,0,,,,1371,
 ,02/20/21,,,0,,,El Dorado,,<11,,,0,,,,1372,
@@ -1423,8 +1423,6 @@ Additional_County_Information,Reporting_Period,Deaths,Hospitalized,Staff_Resolve
 ,01/22/22,,,,,,El Dorado,,,,,No Data Reported,,,,1420,
 ,07/25/20,0,<11,,Fresno County Main Jail/North Annex/South Annex,,Fresno,280,,507,,,,,"2,030",1421,<11
 ,08/01/20,0,<11,,Fresno County Main Jail/North Annex/South Annex,,Fresno,96,,30,,,,,"2,055",1422,21
-,08/22/20,,,<11,,,Fresno,,<11,,,226,,,,1504,
-,01/09/21,,,0,,,Glenn,,0,,,0,,,,1683,
 ,08/08/20,0,0,,Fresno County Main Jail/North Annex/South Annex,,Fresno,114,,95,,,<11,,"2,032",1423,<11
 ,08/15/20,0,0,,Fresno County Main Jail/North Annex/South Annex,,Fresno,721,,<11,<11,,66,,"2,049",1424,58
 ,08/22/20,0,<11,,Fresno County Main Jail/North Annex/South Annex,,Fresno,356,,<11,,,,,"2,050",1425,25
@@ -1682,6 +1680,8 @@ Additional_County_Information,Reporting_Period,Deaths,Hospitalized,Staff_Resolve
 ,12/05/20,,,0,,,Glenn,,0,,,0,,,,1679,
 ,12/12/20,,,0,,,Glenn,,0,,,0,,,,1680,
 ,12/19/20,,,0,,,Glenn,,0,,,0,,,,1681,
+,01/02/21,,,0,,,Glenn,,0,,,0,,,,1682,
+,01/09/21,,,0,,,Glenn,,0,,,0,,,,1683,
 ,01/16/21,,,0,,,Glenn,,0,,,0,,,,1684,
 ,01/23/21,,,0,,,Glenn,,0,,,0,,,,1685,
 ,01/30/21,,,0,,,Glenn,,<11,,,<11,,,,1686,
@@ -1741,8 +1741,8 @@ Additional_County_Information,Reporting_Period,Deaths,Hospitalized,Staff_Resolve
 ,08/15/20,0,<11,,Humboldt Co. Corr. Facility,,Humboldt,<11,,<11,<11,,<11,<11,227,1740,<11
 ,08/22/20,0,0,,Humboldt Co. Corr. Facility,,Humboldt,<11,,0,0,,0,0,241,1741,0
 ,08/29/20,0,0,,Humboldt Co. Corr. Facility,,Humboldt,<11,,0,0,,0,0,239,1742,0
+,10/24/20,,,,No Data Reported,,Humboldt,,,,,,,,,1780,
 ,09/05/20,0,0,,Humboldt Co. Corr. Facility,,Humboldt,<11,,0,0,,0,0,229,1743,0
-,10/31/20,,,,No Data Reported,,Humboldt,,,,,,,,,1781,
 ,09/12/20,0,0,,Humboldt Co. Corr. Facility,,Humboldt,<11,,0,0,,0,0,241,1744,0
 ,09/19/20,0,0,,Humboldt Co. Corr. Facility,,Humboldt,<11,,0,0,,0,0,246,1745,0
 ,09/26/20,0,0,,Humboldt Co. Corr. Facility,,Humboldt,<11,,0,0,,0,0,253,1746,0
@@ -1779,8 +1779,7 @@ Additional_County_Information,Reporting_Period,Deaths,Hospitalized,Staff_Resolve
 ,09/12/20,,,,No Data Reported,,Humboldt,,,,,,,,,1777,
 ,10/10/20,,,,No Data Reported,,Humboldt,,,,,,,,,1778,
 ,10/17/20,,,,No Data Reported,,Humboldt,,,,,,,,,1779,
-,10/24/20,,,,No Data Reported,,Humboldt,,,,,,,,,1780,
-,01/01/22,,,0,,,Humboldt,,0,,,100,,,,1893,
+,10/31/20,,,,No Data Reported,,Humboldt,,,,,,,,,1781,
 ,11/07/20,,,,No Data Reported,,Humboldt,,,,,,,,,1782,
 ,11/21/20,,,,No Data Reported,,Humboldt,,,,,,,,,1783,
 ,11/28/20,,,,No Data Reported,,Humboldt,,,,,,,,,1784,
@@ -1892,6 +1891,7 @@ Additional_County_Information,Reporting_Period,Deaths,Hospitalized,Staff_Resolve
 ,12/11/21,,,0,,,Humboldt,,<11,,,100,,,,1890,
 ,12/18/21,,,0,,,Humboldt,,<11,,,98,,,,1891,
 ,12/25/21,,,<11,,,Humboldt,,<11,,,100,,,,1892,
+,01/01/22,,,0,,,Humboldt,,0,,,100,,,,1893,
 ,11/28/20,,,0,,,Inyo,,<11,,,<11,,,,2309,
 ,01/08/22,,,<11,,,Humboldt,,<11,,,102,,,,1894,
 ,01/15/22,,,<11,,,Humboldt,,<11,,,97,,,,1895,
@@ -1961,8 +1961,8 @@ Additional_County_Information,Reporting_Period,Deaths,Hospitalized,Staff_Resolve
 ,10/02/21,0,0,,Herbert Hughes Corr. Center,,Imperial,<11,,0,0,,0,0,67,1959,0
 ,10/09/21,0,0,,Herbert Hughes Corr. Center,,Imperial,0,,0,0,,0,0,61,1960,0
 ,10/16/21,0,0,,Herbert Hughes Corr. Center,,Imperial,0,,0,0,,0,0,64,1961,0
-,10/23/21,0,0,,Herbert Hughes Corr. Center,,Imperial,0,,0,0,,0,0,61,1962,0
 ,06/26/21,,,0,,,Imperial,,0,,,0,,,,2181,
+,10/23/21,0,0,,Herbert Hughes Corr. Center,,Imperial,0,,0,0,,0,0,61,1962,0
 ,10/30/21,0,0,,Herbert Hughes Corr. Center,,Imperial,0,,0,0,,0,0,55,1963,0
 ,11/06/21,0,0,,Herbert Hughes Corr. Center,,Imperial,0,,0,0,,,,64,1964,0
 ,11/13/21,0,0,,Herbert Hughes Corr. Center,,Imperial,0,,0,,,,,65,1965,0
@@ -1996,9 +1996,8 @@ Additional_County_Information,Reporting_Period,Deaths,Hospitalized,Staff_Resolve
 ,11/14/20,0,0,,Imperial Adult Regional Fac.,,Imperial,18,,0,0,,0,0,101,1992,0
 ,11/21/20,0,0,,Imperial Adult Regional Fac.,,Imperial,11,,<11,0,,0,<11,112,1993,<11
 ,11/28/20,0,0,,Imperial Adult Regional Fac.,,Imperial,0,,0,0,,0,0,100,1994,0
+,07/31/21,0,0,,Imperial Adult Regional Fac.,,Imperial,21,,0,,,,,102,2029,0
 ,12/05/20,0,0,,Imperial Adult Regional Fac.,,Imperial,15,,0,0,,0,0,94,1995,0
-,07/03/21,,,0,,,Imperial,,0,,,0,,,,2182,
-,07/10/21,,,0,,,Imperial,,0,,,0,,,,2183,
 ,12/12/20,0,0,,Imperial Adult Regional Fac.,,Imperial,16,,0,0,,0,<11,101,1996,<11
 ,12/19/20,0,0,,Imperial Adult Regional Fac.,,Imperial,35,,0,0,,<11,0,93,1997,<11
 ,12/26/20,0,0,,Imperial Adult Regional Fac.,,Imperial,31,,0,0,,<11,0,97,1998,<11
@@ -2032,7 +2031,6 @@ Additional_County_Information,Reporting_Period,Deaths,Hospitalized,Staff_Resolve
 ,07/10/21,0,0,,Imperial Adult Regional Fac.,,Imperial,14,,0,0,,0,0,100,2026,0
 ,07/17/21,0,0,,Imperial Adult Regional Fac.,,Imperial,24,,0,0,,0,0,108,2027,0
 ,07/24/21,0,0,,Imperial Adult Regional Fac.,,Imperial,24,,0,0,,0,0,105,2028,0
-,07/31/21,0,0,,Imperial Adult Regional Fac.,,Imperial,21,,0,,,,,102,2029,0
 ,08/07/21,0,0,,Imperial Adult Regional Fac.,,Imperial,23,,0,0,,0,0,114,2030,0
 ,08/14/21,0,0,,Imperial Adult Regional Fac.,,Imperial,20,,0,0,,0,0,U,2031,0
 ,08/21/21,0,0,,Imperial Adult Regional Fac.,,Imperial,20,,0,0,,0,0,108,2032,0
@@ -2056,7 +2054,7 @@ Additional_County_Information,Reporting_Period,Deaths,Hospitalized,Staff_Resolve
 ,01/01/22,0,0,,Imperial Adult Regional Fac.,,Imperial,20,,<11,,,,,106,2050,<11
 ,01/08/22,0,0,,Imperial Adult Regional Fac.,,Imperial,25,,<11,0,,,<11,97,2051,<11
 ,01/15/22,0,0,,Imperial Adult Regional Fac.,,Imperial,<11,,0,,,,,122,2052,<11
-,01/22/22,0,U,,Imperial Adult Regional Fac.,,Imperial,<11,,<11,0,,,,130,2053,<11
+,01/22/22,0,<11,,Imperial Adult Regional Fac.,,Imperial,<11,,<11,0,,,,130,2053,<11
 ,07/25/20,0,<11,,Imperial County Oren Fox Det. Facility,,Imperial,<11,,0,<11,,0,0,37,2054,<11
 ,08/01/20,0,0,,Imperial County Oren Fox Det. Facility,,Imperial,0,,0,0,,0,0,35,2055,0
 ,08/08/20,0,0,,Imperial County Oren Fox Det. Facility,,Imperial,0,,0,0,,0,0,40,2056,0
@@ -2185,6 +2183,8 @@ Additional_County_Information,Reporting_Period,Deaths,Hospitalized,Staff_Resolve
 ,06/05/21,,,0,,,Imperial,,0,,,0,,,,2178,
 ,06/12/21,,,0,,,Imperial,,0,,,0,,,,2179,
 ,06/19/21,,,0,,,Imperial,,0,,,0,,,,2180,
+,07/03/21,,,0,,,Imperial,,0,,,0,,,,2182,
+,07/10/21,,,0,,,Imperial,,0,,,0,,,,2183,
 ,07/17/21,,,0,,,Imperial,,0,,,0,,,,2184,
 ,07/24/21,,,0,,,Imperial,,0,,,0,,,,2185,
 ,07/31/21,,,0,,,Imperial,,0,,,<11,,,,2186,
@@ -2275,8 +2275,8 @@ Additional_County_Information,Reporting_Period,Deaths,Hospitalized,Staff_Resolve
 ,09/18/21,0,0,,Inyo County Jail,,Inyo,<11,,19,0,,0,<11,43,2271,<11
 ,09/25/21,0,0,,Inyo County Jail,,Inyo,<11,,0,0,,<11,0,40,2272,0
 ,10/02/21,0,0,,Inyo County Jail,,Inyo,0,,<11,0,,0,0,42,2273,0
+,06/12/21,,,0,,,Inyo,,0,,,0,,,,2337,
 ,10/09/21,0,0,,Inyo County Jail,,Inyo,0,,<11,0,,0,0,44,2274,0
-,06/19/21,,,0,,,Kern,,0,,,0,,,,2656,
 ,10/16/21,0,0,,Inyo County Jail,,Inyo,0,,0,0,,0,0,39,2275,0
 ,10/23/21,0,0,,Inyo County Jail,,Inyo,0,,0,0,,0,0,40,2276,0
 ,10/30/21,0,0,,Inyo County Jail,,Inyo,<11,,0,<11,,0,0,40,2277,<11
@@ -2336,7 +2336,6 @@ Additional_County_Information,Reporting_Period,Deaths,Hospitalized,Staff_Resolve
 ,05/22/21,,,0,,,Inyo,,0,,,0,,,,2334,
 ,05/29/21,,,0,,,Inyo,,0,,,0,,,,2335,
 ,06/05/21,,,0,,,Inyo,,0,,,0,,,,2336,
-,06/12/21,,,0,,,Inyo,,0,,,0,,,,2337,
 ,06/19/21,,,,,,Inyo,,,,,No Data Reported,,,,2338,
 ,06/26/21,,,0,,,Inyo,,0,,,0,,,,2339,
 ,07/03/21,,,0,,,Inyo,,0,,,0,,,,2340,
@@ -2387,7 +2386,7 @@ Non-vaccinated staff testing weekly.,11/20/21,,,0,,,Inyo,,0,,,<11,,,,2360,
 ,11/07/20,0,0,,Central Receiving Facility,,Kern,<11,,0,,,,,165,2385,0
 ,11/14/20,0,0,,Central Receiving Facility,,Kern,0,,0,,,,,168,2386,0
 ,11/21/20,0,0,,Central Receiving Facility,,Kern,0,,0,,,,,168,2387,0
-,06/26/21,,,0,,,Kern,,0,,,0,,,,2657,
+,06/19/21,,,0,,,Kern,,0,,,0,,,,2656,
 ,11/28/20,0,0,,Central Receiving Facility,,Kern,<11,,0,,,,,139,2388,0
 ,12/05/20,0,0,,Central Receiving Facility,,Kern,<11,,0,,,,,134,2389,<11
 ,12/12/20,0,0,,Central Receiving Facility,,Kern,<11,,0,,,,,155,2390,0
@@ -2658,6 +2657,7 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,04/10/21,,,0,,,Kern,,0,,,<11,,,,2646,
 ,04/17/21,,,0,,,Kern,,0,,,0,,,,2647,
 ,04/24/21,,,<11,,,Kern,,0,,,0,,,,2648,
+,06/26/21,,,0,,,Kern,,0,,,0,,,,2657,
 ,07/03/21,,,0,,,Kern,,0,,,0,,,,2658,
 ,07/10/21,,,0,,,Kern,,0,,,0,,,,2659,
 ,07/17/21,,,0,,,Kern,,<11,,,<11,,,,2660,
@@ -2744,8 +2744,8 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,07/31/21,0,0,,Kings County Jail Facility,,Kings,37,,0,,,,,472,2741,0
 ,08/07/21,0,0,,Kings County Jail Facility,,Kings,51,,0,,,0,0,488,2742,0
 ,08/14/21,0,0,,Kings County Jail Facility,,Kings,31,,<11,,,,,484,2743,<11
+,01/23/21,,,<11,,,Kings,,<11,,,<11,,,,2793,
 ,08/21/21,0,0,,Kings County Jail Facility,,Kings,47,,0,0,,0,0,481,2744,0
-,02/06/21,,,<11,,,Kings,,<11,,,<11,,,,2795,
 ,08/28/21,0,0,,Kings County Jail Facility,,Kings,36,,0,,,,0,494,2745,0
 ,09/04/21,0,0,,Kings County Jail Facility,,Kings,27,,0,0,,0,0,493,2746,0
 ,09/11/21,0,0,,Kings County Jail Facility,,Kings,39,,0,0,,,0,496,2747,0
@@ -2794,8 +2794,8 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,01/02/21,,,<11,,,Kings,,<11,,,<11,,,,2790,
 ,01/09/21,,,0,,,Kings,,<11,,,<11,,,,2791,
 ,01/16/21,,,<11,,,Kings,,<11,,,<11,,,,2792,
-,01/23/21,,,<11,,,Kings,,<11,,,<11,,,,2793,
 ,01/30/21,,,<11,,,Kings,,<11,,,<11,,,,2794,
+,02/06/21,,,<11,,,Kings,,<11,,,<11,,,,2795,
 ,02/13/21,,,<11,,,Kings,,<11,,,<11,,,,2796,
 ,02/20/21,,,<11,,,Kings,,<11,,,<11,,,,2797,
 ,02/27/21,,,<11,,,Kings,,<11,,,<11,,,,2798,
@@ -2916,8 +2916,8 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,12/11/21,0,0,,Lake County Hill Road Facility,,Lake,32,,0,0,,0,0,178,2915,0
 ,12/18/21,0,0,,Lake County Hill Road Facility,,Lake,30,,0,0,,0,0,161,2916,0
 ,12/25/21,0,0,,Lake County Hill Road Facility,,Lake,35,,0,0,,0,0,158,2917,0
+,08/21/21,,,,,,Lake,,,,,No Data Reported,,,,2981,
 ,01/01/22,0,0,,Lake County Hill Road Facility,,Lake,45,,0,0,,0,0,164,2918,0
-,09/04/21,,,<11,,,Lake,,0,,,50,,,,2983,
 ,01/08/22,0,0,,Lake County Hill Road Facility,,Lake,63,,0,0,,0,0,173,2919,0
 ,01/15/22,0,0,,Lake County Hill Road Facility,,Lake,63,,0,0,,0,0,204,2920,0
 ,01/22/22,0,0,,Lake County Hill Road Facility,,Lake,52,,0,<11,,<11,<11,195,2921,<11
@@ -2980,8 +2980,8 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,07/31/21,,,0,,,Lake,,0,,,<11,,,,2978,
 ,08/07/21,,,0,,,Lake,,0,,,<11,,,,2979,
 ,08/14/21,,,,,,Lake,,,,,No Data Reported,,,,2980,
-,08/21/21,,,,,,Lake,,,,,No Data Reported,,,,2981,
 ,08/28/21,,,<11,,,Lake,,<11,,,50,,,,2982,
+,09/04/21,,,<11,,,Lake,,0,,,50,,,,2983,
 ,09/11/21,,,0,,,Lake,,<11,,,50,,,,2984,
 ,09/18/21,,,<11,,,Lake,,0,,,50,,,,2985,
 ,09/25/21,,,0,,,Lake,,<11,,,50,,,,2986,
@@ -3025,7 +3025,6 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,12/19/20,0,0,,Lassen Adult Detention Facility,,Lassen,<11,,0,0,,0,0,126,3024,0
 ,12/26/20,0,0,,Lassen Adult Detention Facility,,Lassen,0,,0,0,,0,0,131,3025,0
 ,01/02/21,0,0,,Lassen Adult Detention Facility,,Lassen,0,,0,0,,0,0,132,3026,0
-,03/13/21,,,0,,,Lassen,,0,,,0,,,,3116,
 ,01/09/21,0,0,,Lassen Adult Detention Facility,,Lassen,<11,,0,0,,0,0,136,3027,0
 ,01/16/21,0,0,,Lassen Adult Detention Facility,,Lassen,<11,,0,0,,0,0,130,3028,0
 ,01/23/21,0,0,,Lassen Adult Detention Facility,,Lassen,0,,0,0,,0,0,125,3029,0
@@ -3115,6 +3114,7 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,02/20/21,,,0,,,Lassen,,0,,,0,,,,3113,
 ,02/27/21,,,0,,,Lassen,,0,,,0,,,,3114,
 ,03/06/21,,,0,,,Lassen,,0,,,0,,,,3115,
+,03/13/21,,,0,,,Lassen,,0,,,0,,,,3116,
 ,03/20/21,,,0,,,Lassen,,0,,,<11,,,,3117,
 ,03/27/21,,,0,,,Lassen,,0,,,<11,,,,3118,
 ,04/03/21,,,0,,,Lassen,,0,,,<11,,,,3119,
@@ -3219,8 +3219,8 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,08/14/21,0,U,,LA Century Reg. Det. Facility,,Los Angeles,141,,U,U,,U,U,"1,308",3217,<11
 ,08/21/21,0,U,,LA Century Reg. Det. Facility,,Los Angeles,161,,U,U,,U,U,"1,332",3218,<11
 ,08/28/21,0,U,,LA Century Reg. Det. Facility,,Los Angeles,132,,U,U,,U,U,"1,347",3219,<11
+,08/14/21,,,U,,,Los Angeles,,17,,,25,,,,3770,
 ,09/04/21,0,U,,LA Century Reg. Det. Facility,,Los Angeles,162,,U,U,,U,U,"1,338",3220,<11
-,08/29/20,,,U,,,Los Angeles,,<11,,,23,,,,3720,
 ,09/11/21,0,U,,LA Century Reg. Det. Facility,,Los Angeles,184,,U,U,,U,U,"1,360",3221,<11
 ,09/18/21,0,U,,LA Century Reg. Det. Facility,,Los Angeles,142,,U,U,,U,U,"1,379",3222,57
 ,09/25/21,0,U,,LA Century Reg. Det. Facility,,Los Angeles,156,,U,U,,U,U,"1,398",3223,<11
@@ -3328,8 +3328,8 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,08/29/20,0,U,,LA North County Corr. Facility,,Los Angeles,<11,,U,U,,U,U,"2,991",3325,0
 ,09/05/20,0,U,,LA North County Corr. Facility,,Los Angeles,14,,U,U,,U,U,"3,093",3326,<11
 ,09/12/20,0,U,,LA North County Corr. Facility,,Los Angeles,13,,U,U,,U,U,"3,160",3327,<11
+,08/21/21,,,U,,,Los Angeles,,29,,,46,,,,3771,
 ,09/19/20,0,U,,LA North County Corr. Facility,,Los Angeles,<11,,U,U,,U,U,"3,224",3328,<11
-,09/05/20,,,U,,,Los Angeles,,<11,,,20,,,,3721,
 ,09/26/20,0,U,,LA North County Corr. Facility,,Los Angeles,<11,,U,U,,U,U,"3,174",3329,<11
 ,10/03/20,<11,U,,LA North County Corr. Facility,,Los Angeles,<11,,U,U,,U,U,"3,244",3330,<11
 ,10/10/20,0,U,,LA North County Corr. Facility,,Los Angeles,18,,U,U,,U,U,"3,325",3331,<11
@@ -3355,8 +3355,8 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,02/27/21,0,U,,LA North County Corr. Facility,,Los Angeles,38,,U,U,,U,U,"3,527",3351,<11
 ,03/06/21,0,U,,LA North County Corr. Facility,,Los Angeles,27,,U,U,,U,U,"3,501",3352,0
 ,03/13/21,0,U,,LA North County Corr. Facility,,Los Angeles,39,,U,U,,U,U,"3,590",3353,<11
+,08/28/21,,,U,,,Los Angeles,,20,,,56,,,,3772,
 ,03/20/21,0,U,,LA North County Corr. Facility,,Los Angeles,23,,U,U,,U,U,"3,649",3354,0
-,09/12/20,,,U,,,Los Angeles,,<11,,,16,,,,3722,
 ,03/27/21,0,U,,LA North County Corr. Facility,,Los Angeles,30,,U,U,,U,U,"3,652",3355,0
 ,04/03/21,0,U,,LA North County Corr. Facility,,Los Angeles,27,,U,U,,U,U,"3,654",3356,<11
 ,04/10/21,0,U,,LA North County Corr. Facility,,Los Angeles,28,,U,U,,U,U,"3,623",3357,0
@@ -3382,8 +3382,8 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,08/28/21,0,U,,LA North County Corr. Facility,,Los Angeles,<11,,U,U,,U,U,"3,601",3377,<11
 ,09/04/21,0,U,,LA North County Corr. Facility,,Los Angeles,19,,U,U,,U,U,"3,480",3378,<11
 ,09/11/21,0,U,,LA North County Corr. Facility,,Los Angeles,138,,U,U,,U,U,"3,552",3379,<11
+,09/19/20,0,U,,LA Pitchess East Facility,,Los Angeles,0,,U,U,,U,U,23,3407,0
 ,09/18/21,0,U,,LA North County Corr. Facility,,Los Angeles,15,,U,U,,U,U,"3,369",3380,<11
-,09/26/20,0,U,,LA Pitchess East Facility,,Los Angeles,0,,U,U,,U,U,24,3408,0
 ,09/25/21,0,U,,LA North County Corr. Facility,,Los Angeles,145,,U,U,,U,U,"3,420",3381,<11
 ,10/02/21,0,U,,LA North County Corr. Facility,,Los Angeles,73,,U,U,,U,U,"3,380",3382,<11
 ,10/09/21,0,U,,LA North County Corr. Facility,,Los Angeles,115,,U,U,,U,U,"3,343",3383,<11
@@ -3410,7 +3410,7 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,08/29/20,0,U,,LA Pitchess East Facility,,Los Angeles,0,,U,U,,U,U,23,3404,0
 ,09/05/20,0,U,,LA Pitchess East Facility,,Los Angeles,0,,U,U,,U,U,23,3405,0
 ,09/12/20,0,U,,LA Pitchess East Facility,,Los Angeles,0,,U,U,,U,U,22,3406,0
-,09/19/20,0,U,,LA Pitchess East Facility,,Los Angeles,0,,U,U,,U,U,23,3407,0
+,09/26/20,0,U,,LA Pitchess East Facility,,Los Angeles,0,,U,U,,U,U,24,3408,0
 ,10/03/20,0,U,,LA Pitchess East Facility,,Los Angeles,0,,U,U,,U,U,23,3409,0
 ,10/10/20,0,U,,LA Pitchess East Facility,,Los Angeles,0,,U,U,,U,U,23,3410,0
 ,10/17/20,0,U,,LA Pitchess East Facility,,Los Angeles,0,,U,U,,U,U,22,3411,0
@@ -3500,8 +3500,8 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,11/28/20,0,U,,LA Pitchess North Facility,,Los Angeles,<11,,U,U,,U,U,"1,467",3495,<11
 ,12/05/20,0,U,,LA Pitchess North Facility,,Los Angeles,<11,,U,U,,U,U,"1,462",3496,<11
 ,12/12/20,0,U,,LA Pitchess North Facility,,Los Angeles,<11,,U,U,,U,U,"1,439",3497,0
+,09/04/21,,,U,,,Los Angeles,,12,,,23,,,,3773,
 ,12/19/20,0,U,,LA Pitchess North Facility,,Los Angeles,<11,,U,U,,U,U,"1,402",3498,<11
-,05/08/21,,,0,,,Madera,,0,,,0,,,,3913,
 ,12/26/20,0,U,,LA Pitchess North Facility,,Los Angeles,<11,,U,U,,U,U,"1,401",3499,0
 ,01/02/21,0,U,,LA Pitchess North Facility,,Los Angeles,<11,,U,U,,U,U,"1,406",3500,0
 ,01/09/21,0,U,,LA Pitchess North Facility,,Los Angeles,<11,,U,U,,U,U,"1,404",3501,0
@@ -3529,8 +3529,8 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,06/12/21,0,U,,LA Pitchess North Facility,,Los Angeles,<11,,U,U,,U,U,"1,261",3523,0
 ,06/19/21,0,U,,LA Pitchess North Facility,,Los Angeles,<11,,U,U,,U,U,"1,247",3524,0
 ,06/26/21,0,U,,LA Pitchess North Facility,,Los Angeles,<11,,U,U,,U,U,"1,258",3525,0
+,09/11/21,,,U,,,Los Angeles,,12,,,17,,,,3774,
 ,07/03/21,0,U,,LA Pitchess North Facility,,Los Angeles,<11,,U,U,,U,U,"1,222",3526,<11
-,08/01/20,,,U,,,Los Angeles,,<11,,,U,,,,3716,
 ,07/10/21,0,U,,LA Pitchess North Facility,,Los Angeles,<11,,U,U,,U,U,"1,198",3527,0
 ,07/17/21,0,U,,LA Pitchess North Facility,,Los Angeles,<11,,U,U,,U,U,"1,252",3528,0
 ,07/24/21,0,U,,LA Pitchess North Facility,,Los Angeles,<11,,U,U,,U,U,"1,238",3529,0
@@ -3558,8 +3558,8 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,12/25/21,U,U,,LA Pitchess North Facility,,Los Angeles,<11,,U,U,,U,U,"1,066",3551,0
 ,01/01/22,0,U,,LA Pitchess North Facility,,Los Angeles,<11,,U,U,,U,U,"1,118",3552,<11
 ,01/08/22,0,U,,LA Pitchess North Facility,,Los Angeles,<11,,U,U,,U,U,"1,110",3553,<11
+,09/18/21,,,U,,,Los Angeles,,<11,,,12,,,,3775,
 ,01/15/22,0,U,,LA Pitchess North Facility,,Los Angeles,<11,,U,U,,U,U,"1,127",3554,<11
-,08/08/20,,,U,,,Los Angeles,,<11,,,<11,,,,3717,
 ,01/22/22,0,U,,LA Pitchess North Facility,,Los Angeles,<11,,U,U,,U,U,"1,139",3555,<11
 ,07/25/20,0,U,,LA Pitchess South (No. Annex),*Inmate Deaths- Number reported denotes COVID 19 positive at time of death,Los Angeles,U,,U,U,,U,U,493,3556,0
 ,08/01/20,0,U,,LA Pitchess South (No. Annex),,Los Angeles,U,,U,U,,U,U,482,3557,0
@@ -3615,8 +3615,8 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,07/10/21,0,U,,LA Pitchess South (No. Annex),,Los Angeles,<11,,U,U,,U,U,"1,320",3606,0
 ,07/17/21,0,U,,LA Pitchess South (No. Annex),,Los Angeles,<11,,U,U,,U,U,"1,321",3607,0
 ,07/24/21,0,U,,LA Pitchess South (No. Annex),,Los Angeles,<11,,U,U,,U,U,"1,316",3608,<11
+,09/25/21,,,U,,,Los Angeles,,<11,,,<11,,,,3776,
 ,07/31/21,0,U,,LA Pitchess South (No. Annex),,Los Angeles,<11,,U,U,,U,U,"1,299",3609,<11
-,08/15/20,,,U,,,Los Angeles,,<11,,,17,,,,3718,
 ,08/07/21,0,U,,LA Pitchess South (No. Annex),,Los Angeles,<11,,U,U,,U,U,"1,302",3610,<11
 ,08/14/21,0,U,,LA Pitchess South (No. Annex),,Los Angeles,<11,,U,U,,U,U,"1,296",3611,<11
 ,08/21/21,0,U,,LA Pitchess South (No. Annex),,Los Angeles,<11,,U,U,,U,U,"1,259",3612,<11
@@ -3643,6 +3643,7 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,01/15/22,0,U,,LA Pitchess South (No. Annex),,Los Angeles,<11,,U,U,,U,U,661,3633,<11
 ,01/22/22,0,U,,LA Pitchess South (No. Annex),,Los Angeles,<11,,U,U,,U,U,634,3634,<11
 ,08/15/20,0,U,,LA Pitchness North Facility,,Los Angeles,<11,,U,U,,U,U,"1,151",3635,0
+,01/16/21,<11,U,,LA Twin Towers Corr. Facility,,Los Angeles,125,,U,U,,U,U,"3,088",3661,16
 ,07/25/20,0,U,,LA Twin Towers Corr. Facility,*Inmate Deaths - Number reported denotes COVID 19 positive at time of death,Los Angeles,U,,U,U,,U,U,"2,830",3636,<11
 ,08/01/20,0,U,,LA Twin Towers Corr. Facility,,Los Angeles,U,,U,U,,U,U,"2,854",3637,<11
 ,08/08/20,0,U,,LA Twin Towers Corr. Facility,,Los Angeles,46,,U,U,,U,U,"2,905",3638,12
@@ -3668,9 +3669,8 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,12/26/20,0,U,,LA Twin Towers Corr. Facility,,Los Angeles,107,,U,U,,U,U,"3,131",3658,21
 ,01/02/21,0,U,,LA Twin Towers Corr. Facility,,Los Angeles,53,,U,U,,U,U,"3,144",3659,17
 ,01/09/21,0,U,,LA Twin Towers Corr. Facility,,Los Angeles,86,,U,U,,U,U,"3,140",3660,12
-,01/16/21,<11,U,,LA Twin Towers Corr. Facility,,Los Angeles,125,,U,U,,U,U,"3,088",3661,16
+,07/31/21,,,U,,,Los Angeles,,<11,,,16,,,,3768,
 ,01/23/21,0,U,,LA Twin Towers Corr. Facility,,Los Angeles,81,,U,U,,U,U,"3,076",3662,<11
-,08/22/20,,,U,,,Los Angeles,,<11,,,14,,,,3719,
 ,01/30/21,0,U,,LA Twin Towers Corr. Facility,,Los Angeles,109,,U,U,,U,U,"3,083",3663,<11
 ,02/06/21,0,U,,LA Twin Towers Corr. Facility,,Los Angeles,81,,U,U,,U,U,"3,090",3664,<11
 ,02/13/21,0,U,,LA Twin Towers Corr. Facility,,Los Angeles,102,,U,U,,U,U,"3,134",3665,<11
@@ -3723,8 +3723,16 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,01/01/22,0,U,,LA Twin Towers Corr. Facility,,Los Angeles,61,,U,U,,U,U,"2,844",3711,<11
 ,01/08/22,0,U,,LA Twin Towers Corr. Facility,,Los Angeles,76,,U,U,,U,U,"2,875",3712,13
 ,01/15/22,0,U,,LA Twin Towers Corr. Facility,,Los Angeles,62,,U,U,,U,U,"2,955",3713,33
+,08/07/21,,,U,,,Los Angeles,,17,,,33,,,,3769,
 ,01/22/22,0,U,,LA Twin Towers Corr. Facility,,Los Angeles,61,,U,U,,U,U,"2,988",3714,34
 ,07/25/20,,,U,,,Los Angeles,,<11,,,U,,,,3715,
+,08/01/20,,,U,,,Los Angeles,,<11,,,U,,,,3716,
+,08/08/20,,,U,,,Los Angeles,,<11,,,<11,,,,3717,
+,08/15/20,,,U,,,Los Angeles,,<11,,,17,,,,3718,
+,08/22/20,,,U,,,Los Angeles,,<11,,,14,,,,3719,
+,08/29/20,,,U,,,Los Angeles,,<11,,,23,,,,3720,
+,09/05/20,,,U,,,Los Angeles,,<11,,,20,,,,3721,
+,09/12/20,,,U,,,Los Angeles,,<11,,,16,,,,3722,
 ,09/19/20,,,U,,,Los Angeles,,11,,,18,,,,3723,
 ,09/26/20,,,U,,,Los Angeles,,<11,,,25,,,,3724,
 ,10/03/20,,,U,,,Los Angeles,,22,,,40,,,,3725,
@@ -3769,15 +3777,6 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,07/10/21,,,U,,,Los Angeles,,<11,,,<11,,,,3765,
 ,07/17/21,,,U,,,Los Angeles,,<11,,,11,,,,3766,
 ,07/24/21,,,U,,,Los Angeles,,<11,,,13,,,,3767,
-,07/31/21,,,U,,,Los Angeles,,<11,,,16,,,,3768,
-,08/07/21,,,U,,,Los Angeles,,17,,,33,,,,3769,
-,08/14/21,,,U,,,Los Angeles,,17,,,25,,,,3770,
-,08/21/21,,,U,,,Los Angeles,,29,,,46,,,,3771,
-,08/28/21,,,U,,,Los Angeles,,20,,,56,,,,3772,
-,09/04/21,,,U,,,Los Angeles,,12,,,23,,,,3773,
-,09/11/21,,,U,,,Los Angeles,,12,,,17,,,,3774,
-,09/18/21,,,U,,,Los Angeles,,<11,,,12,,,,3775,
-,09/25/21,,,U,,,Los Angeles,,<11,,,<11,,,,3776,
 ,10/02/21,,,U,,,Los Angeles,,<11,,,<11,,,,3777,
 ,10/09/21,,,U,,,Los Angeles,,<11,,,<11,,,,3778,
 ,10/16/21,,,U,,,Los Angeles,,<11,,,<11,,,,3779,
@@ -3819,6 +3818,7 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,03/27/21,0,0,,Madera Adult Correctional Facility,,Madera,0,,0,,,,,397,3815,0
 ,04/03/21,0,0,,Madera Adult Correctional Facility,,Madera,0,,0,,,,,418,3816,0
 ,04/10/21,0,0,,Madera Adult Correctional Facility,,Madera,<11,,0,,,,,422,3817,0
+,05/01/21,,,0,,,Madera,,0,,,0,,,,3912,
 ,04/17/21,0,0,,Madera Adult Correctional Facility,,Madera,0,,0,,,,,429,3818,0
 ,04/24/21,0,0,,Madera Adult Correctional Facility,,Madera,<11,,0,,,,,437,3819,0
 ,05/01/21,0,0,,Madera Adult Correctional Facility,,Madera,<11,,0,,,,,440,3820,0
@@ -3913,7 +3913,7 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,04/10/21,,,,,,Madera,,,,,No Data Reported,,,,3909,
 ,04/17/21,,,0,,,Madera,,0,,,26,,,,3910,
 ,04/24/21,,,0,,,Madera,,0,,,0,,,,3911,
-,05/01/21,,,0,,,Madera,,0,,,0,,,,3912,
+,05/08/21,,,0,,,Madera,,0,,,0,,,,3913,
 ,05/15/21,,,0,,,Madera,,0,,,0,,,,3914,
 ,05/22/21,,,0,,,Madera,,0,,,0,,,,3915,
 ,05/29/21,,,0,,,Madera,,0,,,0,,,,3916,
@@ -3966,7 +3966,6 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,10/31/20,0,0,,Marin County Jail,,Marin,103,,0,0,,0,0,172,3965,<11
 ,11/07/20,0,0,,Marin County Jail,,Marin,<11,,0,0,,<11,0,171,3966,<11
 ,11/14/20,0,0,,Marin County Jail,,Marin,<11,,<11,0,,0,0,171,3967,0
-,01/23/21,,,0,,,Marin,,0,,,<11,,,,4060,
 ,11/21/20,0,0,,Marin County Jail,,Marin,<11,,0,0,,0,0,164,3968,0
 ,11/28/20,0,0,,Marin County Jail,,Marin,<11,,0,0,,<11,<11,183,3969,<11
 ,12/05/20,0,0,,Marin County Jail,,Marin,<11,,0,0,,0,0,175,3970,0
@@ -4006,7 +4005,7 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,08/28/21,0,0,,Marin County Jail,,Marin,44,,0,0,,<11,0,226,4004,<11
 ,09/11/21,0,0,,Marin County Jail,,Marin,21,,0,0,,0,0,102,4005,0
 ,09/18/21,0,0,,Marin County Jail,,Marin,32,,0,0,,0,0,98,4006,0
-,01/30/21,,,0,,,Marin,,0,,,<11,,,,4061,
+,01/23/21,,,0,,,Marin,,0,,,<11,,,,4060,
 ,09/25/21,0,0,,Marin County Jail,,Marin,58,,0,0,,0,0,121,4007,0
 ,10/02/21,0,0,,Marin County Jail,,Marin,42,,0,0,,0,0,215,4008,0
 ,10/16/21,0,0,,Marin County Jail,,Marin,26,,0,0,,0,0,222,4009,0
@@ -4060,6 +4059,7 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,01/02/21,,,,,,Marin,,,,,No Data Reported,,,,4057,
 ,01/09/21,,,0,,,Marin,,0,,,<11,,,,4058,
 ,01/16/21,,,0,,,Marin,,0,,,<11,,,,4059,
+,01/30/21,,,0,,,Marin,,0,,,<11,,,,4061,
 ,02/06/21,,,<11,,,Marin,,<11,,,<11,,,,4062,
 ,02/13/21,,,0,,,Marin,,0,,,<11,,,,4063,
 ,02/20/21,,,0,,,Marin,,0,,,<11,,,,4064,
@@ -4116,6 +4116,7 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,08/08/20,0,0,,Mariposa County Adult Detention Facility,,Mariposa,<11,,0,0,,0,0,25,4115,0
 ,08/15/20,0,0,,Mariposa County Adult Detention Facility,,Mariposa,<11,,0,0,,0,0,25,4116,0
 ,08/22/20,0,0,,Mariposa County Adult Detention Facility,,Mariposa,<11,,0,0,,0,0,28,4117,0
+,05/08/21,,,0,,,Mariposa,,0,,,0,,,,4233,
 ,08/29/20,0,0,,Mariposa County Adult Detention Facility,,Mariposa,<11,,0,0,,0,0,30,4118,0
 ,09/05/20,0,0,,Mariposa County Adult Detention Facility,,Mariposa,<11,,0,0,,0,0,32,4119,0
 ,09/12/20,0,0,,Mariposa County Adult Detention Facility,,Mariposa,<11,,0,0,,0,0,34,4120,0
@@ -4231,7 +4232,6 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,04/17/21,,,0,,,Mariposa,,0,,,<11,,,,4230,
 ,04/24/21,,,,,,Mariposa,,,,,No Data Reported,,,,4231,
 ,05/01/21,,,0,,,Mariposa,,0,,,0,,,,4232,
-,05/08/21,,,0,,,Mariposa,,0,,,0,,,,4233,
 ,05/15/21,,,<11,,,Mariposa,,<11,,,<11,,,,4234,
 ,05/22/21,,,<11,,,Mariposa,,0,,,<11,,,,4235,
 ,05/29/21,,,0,,,Mariposa,,0,,,<11,,,,4236,
@@ -4283,7 +4283,6 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,10/10/20,0,0,,Mendocino Adult Detention Facility,,Mendocino,<11,,0,0,,0,0,282,4282,0
 ,10/17/20,0,0,,Mendocino Adult Detention Facility,,Mendocino,<11,,0,0,,0,0,282,4283,0
 ,10/24/20,0,0,,Mendocino Adult Detention Facility,,Mendocino,<11,,0,0,,0,0,294,4284,0
-,12/25/21,,,,No Data Reported,,Mendocino,,,,,,,,,4349,
 ,10/31/20,0,0,,Mendocino Adult Detention Facility,,Mendocino,39,,0,0,,0,0,294,4285,0
 ,11/07/20,0,0,,Mendocino Adult Detention Facility,,Mendocino,<11,,0,0,,0,0,264,4286,0
 ,11/14/20,0,0,,Mendocino Adult Detention Facility,,Mendocino,<11,,0,0,,0,0,265,4287,0
@@ -4349,6 +4348,7 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,10/09/21,,,,No Data Reported,,Mendocino,,,,,,,,,4346,
 ,11/06/21,,,,No Data Reported,,Mendocino,,,,,,,,,4347,
 ,11/20/21,,,,No Data Reported,,Mendocino,,,,,,,,,4348,
+,12/25/21,,,,No Data Reported,,Mendocino,,,,,,,,,4349,
 ,07/25/20,,,0,,,Mendocino,,0,,,0,,,,4350,
 ,08/01/20,,,0,,,Mendocino,,0,,,0,,,,4351,
 ,08/08/20,,,0,,,Mendocino,,0,,,0,,,,4352,
@@ -4409,7 +4409,6 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,09/04/21,,,<11,,,Mendocino,,0,,,60,,,,4408,
 ,09/11/21,,,<11,,,Mendocino,,0,,,60,,,,4409,
 ,09/18/21,,,0,,,Mendocino,,0,,,60,,,,4410,
-,02/20/21,,,0,,,Modoc,,0,,,0,,,,4727,
 ,09/25/21,,,,,,Mendocino,,,,,No Data Reported,,,,4411,
 ,10/02/21,,,,,,Mendocino,,,,,No Data Reported,,,,4412,
 ,10/09/21,,,,,,Mendocino,,,,,No Data Reported,,,,4413,
@@ -4449,6 +4448,7 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,01/23/21,,,,John Latorraca Correctional Center - No Data Reported,,Merced,,,,,,,,,4447,
 ,01/30/21,,,,John Latorraca Correctional Center - No Data Reported,,Merced,,,,,,,,,4448,
 ,02/06/21,,,,John Latorraca Correctional Center - No Data Reported,,Merced,,,,,,,,,4449,
+,01/01/22,,,,No Data Reported,,Merced,,,,,,,,,4535,
 ,02/13/21,,,,John Latorraca Correctional Center - No Data Reported,,Merced,,,,,,,,,4450,
 ,02/20/21,,,,John Latorraca Correctional Center - No Data Reported,,Merced,,,,,,,,,4451,
 ,02/27/21,,,,John Latorraca Correctional Center - No Data Reported,,Merced,,,,,,,,,4452,
@@ -4485,6 +4485,7 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,02/13/21,0,0,,Merced County Jail,,Merced,86,,0,<11,,,,493,4483,<11
 ,02/20/21,0,0,,Merced County Jail,,Merced,92,,0,<11,,,,502,4484,<11
 ,02/27/21,0,0,,Merced County Jail,,Merced,116,,0,0,,,,522,4485,0
+,01/08/22,,,,No Data Reported,,Merced,,,,,,,,,4536,
 ,03/06/21,0,0,,Merced County Jail,,Merced,104,,0,0,,,,526,4486,0
 ,03/13/21,0,0,,Merced County Jail,,Merced,81,,0,<11,,,,532,4487,<11
 ,03/20/21,0,0,,Merced County Jail,,Merced,91,,0,<11,,,,530,4488,<11
@@ -4534,8 +4535,7 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,12/11/21,,,,No Data Reported,,Merced,,,,,,,,,4532,
 ,12/18/21,,,,No Data Reported,,Merced,,,,,,,,,4533,
 ,12/25/21,,,,No Data Reported,,Merced,,,,,,,,,4534,
-,01/01/22,,,,No Data Reported,,Merced,,,,,,,,,4535,
-,01/08/22,,,,No Data Reported,,Merced,,,,,,,,,4536,
+,02/06/21,,,0,,,Modoc,,0,,,0,,,,4725,
 ,01/15/22,,,,No Data Reported,,Merced,,,,,,,,,4537,
 ,01/22/22,,,,No Data Reported,,Merced,,,,,,,,,4538,
 ,08/01/20,,,0,,,Merced,,0,,,0,,,,4539,
@@ -4642,6 +4642,7 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,01/02/21,0,0,,Modoc County Jail,,Modoc,0,,0,0,,0,0,32,4640,0
 ,01/09/21,0,0,,Modoc County Jail,0,Modoc,0,,0,0,,0,0,30,4641,0
 ,01/16/21,0,0,,Modoc County Jail,,Modoc,0,,0,0,,0,0,28,4642,0
+,02/13/21,,,0,,,Modoc,,0,,,0,,,,4726,
 ,01/23/21,0,0,,Modoc County Jail,,Modoc,0,,0,0,,0,0,33,4643,0
 ,01/30/21,0,0,,Modoc County Jail,,Modoc,0,,0,0,,0,0,32,4644,0
 ,02/06/21,0,0,,Modoc County Jail,"<11 tested for rehab, waiting on results",Modoc,<11,,0,0,,0,0,31,4645,0
@@ -4679,8 +4680,8 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 ,09/18/21,0,0,,Modoc County Jail,,Modoc,<11,,0,0,,0,0,31,4677,0
 ,09/25/21,0,0,,Modoc County Jail,,Modoc,<11,,0,0,,0,0,32,4678,0
 ,10/02/21,0,0,,Modoc County Jail,,Modoc,<11,,0,0,,0,0,29,4679,0
+,02/20/21,,,0,,,Modoc,,0,,,0,,,,4727,
 ,10/09/21,0,0,,Modoc County Jail,,Modoc,0,,0,0,,0,0,34,4680,0
-,02/27/21,,,0,,,Modoc,,0,,,0,,,,4728,
 ,10/16/21,0,0,,Modoc County Jail,,Modoc,32,,0,0,,<11,<11,32,4681,<11
 ,10/23/21,0,0,,Modoc County Jail,,Modoc,33,,<11,0,,<11,<11,33,4682,<11
 ,10/30/21,0,0,,Modoc County Jail,,Modoc,21,,<11,0,,<11,0,30,4683,<11
@@ -4725,8 +4726,7 @@ Higher than normal staff testing we believe related to the holiday.,01/23/21,,,<
 <11 on quarantine due to exposure,01/16/21,,,0,,,Modoc,,0,,,0,,,,4722,
 Staff was on Quarantine due to exposure to positive individuals,01/23/21,,,0,,,Modoc,,<11,,,<11,,,,4723,
 <11 positive staff member(s) have recovered and are back to work,01/30/21,,,<11,,,Modoc,,0,,,0,,,,4724,
-,02/06/21,,,0,,,Modoc,,0,,,0,,,,4725,
-,02/13/21,,,0,,,Modoc,,0,,,0,,,,4726,
+,02/27/21,,,0,,,Modoc,,0,,,0,,,,4728,
 ,03/06/21,,,0,,,Modoc,,<11,,,<11,,,,4729,
 ,03/13/21,,,<11,,,Modoc,,0,,,0,,,,4730,
 ,03/20/21,,,0,,,Modoc,,0,,,0,,,,4731,
@@ -4782,7 +4782,6 @@ all staff members have recovered.,11/06/21,,,<11,,,Modoc,,0,,,<11,,,,4764,
 ,08/29/20,0,0,,Mono County Jail,,Mono,<11,,0,0,,0,0,21,4781,0
 ,09/05/20,0,0,,Mono County Jail,,Mono,<11,,0,0,,0,0,21,4782,0
 ,09/12/20,0,0,,Mono County Jail,,Mono,<11,,0,0,,0,0,23,4783,0
-,12/12/20,,,0,,,Mono,,0,,,0,,,,4875,
 ,09/19/20,0,0,,Mono County Jail,,Mono,<11,,0,0,,0,0,24,4784,0
 ,09/26/20,0,0,,Mono County Jail,,Mono,<11,,0,0,,0,0,24,4785,0
 ,10/03/20,0,0,,Mono County Jail,,Mono,<11,,0,0,,0,0,24,4786,0
@@ -4874,6 +4873,7 @@ all staff members have recovered.,11/06/21,,,<11,,,Modoc,,0,,,<11,,,,4764,
 ,11/21/20,,,0,,,Mono,,0,,,<11,,,,4872,
 ,11/28/20,,,<11,,,Mono,,<11,,,<11,,,,4873,
 "We had <11 staff test positive, quarantined and resolved with no hospitalizations.",12/05/20,,,<11,,,Mono,,<11,,,<11,,,,4874,
+,12/12/20,,,0,,,Mono,,0,,,0,,,,4875,
 ,12/19/20,,,<11,,,Mono,,<11,,,<11,,,,4876,
 ,12/26/20,,,<11,,,Mono,,0,,,<11,,,,4877,
 ,01/02/21,,,0,,,Mono,,0,,,<11,,,,4878,
@@ -4939,6 +4939,7 @@ all staff members have recovered.,11/06/21,,,<11,,,Modoc,,0,,,<11,,,,4764,
 ,08/22/20,0,0,,Monterey County Jail,,Monterey,131,,64,,,,,733,4938,<11
 ,08/29/20,0,0,,Monterey County Jail,,Monterey,111,,0,,,,,744,4939,<11
 ,09/05/20,0,0,,Monterey County Jail,,Monterey,153,,<11,,,,,768,4940,<11
+,09/19/20,,,0,,,Monterey,,0,,,78,,,,5021,
 ,09/12/20,0,0,,Monterey County Jail,,Monterey,119,,0,,,,,729,4941,<11
 ,09/19/20,0,0,,Monterey County Jail,,Monterey,120,,<11,,,,,728,4942,<11
 ,09/26/20,0,0,,Monterey County Jail,,Monterey,115,,<11,,,,,856,4943,<11
@@ -5020,7 +5021,6 @@ all staff members have recovered.,11/06/21,,,<11,,,Modoc,,0,,,<11,,,,4764,
 ,08/29/20,,,0,,,Monterey,,0,,,<11,,,,5018,
 ,09/05/20,,,0,,,Monterey,,0,,,<11,,,,5019,
 ,09/12/20,,,0,,,Monterey,,0,,,16,,,,5020,
-,09/19/20,,,0,,,Monterey,,0,,,78,,,,5021,
 ,09/26/20,,,0,,,Monterey,,<11,,,<11,,,,5022,
 ,10/03/20,,,0,,,Monterey,,0,,,<11,,,,5023,
 ,10/10/20,,,0,,,Monterey,,0,,,<11,,,,5024,
@@ -6357,7 +6357,7 @@ Mandatory testing of all unvaccinated staff,01/22/22,,,<11,,,Nevada,,<11,,,41,,,
 ,01/01/22,0,0,,Indio Jail,,Riverside,67,,0,,,,,419,6355,<11
 ,01/08/22,0,0,,Indio Jail,,Riverside,81,,<11,,,,,420,6356,26
 ,01/15/22,0,0,,Indio Jail,,Riverside,84,,<11,,,,,390,6357,21
-,01/22/22,0,U,,Indio Jail,,Riverside,77,,35,,,,,375,6358,<11
+,01/22/22,0,<11,,Indio Jail,,Riverside,77,,35,,,,,375,6358,<11
 ,07/25/20,0,0,,Larry D. Smith Correctional Facility,,Riverside,28,,<11,,,,,"1,187",6359,<11
 ,08/01/20,0,0,,Larry D. Smith Correctional Facility,,Riverside,12,,<11,,,,,"1,187",6360,12
 ,08/08/20,0,0,,Larry D. Smith Correctional Facility,,Riverside,20,,11,,,,,"1,240",6361,38
@@ -6438,7 +6438,7 @@ Mandatory testing of all unvaccinated staff,01/22/22,,,<11,,,Nevada,,<11,,,41,,,
 ,01/01/22,0,0,,Larry D. Smith Correctional Facility,,Riverside,157,,<11,,,,,"1,241",6434,<11
 ,01/08/22,0,0,,Larry D. Smith Correctional Facility,,Riverside,152,,<11,,,,,"1,250",6435,27
 ,01/15/22,0,<11,,Larry D. Smith Correctional Facility,,Riverside,133,,0,,,,,"1,190",6436,63
-,01/22/22,0,U,,Larry D. Smith Correctional Facility,,Riverside,172,,58,,,,,"1,250",6437,42
+,01/22/22,0,<11,,Larry D. Smith Correctional Facility,,Riverside,172,,58,,,,,"1,250",6437,42
 ,07/25/20,0,0,,Robert Presley Detention Ctr.,,Riverside,0,,<11,,,,,677,6438,<11
 ,08/01/20,0,0,,Robert Presley Detention Ctr.,,Riverside,30,,0,,,,,677,6439,<11
 ,08/08/20,0,0,,Robert Presley Detention Ctr.,,Riverside,93,,0,,,,,740,6440,<11
@@ -6512,7 +6512,6 @@ Mandatory testing of all unvaccinated staff,01/22/22,,,<11,,,Nevada,,<11,,,41,,,
 ,11/27/21,0,0,,Robert Presley Detention Ctr.,,Riverside,234,,0,,,,,800,6507,<11
 ,12/04/21,0,0,,Robert Presley Detention Ctr.,,Riverside,248,,0,,,,,813,6508,<11
 ,12/11/21,0,0,,Robert Presley Detention Ctr.,,Riverside,243,,<11,,,,,813,6509,<11
-,12/19/20,,,0,,,Shasta,,0,,,<11,,,,9775,
 ,12/18/21,0,0,,Robert Presley Detention Ctr.,,Riverside,234,,<11,,,,,780,6510,<11
 ,12/25/21,0,0,,Robert Presley Detention Ctr.,,Riverside,192,,<11,,,,,730,6511,<11
 ,01/01/22,0,0,,Robert Presley Detention Ctr.,,Riverside,226,,<11,,,,,813,6512,<11
@@ -6528,6 +6527,7 @@ Mandatory testing of all unvaccinated staff,01/22/22,,,<11,,,Nevada,,<11,,,41,,,
 ,08/29/20,0,0,,Southwest Detention Center,,Riverside,34,,0,,,,,"1,101",6522,0
 ,09/05/20,0,0,,Southwest Detention Center,,Riverside,77,,0,,,,,"1,103",6523,0
 ,09/12/20,0,0,,Southwest Detention Center,,Riverside,68,,0,,,,,"1,103",6524,0
+,05/29/21,,,,,,Riverside,,,,,No Data Reported,,,,6640,
 ,09/19/20,0,0,,Southwest Detention Center,,Riverside,187,,0,,,,,"1,103",6525,0
 ,09/26/20,0,0,,Southwest Detention Center,,Riverside,189,,0,,,,,"1,103",6526,0
 ,10/03/20,0,0,,Southwest Detention Center,,Riverside,204,,0,,,,,"1,103",6527,0
@@ -6639,7 +6639,6 @@ Mandatory testing of all unvaccinated staff,01/22/22,,,<11,,,Nevada,,<11,,,41,,,
 ,04/10/21,,,,,,Riverside,,,,,No Data Reported,,,,6633,
 ,04/17/21,,,,,,Riverside,,,,,No Data Reported,,,,6634,
 ,04/24/21,,,,,,Riverside,,,,,No Data Reported,,,,6635,
-,05/29/21,,,,,,Riverside,,,,,No Data Reported,,,,6640,
 ,06/05/21,,,,,,Riverside,,,,,No Data Reported,,,,6641,
 ,06/12/21,,,,,,Riverside,,,,,No Data Reported,,,,6642,
 ,06/19/21,,,,,,Riverside,,,,,No Data Reported,,,,6643,
@@ -6679,8 +6678,9 @@ Mandatory testing of all unvaccinated staff,01/22/22,,,<11,,,Nevada,,<11,,,41,,,
 ,08/08/20,,,,No Data Reported to BSCC. County provides COVID-19 data on local website. Please see additional information,https://www.sacsheriff.com/pages/covid19.php,Sacramento,,,,,,,,,6677,
 ,08/15/20,,,,No Data Reported to BSCC. County provides COVID-19 data on local website. Please see additional information,https://www.sacsheriff.com/pages/covid19.php,Sacramento,,,,,,,,,6678,
 ,11/27/21,0,0,,San Benito Adult Detention,,San Benito,<11,,0,0,,0,0,80,6900,0
-,12/26/20,,,<11,,,Shasta,,0,,,<11,,,,9776,
+,12/19/20,,,0,,,Shasta,,0,,,<11,,,,9775,
 ,09/19/20,0,0,,San Benito Adult Detention,,San Benito,0,,U,0,,0,0,78,6839,0
+,09/26/20,0,0,,San Benito Adult Detention,,San Benito,0,,U,0,,0,0,79,6840,0
 ,08/29/20,,,,No Data Reported to BSCC. County provides COVID-19 data on local website. Please see additional information,https://www.sacsheriff.com/pages/covid19.php,Sacramento,,,,,,,,,6679,
 ,09/05/20,,,,No Data Reported to BSCC. County provides COVID-19 data on local website. Please see additional information,https://www.sacsheriff.com/pages/covid19.php,Sacramento,,,,,,,,,6680,
 ,09/12/20,,,,No Data Reported to BSCC. County provides COVID-19 data on local website. Please see additional information,https://www.sacsheriff.com/pages/covid19.php,Sacramento,,,,,,,,,6681,
@@ -6841,7 +6841,6 @@ https://www.sacsheriff.com/pages/covid19.php,01/22/22,,,,,,Sacramento,,,,,No Dat
 ,08/29/20,0,0,,San Benito Adult Detention,,San Benito,0,,U,0,,0,0,70,6836,0
 ,09/05/20,0,0,,San Benito Adult Detention,,San Benito,0,,U,0,,0,0,70,6837,0
 ,09/12/20,0,0,,San Benito Adult Detention,,San Benito,0,,U,0,,0,0,80,6838,0
-,09/26/20,0,0,,San Benito Adult Detention,,San Benito,0,,U,0,,0,0,79,6840,0
 ,09/26/20,0,0,,San Benito Adult Detention,,San Benito,0,,U,0,,0,0,80,6841,0
 ,10/03/20,0,0,,San Benito Adult Detention,,San Benito,0,,U,0,,0,0,94,6842,0
 ,10/10/20,0,0,,San Benito Adult Detention,,San Benito,0,,U,0,,0,0,87,6843,0
@@ -6875,8 +6874,8 @@ https://www.sacsheriff.com/pages/covid19.php,01/22/22,,,,,,Sacramento,,,,,No Dat
 ,05/01/21,0,0,,San Benito Adult Detention,,San Benito,0,,U,0,,0,0,78,6871,0
 ,05/08/21,0,0,,San Benito Adult Detention,,San Benito,0,,U,0,,0,0,80,6872,0
 ,05/15/21,0,0,,San Benito Adult Detention,,San Benito,<11,,<11,<11,,0,0,78,6873,<11
-,02/27/21,,,0,,,Shasta,,0,,,0,,,,9785,
 ,05/22/21,0,0,,San Benito Adult Detention,,San Benito,0,,U,0,,0,0,80,6874,0
+,09/18/21,,,0,,,San Benito,,0,,,0,,,,6970,
 ,05/29/21,0,0,,San Benito Adult Detention,,San Benito,0,,U,0,,0,0,77,6875,0
 ,06/05/21,0,0,,San Benito Adult Detention,,San Benito,0,,U,0,,0,0,80,6876,0
 ,06/12/21,0,0,,San Benito Adult Detention,,San Benito,0,,U,0,,0,0,73,6877,0
@@ -6902,7 +6901,7 @@ https://www.sacsheriff.com/pages/covid19.php,01/22/22,,,,,,Sacramento,,,,,No Dat
 ,11/06/21,0,0,,San Benito Adult Detention,,San Benito,<11,,0,0,,0,0,83,6897,0
 ,11/13/21,0,0,,San Benito Adult Detention,,San Benito,0,,0,0,,0,0,83,6898,0
 ,11/20/21,0,0,,San Benito Adult Detention,,San Benito,0,,0,0,,0,0,81,6899,0
-,01/02/21,,,0,,,Shasta,,<11,,,11,,,,9777,
+,12/26/20,,,<11,,,Shasta,,0,,,<11,,,,9776,
 ,12/04/21,0,0,,San Benito Adult Detention,,San Benito,<11,,0,0,,0,0,83,6901,0
 ,12/11/21,0,0,,San Benito Adult Detention,,San Benito,0,,0,0,,0,0,82,6902,0
 ,12/18/21,0,0,,San Benito Adult Detention,,San Benito,<11,,0,0,,0,0,75,6903,0
@@ -6911,7 +6910,8 @@ https://www.sacsheriff.com/pages/covid19.php,01/22/22,,,,,,Sacramento,,,,,No Dat
 ,01/08/22,0,0,,San Benito Adult Detention,,San Benito,<11,,0,0,,0,0,67,6906,<11
 ,01/15/22,0,0,,San Benito Adult Detention,,San Benito,0,,0,0,,0,0,68,6907,0
 ,01/22/22,0,0,,San Benito Adult Detention,,San Benito,<11,,<11,0,,<11,0,65,6908,0
-,03/06/21,,,0,,,Shasta,,0,,,0,,,,9786,
+,09/04/21,,,,,,San Benito,,,,,No Data Reported,,,,6968,
+,09/11/21,,,0,,,San Benito,,0,,,0,,,,6969,
 The <11 staff members that tested positive for COVID-19 are Asymptomatic and on home quarantine,07/25/20,,,<11,,,San Benito,,<11,,,<11,,,,6909,
 ,08/01/20,,,0,,,San Benito,,0,,,0,,,,6910,
 ,08/08/20,,,0,,,San Benito,,0,,,0,,,,6911,
@@ -6971,9 +6971,6 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,08/14/21,,,0,,,San Benito,,0,,,0,,,,6965,
 ,08/21/21,,,0,,,San Benito,,0,,,0,,,,6966,
 ,08/28/21,,,0,,,San Benito,,0,,,0,,,,6967,
-,09/04/21,,,,,,San Benito,,,,,No Data Reported,,,,6968,
-,09/11/21,,,0,,,San Benito,,0,,,0,,,,6969,
-,09/18/21,,,0,,,San Benito,,0,,,0,,,,6970,
 ,09/25/21,,,0,,,San Benito,,0,,,0,,,,6971,
 ,10/02/21,,,0,,,San Benito,,0,,,<11,,,,6972,
 ,10/09/21,,,0,,,San Benito,,0,,,0,,,,6973,
@@ -7004,13 +7001,12 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,09/26/20,0,0,,San Bernardino Central Detention Center,,San Bernardino,146,,0,U,,U,U,712,6998,0
 ,10/03/20,0,0,,San Bernardino Central Detention Center,,San Bernardino,168,,0,U,,U,U,724,6999,0
 ,10/10/20,0,0,,San Bernardino Central Detention Center,,San Bernardino,143,,0,U,,U,U,758,7000,0
-,01/09/21,,,<11,,,Shasta,,<11,,,55,,,,9778,
+,01/02/21,,,0,,,Shasta,,<11,,,11,,,,9777,
 ,10/17/20,0,0,,San Bernardino Central Detention Center,,San Bernardino,142,,0,U,,U,U,778,7001,0
 ,10/24/20,0,0,,San Bernardino Central Detention Center,,San Bernardino,165,,0,U,,U,U,763,7002,0
 ,10/31/20,0,0,,San Bernardino Central Detention Center,,San Bernardino,152,,0,U,,U,U,788,7003,0
 ,11/07/20,0,0,,San Bernardino Central Detention Center,,San Bernardino,183,,0,U,,U,U,794,7004,0
 ,11/14/20,0,0,,San Bernardino Central Detention Center,,San Bernardino,181,,0,U,,U,U,810,7005,0
-,03/13/21,,,0,,,Shasta,,0,,,0,,,,9787,
 ,11/21/20,0,0,,San Bernardino Central Detention Center,,San Bernardino,152,,0,U,,U,U,816,7006,0
 ,11/28/20,0,0,,San Bernardino Central Detention Center,,San Bernardino,149,,0,U,,U,U,807,7007,0
 ,12/05/20,0,0,,San Bernardino Central Detention Center,,San Bernardino,136,,0,U,,U,U,795,7008,<11
@@ -7038,9 +7034,9 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,05/08/21,0,0,,San Bernardino Central Detention Center,,San Bernardino,205,,0,U,,U,U,842,7030,0
 ,05/15/21,0,0,,San Bernardino Central Detention Center,,San Bernardino,260,,0,U,,U,U,796,7031,0
 ,05/22/21,0,0,,San Bernardino Central Detention Center,,San Bernardino,168,,0,U,,U,U,780,7032,0
-,05/15/21,,,0,,,San Bernardino,,0,,,<11,,,,7347,
 ,05/29/21,0,0,,San Bernardino Central Detention Center,,San Bernardino,182,,0,U,,U,U,810,7033,0
 ,06/05/21,0,0,,San Bernardino Central Detention Center,,San Bernardino,246,,0,U,,U,U,844,7034,0
+,06/26/21,,,<11,,,San Bernardino,,<11,,,27,,,,7353,
 ,06/12/21,0,0,,San Bernardino Central Detention Center,,San Bernardino,140,,0,U,,U,U,798,7035,0
 ,06/19/21,0,0,,San Bernardino Central Detention Center,,San Bernardino,179,,0,U,,U,U,825,7036,0
 ,06/26/21,0,0,,San Bernardino Central Detention Center,,San Bernardino,131,,0,U,,U,U,828,7037,0
@@ -7066,7 +7062,6 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,11/13/21,0,0,,San Bernardino Central Detention Center,,San Bernardino,136,,<11,U,,U,U,797,7057,0
 ,11/20/21,0,0,,San Bernardino Central Detention Center,,San Bernardino,148,,0,U,,U,U,781,7058,0
 ,11/27/21,0,0,,San Bernardino Central Detention Center,,San Bernardino,144,,0,U,,U,U,768,7059,<11
-,05/22/21,,,<11,,,San Bernardino,,<11,,,<11,,,,7348,
 ,12/04/21,0,0,,San Bernardino Central Detention Center,,San Bernardino,159,,<11,U,,U,U,750,7060,<11
 ,12/11/21,0,<11,,San Bernardino Central Detention Center,,San Bernardino,121,,<11,U,,U,U,747,7061,<11
 ,11/14/20,,,<11,,,San Bernardino,,<11,,,39,,,,7321,
@@ -7125,10 +7120,10 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,06/12/21,0,0,,San Bernardino County Glen Helen,,San Bernardino,38,,0,U,,U,U,871,7114,0
 ,06/19/21,0,0,,San Bernardino County Glen Helen,,San Bernardino,<11,,0,U,,U,U,893,7115,0
 ,06/26/21,0,0,,San Bernardino County Glen Helen,,San Bernardino,360,,16,U,,U,U,808,7116,16
-,05/29/21,,,0,,,San Bernardino,,0,,,<11,,,,7349,
 ,07/03/21,0,0,,San Bernardino County Glen Helen,,San Bernardino,112,,20,U,,0,U,771,7117,0
 ,07/10/21,0,0,,San Bernardino County Glen Helen,,San Bernardino,21,,20,U,,U,U,724,7118,0
 ,07/17/21,0,0,,San Bernardino County Glen Helen,,San Bernardino,57,,32,U,,U,U,722,7119,0
+,07/03/21,,,0,,,San Bernardino,,0,,,20,,,,7354,
 ,07/24/21,0,0,,San Bernardino County Glen Helen,,San Bernardino,37,,<11,U,,U,U,684,7120,0
 ,07/31/21,0,0,,San Bernardino County Glen Helen,,San Bernardino,<11,,<11,U,,U,U,718,7121,0
 ,08/07/21,0,0,,San Bernardino County Glen Helen,,San Bernardino,64,,<11,U,,U,U,714,7122,0
@@ -7155,7 +7150,6 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,01/08/22,0,0,,San Bernardino County Glen Helen,,San Bernardino,32,,<11,U,,U,U,650,7143,0
 ,01/15/22,0,0,,San Bernardino County Glen Helen,,San Bernardino,117,,<11,U,,U,U,640,7144,0
 ,01/22/22,0,0,,San Bernardino County Glen Helen,,San Bernardino,11,,92,U,,U,U,636,7145,<11
-,03/20/21,,,0,,,Shasta,,0,,,0,,,,9788,
 ,09/18/21,,,,San Bernardino County Glen Helen-No Data Reported,,San Bernardino,,,,,,,,,7146,
 ,07/25/20,0,0,,San Bernardino High Desert Detention Center,,San Bernardino,139,,<11,U,,U,U,991,7147,<11
 ,08/01/20,0,0,,San Bernardino High Desert Detention Center,,San Bernardino,151,,<11,U,,U,U,"1,006",7148,<11
@@ -7206,10 +7200,10 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,06/12/21,0,0,,San Bernardino High Desert Detention Center,,San Bernardino,144,,0,U,,U,U,"1,223",7193,0
 ,06/19/21,0,0,,San Bernardino High Desert Detention Center,,San Bernardino,133,,0,U,,U,U,"1,225",7194,0
 ,06/26/21,0,0,,San Bernardino High Desert Detention Center,,San Bernardino,196,,0,U,,U,U,"1,276",7195,0
-,03/27/21,,,0,,,Shasta,,0,,,0,,,,9789,
 ,07/03/21,0,0,,San Bernardino High Desert Detention Center,,San Bernardino,224,,0,U,,0,U,"1,240",7196,<11
 ,07/10/21,0,0,,San Bernardino High Desert Detention Center,,San Bernardino,216,,<11,U,,U,U,"1,265",7197,0
 ,07/17/21,0,0,,San Bernardino High Desert Detention Center,,San Bernardino,226,,<11,U,,U,U,"1,205",7198,<11
+,03/20/21,,,0,,,Shasta,,0,,,0,,,,9788,
 ,07/24/21,0,0,,San Bernardino High Desert Detention Center,,San Bernardino,187,,<11,U,,U,U,"1,261",7199,<11
 ,07/31/21,0,0,,San Bernardino High Desert Detention Center,,San Bernardino,188,,16,U,,U,U,"1,222",7200,<11
 ,08/07/21,0,0,,San Bernardino High Desert Detention Center,,San Bernardino,170,,11,U,,U,U,"1,225",7201,27
@@ -7287,6 +7281,7 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,06/19/21,0,0,,West Valley Detention Center,,San Bernardino,339,,<11,U,,U,U,"2,635",7273,<11
 ,06/26/21,0,0,,West Valley Detention Center,,San Bernardino,317,,<11,U,,U,U,"2,663",7274,<11
 ,07/03/21,0,0,,West Valley Detention Center,,San Bernardino,298,,13,U,,0,U,"2,707",7275,13
+,03/27/21,,,0,,,Shasta,,0,,,0,,,,9789,
 ,07/10/21,0,0,,West Valley Detention Center,,San Bernardino,344,,<11,<11,,U,U,"2,788",7276,0
 ,07/17/21,0,0,,West Valley Detention Center,,San Bernardino,356,,<11,U,,U,U,"2,814",7277,<11
 ,07/24/21,0,0,,West Valley Detention Center,,San Bernardino,322,,12,U,,U,U,"2,879",7278,12
@@ -7357,11 +7352,12 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,04/24/21,,,0,,,San Bernardino,,0,,,<11,,,,7344,
 ,05/01/21,,,0,,,San Bernardino,,0,,,<11,,,,7345,
 ,05/08/21,,,0,,,San Bernardino,,0,,,9,,,,7346,
+,05/15/21,,,0,,,San Bernardino,,0,,,<11,,,,7347,
+,05/22/21,,,<11,,,San Bernardino,,<11,,,<11,,,,7348,
+,05/29/21,,,0,,,San Bernardino,,0,,,<11,,,,7349,
 ,06/05/21,,,0,,,San Bernardino,,0,,,<11,,,,7350,
 ,06/12/21,,,0,,,San Bernardino,,<11,,,<11,,,,7351,
 ,06/19/21,,,0,,,San Bernardino,,0,,,0,,,,7352,
-,06/26/21,,,<11,,,San Bernardino,,<11,,,27,,,,7353,
-,07/03/21,,,0,,,San Bernardino,,0,,,20,,,,7354,
 ,07/10/21,,,<11,,,San Bernardino,,<11,,,18,,,,7355,
 ,07/17/21,,,<11,,,San Bernardino,,<11,,,15,,,,7356,
 ,07/24/21,,,<11,,,San Bernardino,,<11,,,24,,,,7357,
@@ -7435,10 +7431,10 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,05/08/21,0,0,,East Mesa Reentry Facility,,San Diego,0,,0,,,,,284,7425,0
 ,05/15/21,0,0,,East Mesa Reentry Facility,,San Diego,<11,,0,,,,,269,7426,<11
 ,05/22/21,0,0,,East Mesa Reentry Facility,,San Diego,23,,0,,,,,260,7427,<11
-,11/28/20,,,U,,,San Francisco,,U,,,U,,,,8193,
 ,05/29/21,0,0,,East Mesa Reentry Facility,,San Diego,28,,0,,,,,264,7428,0
 ,06/05/21,0,0,,East Mesa Reentry Facility,,San Diego,0,,0,,,,,249,7429,0
 ,06/12/21,0,0,,East Mesa Reentry Facility,,San Diego,<11,,0,,,,,251,7430,0
+,12/26/20,,,U,,,San Francisco,,U,,,U,,,,8197,
 ,06/19/21,0,0,,East Mesa Reentry Facility,,San Diego,<11,,0,,,,,245,7431,0
 ,06/26/21,0,0,,East Mesa Reentry Facility,,San Diego,<11,,0,,,,,246,7432,0
 ,07/03/21,0,0,,East Mesa Reentry Facility,,San Diego,0,,0,,,,,244,7433,0
@@ -7470,6 +7466,7 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,01/01/22,0,0,,East Mesa Reentry Facility,,San Diego,81,,<11,,,,,356,7459,14
 ,01/08/22,0,0,,East Mesa Reentry Facility,,San Diego,30,,<11,,,,,360,7460,11
 ,01/15/22,0,0,,East Mesa Reentry Facility,,San Diego,33,,11,,,,,399,7461,14
+,06/12/21,0,0,,San Diego Central Detention,,San Diego,107,,0,,,,,755,7668,0
 ,01/22/22,0,0,,East Mesa Reentry Facility,,San Diego,61,,14,,,,,389,7462,54
 ,07/25/20,0,0,,George Bailey Detention Facility,,San Diego,<11,,0,,,,,"1,104",7463,0
 ,08/01/20,0,0,,George Bailey Detention Facility,,San Diego,15,,0,,,,,"1,145",7464,0
@@ -7551,9 +7548,8 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,01/15/22,0,0,,George Bailey Detention Facility,,San Diego,63,,0,,,,,"1,501",7540,16
 ,01/22/22,0,0,,George Bailey Detention Facility,,San Diego,191,,<11,,,,,"1,445",7541,63
 ,07/25/20,0,0,,Las Colinas Women's Detention,"The San Diego Central Jail (SDCJ), Las Colinas Detention and Reentry Facility (LCDRF), and the Vista Detention Facility (VDF) serve as the primary point of intake for male and female inmates in San Diego County. https://www.sdsheriff.net",San Diego,56,,0,,,,,467,7542,<11
-,12/26/20,0,0,,Las Colinas Women's Detention,,San Diego,73,,0,,,,,449,7565,<11
-,04/03/21,,,0,,,Shasta,,0,,,0,,,,9790,
 ,08/01/20,0,0,,Las Colinas Women's Detention,"The San Diego Central Jail (SDCJ), Las Colinas Detention and Reentry Facility (LCDRF), and the Vista Detention Facility (VDF) serve as the primary point of intake for male and female inmates in San Diego County. https://www.sdsheriff.net",San Diego,58,,0,,,,,462,7543,<11
+,04/03/21,,,0,,,Shasta,,0,,,0,,,,9790,
 ,08/08/20,0,0,,Las Colinas Women's Detention,"The San Diego Central Jail (SDCJ), Las Colinas Detention and Reentry Facility (LCDRF), and the Vista Detention Facility (VDF) serve as the primary point of intake for male and female inmates in San Diego County. https://www.sdsheriff.net",San Diego,80,,<11,,,,,499,7544,<11
 ,08/15/20,0,0,,Las Colinas Women's Detention,"The San Diego Central Jail, Las Colinas Detention and Reentry Facility, and the Vista Detention Facility serve as the primary point of intake for male and female inmates.",San Diego,103,,0,,,,,501,7545,<11
 ,08/22/20,0,0,,Las Colinas Women's Detention,"The San Diego Central Jail, Las Colinas Detention and Reentry Facility, and the Vista Detention Facility serve as the primary point of intake for male and female inmates in San Diego County. https://www.sdsheriff.net",San Diego,104,,<11,,,,,501,7546,0
@@ -7575,6 +7571,7 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,12/05/20,0,0,,Las Colinas Women's Detention,,San Diego,71,,0,,,,,469,7562,0
 ,12/12/20,0,0,,Las Colinas Women's Detention,,San Diego,53,,<11,,,,,460,7563,<11
 ,12/19/20,0,0,,Las Colinas Women's Detention,,San Diego,54,,0,,,,,457,7564,<11
+,12/26/20,0,0,,Las Colinas Women's Detention,,San Diego,73,,0,,,,,449,7565,<11
 ,01/02/21,0,0,,Las Colinas Women's Detention,,San Diego,58,,0,,,,,428,7566,<11
 ,01/09/21,0,<11,,Las Colinas Women's Detention,,San Diego,38,,<11,,,,,412,7567,<11
 ,01/16/21,0,0,,Las Colinas Women's Detention,,San Diego,73,,<11,,,,,416,7568,<11
@@ -7632,8 +7629,9 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,01/15/22,0,0,,Las Colinas Women's Detention,,San Diego,133,,<11,,,,,463,7620,<11
 ,01/22/22,0,0,,Las Colinas Women's Detention,,San Diego,135,,<11,,,,,453,7621,13
 ,07/25/20,0,0,,San Diego Central Detention,"The San Diego Central Jail (SDCJ), Las Colinas Detention and Reentry Facility (LCDRF), and the Vista Detention Facility (VDF) serve as the primary point of intake for male and female inmates in San Diego County. https://www.sdsheriff.net",San Diego,225,,<11,,,,,614,7622,<11
-,12/05/20,,,U,,,San Francisco,,U,,,U,,,,8194,
 ,01/23/21,0,0,,San Diego Facility #8,,San Diego,0,,22,,,,,42,7727,0
+,06/19/21,0,0,,San Diego Central Detention,,San Diego,117,,0,,,,,721,7669,0
+,06/26/21,0,0,,San Diego Central Detention,,San Diego,110,,0,,,,,704,7670,<11
 ,08/01/20,0,0,,San Diego Central Detention,"The San Diego Central Jail (SDCJ), Las Colinas Detention and Reentry Facility (LCDRF), and the Vista Detention Facility (VDF) serve as the primary point of intake for male and female inmates in San Diego County. https://www.sdsheriff.net",San Diego,115,,<11,,,,,675,7623,0
 ,08/08/20,0,0,,San Diego Central Detention,"The San Diego Central Jail (SDCJ), Las Colinas Detention and Reentry Facility (LCDRF), and the Vista Detention Facility (VDF) serve as the primary point of intake for male and female inmates in San Diego County. https://www.sdsheriff.net",San Diego,145,,0,,,,,675,7624,<11
 ,08/15/20,0,0,,San Diego Central Detention,"The San Diego Central Jail, Las Colinas Detention and Reentry Facility, and the Vista Detention Facility serve as the primary point of intake for male and female inmates.",San Diego,211,,<11,,,,,713,7625,<11
@@ -7644,10 +7642,8 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,09/19/20,0,0,,San Diego Central Detention,"The San Diego Central Jail, Las Colinas Detention and Reentry Facility, and the Vista Detention Facility serve as the primary point of intake for male and female inmates in San Diego County. https://www.sdsheriff.net",San Diego,158,,<11,,,,,724,7630,0
 ,09/26/20,0,0,,San Diego Central Detention,"The San Diego Central Jail, Las Colinas Detention and Reentry Facility, and the Vista Detention Facility serve as the primary point of intake for male and female inmates in San Diego County. https://www.sdsheriff.net",San Diego,149,,0,,,,,703,7631,0
 ,10/03/20,0,0,,San Diego Central Detention,"The San Diego Central Jail, Las Colinas Detention and Reentry Facility, and the Vista Detention Facility serve as the primary point of intake for male and female inmates in San Diego County. https://www.sdsheriff.net",San Diego,142,,<11,,,,,712,7632,<11
-,05/22/21,0,0,,San Diego Central Detention,,San Diego,78,,0,,,,,791,7665,<11
-,05/29/21,0,0,,San Diego Central Detention,,San Diego,96,,<11,,,,,763,7666,0
-,06/19/21,0,0,,San Diego Central Detention,,San Diego,117,,0,,,,,721,7669,0
 ,10/10/20,0,0,,San Diego Central Detention,"The San Diego Central Jail, Las Colinas Detention and Reentry Facility, and the Vista Detention Facility serve as the primary point of intake for male and female inmates in San Diego County. https://www.sdsheriff.net",San Diego,151,,0,,,,,739,7633,<11
+,04/10/21,,,0,,,Shasta,,0,,,0,,,,9791,
 ,10/17/20,0,0,,San Diego Central Detention,"The San Diego Central Jail, Las Colinas Detention and Reentry Facility, and the Vista Detention Facility serve as the primary point of intake for male and female inmates in San Diego County. https://www.sdsheriff.net",San Diego,126,,0,,,,,749,7634,<11
 ,10/24/20,0,0,,San Diego Central Detention,"The San Diego Central Jail, Las Colinas Detention and Reentry Facility, and the Vista Detention Facility serve as the primary point of intake for male and female inmates.",San Diego,146,,0,,,,,714,7635,<11
 ,10/31/20,0,0,,San Diego Central Detention,"The San Diego Central Jail, Las Colinas Detention and Reentry Facility, and the Vista Detention Facility serve as the primary point of intake for male and female inmates.",San Diego,147,,0,,,,,700,7636,<11
@@ -7657,9 +7653,9 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,11/28/20,0,0,,San Diego Central Detention,"The San Diego Central Jail, Las Colinas Detention and Reentry Facility, and the Vista Detention Facility serve as the primary point of intake for male and female inmates in San Diego County. https://www.sdsheriff.net",San Diego,141,,0,,,,,790,7640,<11
 ,12/05/20,0,0,,San Diego Central Detention,"The San Diego Central Jail, Las Colinas Detention and Reentry Facility, and the Vista Detention Facility serve as the primary point of intake for male and female inmates in San Diego County. https://www.sdsheriff.net",San Diego,152,,<11,,,,,815,7641,<11
 ,12/12/20,0,<11,,San Diego Central Detention,"The San Diego Central Jail, Las Colinas Detention and Reentry Facility, and the Vista Detention Facility serve as the primary point of intake for male and female inmates in San Diego County. https://www.sdsheriff.net",San Diego,137,,<11,,,,,836,7642,<11
-,06/05/21,0,0,,San Diego Central Detention,,San Diego,55,,<11,,,,,749,7667,0
-,06/12/21,0,0,,San Diego Central Detention,,San Diego,107,,0,,,,,755,7668,0
 ,12/19/20,0,<11,,San Diego Central Detention,"The San Diego Central Jail, Las Colinas Detention and Reentry Facility, and the Vista Detention Facility serve as the primary point of intake for male and female inmates in San Diego County. https://www.sdsheriff.net",San Diego,154,,0,,,,,780,7643,41
+,07/03/21,0,0,,San Diego Central Detention,,San Diego,71,,0,,,,,694,7671,0
+,07/10/21,0,0,,San Diego Central Detention,,San Diego,43,,<11,,,,,735,7672,0
 ,12/26/20,0,<11,,San Diego Central Detention,"The San Diego Central Jail, Las Colinas Detention and Reentry Facility, and the Vista Detention Facility serve as the primary point of intake for male and female inmates in San Diego County. https://www.sdsheriff.net",San Diego,180,,<11,,,,,790,7644,83
 ,01/02/21,0,<11,,San Diego Central Detention,"The San Diego Central Jail, Las Colinas Detention and Reentry Facility, and the Vista Detention Facility serve as the primary point of intake for male and female inmates in San Diego County. https://www.sdsheriff.net",San Diego,146,,18,,,,,734,7645,40
 ,01/09/21,0,<11,,San Diego Central Detention,"The San Diego Central Jail, Las Colinas Detention and Reentry Facility, and the Vista Detention Facility serve as the primary point of intake for male and female inmates in San Diego County. https://www.sdsheriff.net",San Diego,117,,13,,,,,716,7646,11
@@ -7681,9 +7677,9 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,05/01/21,0,0,,San Diego Central Detention,,San Diego,123,,<11,,,,,743,7662,<11
 ,05/08/21,0,0,,San Diego Central Detention,,San Diego,157,,<11,,,,,759,7663,0
 ,05/15/21,0,0,,San Diego Central Detention,,San Diego,108,,<11,,,,,761,7664,0
-,06/26/21,0,0,,San Diego Central Detention,,San Diego,110,,0,,,,,704,7670,<11
-,07/03/21,0,0,,San Diego Central Detention,,San Diego,71,,0,,,,,694,7671,0
-,07/10/21,0,0,,San Diego Central Detention,,San Diego,43,,<11,,,,,735,7672,0
+,05/22/21,0,0,,San Diego Central Detention,,San Diego,78,,0,,,,,791,7665,<11
+,05/29/21,0,0,,San Diego Central Detention,,San Diego,96,,<11,,,,,763,7666,0
+,06/05/21,0,0,,San Diego Central Detention,,San Diego,55,,<11,,,,,749,7667,0
 ,07/17/21,0,0,,San Diego Central Detention,,San Diego,87,,0,,,,,751,7673,0
 ,07/24/21,0,0,,San Diego Central Detention,,San Diego,65,,0,,,,,776,7674,<11
 ,07/31/21,0,0,,San Diego Central Detention,,San Diego,101,,0,,,,,760,7675,<11
@@ -7714,7 +7710,6 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,01/22/22,0,0,,San Diego Central Detention,,San Diego,396,,24,,,,,873,7700,139
 ,07/25/20,0,0,,San Diego Facility #8,,San Diego,0,,0,,,,,97,7701,0
 ,08/01/20,0,0,,San Diego Facility #8,,San Diego,0,,0,,,,,110,7702,0
-,04/10/21,,,0,,,Shasta,,0,,,0,,,,9791,
 ,08/08/20,0,0,,San Diego Facility #8,,San Diego,<11,,0,,,,,111,7703,<11
 ,08/15/20,0,0,,San Diego Facility #8,,San Diego,<11,,0,,,,,116,7704,0
 ,08/22/20,0,0,,San Diego Facility #8,,San Diego,0,,0,,,,,129,7705,0
@@ -7815,7 +7810,6 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,12/19/20,0,0,,South Bay Regional Facility- Chula Vista,,San Diego,<11,,0,,,,,308,7801,<11
 ,12/26/20,0,0,,South Bay Regional Facility- Chula Vista,,San Diego,175,,0,,,,,235,7802,44
 ,01/02/21,0,0,,South Bay Regional Facility- Chula Vista,,San Diego,87,,0,,,,,264,7803,<11
-,01/30/21,0,0,,Vista Facility,,San Diego,26,,0,,,,,613,7886,<11
 ,01/09/21,0,0,,South Bay Regional Facility- Chula Vista,,San Diego,<11,,0,,,,,281,7804,<11
 ,01/16/21,0,0,,South Bay Regional Facility- Chula Vista,,San Diego,<11,,0,,,,,312,7805,0
 ,01/23/21,0,0,,South Bay Regional Facility- Chula Vista,,San Diego,0,,0,,,,,325,7806,0
@@ -7871,8 +7865,8 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,01/08/22,0,0,,South Bay Regional Facility- Chula Vista,,San Diego,<11,,0,,,,,341,7856,0
 ,01/15/22,0,0,,South Bay Regional Facility- Chula Vista,,San Diego,0,,0,,,,,337,7857,0
 ,01/22/22,0,0,,South Bay Regional Facility- Chula Vista,,San Diego,0,,0,,,,,334,7858,0
-,12/12/20,,,U,,,San Francisco,,U,,,U,,,,8195,
 ,07/25/20,0,0,,Vista Facility,"The San Diego Central Jail (SDCJ), Las Colinas Detention and Reentry Facility (LCDRF), and the Vista Detention Facility (VDF) serve as the primary point of intake for male and female inmates in San Diego County. https://www.sdsheriff.net",San Diego,59,,0,,,,,603,7859,<11
+,02/27/21,0,0,,Vista Facility,,San Diego,21,,0,,,,,602,7890,0
 ,08/01/20,0,0,,Vista Facility,"The San Diego Central Jail (SDCJ), Las Colinas Detention and Reentry Facility (LCDRF), and the Vista Detention Facility (VDF) serve as the primary point of intake for male and female inmates in San Diego County. https://www.sdsheriff.net",San Diego,112,,0,,,,,612,7860,<11
 ,08/08/20,0,0,,Vista Facility,"The San Diego Central Jail (SDCJ), Las Colinas Detention and Reentry Facility (LCDRF), and the Vista Detention Facility (VDF) serve as the primary point of intake for male and female inmates in San Diego County. https://www.sdsheriff.net",San Diego,89,,<11,,,,,593,7861,0
 ,08/15/20,0,0,,Vista Facility,"The San Diego Central Jail, Las Colinas Detention and Reentry Facility, and the Vista Detention Facility serve as the primary point of intake for male and female inmates.",San Diego,85,,0,,,,,596,7862,<11
@@ -7899,10 +7893,10 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,01/09/21,0,<11,,Vista Facility,,San Diego,39,,38,,,,,626,7883,<11
 ,01/16/21,0,0,,Vista Facility,,San Diego,52,,0,,,,,608,7884,<11
 ,01/23/21,0,0,,Vista Facility,,San Diego,21,,0,,,,,597,7885,<11
+,01/30/21,0,0,,Vista Facility,,San Diego,26,,0,,,,,613,7886,<11
 ,02/06/21,0,0,,Vista Facility,,San Diego,21,,0,,,,,603,7887,<11
 ,02/13/21,0,0,,Vista Facility,,San Diego,19,,0,,,,,625,7888,<11
 ,02/20/21,0,0,,Vista Facility,,San Diego,20,,0,,,,,636,7889,<11
-,02/27/21,0,0,,Vista Facility,,San Diego,21,,0,,,,,602,7890,0
 ,03/06/21,0,0,,Vista Facility,,San Diego,25,,0,,,,,637,7891,0
 ,03/13/21,0,0,,Vista Facility,,San Diego,15,,0,,,,,630,7892,0
 ,03/20/21,<11,0,,Vista Facility,,San Diego,20,,0,,,,,631,7893,0
@@ -7937,11 +7931,11 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,10/09/21,0,0,,Vista Facility,,San Diego,82,,0,,,,,688,7922,0
 ,10/16/21,0,0,,Vista Facility,,San Diego,52,,0,,,,,666,7923,<11
 ,10/23/21,0,0,,Vista Facility,,San Diego,43,,0,,,,,650,7924,0
-,04/17/21,,,0,,,Shasta,,0,,,0,,,,9792,
 ,10/30/21,0,0,,Vista Facility,,San Diego,66,,0,,,,,662,7925,0
 ,11/06/21,0,0,,Vista Facility,,San Diego,108,,0,,,,,665,7926,<11
 ,11/13/21,0,<11,,Vista Facility,,San Diego,50,,0,,,,,687,7927,<11
 ,11/20/21,0,0,,Vista Facility,,San Diego,111,,0,,,,,662,7928,<11
+,04/17/21,,,0,,,Shasta,,0,,,0,,,,9792,
 ,11/27/21,0,0,,Vista Facility,,San Diego,86,,0,,,,,679,7929,<11
 ,12/04/21,0,0,,Vista Facility,,San Diego,197,,0,,,,,619,7930,25
 ,12/11/21,0,0,,Vista Facility,,San Diego,214,,0,,,,,630,7931,<11
@@ -7975,6 +7969,7 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,12/19/20,0,0,,Work Furlough/Corr. Alternative,,San Diego,<11,,0,,,,,218,7959,0
 ,12/26/20,0,0,,Work Furlough/Corr. Alternative,,San Diego,<11,,0,,,,,206,7960,<11
 ,01/02/21,0,0,,Work Furlough/Corr. Alternative,,San Diego,<11,,0,,,,,208,7961,<11
+,01/02/21,,,U,,,San Francisco,,U,,,U,,,,8198,
 ,01/09/21,0,0,,Work Furlough/Corr. Alternative,,San Diego,0,,<11,,,,,227,7962,0
 ,01/16/21,0,0,,Work Furlough/Corr. Alternative,,San Diego,<11,,0,,,,,210,7963,<11
 ,01/23/21,0,0,,Work Furlough/Corr. Alternative,,San Diego,0,,<11,,,,,216,7964,0
@@ -8032,8 +8027,7 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,01/22/22,0,0,,Work Furlough/Corr. Alternative,,San Diego,0,,0,,,,,189,8016,0
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested <11, Confirmed <11, Resolved <11",07/25/20,,,0,,,San Diego,,<11,,,22,,,,8017,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved <11",08/01/20,,,0,,,San Diego,,<11,,,15,,,,8018,
-,01/16/21,,,<11,,,Shasta,,<11,,,33,,,,9779,
-,12/19/20,,,U,,,San Francisco,,U,,,U,,,,8196,
+,01/09/21,,,<11,,,Shasta,,<11,,,55,,,,9778,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested <11, Confirmed 0, Resolved 0",08/08/20,,,<11,,,San Diego,,<11,,,13,,,,8019,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",08/15/20,,,<11,,,San Diego,,0,,,<11,,,,8020,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested <11, Confirmed 0, Resolved 0",08/22/20,,,<11,,,San Diego,,0,,,<11,,,,8021,
@@ -8043,9 +8037,10 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",09/19/20,,,<11,,,San Diego,,<11,,,<11,,,,8025,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",09/26/20,,,0,,,San Diego,,<11,,,<11,,,,8026,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",10/03/20,,,0,,,San Diego,,<11,,,13,,,,8027,
+"The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested <11, Confirmed 0, Resolved 0",10/10/20,,,0,,,San Diego,,0,,,<11,,,,8028,
 ,10/31/20,0,0,,Reports data as county totals,,San Francisco,392,,0,,,,,760,8110,0
 ,11/07/20,0,0,,Reports data as county totals,,San Francisco,358,,0,,,,,745,8111,<11
-"The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested <11, Confirmed 0, Resolved 0",10/10/20,,,0,,,San Diego,,0,,,<11,,,,8028,
+,04/24/21,,,0,,,Shasta,,0,,,<11,,,,9793,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested <11, Confirmed 0, Resolved 0",10/17/20,,,<11,,,San Diego,,<11,,,<11,,,,8029,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",10/24/20,,,0,,,San Diego,,<11,,,<11,,,,8030,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",10/31/20,,,<11,,,San Diego,,<11,,,13,,,,8031,
@@ -8054,9 +8049,9 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved <11",11/21/20,,,<11,,,San Diego,,13,,,44,,,,8034,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested <11, Confirmed <11, Resolved <11",11/28/20,,,<11,,,San Diego,,11,,,20,,,,8035,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested <11, Confirmed <11, Resolved 0",12/05/20,,,<11,,,San Diego,,27,,,56,,,,8036,
+"The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 42, Confirmed <11, Resolved 0",12/12/20,,,<11,,,San Diego,,27,,,57,,,,8037,
 ,11/14/20,0,0,,Reports data as county totals,,San Francisco,384,,<11,,,,,799,8112,<11
 ,11/21/20,0,0,,Reports data as county totals,,San Francisco,322,,<11,,,,,742,8113,0
-"The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 42, Confirmed <11, Resolved 0",12/12/20,,,<11,,,San Diego,,27,,,57,,,,8037,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested <11, Confirmed <11, Resolved 0",12/19/20,,,<11,,,San Diego,,33,,,57,,,,8038,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",12/26/20,,,<11,,,San Diego,,19,,,36,,,,8039,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",01/02/21,,,13,,,San Diego,,23,,,40,,,,8040,
@@ -8065,12 +8060,12 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",01/23/21,,,17,,,San Diego,,<11,,,19,,,,8043,
 ,11/20/21,0,0,,Reports data as county totals,,San Francisco,355,,0,,,,,824,8165,0
 ,11/27/21,0,0,,Reports data as county totals,,San Francisco,357,,0,,,,,866,8166,<11
-,01/23/21,,,<11,,,Shasta,,<11,,,<11,,,,9780,
+,01/16/21,,,<11,,,Shasta,,<11,,,33,,,,9779,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",01/30/21,,,<11,,,San Diego,,11,,,21,,,,8044,
+"The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",02/06/21,,,<11,,,San Diego,,<11,,,14,,,,8045,
 ,11/28/20,0,0,,Reports data as county totals,,San Francisco,297,,<11,,,,,756,8114,0
 ,12/05/20,0,0,,Reports data as county totals,,San Francisco,350,,0,,,,,759,8115,<11
-,04/24/21,,,0,,,Shasta,,0,,,<11,,,,9793,
-"The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",02/06/21,,,<11,,,San Diego,,<11,,,14,,,,8045,
+,01/09/21,,,U,,,San Francisco,,U,,,U,,,,8199,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested <11, Confirmed 0, Resolved 0",02/13/21,,,<11,,,San Diego,,0,,,0,,,,8046,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",02/20/21,,,<11,,,San Diego,,0,,,<11,,,,8047,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",02/27/21,,,<11,,,San Diego,,<11,,,<11,,,,8048,
@@ -8079,10 +8074,10 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested <11, Confirmed 0, Resolved 0",03/20/21,,,0,,,San Diego,,0,,,<11,,,,8051,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",03/27/21,,,<11,,,San Diego,,<11,,,<11,,,,8052,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",04/03/21,,,<11,,,San Diego,,<11,,,<11,,,,8053,
+"The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",04/10/21,,,<11,,,San Diego,,<11,,,<11,,,,8054,
 ,12/12/20,0,0,,Reports data as county totals,,San Francisco,420,,<11,,,,,763,8116,<11
 ,12/19/20,0,0,,Reports data as county totals,,San Francisco,314,,<11,,,,,741,8117,<11
 ,05/01/21,,,0,,,Shasta,,0,,,0,,,,9794,
-"The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",04/10/21,,,<11,,,San Diego,,<11,,,<11,,,,8054,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",04/17/21,,,<11,,,San Diego,,<11,,,<11,,,,8055,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",04/24/21,,,<11,,,San Diego,,0,,,0,,,,8056,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",05/01/21,,,<11,,,San Diego,,<11,,,<11,,,,8057,
@@ -8091,10 +8086,10 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",05/22/21,,,0,,,San Diego,,<11,,,<11,,,,8060,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",05/29/21,,,<11,,,San Diego,,<11,,,<11,,,,8061,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",06/05/21,,,0,,,San Diego,,<11,,,<11,,,,8062,
+"The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",06/12/21,,,<11,,,San Diego,,0,,,<11,,,,8063,
 ,12/26/20,0,0,,Reports data as county totals,,San Francisco,375,,<11,,,,,738,8118,<11
 ,01/02/21,0,0,,Reports data as county totals,,San Francisco,351,,<11,,,,,742,8119,<11
 ,05/08/21,,,0,,,Shasta,,0,,,0,,,,9795,
-"The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",06/12/21,,,<11,,,San Diego,,0,,,<11,,,,8063,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",06/19/21,,,0,,,San Diego,,<11,,,<11,,,,8064,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",06/26/21,,,0,,,San Diego,,<11,,,<11,,,,8065,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",07/03/21,,,<11,,,San Diego,,<11,,,<11,,,,8066,
@@ -8102,10 +8097,13 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",07/17/21,,,<11,,,San Diego,,<11,,,<11,,,,8068,
 ,12/04/21,0,0,,Reports data as county totals,,San Francisco,376,,<11,,,,,857,8167,<11
 ,12/11/21,0,0,,Reports data as county totals,,San Francisco,358,,0,,,,,868,8168,<11
-,01/30/21,,,0,,,Shasta,,<11,,,<11,,,,9781,
+,01/23/21,,,<11,,,Shasta,,<11,,,<11,,,,9780,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",07/24/21,,,<11,,,San Diego,,<11,,,<11,,,,8069,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 0, Confirmed 0, Resolved 0",07/31/21,,,<11,,,San Diego,,<11,,,<11,,,,8070,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested <11, Confirmed 0, Resolved 0",08/07/21,,,<11,,,San Diego,,16,,,39,,,,8071,
+,01/09/21,0,0,,Reports data as county totals,,San Francisco,462,,<11,,,,,758,8120,<11
+,01/16/21,0,0,,Reports data as county totals,,San Francisco,457,,<11,,,,,774,8121,<11
+,01/16/21,,,U,,,San Francisco,,U,,,U,,,,8200,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested <11, Confirmed <11, Resolved 0",08/14/21,,,24,,,San Diego,,16,,,35,,,,8072,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 14, Confirmed 0, Resolved 0",08/21/21,,,<11,,,San Diego,,16,,,19,,,,8073,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested <11, Confirmed <11, Resolved 0",08/28/21,,,61,,,San Diego,,13,,,27,,,,8074,
@@ -8115,7 +8113,7 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 13, Confirmed 0, Resolved 0",09/25/21,,,0,,,San Diego,,<11,,,<11,,,,8078,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 13, Confirmed 0, Resolved 0",10/02/21,,,<11,,,San Diego,,<11,,,11,,,,8079,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 13, Confirmed 0, Resolved 0",10/09/21,,,<11,,,San Diego,,<11,,,<11,,,,8080,
-,01/09/21,0,0,,Reports data as county totals,,San Francisco,462,,<11,,,,,758,8120,<11
+,01/23/21,0,0,,Reports data as county totals,,San Francisco,370,,<11,,,,,803,8122,<11
 ,05/15/21,,,0,,,Shasta,,0,,,0,,,,9796,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 13, Confirmed 0, Resolved 0",10/16/21,,,<11,,,San Diego,,<11,,,<11,,,,8081,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 13, Confirmed <11, Resolved <11",10/23/21,,,<11,,,San Diego,,<11,,,<11,,,,8082,
@@ -8127,7 +8125,7 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 13, Confirmed 0, Resolved 0",12/04/21,,,<11,,,San Diego,,18,,,31,,,,8088,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested 10, Confirmed 0, Resolved 0",12/11/21,,,<11,,,San Diego,,<11,,,11,,,,8089,
 ,12/18/21,,,<11,,,San Diego,,<11,,,<11,,,,8090,
-,01/16/21,0,0,,Reports data as county totals,,San Francisco,457,,<11,,,,,774,8121,<11
+,01/30/21,0,0,,Reports data as county totals,,San Francisco,392,,<11,,,,,778,8123,<11
 ,05/22/21,,,0,,,Shasta,,0,,,<11,,,,9797,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested <11, Confirmed 0, Resolved 0",12/25/21,,,<11,,,San Diego,,12,,,15,,,,8091,
 "The Work Furlough & Residential Re-Entry Center Facility is operated by CoreCivic under contract with the County of SD Probation and Sheriff's Departments and under federal contract with the BOP. Staff: Tested <11, Confirmed <11, Resolved 0",01/01/22,,,0,,,San Diego,,47,,,59,,,,8092,
@@ -8149,9 +8147,7 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,10/10/20,0,0,,Reports data as county totals,,San Francisco,295,,<11,,,,,785,8107,<11
 ,10/17/20,0,0,,Reports data as county totals,,San Francisco,312,,<11,,,,,816,8108,<11
 ,10/24/20,0,0,,Reports data as county totals,,San Francisco,281,,0,,,,,783,8109,0
-,11/14/20,,,U,,,San Francisco,,U,,,U,,,,8191,
-,01/23/21,0,0,,Reports data as county totals,,San Francisco,370,,<11,,,,,803,8122,<11
-,01/30/21,0,0,,Reports data as county totals,,San Francisco,392,,<11,,,,,778,8123,<11
+,12/12/20,,,U,,,San Francisco,,U,,,U,,,,8195,
 ,02/06/21,0,0,,Reports data as county totals,,San Francisco,536,,<11,,,,,776,8124,<11
 ,02/13/21,0,0,,Reports data as county totals,,San Francisco,442,,<11,,,,,793,8125,<11
 ,02/20/21,0,0,,Reports data as county totals,,San Francisco,423,,<11,,,,,828,8126,<11
@@ -8178,10 +8174,10 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,07/17/21,0,0,,Reports data as county totals,,San Francisco,276,,<11,,,,,747,8147,<11
 ,07/24/21,0,0,,Reports data as county totals,,San Francisco,256,,<11,,,,,748,8148,<11
 ,07/31/21,0,0,,Reports data as county totals,,San Francisco,260,,<11,,,,,748,8149,<11
-,11/21/20,,,U,,,San Francisco,,U,,,U,,,,8192,
-,05/29/21,,,0,,,Shasta,,0,,,0,,,,9798,
 ,08/07/21,0,0,,Reports data as county totals,,San Francisco,453,,<11,,,,,763,8150,<11
 ,08/14/21,0,0,,Reports data as county totals,,San Francisco,577,,<11,,,,,768,8151,<11
+,12/19/20,,,U,,,San Francisco,,U,,,U,,,,8196,
+,05/29/21,,,0,,,Shasta,,0,,,0,,,,9798,
 ,08/21/21,0,0,,Reports data as county totals,,San Francisco,471,,<11,,,,,792,8152,<11
 ,08/28/21,0,0,,Reports data as county totals,,San Francisco,457,,<11,,,,,776,8153,<11
 ,09/04/21,0,0,,Reports data as county totals,,San Francisco,379,,<11,,,,,789,8154,<11
@@ -8216,10 +8212,10 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,10/24/20,,,U,,,San Francisco,,U,,,U,,,,8188,
 ,10/31/20,,,U,,,San Francisco,,U,,,U,,,,8189,
 ,11/07/20,,,U,,,San Francisco,,U,,,U,,,,8190,
-,12/26/20,,,U,,,San Francisco,,U,,,U,,,,8197,
-,01/02/21,,,U,,,San Francisco,,U,,,U,,,,8198,
-,01/09/21,,,U,,,San Francisco,,U,,,U,,,,8199,
-,01/16/21,,,U,,,San Francisco,,U,,,U,,,,8200,
+,11/14/20,,,U,,,San Francisco,,U,,,U,,,,8191,
+,11/21/20,,,U,,,San Francisco,,U,,,U,,,,8192,
+,11/28/20,,,U,,,San Francisco,,U,,,U,,,,8193,
+,12/05/20,,,U,,,San Francisco,,U,,,U,,,,8194,
 ,01/23/21,,,U,,,San Francisco,,U,,,U,,,,8201,
 ,01/30/21,,,U,,,San Francisco,,U,,,U,,,,8202,
 ,02/06/21,,,U,,,San Francisco,,U,,,U,,,,8203,
@@ -8273,7 +8269,6 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,01/08/22,,,U,,,San Francisco,,U,,,U,,,,8251,
 ,01/15/22,,,U,,,San Francisco,,U,,,U,,,,8252,
 ,01/22/22,,,U,,,San Francisco,,U,,,U,,,,8253,
-,02/06/21,,,0,,,San Joaquin,,0,,,<11,,,,8361,
 ,07/25/20,0,0,,John J. Zunino Facility/San Joaquin County Honor Farm,,San Joaquin,<11,,<11,0,,<11,<11,"1,330",8254,<11
 ,08/01/20,0,0,,John J. Zunino Facility/San Joaquin County Honor Farm,,San Joaquin,<11,,0,0,,0,0,"1,319",8255,0
 ,08/08/20,0,0,,John J. Zunino Facility/San Joaquin County Honor Farm,,San Joaquin,<11,,0,0,,0,0,"1,357",8256,0
@@ -8297,9 +8292,9 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,12/05/20,0,0,,John J. Zunino Facility/San Joaquin County Honor Farm,,San Joaquin,33,,0,0,,<11,0,"1,360",8273,<11
 ,12/12/20,0,0,,John J. Zunino Facility/San Joaquin County Honor Farm,,San Joaquin,33,,0,0,,<11,0,"1,361",8274,<11
 ,12/19/20,0,0,,John J. Zunino Facility/San Joaquin County Honor Farm,,San Joaquin,192,,0,0,,17,<11,"1,370",8275,17
-,02/13/21,,,0,,,San Joaquin,,0,,,0,,,,8362,
 ,12/26/20,0,0,,John J. Zunino Facility/San Joaquin County Honor Farm,,San Joaquin,309,,0,<11,,35,0,"1,357",8276,35
 ,01/02/21,0,0,,John J. Zunino Facility/San Joaquin County Honor Farm,,San Joaquin,171,,0,0,,31,0,"1,368",8277,31
+,03/13/21,,,0,,,San Joaquin,,0,,,<11,,,,8366,
 ,01/09/21,0,0,,John J. Zunino Facility/San Joaquin County Honor Farm,,San Joaquin,226,,0,0,,16,<11,"1,383",8278,16
 ,01/16/21,0,0,,John J. Zunino Facility/San Joaquin County Honor Farm,,San Joaquin,95,,0,0,,<11,0,"1,284",8279,<11
 ,01/23/21,0,0,,John J. Zunino Facility/San Joaquin County Honor Farm,,San Joaquin,151,,0,0,,<11,0,"1,342",8280,<11
@@ -8343,10 +8338,9 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,10/23/21,0,0,,John J. Zunino Facility/San Joaquin County Honor Farm,,San Joaquin,514,,0,<11,,<11,0,"1,263",8318,<11
 ,10/30/21,0,0,,John J. Zunino Facility/San Joaquin County Honor Farm,,San Joaquin,399,,0,0,,<11,<11,"1,279",8319,<11
 ,11/06/21,0,0,,John J. Zunino Facility/San Joaquin County Honor Farm,,San Joaquin,338,,0,0,,0,0,"1,294",8320,0
-,02/20/21,,,0,,,San Joaquin,,0,,,<11,,,,8363,
-,06/05/21,,,0,,,Shasta,,0,,,<11,,,,9799,
 ,11/13/21,0,0,,John J. Zunino Facility/San Joaquin County Honor Farm,,San Joaquin,1304,,0,<11,,<11,<11,"1,304",8321,<11
 ,11/20/21,0,0,,John J. Zunino Facility/San Joaquin County Honor Farm,,San Joaquin,250,,0,0,,0,0,"1,243",8322,0
+,03/20/21,,,0,,,San Joaquin,,0,,,<11,,,,8367,
 ,11/27/21,0,0,,John J. Zunino Facility/San Joaquin County Honor Farm,,San Joaquin,223,,0,0,,0,0,"1,232",8323,0
 ,12/04/21,0,0,,John J. Zunino Facility/San Joaquin County Honor Farm,,San Joaquin,287,,0,0,,0,0,"1,255",8324,0
 ,12/11/21,0,0,,John J. Zunino Facility/San Joaquin County Honor Farm,,San Joaquin,284,,0,0,,0,0,"1,239",8325,0
@@ -8385,10 +8379,11 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,01/16/21,,,0,,,San Joaquin,,<11,,,14,,,,8358,
 ,01/23/21,,,0,,,San Joaquin,,0,,,0,,,,8359,
 ,01/30/21,,,0,,,San Joaquin,,<11,,,<11,,,,8360,
+,02/06/21,,,0,,,San Joaquin,,0,,,<11,,,,8361,
+,02/13/21,,,0,,,San Joaquin,,0,,,0,,,,8362,
+,02/20/21,,,0,,,San Joaquin,,0,,,<11,,,,8363,
 ,02/27/21,,,0,,,San Joaquin,,0,,,<11,,,,8364,
 ,03/06/21,,,0,,,San Joaquin,,0,,,<11,,,,8365,
-,03/13/21,,,0,,,San Joaquin,,0,,,<11,,,,8366,
-,03/20/21,,,0,,,San Joaquin,,0,,,<11,,,,8367,
 ,03/27/21,,,0,,,San Joaquin,,0,,,<11,,,,8368,
 ,04/03/21,,,0,,,San Joaquin,,0,,,<11,,,,8369,
 ,04/10/21,,,0,,,San Joaquin,,0,,,<11,,,,8370,
@@ -8440,6 +8435,7 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,08/01/20,0,0,,San Luis Obispo County Jail,,San Luis Obispo,53,,<11,0,,0,0,416,8416,0
 ,08/08/20,0,0,,San Luis Obispo County Jail,,San Luis Obispo,14,,0,0,,0,0,421,8417,0
 ,08/15/20,0,0,,San Luis Obispo County Jail,,San Luis Obispo,<11,,0,0,,0,0,426,8418,0
+,06/05/21,,,0,,,Shasta,,0,,,<11,,,,9799,
 ,08/22/20,0,0,,San Luis Obispo County Jail,,San Luis Obispo,17,,0,0,,0,0,432,8419,0
 ,08/29/20,0,0,,San Luis Obispo County Jail,,San Luis Obispo,13,,0,0,,0,0,437,8420,0
 ,09/05/20,0,0,,San Luis Obispo County Jail,,San Luis Obispo,17,,0,,,,,450,8421,0
@@ -8501,9 +8497,9 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,10/02/21,0,0,,San Luis Obispo County Jail,,San Luis Obispo,28,,0,,,,4,413,8477,<11
 ,10/09/21,0,0,,San Luis Obispo County Jail,,San Luis Obispo,40,,<11,,,,,422,8478,0
 ,10/16/21,0,0,,San Luis Obispo County Jail,,San Luis Obispo,56,,0,,,,,427,8479,<11
-,03/06/21,,,<11,,,San Luis Obispo,,<11,,,42,,,,8524,
 ,10/30/21,0,0,,San Luis Obispo County Jail,,San Luis Obispo,62,,<11,,,,,421,8480,<11
 ,11/06/21,0,0,,San Luis Obispo County Jail,,San Luis Obispo,65,,<11,,,,,416,8481,0
+,03/27/21,,,0,,,San Luis Obispo,,0,,,11,,,,8527,
 ,11/13/21,0,0,,San Luis Obispo County Jail,,San Luis Obispo,38,,0,,,,,421,8482,<11
 ,11/27/21,0,0,,San Luis Obispo County Jail,,San Luis Obispo,39,,<11,,,,,414,8483,<11
 ,12/04/21,0,0,,San Luis Obispo County Jail,,San Luis Obispo,42,,<11,,,,,412,8484,<11
@@ -8546,9 +8542,9 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,02/13/21,,,0,,,San Luis Obispo,,0,,,<11,,,,8521,
 ,02/20/21,,,<11,,,San Luis Obispo,,<11,,,28,,,,8522,
 ,02/27/21,,,<11,,,San Luis Obispo,,<11,,,30,,,,8523,
+,03/06/21,,,<11,,,San Luis Obispo,,<11,,,42,,,,8524,
 ,03/13/21,,,<11,,,San Luis Obispo,,0,,,34,,,,8525,
 ,03/20/21,,,0,,,San Luis Obispo,,0,,,27,,,,8526,
-,03/27/21,,,0,,,San Luis Obispo,,0,,,11,,,,8527,
 ,04/03/21,,,0,,,San Luis Obispo,,<11,,,16,,,,8528,
 ,04/10/21,,,<11,,,San Luis Obispo,,0,,,<11,,,,8529,
 ,04/17/21,,,0,,,San Luis Obispo,,<11,,,<11,,,,8530,
@@ -8594,9 +8590,9 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,01/22/22,,,<11,,,San Luis Obispo,,20,,,51,,,,8570,
 ,07/25/20,0,0,,Maguire Correctional Facility,,San Mateo,96,,0,0,,<11,<11,308,8571,<11
 ,08/01/20,0,0,,Maguire Correctional Facility,,San Mateo,94,,0,0,,0,0,341,8572,0
-,03/13/21,0,0,,Maguire Correctional Facility,,San Mateo,76,,<11,,,,,343,8604,0
 ,08/08/20,0,0,,Maguire Correctional Facility,,San Mateo,104,,<11,0,,0,<11,328,8573,<11
 ,08/15/20,0,0,,Maguire Correctional Facility,,San Mateo,84,,0,0,,<11,<11,343,8574,<11
+,05/29/21,,,0,,,San Mateo,,0,,,U,,,,8852,
 ,08/22/20,0,0,,Maguire Correctional Facility,,San Mateo,105,,<11,,,,,344,8575,<11
 ,08/29/20,0,0,,Maguire Correctional Facility,,San Mateo,82,,<11,,,,,640,8576,0
 ,09/05/20,0,0,,Maguire Correctional Facility,,San Mateo,77,,<11,,,,,342,8577,0
@@ -8626,7 +8622,9 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,02/20/21,0,0,,Maguire Correctional Facility,,San Mateo,73,,<11,,,,,359,8601,<11
 ,02/27/21,0,0,,Maguire Correctional Facility,,San Mateo,66,,<11,,,,,365,8602,0
 ,03/06/21,0,0,,Maguire Correctional Facility,,San Mateo,87,,<11,,,,,354,8603,0
+,03/13/21,0,0,,Maguire Correctional Facility,,San Mateo,76,,<11,,,,,343,8604,0
 ,03/20/21,0,0,,Maguire Correctional Facility,,San Mateo,71,,0,,,,,343,8605,0
+,06/12/21,,,0,,,Shasta,,0,,,0,,,,9800,
 ,03/27/21,0,0,,Maguire Correctional Facility,,San Mateo,95,,0,,,,,367,8606,<11
 ,04/03/21,0,0,,Maguire Correctional Facility,,San Mateo,89,,0,,,,,366,8607,<11
 ,04/10/21,0,0,,Maguire Correctional Facility,,San Mateo,119,,<11,,,,,372,8608,0
@@ -8657,8 +8655,8 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,10/02/21,0,0,,Maguire Correctional Facility,,San Mateo,117,,<11,,,,,376,8633,<11
 ,10/09/21,0,0,,Maguire Correctional Facility,,San Mateo,136,,<11,,,,,405,8634,<11
 ,10/16/21,0,0,,Maguire Correctional Facility,,San Mateo,127,,0,,,,,406,8635,<11
-,05/22/21,,,0,,,San Mateo,,0,,,325,,,,8851,
 ,10/23/21,0,0,,Maguire Correctional Facility,,San Mateo,135,,<11,,,,,402,8636,0
+,06/05/21,,,0,,,San Mateo,,0,,,325,,,,8853,
 ,10/30/21,0,0,,Maguire Correctional Facility,,San Mateo,132,,<11,,,,,402,8637,0
 ,11/06/21,0,0,,Maguire Correctional Facility,,San Mateo,176,,0,,,,,403,8638,<11
 ,11/13/21,0,0,,Maguire Correctional Facility,,San Mateo,108,,0,,,,,439,8639,<11
@@ -8688,8 +8686,8 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,10/24/20,0,0,,Maple Street Correctional Facility,,San Mateo,<11,,0,,,,,311,8663,0
 ,10/31/20,0,0,,Maple Street Correctional Facility,,San Mateo,16,,0,,,,,325,8664,0
 ,11/07/20,0,0,,Maple Street Correctional Facility,,San Mateo,<11,,0,,,,,352,8665,0
-,05/29/21,,,0,,,San Mateo,,0,,,U,,,,8852,
 ,11/14/20,0,0,,Maple Street Correctional Facility,,San Mateo,13,,0,,,,,334,8666,0
+,06/12/21,,,U,,,San Mateo,,0,,,U,,,,8854,
 ,11/21/20,0,0,,Maple Street Correctional Facility,,San Mateo,13,,0,,,,,325,8667,0
 ,11/28/20,0,0,,Maple Street Correctional Facility,,San Mateo,82,,0,,,,,328,8668,0
 ,12/05/20,0,0,,Maple Street Correctional Facility,,San Mateo,233,,0,,,,,391,8669,0
@@ -8873,8 +8871,8 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,05/01/21,,,0,,,San Mateo,,<11,,,U,,,,8848,
 ,05/08/21,,,U,,,San Mateo,,U,,,U,,,,8849,
 ,05/15/21,,,U,,,San Mateo,,U,,,U,,,,8850,
-,06/05/21,,,0,,,San Mateo,,0,,,325,,,,8853,
-,06/12/21,,,U,,,San Mateo,,0,,,U,,,,8854,
+,05/22/21,,,0,,,San Mateo,,0,,,325,,,,8851,
+,06/19/21,,,0,,,Shasta,,0,,,0,,,,9801,
 ,06/19/21,,,0,,,San Mateo,,0,,,U,,,,8855,
 ,06/26/21,,,0,,,San Mateo,,0,,,U,,,,8856,
 ,07/03/21,,,0,,,San Mateo,,U,,,U,,,,8857,
@@ -8919,7 +8917,8 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,08/15/20,<11,0,,Santa Barbara County Main Jail,,Santa Barbara,150,,<11,0,,21,0,609,8896,21
 ,08/22/20,0,0,,Santa Barbara County Main Jail,,Santa Barbara,90,,19,0,,<11,0,635,8897,<11
 ,08/29/20,0,0,,Santa Barbara County Main Jail,,Santa Barbara,143,,<11,0,,24,0,644,8898,24
-,06/12/21,,,0,,,Shasta,,0,,,0,,,,9800,
+,03/06/21,0,0,,Santa Barbara County Main Jail,,Santa Barbara,212,,<11,0,,<11,0,590,8925,0
+,03/20/21,,,0,,,Santa Barbara,,0,,,238,,,,9000,
 ,09/05/20,0,0,,Santa Barbara County Main Jail,We offered testing to all inmates in custody (exlcluding those in intake quarantine housing units) on 9/2/20.,Santa Barbara,501,,<11,0,,18,0,720,8899,18
 ,09/12/20,0,0,,Santa Barbara County Main Jail,,Santa Barbara,66,,<11,0,,<11,0,644,8900,<11
 ,09/19/20,0,0,,Santa Barbara County Main Jail,,Santa Barbara,75,,<11,0,,0,0,644,8901,0
@@ -8931,7 +8930,7 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,10/31/20,0,0,,Santa Barbara County Main Jail,,Santa Barbara,36,,0,0,,0,0,655,8907,0
 ,11/07/20,0,0,,Santa Barbara County Main Jail,,Santa Barbara,25,,0,0,,0,0,653,8908,0
 ,10/31/20,,,<11,,,Santa Barbara,,0,,,296,,,,8980,
-,02/06/21,,,0,,,Shasta,,0,,,0,,,,9782,
+,01/30/21,,,0,,,Shasta,,<11,,,<11,,,,9781,
 ,11/14/20,0,0,,Santa Barbara County Main Jail,We tested a much larger amount of inmates due to scheduled CDCR transports.,Santa Barbara,120,,0,0,,0,0,651,8909,0
 ,11/21/20,0,0,,Santa Barbara County Main Jail,,Santa Barbara,22,,0,<11,,0,0,547,8910,<11
 ,11/28/20,0,0,,Santa Barbara County Main Jail,,Santa Barbara,16,,0,0,,0,0,574,8911,0
@@ -8948,8 +8947,7 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,02/13/21,0,0,,Santa Barbara County Main Jail,,Santa Barbara,169,,<11,<11,,<11,<11,640,8922,12
 ,02/20/21,0,0,,Santa Barbara County Main Jail,,Santa Barbara,177,,30,0,,0,0,650,8923,<11
 ,02/27/21,0,0,,Santa Barbara County Main Jail,,Santa Barbara,157,,<11,<11,,<11,0,629,8924,<11
-,02/27/21,,,<11,,,Santa Barbara,,<11,,,269,,,,8997,
-,03/06/21,0,0,,Santa Barbara County Main Jail,,Santa Barbara,212,,<11,0,,<11,0,590,8925,0
+,03/13/21,,,0,,,Santa Barbara,,0,,,257,,,,8999,
 ,03/13/21,0,0,,Santa Barbara County Main Jail,,Santa Barbara,130,,0,0,,0,0,630,8926,0
 ,03/20/21,0,0,,Santa Barbara County Main Jail,,Santa Barbara,186,,0,0,,0,0,633,8927,0
 ,03/27/21,0,0,,Santa Barbara County Main Jail,,Santa Barbara,155,,0,0,,0,0,637,8928,0
@@ -8980,8 +8978,8 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,10/16/21,0,0,,Santa Barbara County Main Jail,,Santa Barbara,210,,<11,,,,,617,8953,0
 ,10/23/21,0,0,,Santa Barbara County Main Jail,,Santa Barbara,181,,<11,,,,,622,8954,0
 ,10/30/21,0,0,,Santa Barbara County Main Jail,,Santa Barbara,174,,<11,,,,,622,8955,<11
-,06/19/21,,,0,,,Shasta,,0,,,0,,,,9801,
 ,11/13/21,0,0,,Santa Barbara County Main Jail,,Santa Barbara,202,,<11,,,,,655,8956,<11
+,06/26/21,,,0,,,Shasta,,0,,,0,,,,9802,
 ,11/20/21,0,0,,Santa Barbara County Main Jail,,Santa Barbara,202,,0,,,,,701,8957,0
 ,11/27/21,0,0,,Santa Barbara County Main Jail,,Santa Barbara,176,,0,,,,,713,8958,0
 ,12/04/21,0,0,,Santa Barbara County Main Jail,,Santa Barbara,168,,<11,,,,,741,8959,<11
@@ -9021,9 +9019,8 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,02/06/21,,,<11,,,Santa Barbara,,0,,,189,,,,8994,
 ,02/13/21,,,<11,,,Santa Barbara,,0,,,256,,,,8995,
 ,02/20/21,,,<11,,,Santa Barbara,,<11,,,251,,,,8996,
+,02/27/21,,,<11,,,Santa Barbara,,<11,,,269,,,,8997,
 ,03/06/21,,,<11,,,Santa Barbara,,0,,,265,,,,8998,
-,03/13/21,,,0,,,Santa Barbara,,0,,,257,,,,8999,
-,03/20/21,,,0,,,Santa Barbara,,0,,,238,,,,9000,
 ,03/27/21,,,0,,,Santa Barbara,,0,,,150,,,,9001,
 ,04/03/21,,,0,,,Santa Barbara,,0,,,138,,,,9002,
 ,04/10/21,,,,,,Santa Barbara,,,,,No Data Reported,,,,9003,
@@ -9069,8 +9066,8 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,01/15/22,,,<11,,,Santa Barbara,,<11,,,111,,,,9043,
 ,01/22/22,,,<11,,,Santa Barbara,,<11,,,184,,,,9044,
 ,07/25/20,U,U,,Elmwood Complex - Men's facility,https://www.sccgov.org/sites/sheriff/COVID19/Pages/Population-COVID-19-Tracking.aspx,Santa Clara,U,,U,,,,,"1,239",9045,U
-,11/20/21,0,0,,Santa Cruz Main Jail,,Santa Cruz,451,,0,,,,,276,9507,13
 ,08/01/20,U,U,,Elmwood Complex - Men's facility,https://www.sccgov.org/sites/sheriff/COVID19/Pages/Population-COVID-19-Tracking.aspx,Santa Clara,U,,U,,,,,"1,239",9046,U
+,06/19/21,,,0,,,Santa Cruz,,0,,,<11,,,,9643,
 ,08/08/20,U,U,,Elmwood Complex - Men's facility,https://www.sccgov.org/sites/sheriff/COVID19/Pages/Population-COVID-19-Tracking.aspx,Santa Clara,U,,U,,,,,"1,251",9047,U
 ,08/15/20,U,U,,Elmwood Complex - Men's facility,https://www.sccgov.org/sites/sheriff/COVID19/Pages/Population-COVID-19-Tracking.aspx,Santa Clara,U,,U,,,,,"1,255",9048,U
 ,08/22/20,U,U,,Elmwood Complex - Men's facility,https://www.sccgov.org/sites/sheriff/COVID19/Pages/Population-COVID-19-Tracking.aspx,Santa Clara,U,,U,,,,,"1,239",9049,U
@@ -9085,6 +9082,8 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,10/24/20,U,U,,Elmwood Complex - Men's facility,https://www.sccgov.org/sites/sheriff/COVID19/Pages/Population-COVID-19-Tracking.aspx,Santa Clara,U,,U,,,,,"1,294",9058,U
 ,10/31/20,U,U,,Elmwood Complex - Men's facility,https://www.sccgov.org/sites/sheriff/COVID19/Pages/Population-COVID-19-Tracking.aspx,Santa Clara,U,,U,,,,,"1,294",9059,U
 ,11/07/20,U,U,,Elmwood Complex - Men's facility,https://www.sccgov.org/sites/sheriff/COVID19/Pages/Population-COVID-19-Tracking.aspx,Santa Clara,U,,U,,,,,"1,321",9060,U
+,11/20/21,0,0,,Santa Cruz Main Jail,,Santa Cruz,451,,0,,,,,276,9507,13
+https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,02/06/21,,,U,,,Santa Clara,,U,,,U,,,,9310,
 ,11/14/20,U,U,,Elmwood Complex - Men's facility,https://www.sccgov.org/sites/sheriff/COVID19/Pages/Population-COVID-19-Tracking.aspx,Santa Clara,U,,U,,,,,"1,329",9061,U
 ,11/21/20,U,U,,Elmwood Complex - Men's facility,https://www.sccgov.org/sites/sheriff/COVID19/Pages/Population-COVID-19-Tracking.aspx,Santa Clara,U,,U,,,,,"1,315",9062,U
 ,11/28/20,U,U,,Elmwood Complex - Men's facility,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,"1,346",9063,U
@@ -9119,7 +9118,7 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,06/19/21,U,U,,Elmwood Complex - Men's facility,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,"1,500",9092,U
 ,06/26/21,U,U,,Elmwood Complex - Men's facility,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,"1,527",9093,U
 ,07/03/21,U,U,,Elmwood Complex - Men's facility,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,"1,559",9094,U
-,06/05/21,,,0,,,Santa Cruz,,0,,,<11,,,,9641,
+,06/26/21,,,0,,,Santa Cruz,,0,,,17,,,,9644,
 ,07/10/21,U,U,,Elmwood Complex - Men's facility,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,"1,492",9095,U
 ,07/17/21,U,U,,Elmwood Complex - Men's facility,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,"1,478",9096,U
 ,07/24/21,U,U,,Elmwood Complex - Men's facility,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,"1,472",9097,U
@@ -9137,7 +9136,7 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,10/16/21,U,U,,Elmwood Complex - Men's facility,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,"1,598",9109,U
 ,10/23/21,U,U,,Elmwood Complex - Men's facility,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,"1,611",9110,U
 ,10/30/21,U,U,,Elmwood Complex - Men's facility,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,"1,598",9111,U
-,06/12/21,,,0,,,Santa Cruz,,0,,,<11,,,,9642,
+,07/03/21,,,0,,,Santa Cruz,,0,,,13,,,,9645,
 ,11/06/21,U,U,,Elmwood Complex - Men's facility,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,"1,589",9112,U
 ,11/13/21,U,U,,Elmwood Complex - Men's facility,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,"1,589",9113,U
 ,11/20/21,U,U,,Elmwood Complex - Men's facility,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,"1,541",9114,U
@@ -9170,7 +9169,7 @@ The <11 staff members that tested positive for COVID-19 are Asymptomatic and on 
 ,11/07/20,U,U,,Elmwood Complex - Women's Facility,https://www.sccgov.org/sites/sheriff/COVID19/Pages/Population-COVID-19-Tracking.aspx,Santa Clara,U,,U,,,,,156,9140,U
 ,11/14/20,U,U,,Elmwood Complex - Women's Facility,https://www.sccgov.org/sites/sheriff/COVID19/Pages/Population-COVID-19-Tracking.aspx,Santa Clara,U,,U,,,,,157,9141,U
 ,11/21/20,U,U,,Elmwood Complex - Women's Facility,https://www.sccgov.org/sites/sheriff/COVID19/Pages/Population-COVID-19-Tracking.aspx,Santa Clara,U,,U,,,,,157,9142,U
-,06/19/21,,,0,,,Santa Cruz,,0,,,<11,,,,9643,
+,07/10/21,,,0,,,Santa Cruz,,0,,,13,,,,9646,
 ,11/28/20,U,U,,Elmwood Complex - Women's Facility,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,167,9143,U
 ,12/05/20,U,U,,Elmwood Complex - Women's Facility,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,166,9144,U
 ,12/12/20,U,U,,Elmwood Complex - Women's Facility,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,164,9145,U
@@ -9260,7 +9259,7 @@ https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/30/21,,,U,,,Sant
 ,12/19/20,U,U,,Santa Clara County Main Jail,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,686,9225,U
 ,12/26/20,U,U,,Santa Clara County Main Jail,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,696,9226,U
 ,01/02/21,U,U,,Santa Clara County Main Jail,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,711,9227,U
-,08/15/20,0,0,,Santa Cruz Blaine Womens Min,,Santa Cruz,0,,0,,,,,8,9362,0
+,08/22/20,0,0,,Santa Cruz Blaine Womens Min,,Santa Cruz,0,,0,,,,,8,9363,0
 ,01/16/21,U,U,,Santa Clara County Main Jail,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,713,9229,U
 ,01/23/21,U,U,,Santa Clara County Main Jail,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,726,9230,U
 ,01/30/21,U,U,,Santa Clara County Main Jail,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,733,9231,U
@@ -9280,7 +9279,7 @@ https://www.sccgov.org/sites/sheriff/COVID19/Pages/Population-COVID-19-Tracking.
 ,05/01/21,U,U,,Santa Clara County Main Jail,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,666,9244,U
 ,05/08/21,U,U,,Santa Clara County Main Jail,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,664,9245,U
 ,05/15/21,U,U,,Santa Clara County Main Jail,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,653,9246,U
-,06/26/21,,,0,,,Santa Cruz,,0,,,17,,,,9644,
+,07/17/21,,,0,,,Santa Cruz,,0,,,11,,,,9647,
 ,05/22/21,U,U,,Santa Clara County Main Jail,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,670,9247,U
 ,05/29/21,U,U,,Santa Clara County Main Jail,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,657,9248,U
 ,06/05/21,U,U,,Santa Clara County Main Jail,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,668,9249,U
@@ -9300,7 +9299,7 @@ https://www.sccgov.org/sites/sheriff/COVID19/Pages/Population-COVID-19-Tracking.
 ,09/11/21,U,U,,Santa Clara County Main Jail,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,613,9263,U
 ,09/18/21,U,U,,Santa Clara County Main Jail,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,642,9264,U
 ,09/25/21,U,U,,Santa Clara County Main Jail,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,667,9265,U
-,07/03/21,,,0,,,Santa Cruz,,0,,,13,,,,9645,
+,07/24/21,,,0,,,Santa Cruz,,0,,,<11,,,,9648,
 ,10/02/21,U,U,,Santa Clara County Main Jail,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,665,9266,U
 ,10/09/21,U,U,,Santa Clara County Main Jail,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,664,9267,U
 ,10/16/21,U,U,,Santa Clara County Main Jail,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,672,9268,U
@@ -9320,7 +9319,7 @@ https://www.sccgov.org/sites/sheriff/COVID19/Pages/Population-COVID-19-Tracking.
 ,01/22/22,U,U,,Santa Clara County Main Jail,https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,Santa Clara,U,,U,,,,,700,9282,U
 https://www.sccgov.org/sites/sheriff/COVID19/Pages/Population-COVID-19-Tracking.aspx,07/25/20,,,U,,,Santa Clara,,U,,,U,,,,9283,
 https://www.sccgov.org/sites/sheriff/COVID19/Pages/Population-COVID-19-Tracking.aspx,08/01/20,,,U,,,Santa Clara,,U,,,U,,,,9284,
-,08/22/20,0,0,,Santa Cruz Blaine Womens Min,,Santa Cruz,0,,0,,,,,8,9363,0
+,08/29/20,0,0,,Santa Cruz Blaine Womens Min,,Santa Cruz,0,,0,,,,,10,9364,0
 https://www.sccgov.org/sites/sheriff/COVID19/Pages/Population-COVID-19-Tracking.aspx,08/08/20,,,U,,,Santa Clara,,U,,,U,,,,9285,
 https://www.sccgov.org/sites/sheriff/COVID19/Pages/Population-COVID-19-Tracking.aspx,08/15/20,,,U,,,Santa Clara,,U,,,U,,,,9286,
 https://www.sccgov.org/sites/sheriff/COVID19/Pages/Population-COVID-19-Tracking.aspx,08/22/20,,,U,,,Santa Clara,,U,,,U,,,,9287,
@@ -9343,7 +9342,6 @@ https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,12/26/20,,,U,,,Sant
 https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/02/21,,,U,,,Santa Clara,,U,,,U,,,,9305,
 https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/09/21,,,U,,,Santa Clara,,U,,,U,,,,9306,
 https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/16/21,,,U,,,Santa Clara,,U,,,U,,,,9307,
-https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,02/06/21,,,U,,,Santa Clara,,U,,,U,,,,9310,
 https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,02/20/21,,,U,,,Santa Clara,,U,,,U,,,,9311,
 https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,02/27/21,,,U,,,Santa Clara,,U,,,U,,,,9312,
 https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,03/06/21,,,U,,,Santa Clara,,U,,,U,,,,9313,
@@ -9394,7 +9392,8 @@ https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/22/22,,,U,,,Sant
 ,07/25/20,0,0,,Santa Cruz Blaine Womens Min,,Santa Cruz,0,,0,,,,,9,9359,0
 ,08/01/20,0,0,,Santa Cruz Blaine Womens Min,,Santa Cruz,0,,0,,,,,11,9360,0
 ,08/08/20,0,0,,Santa Cruz Blaine Womens Min,,Santa Cruz,0,,0,,,,,10,9361,0
-,08/29/20,0,0,,Santa Cruz Blaine Womens Min,,Santa Cruz,0,,0,,,,,10,9364,0
+,08/15/20,0,0,,Santa Cruz Blaine Womens Min,,Santa Cruz,0,,0,,,,,8,9362,0
+,03/06/21,,,0,,,Shasta,,0,,,0,,,,9786,
 ,09/05/20,0,0,,Santa Cruz Blaine Womens Min,,Santa Cruz,0,,0,,,,,12,9365,0
 ,09/12/20,0,0,,Santa Cruz Blaine Womens Min,,Santa Cruz,0,,0,,,,,14,9366,0
 ,09/19/20,0,0,,Santa Cruz Blaine Womens Min,,Santa Cruz,0,,0,,,,,12,9367,0
@@ -9466,8 +9465,8 @@ https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/22/22,,,U,,,Sant
 ,12/25/21,0,0,,Santa Cruz Blaine Womens Min,,Santa Cruz,0,,0,,,,,0,9433,0
 ,01/01/22,0,0,,Santa Cruz Blaine Womens Min,,Santa Cruz,0,,0,,,,,0,9434,0
 ,01/08/22,0,0,,Santa Cruz Blaine Womens Min,,Santa Cruz,0,,0,,,,,0,9435,0
-,05/08/21,,,0,,,Santa Cruz,,0,,,89,,,,9637,
 ,01/15/22,0,0,,Santa Cruz Blaine Womens Min,,Santa Cruz,0,,0,,,,,0,9436,0
+,05/22/21,,,0,,,Santa Cruz,,0,,,17,,,,9639,
 ,01/22/22,0,0,,Santa Cruz Blaine Womens Min,,Santa Cruz,0,,0,,,,,0,9437,0
 ,07/25/20,0,0,,Santa Cruz Main Jail,,Santa Cruz,50,,0,,,,,212,9438,<11
 ,08/01/20,0,0,,Santa Cruz Main Jail,,Santa Cruz,62,,0,,,,,217,9439,<11
@@ -9541,8 +9540,8 @@ https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/22/22,,,U,,,Sant
 ,11/27/21,0,0,,Santa Cruz Main Jail,,Santa Cruz,585,,0,,,,,286,9508,0
 ,12/04/21,0,0,,Santa Cruz Main Jail,,Santa Cruz,55,,12,,,,,271,9509,<11
 ,12/11/21,0,0,,Santa Cruz Main Jail,,Santa Cruz,46,,0,,,,,271,9510,0
-,05/15/21,,,0,,,Santa Cruz,,0,,,12,,,,9638,
 ,12/18/21,0,0,,Santa Cruz Main Jail,,Santa Cruz,45,,0,,,,,277,9511,0
+,05/29/21,,,0,,,Santa Cruz,,0,,,16,,,,9640,
 ,12/25/21,0,0,,Santa Cruz Main Jail,,Santa Cruz,34,,0,,,,,271,9512,<11
 ,01/01/22,0,0,,Santa Cruz Main Jail,,Santa Cruz,22,,0,,,,,277,9513,0
 ,01/08/22,0,0,,Santa Cruz Main Jail,,Santa Cruz,79,,0,,,,,267,9514,<11
@@ -9579,8 +9578,8 @@ https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/22/22,,,U,,,Sant
 ,02/06/21,0,0,,Santa Cruz Medium Security,,Santa Cruz,83,,0,,,,,84,9545,0
 ,02/13/21,0,0,,Santa Cruz Medium Security,,Santa Cruz,85,,0,,,,,85,9546,0
 ,02/20/21,0,0,,Santa Cruz Medium Security,,Santa Cruz,84,,0,,,,,85,9547,0
-,05/22/21,,,0,,,Santa Cruz,,0,,,17,,,,9639,
 ,02/27/21,0,0,,Santa Cruz Medium Security,,Santa Cruz,83,,0,,,,,83,9548,0
+,06/05/21,,,0,,,Santa Cruz,,0,,,<11,,,,9641,
 ,03/06/21,0,0,,Santa Cruz Medium Security,,Santa Cruz,110,,0,,,,,86,9549,0
 ,03/13/21,0,0,,Santa Cruz Medium Security,,Santa Cruz,80,,0,,,,,85,9550,0
 ,03/20/21,0,0,,Santa Cruz Medium Security,,Santa Cruz,82,,0,,,,,91,9551,0
@@ -9617,8 +9616,8 @@ https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/22/22,,,U,,,Sant
 ,10/23/21,0,0,,Santa Cruz Medium Security,,Santa Cruz,<11,,0,,,,,70,9582,0
 ,10/30/21,0,0,,Santa Cruz Medium Security,,Santa Cruz,0,,0,,,,,58,9583,0
 ,11/06/21,0,0,,Santa Cruz Medium Security,,Santa Cruz,0,,0,,,,,49,9584,0
-,05/29/21,,,0,,,Santa Cruz,,0,,,16,,,,9640,
 ,11/13/21,0,0,,Santa Cruz Medium Security,,Santa Cruz,<11,,0,,,,,50,9585,0
+,06/12/21,,,0,,,Santa Cruz,,0,,,<11,,,,9642,
 ,11/20/21,0,0,,Santa Cruz Medium Security,,Santa Cruz,36,,0,,,,,45,9586,0
 ,11/27/21,0,0,,Santa Cruz Medium Security,,Santa Cruz,0,,0,,,,,43,9587,0
 ,12/04/21,0,0,,Santa Cruz Medium Security,,Santa Cruz,0,,0,,,,,64,9588,0
@@ -9670,9 +9669,8 @@ https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/22/22,,,U,,,Sant
 ,04/17/21,,,0,,,Santa Cruz,,0,,,85,,,,9634,
 ,04/24/21,,,0,,,Santa Cruz,,0,,,73,,,,9635,
 ,05/01/21,,,0,,,Santa Cruz,,0,,,92,,,,9636,
-,07/10/21,,,0,,,Santa Cruz,,0,,,13,,,,9646,
-,07/17/21,,,0,,,Santa Cruz,,0,,,11,,,,9647,
-,07/24/21,,,0,,,Santa Cruz,,0,,,<11,,,,9648,
+,05/08/21,,,0,,,Santa Cruz,,0,,,89,,,,9637,
+,05/15/21,,,0,,,Santa Cruz,,0,,,12,,,,9638,
 ,07/31/21,,,0,,,Santa Cruz,,0,,,15,,,,9649,
 ,08/07/21,,,0,,,Santa Cruz,,0,,,15,,,,9650,
 ,08/14/21,,,0,,,Santa Cruz,,<11,,,16,,,,9651,
@@ -9719,6 +9717,7 @@ https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/22/22,,,U,,,Sant
 ,11/14/20,0,0,,Shasta County Main Jail,,Shasta,0,,0,0,,0,0,400,9691,0
 ,11/21/20,0,0,,Shasta County Main Jail,,Shasta,<11,,0,0,,0,0,414,9692,0
 ,11/28/20,0,0,,Shasta County Main Jail,,Shasta,0,,0,0,,0,0,415,9693,0
+,03/13/21,,,0,,,Shasta,,0,,,0,,,,9787,
 ,12/05/20,0,0,,Shasta County Main Jail,,Shasta,0,,0,0,,0,0,405,9694,<11
 ,12/12/20,0,0,,Shasta County Main Jail,,Shasta,<11,,<11,0,,0,0,399,9695,0
 ,12/19/20,0,0,,Shasta County Main Jail,,Shasta,0,,0,0,,0,0,415,9696,0
@@ -9798,9 +9797,10 @@ https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/22/22,,,U,,,Sant
 ,11/14/20,,,<11,,,Shasta,,<11,,,14,,,,9770,
 ,11/21/20,,,<11,,,Shasta,,<11,,,<11,,,,9771,
 ,11/28/20,,,0,,,Shasta,,0,,,0,,,,9772,
+,02/06/21,,,0,,,Shasta,,0,,,0,,,,9782,
 ,02/13/21,,,0,,,Shasta,,0,,,0,,,,9783,
 ,02/20/21,,,0,,,Shasta,,0,,,<11,,,,9784,
-,06/26/21,,,0,,,Shasta,,0,,,0,,,,9802,
+,02/27/21,,,0,,,Shasta,,0,,,0,,,,9785,
 ,07/03/21,,,0,,,Shasta,,0,,,0,,,,9803,
 ,07/10/21,,,0,,,Shasta,,0,,,0,,,,9804,
 ,07/17/21,,,0,,,Shasta,,0,,,0,,,,9805,
@@ -9877,6 +9877,7 @@ https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/22/22,,,U,,,Sant
 ,05/15/21,0,0,,Siskiyou County Jail,,Siskiyou,<11,,0,0,,0,0,89,9876,0
 ,05/22/21,0,0,,Siskiyou County Jail,,Siskiyou,14,,0,0,,0,0,80,9877,0
 ,05/29/21,0,0,,Siskiyou County Jail,,Siskiyou,17,,0,0,,0,0,81,9878,0
+,11/20/21,,,0,,,Siskiyou,,0,,,0,,,,9981,
 ,06/05/21,0,0,,Siskiyou County Jail,,Siskiyou,17,,0,0,,0,0,86,9879,0
 ,06/12/21,0,0,,Siskiyou County Jail,,Siskiyou,14,,0,0,,0,0,88,9880,0
 ,06/19/21,0,0,,Siskiyou County Jail,,Siskiyou,17,,0,0,,0,0,83,9881,0
@@ -9889,6 +9890,7 @@ https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/22/22,,,U,,,Sant
 ,08/07/21,0,0,,Siskiyou County Jail,,Siskiyou,<11,,0,0,,0,0,79,9888,0
 ,08/14/21,0,0,,Siskiyou County Jail,,Siskiyou,<11,,0,0,,0,0,82,9889,0
 ,08/21/21,0,0,,Siskiyou County Jail,,Siskiyou,<11,,0,0,,0,0,83,9890,0
+,02/13/21,,,0,,,Siskiyou,,0,,,0,,,,9941,
 ,08/28/21,0,0,,Siskiyou County Jail,,Siskiyou,17,,0,0,,0,0,89,9891,0
 ,09/04/21,0,0,,Siskiyou County Jail,,Siskiyou,<11,,0,0,,0,0,82,9892,<11
 ,09/11/21,0,0,,Siskiyou County Jail,,Siskiyou,<11,,0,0,,0,0,81,9893,0
@@ -9939,7 +9941,6 @@ https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/22/22,,,U,,,Sant
 ,01/23/21,,,<11,,,Siskiyou,,0,,,<11,,,,9938,
 ,01/30/21,,,0,,,Siskiyou,,<11,,,<11,,,,9939,
 ,02/06/21,,,<11,,,Siskiyou,,0,,,<11,,,,9940,
-,02/13/21,,,0,,,Siskiyou,,0,,,0,,,,9941,
 ,02/20/21,,,0,,,Siskiyou,,0,,,<11,,,,9942,
 ,02/27/21,,,0,,,Siskiyou,,0,,,<11,,,,9943,
 ,03/06/21,,,0,,,Siskiyou,,0,,,0,,,,9944,
@@ -9979,7 +9980,6 @@ https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/22/22,,,U,,,Sant
 ,10/30/21,,,0,,,Siskiyou,,<11,,,<11,,,,9978,
 ,11/06/21,,,<11,,,Siskiyou,,0,,,<11,,,,9979,
 ,11/13/21,,,0,,,Siskiyou,,0,,,0,,,,9980,
-,11/20/21,,,0,,,Siskiyou,,0,,,0,,,,9981,
 ,11/27/21,,,0,,,Siskiyou,,0,,,0,,,,9982,
 ,12/04/21,,,0,,,Siskiyou,,0,,,<11,,,,9983,
 ,12/11/21,,,0,,,Siskiyou,,0,,,0,,,,9984,
@@ -10037,6 +10037,7 @@ https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/22/22,,,U,,,Sant
 ,06/05/21,0,0,,Claybank Facility,,Solano,<11,,0,0,,0,0,138,10036,0
 ,06/12/21,0,0,,Claybank Facility,,Solano,<11,,0,0,,0,0,139,10037,0
 ,06/19/21,0,0,,Claybank Facility,,Solano,<11,,0,0,,0,0,135,10038,0
+,03/06/21,,,0,,,Solano,,0,,,0,,,,10258,
 ,06/26/21,0,0,,Claybank Facility,,Solano,18,,0,0,,0,0,129,10039,0
 ,07/03/21,0,0,,Claybank Facility,,Solano,<11,,0,0,,0,0,129,10040,0
 ,07/10/21,0,0,,Claybank Facility,,Solano,<11,,0,0,,0,0,118,10041,0
@@ -10108,7 +10109,7 @@ https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/22/22,,,U,,,Sant
 ,04/10/21,0,0,,Solano County Justice Center,,Solano,34,,0,0,,0,0,205,10107,0
 ,04/17/21,0,0,,Solano County Justice Center,,Solano,27,,0,0,,0,0,197,10108,0
 ,04/24/21,0,0,,Solano County Justice Center,,Solano,32,,0,0,,0,0,210,10109,<11
-,03/06/21,,,0,,,Solano,,0,,,0,,,,10258,
+,03/13/21,,,0,,,Solano,,0,,,0,,,,10259,
 ,05/01/21,0,0,,Solano County Justice Center,,Solano,20,,0,0,,0,0,219,10110,0
 ,05/08/21,0,0,,Solano County Justice Center,,Solano,30,,0,0,,0,0,219,10111,0
 ,05/15/21,0,0,,Solano County Justice Center,,Solano,24,,0,0,,0,0,211,10112,0
@@ -10140,10 +10141,10 @@ https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/22/22,,,U,,,Sant
 ,11/20/21,0,0,,Solano County Justice Center,,Solano,18,,0,0,,0,0,187,10138,0
 ,11/27/21,0,0,,Solano County Justice Center,,Solano,<11,,0,0,,0,0,182,10139,0
 ,12/04/21,0,0,,Solano County Justice Center,,Solano,18,,0,0,,0,0,189,10140,0
+,01/16/21,,,<11,,,Sonoma,,<11,,,<11,,,,10488,
 ,12/11/21,0,0,,Solano County Justice Center,,Solano,16,,0,0,,0,0,173,10141,<11
-,01/30/21,,,<11,,,Sonoma,,<11,,,39,,,,10490,
 ,12/18/21,0,0,,Solano County Justice Center,,Solano,<11,,0,0,,0,0,186,10142,0
-,03/13/21,,,0,,,Solano,,0,,,0,,,,10259,
+,03/20/21,,,0,,,Solano,,0,,,0,,,,10260,
 ,12/25/21,0,0,,Solano County Justice Center,,Solano,15,,0,0,,0,0,180,10143,0
 ,01/01/22,0,0,,Solano County Justice Center,,Solano,19,,0,0,,0,0,U,10144,0
 ,01/08/22,0,0,,Solano County Justice Center,,Solano,18,,0,0,,0,0,177,10145,<11
@@ -10177,7 +10178,7 @@ https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/22/22,,,U,,,Sant
 ,01/16/21,0,0,,Stanton Correctional Facility,,Solano,<11,,0,0,,0,0,274,10173,0
 ,01/23/21,0,<11,,Stanton Correctional Facility,,Solano,<11,,0,0,,0,0,282,10174,<11
 ,01/30/21,0,0,,Stanton Correctional Facility,,Solano,<11,,0,0,,0,0,283,10175,0
-,03/20/21,,,0,,,Solano,,0,,,0,,,,10260,
+,03/27/21,,,0,,,Solano,,0,,,0,,,,10261,
 ,02/06/21,0,0,,Stanton Correctional Facility,,Solano,<11,,0,0,,0,0,270,10176,0
 ,02/13/21,0,0,,Stanton Correctional Facility,,Solano,<11,,0,0,,0,0,287,10177,0
 ,02/20/21,0,0,,Stanton Correctional Facility,,Solano,<11,,0,0,,0,0,285,10178,0
@@ -10260,7 +10261,6 @@ https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/22/22,,,U,,,Sant
 ,02/13/21,,,0,,,Solano,,0,,,<11,,,,10255,
 ,02/20/21,,,0,,,Solano,,0,,,0,,,,10256,
 ,02/27/21,,,0,,,Solano,,0,,,<11,,,,10257,
-,03/27/21,,,0,,,Solano,,0,,,0,,,,10261,
 ,04/03/21,,,0,,,Solano,,0,,,0,,,,10262,
 ,04/10/21,,,0,,,Solano,,0,,,0,,,,10263,
 ,04/17/21,,,0,,,Solano,,0,,,0,,,,10264,
@@ -10350,7 +10350,6 @@ https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/22/22,,,U,,,Sant
 ,05/22/21,0,0,,Sonoma Main Adult Detention,,Sonoma,62,,0,,,,,667,10348,0
 ,05/29/21,0,0,,Sonoma Main Adult Detention,,Sonoma,59,,0,,,,,683,10349,<11
 ,06/05/21,0,0,,Sonoma Main Adult Detention,,Sonoma,34,,0,,,,,694,10350,0
-,09/04/21,,,0,,,Sonoma,,<11,,,U,,,,10521,
 ,06/12/21,0,0,,Sonoma Main Adult Detention,,Sonoma,33,,0,,,,,700,10351,0
 ,06/19/21,0,0,,Sonoma Main Adult Detention,,Sonoma,42,,0,,,,,679,10352,0
 ,06/26/21,0,0,,Sonoma Main Adult Detention,,Sonoma,77,,0,,,,,709,10353,<11
@@ -10386,9 +10385,9 @@ https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/22/22,,,U,,,Sant
 ,01/22/22,0,0,,Sonoma Main Adult Detention,,Sonoma,312,,U,,,,,694,10383,35
 ,07/25/20,0,0,,Sonoma-North County Facility,,Sonoma,0,,0,,,,,39,10384,0
 ,08/01/20,0,0,,Sonoma-North County Facility,,Sonoma,0,,0,,,,,0,10385,0
-,09/11/21,,,<11,,,Sonoma,,<11,,,U,,,,10522,
 ,08/08/20,0,0,,Sonoma-North County Facility,,Sonoma,0,,0,,,,,0,10386,0
 ,08/15/20,0,0,,Sonoma-North County Facility,,Sonoma,0,,0,,,,,0,10387,0
+,10/02/21,,,0,,,Sonoma,,<11,,,58,,,,10525,
 ,08/22/20,0,0,,Sonoma-North County Facility,,Sonoma,0,,0,,,,,0,10388,0
 ,08/29/20,0,0,,Sonoma-North County Facility,,Sonoma,0,,0,,,,,0,10389,0
 ,09/05/20,0,0,,Sonoma-North County Facility,,Sonoma,0,,0,,,,,0,10390,0
@@ -10489,8 +10488,8 @@ https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/22/22,,,U,,,Sant
 ,12/26/20,,,<11,,,Sonoma,,<11,,,24,,,,10485,
 ,01/02/21,,,0,,,Sonoma,,<11,,,105,,,,10486,
 ,01/09/21,,,0,,,Sonoma,,<11,,,98,,,,10487,
-,01/16/21,,,<11,,,Sonoma,,<11,,,<11,,,,10488,
 ,01/23/21,,,<11,,,Sonoma,,<11,,,<11,,,,10489,
+,01/30/21,,,<11,,,Sonoma,,<11,,,39,,,,10490,
 ,02/06/21,,,<11,,,Sonoma,,<11,,,68,,,,10491,
 ,02/13/21,,,<11,,,Sonoma,,<11,,,66,,,,10492,
 ,02/20/21,,,<11,,,Sonoma,,0,,,43,,,,10493,
@@ -10521,9 +10520,10 @@ https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/22/22,,,U,,,Sant
 ,08/14/21,,,<11,,,Sonoma,,<11,,,62,,,,10518,
 ,08/21/21,,,<11,,,Sonoma,,0,,,35,,,,10519,
 ,08/28/21,,,0,,,Sonoma,,0,,,63,,,,10520,
+,09/04/21,,,0,,,Sonoma,,<11,,,U,,,,10521,
+,09/11/21,,,<11,,,Sonoma,,<11,,,U,,,,10522,
 ,09/18/21,,,0,,,Sonoma,,0,,,60,,,,10523,
 ,09/25/21,,,0,,,Sonoma,,0,,,59,,,,10524,
-,10/02/21,,,0,,,Sonoma,,<11,,,58,,,,10525,
 ,10/09/21,,,0,,,Sonoma,,0,,,53,,,,10526,
 ,10/16/21,,,<11,,,Sonoma,,0,,,49,,,,10527,
 ,10/23/21,,,0,,,Sonoma,,<11,,,49,,,,10528,
@@ -10561,7 +10561,6 @@ https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/22/22,,,U,,,Sant
 ,11/28/20,0,0,,Public Safety Center Units 1 & 2,,Stanislaus,134,,0,,,,,134,10560,49
 ,12/05/20,0,0,,Public Safety Center Units 1 & 2,,Stanislaus,85,,28,,,,,98,10561,18
 ,12/12/20,0,0,,Public Safety Center Units 1 & 2,,Stanislaus,55,,17,,,,,82,10562,<11
-,02/06/21,,,<11,,,Stanislaus,,<11,,,1395,,,,10807,
 ,12/19/20,0,0,,Public Safety Center Units 1 & 2,,Stanislaus,0,,16,,,,,109,10563,0
 ,12/26/20,0,0,,Public Safety Center Units 1 & 2,,Stanislaus,0,,0,,,,,168,10564,0
 ,01/02/21,0,0,,Public Safety Center Units 1 & 2,,Stanislaus,0,,0,,,,,163,10565,0
@@ -10581,8 +10580,8 @@ https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/22/22,,,U,,,Sant
 ,04/10/21,0,0,,Public Safety Center Units 1 & 2,,Stanislaus,0,,0,,,,,173,10579,0
 ,04/17/21,0,0,,Public Safety Center Units 1 & 2,,Stanislaus,0,,0,,,,,191,10580,0
 ,04/24/21,0,0,,Public Safety Center Units 1 & 2,,Stanislaus,63,,0,,,,,163,10581,18
-,05/01/21,0,0,,Public Safety Center Units 1 & 2,,Stanislaus,30,,<11,,,,,161,10582,14
 ,05/22/21,,,<11,,,Stanislaus,,0,,,0,,,,10822,
+,05/01/21,0,0,,Public Safety Center Units 1 & 2,,Stanislaus,30,,<11,,,,,161,10582,14
 ,05/08/21,0,0,,Public Safety Center Units 1 & 2,Some of those tested were done prior to transfer to CDCR,Stanislaus,34,,14,,,,,155,10583,<11
 ,05/15/21,0,<11,,Public Safety Center Units 1 & 2,,Stanislaus,97,,<11,,,,,134,10584,17
 ,05/22/21,0,0,,Public Safety Center Units 1 & 2,,Stanislaus,96,,18,,,,,133,10585,<11
@@ -10734,11 +10733,11 @@ https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/22/22,,,U,,,Sant
 ,02/27/21,0,0,,Stanislaus Co. Public Safety Center,,Stanislaus,30,,<11,,,,,860,10731,<11
 ,03/06/21,0,0,,Stanislaus Co. Public Safety Center,,Stanislaus,26,,<11,,,,,870,10732,<11
 ,03/13/21,0,0,,Stanislaus Co. Public Safety Center,,Stanislaus,21,,<11,,,,,835,10733,0
-,02/13/21,,,<11,,,Stanislaus,,<11,,,1311,,,,10808,
 ,03/20/21,0,0,,Stanislaus Co. Public Safety Center,,Stanislaus,19,,0,,,,,851,10734,0
+,10/09/21,0,0,,Stanislaus Co. Public Safety Center,,Stanislaus,<11,,0,,,,,928,10763,<11
+,10/16/21,0,0,,Stanislaus Co. Public Safety Center,,Stanislaus,0,,0,,,,,922,10764,0
 ,03/27/21,0,0,,Stanislaus Co. Public Safety Center,Those tested were done so as a requirement prior to transportation to state prison (CDCR),Stanislaus,36,,0,,,,,789,10735,0
 ,04/03/21,0,0,,Stanislaus Co. Public Safety Center,Those tested were done so as a requirement prior to transportation to state prison (CDCR),Stanislaus,<11,,0,,,,,834,10736,0
-,05/29/21,,,<11,,,Stanislaus,,<11,,,<11,,,,10823,
 ,04/10/21,0,0,,Stanislaus Co. Public Safety Center,,Stanislaus,0,,0,,,,,847,10737,0
 ,04/17/21,0,0,,Stanislaus Co. Public Safety Center,Those tested were done so as a requirement prior to transportation to DSH,Stanislaus,<11,,0,,,,,850,10738,0
 ,04/24/21,0,0,,Stanislaus Co. Public Safety Center,,Stanislaus,<11,,0,,,,,889,10739,0
@@ -10765,8 +10764,7 @@ https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/22/22,,,U,,,Sant
 ,09/18/21,0,0,,Stanislaus Co. Public Safety Center,,Stanislaus,181,,<11,,,,,925,10760,0
 ,09/25/21,0,0,,Stanislaus Co. Public Safety Center,,Stanislaus,103,,<11,,,,,935,10761,<11
 ,10/02/21,0,0,,Stanislaus Co. Public Safety Center,,Stanislaus,<11,,<11,,,,,936,10762,0
-,10/09/21,0,0,,Stanislaus Co. Public Safety Center,,Stanislaus,<11,,0,,,,,928,10763,<11
-,10/16/21,0,0,,Stanislaus Co. Public Safety Center,,Stanislaus,0,,0,,,,,922,10764,0
+,03/20/21,,,0,,,Stanislaus,,0,,,0,,,,10813,
 ,10/23/21,0,0,,Stanislaus Co. Public Safety Center,,Stanislaus,36,,0,,,,,927,10765,<11
 ,10/30/21,0,0,,Stanislaus Co. Public Safety Center,,Stanislaus,112,,<11,,,,,882,10766,0
 ,11/06/21,0,0,,Stanislaus Co. Public Safety Center,,Stanislaus,55,,0,,,,,865,10767,0
@@ -10809,12 +10807,12 @@ https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/22/22,,,U,,,Sant
 ,01/16/21,,,<11,,,Stanislaus,,<11,,,1330,,,,10804,
 ,01/23/21,,,<11,,,Stanislaus,,<11,,,1250,,,,10805,
 ,01/30/21,,,<11,,,Stanislaus,,0,,,1313,,,,10806,
-,10/10/20,,,0,,,Sutter,,0,,,0,,,,10948,
+,02/06/21,,,<11,,,Stanislaus,,<11,,,1395,,,,10807,
+,02/13/21,,,<11,,,Stanislaus,,<11,,,1311,,,,10808,
 ,02/20/21,,,<11,,,Stanislaus,,0,,,1326,,,,10809,
 ,02/27/21,,,0,,,Stanislaus,,0,,,1479,,,,10810,
 ,03/06/21,,,0,,,Stanislaus,,<11,,,99,,,,10811,
 ,03/13/21,,,<11,,,Stanislaus,,0,,,0,,,,10812,
-,03/20/21,,,0,,,Stanislaus,,0,,,0,,,,10813,
 ,03/27/21,,,0,,,Stanislaus,,<11,,,<11,,,,10814,
 ,04/03/21,,,<11,,,Stanislaus,,<11,,,<11,,,,10815,
 ,04/10/21,,,0,,,Stanislaus,,0,,,0,,,,10816,
@@ -10823,6 +10821,7 @@ https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/22/22,,,U,,,Sant
 ,05/01/21,,,0,,,Stanislaus,,0,,,0,,,,10819,
 ,05/08/21,,,,,,Stanislaus,,,,,No Data Reported,,,,10820,
 ,05/15/21,,,<11,,,Stanislaus,,<11,,,<11,,,,10821,
+,05/29/21,,,<11,,,Stanislaus,,<11,,,<11,,,,10823,
 ,06/05/21,,,0,,,Stanislaus,,0,,,0,,,,10824,
 ,06/12/21,,,<11,,,Stanislaus,,0,,,0,,,,10825,
 ,06/19/21,,,<11,,,Stanislaus,,0,,,0,,,,10826,
@@ -10903,10 +10902,10 @@ https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/22/22,,,U,,,Sant
 ,05/22/21,0,0,,Sutter County Jail,,Sutter,0,,0,0,,0,0,140,10901,0
 ,05/29/21,0,0,,Sutter County Jail,,Sutter,0,,0,0,,0,0,144,10902,0
 ,06/05/21,0,0,,Sutter County Jail,,Sutter,0,,0,0,,0,0,149,10903,0
-,10/17/20,,,0,,,Sutter,,0,,,0,,,,10949,
 ,06/12/21,0,0,,Sutter County Jail,,Sutter,0,,0,0,,0,0,166,10904,0
 ,06/19/21,0,0,,Sutter County Jail,,Sutter,0,,0,0,,0,0,149,10905,0
 ,06/26/21,0,0,,Sutter County Jail,,Sutter,<11,,0,0,,0,0,149,10906,0
+,11/14/20,,,0,,,Sutter,,0,,,<11,,,,10953,
 ,07/03/21,0,0,,Sutter County Jail,,Sutter,<11,,0,0,,0,0,144,10907,0
 ,07/10/21,0,0,,Sutter County Jail,,Sutter,<11,,0,0,,0,0,149,10908,0
 ,07/17/21,0,0,,Sutter County Jail,,Sutter,<11,,0,0,,0,0,135,10909,0
@@ -10948,10 +10947,11 @@ https://countysheriff.sccgov.org/covid-19/covid-19-dashboard,01/22/22,,,U,,,Sant
 ,09/19/20,,,0,,,Sutter,,0,,,0,,,,10945,
 ,09/26/20,,,0,,,Sutter,,0,,,0,,,,10946,
 ,10/03/20,,,0,,,Sutter,,0,,,0,,,,10947,
+,10/10/20,,,0,,,Sutter,,0,,,0,,,,10948,
+,10/17/20,,,0,,,Sutter,,0,,,0,,,,10949,
 ,10/24/20,,,0,,,Sutter,,<11,,,<11,,,,10950,
 ,10/31/20,,,0,,,Sutter,,0,,,0,,,,10951,
 ,11/07/20,,,0,,,Sutter,,0,,,0,,,,10952,
-,11/14/20,,,0,,,Sutter,,0,,,<11,,,,10953,
 ,11/21/20,,,<11,,,Sutter,,<11,,,<11,,,,10954,
 ,11/28/20,,,<11,,,Sutter,,<11,,,<11,,,,10955,
 ,12/05/20,,,0,,,Sutter,,0,,,0,,,,10956,
@@ -11009,7 +11009,6 @@ Mandatory weekly testing,11/20/21,,,0,,,Sutter,,0,,,50,,,,11006,
 ,12/04/21,,,0,,,Sutter,,0,,,45,,,,11008,
 ,12/11/21,,,0,,,Sutter,,0,,,45,,,,11009,
 ,12/18/21,,,0,,,Sutter,,<11,,,37,,,,11010,
-,04/24/21,0,0,,Tehama County Jail,,Tehama,<11,,0,,,,,135,11057,0
 "Staff tested positive while on days off, after testing negative at work prior",12/25/21,,,<11,,,Sutter,,<11,,,40,,,,11011,
 ,01/01/22,,,0,,,Sutter,,<11,,,45,,,,11012,
 ,01/08/22,,,<11,,,Sutter,,<11,,,45,,,,11013,
@@ -11056,6 +11055,7 @@ Mandatory weekly testing,11/20/21,,,0,,,Sutter,,0,,,50,,,,11006,
 ,04/03/21,0,0,,Tehama County Jail,,Tehama,0,,0,0,,0,0,135,11054,0
 ,04/10/21,0,0,,Tehama County Jail,,Tehama,<11,,0,0,,0,0,142,11055,0
 ,04/17/21,0,0,,Tehama County Jail,,Tehama,<11,,0,,,,,135,11056,0
+,04/24/21,0,0,,Tehama County Jail,,Tehama,<11,,0,,,,,135,11057,0
 ,05/01/21,0,0,,Tehama County Jail,,Tehama,<11,,0,,,,,140,11058,0
 ,05/08/21,0,0,,Tehama County Jail,,Tehama,0,,0,,,,,137,11059,0
 ,05/15/21,0,0,,Tehama County Jail,,Tehama,<11,,0,0,,0,0,142,11060,0
@@ -11101,6 +11101,7 @@ Mandatory weekly testing,11/20/21,,,0,,,Sutter,,0,,,50,,,,11006,
 ,09/05/20,,,,,,Tehama,,,,,No Data Reported,,,,11100,
 ,09/12/20,,,,,,Tehama,,,,,No Data Reported,,,,11101,
 ,09/19/20,,,,,,Tehama,,,,,No Data Reported,,,,11102,
+,12/25/21,,,0,,,Tehama,,0,,,21,,,,11167,
 ,09/26/20,,,,,,Tehama,,,,,No Data Reported,,,,11103,
 ,10/03/20,,,,,,Tehama,,,,,No Data Reported,,,,11104,
 ,10/10/20,,,,,,Tehama,,,,,No Data Reported,,,,11105,
@@ -11165,7 +11166,6 @@ Mandatory weekly testing,11/20/21,,,0,,,Sutter,,0,,,50,,,,11006,
 ,12/04/21,,,0,,,Tehama,,0,,,12,,,,11164,
 ,12/11/21,,,0,,,Tehama,,0,,,16,,,,11165,
 ,12/18/21,,,0,,,Tehama,,0,,,14,,,,11166,
-,12/25/21,,,0,,,Tehama,,0,,,21,,,,11167,
 ,01/01/22,,,0,,,Tehama,,0,,,<11,,,,11168,
 ,01/08/22,,,<11,,,Tehama,,<11,,,22,,,,11169,
 ,01/15/22,,,<11,,,Tehama,,<11,,,16,,,,11170,
@@ -11202,10 +11202,10 @@ Mandatory weekly testing,11/20/21,,,0,,,Sutter,,0,,,50,,,,11006,
 ,01/16/21,0,0,,Trinity County Detention Facility,,Trinity,<11,,0,0,,,,50,11201,0
 ,01/23/21,0,0,,Trinity County Detention Facility,,Trinity,<11,,0,,,,,46,11202,0
 ,01/30/21,0,0,,Trinity County Detention Facility,,Trinity,<11,,0,,,,,46,11203,0
-,05/22/21,,,0,,,Trinity,,0,,,0,,,,11294,
 ,02/06/21,0,0,,Trinity County Detention Facility,,Trinity,<11,,0,0,,,,55,11204,0
 ,02/13/21,0,0,,Trinity County Detention Facility,,Trinity,<11,,0,,,,,46,11205,0
 ,02/20/21,0,0,,Trinity County Detention Facility,,Trinity,<11,,0,,,,,50,11206,0
+,06/26/21,,,0,,,Trinity,,0,,,0,,,,11299,
 ,02/27/21,0,0,,Trinity County Detention Facility,,Trinity,<11,,0,,,,0,45,11207,0
 ,03/06/21,0,0,,Trinity County Detention Facility,,Trinity,<11,,0,,,,,48,11208,0
 ,03/13/21,0,0,,Trinity County Detention Facility,,Trinity,<11,,0,,,,,3,11209,0
@@ -11239,6 +11239,7 @@ Mandatory weekly testing,11/20/21,,,0,,,Sutter,,0,,,50,,,,11006,
 ,10/16/21,0,0,,Trinity County Detention Facility,,Trinity,<11,,0,0,,,,46,11237,0
 ,10/23/21,0,0,,Trinity County Detention Facility,,Trinity,0,,0,,,,,52,11238,0
 ,10/30/21,0,0,,Trinity County Detention Facility,,Trinity,<11,,0,0,,,0,52,11239,0
+,06/05/21,,,0,,,Trinity,,0,,,0,,,,11296,
 ,11/06/21,0,0,,Trinity County Detention Facility,,Trinity,<11,,0,0,,,,52,11240,0
 ,11/13/21,0,0,,Trinity County Detention Facility,,Trinity,<11,,0,,,,,57,11241,0
 ,11/20/21,0,0,,Trinity County Detention Facility,,Trinity,<11,,0,,,,,54,11242,0
@@ -11293,11 +11294,10 @@ Mandatory weekly testing,11/20/21,,,0,,,Sutter,,0,,,50,,,,11006,
 ,05/01/21,,,0,,,Trinity,,0,,,0,,,,11291,
 ,05/08/21,,,0,,,Trinity,,0,,,0,,,,11292,
 ,05/15/21,,,0,,,Trinity,,0,,,0,,,,11293,
+,05/22/21,,,0,,,Trinity,,0,,,0,,,,11294,
 ,05/29/21,,,0,,,Trinity,,0,,,0,,,,11295,
-,06/05/21,,,0,,,Trinity,,0,,,0,,,,11296,
 ,06/12/21,,,,,,Trinity,,,,,No Data Reported,,,,11297,
 ,06/19/21,,,0,,,Trinity,,0,,,0,,,,11298,
-,06/26/21,,,0,,,Trinity,,0,,,0,,,,11299,
 ,07/03/21,,,,,,Trinity,,,,,No Data Reported,,,,11300,
 ,07/10/21,,,0,,,Trinity,,0,,,0,,,,11301,
 ,07/17/21,,,0,,,Trinity,,0,,,<11,,,,11302,
@@ -11344,6 +11344,7 @@ Mandatory weekly testing,11/20/21,,,0,,,Sutter,,0,,,50,,,,11006,
 ,10/24/20,0,0,,Bob Wiley Detention Facility,,Tulare,0,,0,0,,0,0,596,11343,0
 ,10/31/20,0,0,,Bob Wiley Detention Facility,,Tulare,0,,0,0,,,0,567,11344,0
 ,11/07/20,0,0,,Bob Wiley Detention Facility,,Tulare,0,,0,0,,0,0,579,11345,0
+,07/31/21,,,,No Data Reported,,Tuolumne,,,,,,,,,11725,
 ,11/14/20,0,0,,Bob Wiley Detention Facility,,Tulare,0,,0,0,,0,0,589,11346,0
 ,11/21/20,0,0,,Bob Wiley Detention Facility,,Tulare,0,,0,0,,,0,602,11347,0
 ,11/28/20,0,0,,Bob Wiley Detention Facility,,Tulare,0,,0,0,,,0,594,11348,0
@@ -11376,8 +11377,8 @@ Mandatory weekly testing,11/20/21,,,0,,,Sutter,,0,,,50,,,,11006,
 ,06/12/21,0,0,,Bob Wiley Detention Facility,,Tulare,0,,0,0,,,0,642,11375,0
 ,06/19/21,0,0,,Bob Wiley Detention Facility,,Tulare,0,,0,0,,,0,640,11376,0
 ,06/26/21,0,0,,Bob Wiley Detention Facility,,Tulare,0,,0,0,,,0,627,11377,0
-,10/02/21,,,0,,,Tuolumne,,0,,,35,,,,11864,
 ,07/03/21,0,0,,Bob Wiley Detention Facility,,Tulare,0,,0,0,,,0,609,11378,0
+,08/07/21,,,,No Data Reported,,Tuolumne,,,,,,,,,11726,
 ,07/10/21,0,0,,Bob Wiley Detention Facility,,Tulare,0,,0,0,,,0,608,11379,0
 ,07/17/21,0,0,,Bob Wiley Detention Facility,,Tulare,0,,0,0,,,0,614,11380,0
 ,07/24/21,0,0,,Bob Wiley Detention Facility,,Tulare,<11,,0,0,,0,0,596,11381,0
@@ -11441,8 +11442,8 @@ Mandatory weekly testing,11/20/21,,,0,,,Sutter,,0,,,50,,,,11006,
 ,02/27/21,0,0,,Pre-Trial Facility,,Tulare,257,,0,0,,,0,288,11439,0
 ,03/06/21,0,0,,Pre-Trial Facility,,Tulare,151,,0,0,,,0,297,11440,0
 ,03/13/21,0,0,,Pre-Trial Facility,,Tulare,181,,0,<11,,,0,285,11441,<11
-,09/04/21,0,0,,Tulare County Jail,,Tulare,0,,0,0,,0,0,0,11617,0
 ,03/20/21,0,0,,Pre-Trial Facility,,Tulare,114,,0,0,,,<11,274,11442,<11
+,09/26/20,0,0,,Tulare County Jail,,Tulare,0,,0,0,,0,0,0,11574,0
 ,03/27/21,0,0,,Pre-Trial Facility,,Tulare,102,,0,0,,,<11,291,11443,<11
 ,04/03/21,0,0,,Pre-Trial Facility,,Tulare,162,,0,0,,,<11,302,11444,<11
 ,04/10/21,0,0,,Pre-Trial Facility,,Tulare,150,,0,0,,,0,299,11445,0
@@ -11474,8 +11475,8 @@ Mandatory weekly testing,11/20/21,,,0,,,Sutter,,0,,,50,,,,11006,
 ,10/09/21,0,0,,Pre-Trial Facility,,Tulare,356,,0,0,,0,0,319,11471,<11
 ,10/16/21,0,0,,Pre-Trial Facility,,Tulare,252,,0,<11,,,<11,289,11472,<11
 ,10/23/21,0,0,,Pre-Trial Facility,,Tulare,234,,<11,<11,,,,293,11473,<11
-,09/11/21,0,0,,Tulare County Jail,,Tulare,0,,0,0,,,0,0,11618,0
 ,10/30/21,0,0,,Pre-Trial Facility,,Tulare,349,,<11,<11,,,,270,11474,<11
+,10/03/20,0,0,,Tulare County Jail,,Tulare,0,,0,0,,0,0,0,11575,0
 ,11/06/21,0,0,,Pre-Trial Facility,,Tulare,349,,<11,<11,,,,270,11475,<11
 ,11/13/21,0,0,,Pre-Trial Facility,,Tulare,365,,<11,0,,,0,369,11476,0
 ,11/20/21,0,0,,Pre-Trial Facility,,Tulare,341,,<11,,,,,263,11477,<11
@@ -11574,10 +11575,8 @@ Mandatory weekly testing,11/20/21,,,0,,,Sutter,,0,,,50,,,,11006,
 ,08/29/20,0,0,,Tulare County Jail,,Tulare,0,,0,0,,0,0,0,11570,0
 ,09/05/20,0,0,,Tulare County Jail,,Tulare,0,,0,0,,0,0,0,11571,0
 ,09/12/20,0,0,,Tulare County Jail,No inmates housed in this facility currently.,Tulare,0,,0,0,,0,0,0,11572,0
-,08/21/21,0,0,,Tulare County Jail,Facility remains unoccupied.,Tulare,0,,0,0,,,0,0,11615,0
 ,09/19/20,0,0,,Tulare County Jail,No inmates housed in this facility currently.,Tulare,0,,0,0,,0,0,0,11573,0
-,09/26/20,0,0,,Tulare County Jail,,Tulare,0,,0,0,,0,0,0,11574,0
-,10/03/20,0,0,,Tulare County Jail,,Tulare,0,,0,0,,0,0,0,11575,0
+,07/25/20,,,,No Data Reported,,Tuolumne,,,,,,,,,11722,
 ,10/10/20,0,0,,Tulare County Jail,,Tulare,0,,0,0,,0,0,0,11576,0
 ,10/17/20,0,0,,Tulare County Jail,,Tulare,0,,0,0,,0,0,0,11577,0
 ,10/24/20,0,0,,Tulare County Jail,,Tulare,0,,0,0,,,0,0,11578,0
@@ -11617,7 +11616,10 @@ Mandatory weekly testing,11/20/21,,,0,,,Sutter,,0,,,50,,,,11006,
 ,07/31/21,0,0,,Tulare County Jail,,Tulare,0,,0,0,,0,0,0,11612,0
 ,08/07/21,0,0,,Tulare County Jail,,Tulare,0,,0,0,,0,0,0,11613,0
 ,08/14/21,0,0,,Tulare County Jail,,Tulare,0,,0,0,,0,0,0,11614,0
+,08/21/21,0,0,,Tulare County Jail,Facility remains unoccupied.,Tulare,0,,0,0,,,0,0,11615,0
 ,08/28/21,0,0,,Tulare County Jail,,Tulare,0,,0,0,,,0,0,11616,0
+,09/04/21,0,0,,Tulare County Jail,,Tulare,0,,0,0,,0,0,0,11617,0
+,09/11/21,0,0,,Tulare County Jail,,Tulare,0,,0,0,,,0,0,11618,0
 ,09/18/21,0,0,,Tulare County Jail,,Tulare,0,,0,0,,0,0,0,11619,0
 ,09/25/21,0,0,,Tulare County Jail,,Tulare,0,,0,0,,,0,0,11620,0
 ,10/02/21,,,,Tulare County Jail,Facility remains unoccupied.,Tulare,,,,,,,,,11621,
@@ -11660,8 +11662,8 @@ Mandatory weekly testing,11/20/21,,,0,,,Sutter,,0,,,50,,,,11006,
 ,11/07/20,,,<11,,,Tulare,,0,,,<11,,,,11658,
 ,11/14/20,,,0,,,Tulare,,0,,,<11,,,,11659,
 ,11/21/20,,,,,,Tulare,,,,,Combined with reporting period 11/22/2020 - 11/28/2020 data.,,,,11660,
-,07/25/20,,,,No Data Reported,,Tuolumne,,,,,,,,,11722,
 ,08/01/20,,,,No Data Reported,,Tuolumne,,,,,,,,,11723,
+,08/08/20,,,,No Data Reported,,Tuolumne,,,,,,,,,11724,
 "Week ending 11/21 numbers are combined with this week, unable to provide seprate numbers from County HR.",11/28/20,,,<11,,,Tulare,,<11,,,39,,,,11661,
 ,12/05/20,,,<11,,,Tulare,,<11,,,25,,,,11662,
 ,12/12/20,,,<11,,,Tulare,,16,,,41,,,,11663,
@@ -11723,9 +11725,6 @@ Mandatory weekly testing,11/20/21,,,0,,,Sutter,,0,,,50,,,,11006,
 ,01/08/22,,,0,,,Tulare,,<11,,,394,,,,11719,
 ,01/15/22,,,0,,,Tulare,,11,,,357,,,,11720,
 ,01/22/22,,,<11,,,Tulare,,43,,,341,,,,11721,
-,08/08/20,,,,No Data Reported,,Tuolumne,,,,,,,,,11724,
-,07/31/21,,,,No Data Reported,,Tuolumne,,,,,,,,,11725,
-,08/07/21,,,,No Data Reported,,Tuolumne,,,,,,,,,11726,
 ,08/15/20,0,0,,Tuolumne County Jail,,Tuolumne,0,,0,,,,,99,11727,0
 ,08/22/20,0,0,,Tuolumne County Jail,,Tuolumne,0,,0,,,,,99,11728,0
 ,08/29/20,0,0,,Tuolumne County Jail,,Tuolumne,<11,,0,,,,,100,11729,0
@@ -11799,7 +11798,6 @@ Mandatory weekly testing,11/20/21,,,0,,,Sutter,,0,,,50,,,,11006,
 ,12/25/21,0,0,,Tuolumne County Jail,,Tuolumne,<11,,0,0,,0,0,119,11797,0
 ,01/01/22,0,0,,Tuolumne County Jail,,Tuolumne,16,,0,<11,,0,0,121,11798,<11
 ,01/08/22,0,0,,Tuolumne County Jail,,Tuolumne,24,,0,0,,0,0,125,11799,0
-,09/25/21,,,0,,,Tuolumne,,0,,,35,,,,11863,
 ,01/15/22,0,0,,Tuolumne County Jail,,Tuolumne,18,,0,<11,,0,0,126,11800,<11
 ,01/22/22,0,0,,Tuolumne County Jail,,Tuolumne,18,,0,<11,,<11,,126,11801,<11
 ,07/25/20,,,,,,Tuolumne,,,,,No Data Reported,,,,11802,
@@ -11863,6 +11861,8 @@ Mandatory weekly testing,11/20/21,,,0,,,Sutter,,0,,,50,,,,11006,
 ,09/04/21,,,0,,,Tuolumne,,0,,,35,,,,11860,
 ,09/11/21,,,0,,,Tuolumne,,0,,,35,,,,11861,
 ,09/18/21,,,0,,,Tuolumne,,0,,,35,,,,11862,
+,09/25/21,,,0,,,Tuolumne,,0,,,35,,,,11863,
+,10/02/21,,,0,,,Tuolumne,,0,,,35,,,,11864,
 ,10/09/21,,,0,,,Tuolumne,,0,,,35,,,,11865,
 ,10/16/21,,,0,,,Tuolumne,,<11,,,35,,,,11866,
 ,10/23/21,,,<11,,,Tuolumne,,<11,,,35,,,,11867,
@@ -11898,12 +11898,12 @@ Mandatory weekly testing,11/20/21,,,0,,,Sutter,,0,,,50,,,,11006,
 ,11/14/20,0,0,,Ventura County Main Jail/Todd Road Jail,,Ventura,493,,17,,,,,"1,341",11897,<11
 ,11/21/20,0,0,,Ventura County Main Jail/Todd Road Jail,,Ventura,170,,12,,,,,"1,387",11898,<11
 ,11/28/20,0,0,,Ventura County Main Jail/Todd Road Jail,,Ventura,195,,17,,,,,"1,392",11899,<11
-,07/17/21,,,0,,,Ventura,,0,,,0,,,,12011,
 ,12/05/20,0,0,,Ventura County Main Jail/Todd Road Jail,,Ventura,177,,24,,,,,"1,358",11900,<11
+,07/31/21,,,0,,,Ventura,,0,,,0,,,,12013,
 ,12/12/20,0,0,,Ventura County Main Jail/Todd Road Jail,,Ventura,280,,12,,,,,"1,359",11901,21
 ,12/19/20,0,0,,Ventura County Main Jail/Todd Road Jail,,Ventura,129,,16,,,,,"1,339",11902,28
+,11/14/20,,,0,,,Ventura,,0,,,91,,,,11976,
 ,12/26/20,0,0,,Ventura County Main Jail/Todd Road Jail,,Ventura,184,,31,,,,,"1,272",11903,<11
-,11/28/20,,,0,,,Ventura,,0,,,79,,,,11978,
 ,01/02/21,0,0,,Ventura County Main Jail/Todd Road Jail,,Ventura,128,,19,,,,,"1,283",11904,<11
 ,01/09/21,0,0,,Ventura County Main Jail/Todd Road Jail,,Ventura,198,,24,,,,,"1,288",11905,12
 ,01/16/21,0,0,,Ventura County Main Jail/Todd Road Jail,,Ventura,315,,31,,,,,"1,312",11906,<11
@@ -11954,8 +11954,8 @@ Mandatory weekly testing,11/20/21,,,0,,,Sutter,,0,,,50,,,,11006,
 ,11/27/21,0,0,,Ventura County Main Jail/Todd Road Jail,,Ventura,161,,<11,,,,,"1,193",11951,0
 ,12/04/21,0,0,,Ventura County Main Jail/Todd Road Jail,,Ventura,268,,<11,,,,,"1,194",11952,<11
 ,12/11/21,0,0,,Ventura County Main Jail/Todd Road Jail,,Ventura,240,,13,,,,,"1,231",11953,<11
-,07/24/21,,,0,,,Ventura,,0,,,0,,,,12012,
 ,12/18/21,0,0,,Ventura County Main Jail/Todd Road Jail,,Ventura,794,,<11,,,,,"1,069",11954,29
+,08/07/21,,,0,,,Ventura,,0,,,0,,,,12014,
 ,12/25/21,0,0,,Ventura County Main Jail/Todd Road Jail,,Ventura,182,,52,,,,,"1,103",11955,21
 ,01/01/22,0,0,,Ventura County Main Jail/Todd Road Jail,,Ventura,187,,87,,,,,"1,083",11956,50
 ,01/08/22,0,0,,Ventura County Main Jail/Todd Road Jail,,Ventura,188,,33,,,,,"1,051",11957,68
@@ -11977,8 +11977,8 @@ Mandatory weekly testing,11/20/21,,,0,,,Sutter,,0,,,50,,,,11006,
 ,10/24/20,,,0,,,Ventura,,0,,,78,,,,11973,
 ,10/31/20,,,0,,,Ventura,,0,,,69,,,,11974,
 ,11/07/20,,,0,,,Ventura,,<11,,,70,,,,11975,
-,11/14/20,,,0,,,Ventura,,0,,,91,,,,11976,
 ,11/21/20,,,0,,,Ventura,,0,,,111,,,,11977,
+,11/28/20,,,0,,,Ventura,,0,,,79,,,,11978,
 ,12/05/20,,,0,,,Ventura,,<11,,,132,,,,11979,
 ,12/12/20,,,0,,,Ventura,,<11,,,151,,,,11980,
 ,12/19/20,,,0,,,Ventura,,0,,,58,,,,11981,
@@ -12011,8 +12011,8 @@ Mandatory weekly testing,11/20/21,,,0,,,Sutter,,0,,,50,,,,11006,
 ,06/26/21,,,0,,,Ventura,,0,,,0,,,,12008,
 ,07/03/21,,,0,,,Ventura,,0,,,0,,,,12009,
 ,07/10/21,,,0,,,Ventura,,0,,,0,,,,12010,
-,07/31/21,,,0,,,Ventura,,0,,,0,,,,12013,
-,08/07/21,,,0,,,Ventura,,0,,,0,,,,12014,
+,07/17/21,,,0,,,Ventura,,0,,,0,,,,12011,
+,07/24/21,,,0,,,Ventura,,0,,,0,,,,12012,
 ,08/14/21,,,0,,,Ventura,,0,,,0,,,,12015,
 ,08/21/21,,,0,,,Ventura,,0,,,0,,,,12016,
 ,08/28/21,,,0,,,Ventura,,0,,,204,,,,12017,
@@ -12052,8 +12052,8 @@ Mandatory weekly testing,11/20/21,,,0,,,Sutter,,0,,,50,,,,11006,
 ,10/17/20,0,0,,Monroe Detention Center,,Yolo,0,,0,0,,0,0,215,12051,0
 ,10/24/20,0,0,,Monroe Detention Center,,Yolo,<11,,0,0,,0,0,213,12052,0
 ,10/31/20,0,0,,Monroe Detention Center,,Yolo,<11,,0,0,,0,0,215,12053,0
-,10/24/20,,,,,,Yolo,,,,,No Data Reported,,,,12131,
 ,11/07/20,0,0,,Monroe Detention Center,,Yolo,<11,,0,0,,0,0,229,12054,0
+,11/07/20,,,,,,Yolo,,,,,No Data Reported,,,,12133,
 ,11/14/20,0,0,,Monroe Detention Center,,Yolo,0,,0,0,,0,0,219,12055,0
 ,11/21/20,0,0,,Monroe Detention Center,,Yolo,0,,0,0,,0,0,224,12056,0
 ,11/28/20,0,0,,Monroe Detention Center,,Yolo,<11,,0,0,,0,0,214,12057,0
@@ -12130,8 +12130,8 @@ Mandatory weekly testing,11/20/21,,,0,,,Sutter,,0,,,50,,,,11006,
 ,10/03/20,,,,,,Yolo,,,,,No Data Reported,,,,12128,
 ,10/10/20,,,,,,Yolo,,,,,No Data Reported,,,,12129,
 ,10/17/20,,,,,,Yolo,,,,,No Data Reported,,,,12130,
+,10/24/20,,,,,,Yolo,,,,,No Data Reported,,,,12131,
 ,10/31/20,,,,,,Yolo,,,,,No Data Reported,,,,12132,
-,11/07/20,,,,,,Yolo,,,,,No Data Reported,,,,12133,
 ,11/14/20,,,,,,Yolo,,,,,No Data Reported,,,,12134,
 ,11/21/20,,,,,,Yolo,,,,,No Data Reported,,,,12135,
 ,11/28/20,,,,,,Yolo,,,,,No Data Reported,,,,12136,
@@ -12227,6 +12227,7 @@ Mandatory weekly testing,11/20/21,,,0,,,Sutter,,0,,,50,,,,11006,
 ,02/20/21,0,0,,Yuba County Jail,,Yuba,31,,0,0,,0,0,205,12226,0
 ,02/27/21,0,0,,Yuba County Jail,,Yuba,<11,,0,0,,0,0,197,12227,0
 ,03/06/21,0,0,,Yuba County Jail,,Yuba,17,,0,0,,0,0,203,12228,0
+,08/21/21,,,U,,,Yuba,,U,,,U,,,,12331,
 ,03/13/21,0,0,,Yuba County Jail,,Yuba,12,,0,0,,0,0,202,12229,0
 ,03/20/21,0,0,,Yuba County Jail,,Yuba,<11,,0,0,,0,0,203,12230,0
 ,03/27/21,0,0,,Yuba County Jail,,Yuba,15,,0,0,,0,0,205,12231,0
@@ -12262,8 +12263,8 @@ Mandatory weekly testing,11/20/21,,,0,,,Sutter,,0,,,50,,,,11006,
 ,10/23/21,0,0,,Yuba County Jail,,Yuba,27,,0,0,,0,0,194,12261,0
 ,10/30/21,0,0,,Yuba County Jail,,Yuba,22,,0,0,,0,0,192,12262,0
 ,11/06/21,0,0,,Yuba County Jail,,Yuba,27,,0,0,,0,0,191,12263,0
-,08/07/21,,,U,,,Yuba,,U,,,U,,,,12329,
 ,11/13/21,0,0,,Yuba County Jail,,Yuba,22,,0,0,,0,0,198,12264,0
+,08/28/21,,,U,,,Yuba,,U,,,U,,,,12332,
 ,11/20/21,0,0,,Yuba County Jail,,Yuba,28,,0,0,,0,0,190,12265,0
 ,11/27/21,0,0,,Yuba County Jail,,Yuba,22,,0,0,,0,0,192,12266,0
 ,12/04/21,0,0,,Yuba County Jail,,Yuba,22,,0,0,,0,0,196,12267,0
@@ -12328,9 +12329,8 @@ Mandatory weekly testing,11/20/21,,,0,,,Sutter,,0,,,50,,,,11006,
 ,07/17/21,,,U,,,Yuba,,U,,,U,,,,12326,
 ,07/24/21,,,U,,,Yuba,,U,,,U,,,,12327,
 ,07/31/21,,,U,,,Yuba,,U,,,U,,,,12328,
+,08/07/21,,,U,,,Yuba,,U,,,U,,,,12329,
 ,08/14/21,,,U,,,Yuba,,U,,,U,,,,12330,
-,08/21/21,,,U,,,Yuba,,U,,,U,,,,12331,
-,08/28/21,,,U,,,Yuba,,U,,,U,,,,12332,
 ,09/04/21,,,U,,,Yuba,,U,,,U,,,,12333,
 ,09/11/21,,,U,,,Yuba,,U,,,U,,,,12334,
 ,09/18/21,,,U,,,Yuba,,U,,,U,,,,12335,
