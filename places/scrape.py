@@ -90,8 +90,7 @@ def _handle_exception(slug, exception):
                 head=head_branch,
                 draft=True
             )
-
-
+        
 @click.command()
 def main():
     slug_list = [
@@ -133,12 +132,12 @@ def main():
         'santa-clara',
         'santa-cruz',
         'shasta',
-        'sierra',
+        #'sierra',
         'siskiyou',
         'solano',
         'sonoma',
         'stanislaus',
-        'sutter',
+        #'sutter',
         'trinity',
         'tulare',
         'ventura',
