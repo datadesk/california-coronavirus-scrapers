@@ -132,7 +132,7 @@ def main():
         'santa-clara',
         'santa-cruz',
         'shasta',
-        #'sierra',
+        'sierra',
         'siskiyou',
         'solano',
         'sonoma',
