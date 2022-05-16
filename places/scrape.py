@@ -90,7 +90,8 @@ def _handle_exception(slug, exception):
                 head=head_branch,
                 draft=True
             )
-        
+
+
 @click.command()
 def main():
     slug_list = [
