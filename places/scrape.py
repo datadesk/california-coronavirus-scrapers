@@ -96,7 +96,7 @@ def main():
     slug_list = [
         'alameda',
         'amador',
-        #'butte',
+        # 'butte',
         'calaveras',
         'contra-costa',
         # 'el-dorado',
@@ -137,7 +137,7 @@ def main():
         'solano',
         'sonoma',
         'stanislaus',
-        #'sutter',
+        # 'sutter',
         'trinity',
         'tulare',
         'ventura',
