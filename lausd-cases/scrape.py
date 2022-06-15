@@ -52,7 +52,7 @@ def load():
         time.sleep(10)
         if len(divs) > 24:
             time.sleep(30)
-            date_raw = divs[5]
+            date_raw = divs[6]
             date_raw.text != ''
             break
 
