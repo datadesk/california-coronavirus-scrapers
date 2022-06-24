@@ -137,7 +137,7 @@ def main():
         'siskiyou',
         'solano',
         'sonoma',
-        'stanislaus',
+        #'stanislaus',
         # 'sutter',
         'trinity',
         'tulare',
