@@ -71,7 +71,7 @@ def clickToOpen():
 
     arrow = driver.find_element_by_class_name("dropdown-chevron")
 
-    btn.click()
+    arrow.click()
 
     time.sleep(.2)
 
