@@ -231,7 +231,7 @@ def get_data(i):
 def scrape():
     date_clean, timestamp = load()
 
-    clearSearch()
+    # clearSearch()
 
     end = findEndpoint()
 
