@@ -96,7 +96,7 @@ def _handle_exception(slug, exception):
 def main():
     slug_list = [
         'alameda',
-        'amador', #no map but collecting data
+        #'amador', #no map but collecting data
         # 'butte',
         'calaveras',
         'contra-costa',
