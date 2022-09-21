@@ -1,0 +1,59 @@
+county,county_fips,state,county_population,health_service_area_number,health_service_area,health_service_area_population,covid_inpatient_bed_utilization,covid_hospital_admissions_per_100k,covid_cases_per_100k,covid_19_community_level,date_updated
+Alameda County,6001,California,1671329,766,"Alameda (Oakland), CA - Contra Costa, CA",2824855,8.0,9.1,106.02,Low,2022-02-24
+Alpine County,6003,California,1129,701,"Washoe (Reno), NV - Carson City, NV",692072,8.9,14.7,0.0,Medium,2022-02-24
+Amador County,6005,California,39752,750,"San Joaquin (Stockton), CA - Calaveras, CA",847805,14.4,15.5,196.22,Medium,2022-02-24
+Butte County,6007,California,219186,697,"Butte (Chico), CA - Tehama, CA",312663,15.8,16.6,235.87,High,2022-02-24
+Calaveras County,6009,California,45905,750,"San Joaquin (Stockton), CA - Calaveras, CA",847805,14.4,15.5,106.74,Medium,2022-02-24
+Colusa County,6011,California,21547,690,"Sutter (Yuba City), CA - Yuba, CA",197186,12.2,18.3,176.36,Medium,2022-02-24
+Contra Costa County,6013,California,1153526,766,"Alameda (Oakland), CA - Contra Costa, CA",2824855,8.0,9.1,106.28,Low,2022-02-24
+Del Norte County,6015,California,27812,738,"Coos, OR - Del Norte, CA",115224,11.9,26.0,560.91,High,2022-02-24
+El Dorado County,6017,California,192843,709,"Sacramento (Sacramento), CA - Placer, CA",2363730,13.3,16.0,145.71,Medium,2022-02-24
+Fresno County,6019,California,999101,718,"Fresno (Fresno), CA - Kings, CA",1309368,20.9,18.4,304.07,High,2022-02-24
+Glenn County,6021,California,28393,697,"Butte (Chico), CA - Tehama, CA",312663,15.8,16.6,105.66,High,2022-02-24
+Humboldt County,6023,California,135558,800,"Humboldt, CA",135558,11.5,14.8,222.78,High,2022-02-24
+Imperial County,6025,California,181215,774,"San Diego (San Diego), CA - Imperial, CA",3519545,10.8,10.8,376.9,High,2022-02-24
+Inyo County,6027,California,18039,816,"Inyo, CA - Mono, CA",32483,2.2,0.0,94.24,Low,2022-02-24
+Kern County,6029,California,900202,807,"Kern, CA",900202,14.0,12.7,399.69,High,2022-02-24
+Kings County,6031,California,152940,718,"Fresno (Fresno), CA - Kings, CA",1309368,20.9,18.4,629.0,High,2022-02-24
+Lake County,6033,California,64386,746,"Solano (Vallejo), CA - Napa, CA",649773,10.9,13.2,545.15,High,2022-02-24
+Lassen County,6035,California,30573,780,"Lassen, CA - Plumas, CA",49380,3.3,10.1,493.9,High,2022-02-24
+Los Angeles County,6037,California,10039107,723,"Los Angeles (Los Angeles), CA - Orange, CA",13214799,7.7,10.6,216.47,High,2022-02-24
+Madera County,6039,California,157327,718,"Fresno (Fresno), CA - Kings, CA",1309368,20.9,18.4,472.26,High,2022-02-24
+Marin County,6041,California,258826,764,"Sonoma (Santa Rosa), CA - Marin, CA",753162,7.4,7.8,81.14,Low,2022-02-24
+Mariposa County,6043,California,17203,737,"Stanislaus (Modesto), CA - Merced, CA",900021,14.6,15.2,191.83,Medium,2022-02-24
+Mendocino County,6045,California,86749,811,"Mendocino, CA",86749,12.8,16.1,234.01,High,2022-02-24
+Merced County,6047,California,277680,737,"Stanislaus (Modesto), CA - Merced, CA",900021,14.6,15.2,751.94,High,2022-02-24
+Modoc County,6049,California,8841,710,"Shasta (Redding), CA - Trinity, CA",201206,14.5,21.4,90.49,High,2022-02-24
+Mono County,6051,California,14444,816,"Inyo, CA - Mono, CA",32483,2.2,0.0,48.46,Low,2022-02-24
+Monterey County,6053,California,434061,751,"Santa Clara (San Jose), CA - Monterey, CA",2424721,9.1,10.8,355.48,High,2022-02-24
+Napa County,6055,California,137744,746,"Solano (Vallejo), CA - Napa, CA",649773,10.9,13.2,226.51,High,2022-02-24
+Nevada County,6057,California,99755,753,"Nevada, CA - Sierra, CA",102760,17.7,7.8,111.27,High,2022-02-24
+Orange County,6059,California,3175692,723,"Los Angeles (Los Angeles), CA - Orange, CA",13214799,7.7,10.6,69.84,Medium,2022-02-24
+Placer County,6061,California,398329,709,"Sacramento (Sacramento), CA - Placer, CA",2363730,13.3,16.0,119.0,Medium,2022-02-24
+Plumas County,6063,California,18807,780,"Lassen, CA - Plumas, CA",49380,3.3,10.1,79.76,Medium,2022-02-24
+Riverside County,6065,California,2470546,768,"San Bernardino, CA - Riverside (Riverside), CA",4650631,10.5,10.2,157.37,Medium,2022-02-24
+Sacramento County,6067,California,1552058,709,"Sacramento (Sacramento), CA - Placer, CA",2363730,13.3,16.0,156.5,Medium,2022-02-24
+San Benito County,6069,California,62808,751,"Santa Clara (San Jose), CA - Monterey, CA",2424721,9.1,10.8,173.54,Medium,2022-02-24
+San Bernardino County,6071,California,2180085,768,"San Bernardino, CA - Riverside (Riverside), CA",4650631,10.5,10.2,121.28,Medium,2022-02-24
+San Diego County,6073,California,3338330,774,"San Diego (San Diego), CA - Imperial, CA",3519545,10.8,10.8,238.8,High,2022-02-24
+San Francisco County,6075,California,881549,757,"San Francisco (San Francisco), CA - San Mateo, CA",1648122,7.2,7.3,117.86,Low,2022-02-24
+San Joaquin County,6077,California,762148,750,"San Joaquin (Stockton), CA - Calaveras, CA",847805,14.4,15.5,178.31,Medium,2022-02-24
+San Luis Obispo County,6079,California,283111,781,"Santa Barbara (Santa Barbara), CA - San Luis Obispo, CA",729610,7.6,8.9,146.59,Low,2022-02-24
+San Mateo County,6081,California,766573,757,"San Francisco (San Francisco), CA - San Mateo, CA",1648122,7.2,7.3,127.84,Low,2022-02-24
+Santa Barbara County,6083,California,446499,781,"Santa Barbara (Santa Barbara), CA - San Luis Obispo, CA",729610,7.6,8.9,241.43,Medium,2022-02-24
+Santa Clara County,6085,California,1927852,751,"Santa Clara (San Jose), CA - Monterey, CA",2424721,9.1,10.8,127.97,Medium,2022-02-24
+Santa Cruz County,6087,California,273213,802,"Santa Cruz, CA",273213,8.4,5.9,207.16,Medium,2022-02-24
+Shasta County,6089,California,180080,710,"Shasta (Redding), CA - Trinity, CA",201206,14.5,21.4,142.71,High,2022-02-24
+Sierra County,6091,California,3005,753,"Nevada, CA - Sierra, CA",102760,17.7,7.8,0.0,High,2022-02-24
+Siskiyou County,6093,California,43539,752,"Jackson (Medford), OR - Josephine, OR",351970,10.6,22.2,169.96,High,2022-02-24
+Solano County,6095,California,447643,746,"Solano (Vallejo), CA - Napa, CA",649773,10.9,13.2,288.18,High,2022-02-24
+Sonoma County,6097,California,494336,764,"Sonoma (Santa Rosa), CA - Marin, CA",753162,7.4,7.8,147.07,Low,2022-02-24
+Stanislaus County,6099,California,550660,737,"Stanislaus (Modesto), CA - Merced, CA",900021,14.6,15.2,243.71,High,2022-02-24
+Sutter County,6101,California,96971,690,"Sutter (Yuba City), CA - Yuba, CA",197186,12.2,18.3,215.53,High,2022-02-24
+Tehama County,6103,California,65084,697,"Butte (Chico), CA - Tehama, CA",312663,15.8,16.6,251.98,High,2022-02-24
+Trinity County,6105,California,12285,710,"Shasta (Redding), CA - Trinity, CA",201206,14.5,21.4,219.78,High,2022-02-24
+Tulare County,6107,California,466195,789,"Tulare, CA",466195,20.3,14.8,286.58,High,2022-02-24
+Tuolumne County,6109,California,54478,737,"Stanislaus (Modesto), CA - Merced, CA",900021,14.6,15.2,335.92,High,2022-02-24
+Ventura County,6111,California,846006,790,"Ventura, CA",846006,12.9,11.2,107.92,Medium,2022-02-24
+Yolo County,6113,California,220500,709,"Sacramento (Sacramento), CA - Placer, CA",2363730,13.3,16.0,93.42,Medium,2022-02-24
+Yuba County,6115,California,78668,690,"Sutter (Yuba City), CA - Yuba, CA",197186,12.2,18.3,212.28,High,2022-02-24
