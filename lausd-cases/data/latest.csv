@@ -151,7 +151,7 @@ id,school,status,color,staff_student,transmission,testing_period,tests,pos,pos_r
 151,CABRILLO AVE EL,OPEN,green,3,0,Past 7 days (8/26/2022 - 9/1/2022),5,4,0.96,-0.24,San Pedro CoS,61,0.47,-0.02,141,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 152,CAHUENGA EL,OPEN,green,0,0,Past 7 days (8/26/2022 - 9/1/2022),5,1,0.24,-1.88,Kreatwn/PcoUnion CoS,40,0.32,-0.31,89,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 153,CALABASH CA,OPEN,green,1,0,Past 7 days (8/26/2022 - 9/1/2022),5,1,0.20,-0.19,Taft CoS,56,0.33,-0.46,151,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
-154,CALAHAN ST EL,OPEN,green,2,0,Past 7 days (8/26/2022 - 9/1/2022),5,3,0.52,-0.34,Cleveland CoS,57,0.43,-0.74,171,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
+154,CALAHAN ST EL,OPEN,green,2,0,Past 7 days (8/26/2022 - 9/1/2022),5,3,0.52,-0.34,Cleveland CoS,57,0.43,-0.74,151,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 155,CALVERT CES,OPEN,green,1,0,Past 7 days (8/26/2022 - 9/1/2022),6,2,0.52,-1.05,Taft CoS,56,0.33,-0.46,151,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 156,CAMELLIA AVE EL,OPEN,green,3,0,Past 7 days (8/26/2022 - 9/1/2022),4,3,0.54,0.18,North Hollywood/ValleyVillage CoS,70,0.47,-0.42,175,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 157,CANFIELD AVE EL,OPEN,green,1,0,Past 7 days (8/26/2022 - 9/1/2022),0,0,0.00,(Blank),Hamilton CoS,47,0.50,-0.37,93,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
@@ -411,7 +411,7 @@ id,school,status,color,staff_student,transmission,testing_period,tests,pos,pos_r
 411,HOPE HS,OPEN,green,2,0,Past 7 days (8/26/2022 - 9/1/2022),1,1,0.97,0.97,Fremont CoS,44,0.28,-0.29,83,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 412,HOPE ST EL,OPEN,green,3,0,Past 7 days (8/26/2022 - 9/1/2022),11,5,1.02,0.00,Huntington Park/VernonCoS,84,0.54,-0.47,202,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 413,HUBBARD ST EL,OPEN,green,3,0,Past 7 days (8/26/2022 - 9/1/2022),3,2,0.31,-0.15,San Fernando Valley/SylmarCoS,79,0.40,-0.61,169,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
-414,HUERTA EL,OPEN,green,1,0,Past 7 days (8/26/2022 - 9/1/2022),0,0,0.00,(Blank),SO Los Angeles CoS,29,0.26,-0.08,46,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
+414,HUERTA EL,OPEN,green,3,0,Past 7 days (8/26/2022 - 9/1/2022),3,2,0.31,(Blank),San Fernando Valley/SylmarCoS,29,0.40,-0.61,46,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 415,HUGHES EL,OPEN,green,3,0,Past 7 days (8/26/2022 - 9/1/2022),11,2,0.29,-1.47,Bell/Cudahy/Maywood CoS,83,0.50,-0.46,151,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 416,HUMPHREYS AVE EL,OPEN,green,0,0,Past 7 days (8/26/2022 - 9/1/2022),1,0,0.00,-0.20,East Los Angeles CoS,87,0.55,-0.22,155,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 417,HUNTINGTON DR EL,OPEN,green,2,0,Past 7 days (8/26/2022 - 9/1/2022),3,2,0.54,-0.27,Lincoln Heights/El SerenoCoS,55,0.35,-0.38,171,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
@@ -493,22 +493,22 @@ id,school,status,color,staff_student,transmission,testing_period,tests,pos,pos_r
 493,LONDON HS,OPEN,green,0,0,Past 7 days (8/26/2022 - 9/1/2022),0,0,0.00,(Blank),Van Nuys/Valley Glen CoS,75,0.37,-0.31,169,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 494,LORENA ST EL,OPEN,green,2,0,Past 7 days (8/26/2022 - 9/1/2022),2,1,0.21,-0.84,Boyle Heights CoS,66,0.50,-0.41,139,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 495,LORETO ST EL,OPEN,green,1,0,Past 7 days (8/26/2022 - 9/1/2022),1,1,0.30,0.30,Lincoln Heights/El SerenoCoS,55,0.35,-0.38,171,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
-496,LORNE ST EL,OPEN,green,5,0,Past 7 days (8/26/2022 - 9/1/2022),9,4,0.94,0.00,Cleveland CoS,57,0.43,-0.74,171,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
-497,LOS ANGELES ACAD MS,OPEN,green,7,0,Past 7 days (8/26/2022 - 9/1/2022),19,8,0.66,-0.08,Historic Central Avenue CoS,49,0.38,-0.28,125,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
+496,LORNE ST EL,OPEN,green,1,0,Past 7 days (8/26/2022 - 9/1/2022),9,4,0.30,0.00,Cleveland CoS,57,0.43,-0.74,171,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
+497,LOS ANGELES ACAD MS,OPEN,green,5,0,Past 7 days (8/26/2022 - 9/1/2022),19,4,0.94,-0.08,Cleveland CoS,49,0.38,-0.74,125,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 498,LOS ANGELES EL,OPEN,green,0,0,Past 7 days (8/26/2022 - 9/1/2022),1,0,0.00,0.00,Kreatwn/PcoUnion CoS,40,0.32,-0.31,89,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 499,LOS ANGELES SH,OPEN,green,6,0,Past 7 days (8/26/2022 - 9/1/2022),9,6,0.37,-0.19,LA Mid-City CoS,30,0.34,-0.18,59,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 500,LOS ANGELES TECH CTR,OPEN,green,2,0,Past 7 days (8/26/2022 - 9/1/2022),2,2,0.03,0.02,-,0,0.00,0.00,0,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 501,LOS FELIZ STEMM MAG,OPEN,green,0,0,Past 7 days (8/26/2022 - 9/1/2022),0,0,0.00,(Blank),Glassell Park/Los Feliz CoS,51,0.42,-0.51,135,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 502,LOWMAN SP ED & CTC,OPEN,green,1,0,Past 7 days (8/26/2022 - 9/1/2022),1,1,0.40,0.00,Sun Valley CoS,58,0.35,-0.31,110,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 503,LOYOLA VILLG EL F/PAM,OPEN,green,0,0,Past 7 days (8/26/2022 - 9/1/2022),1,0,0.00,-0.39,Westchester CoS,20,0.42,-0.13,35,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
-504,MACARTHUR PK EL VAPA,OPEN,green,1,0,Past 7 days (8/26/2022 - 9/1/2022),2,1,0.22,-0.89,MacArthur Park CoS,28,0.34,-0.15,52,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
+504,MACARTHUR PK EL VAPA,OPEN,green,0,0,Past 7 days (8/26/2022 - 9/1/2022),2,1,0.00,-0.89,MacArthur Park CoS,28,0.34,-0.15,52,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 505,MACES MAG,OPEN,green,22,0,Past 7 days (8/26/2022 - 9/1/2022),23,19,1.28,0.47,Bell/Cudahy/Maywood CoS,83,0.50,-0.46,151,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 506,MACK EL,OPEN,green,1,0,Past 7 days (8/26/2022 - 9/1/2022),3,0,0.00,-1.08,Manual Arts/VermontSquare CoS,50,0.43,-0.40,103,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 507,MACLAY MS,OPEN,green,5,0,Past 7 days (8/26/2022 - 9/1/2022),5,4,0.89,-0.44,Sun Valley CoS,58,0.35,-0.31,110,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 508,MADISON EL,OPEN,green,3,0,Past 7 days (8/26/2022 - 9/1/2022),11,3,0.49,0.17,South Gate CoS,81,0.43,-0.50,202,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 509,MADISON MS,OPEN,green,9,0,Past 7 days (8/26/2022 - 9/1/2022),13,6,0.37,-0.37,Van Nuys/Valley Glen CoS,75,0.37,-0.31,169,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 510,MAGNOLIA AVE EL,OPEN,green,0,0,Past 7 days (8/26/2022 - 9/1/2022),2,0,0.00,-0.71,Kreatwn/PcoUnion CoS,40,0.32,-0.31,89,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
-511,MAGNOLIA SCI ACAD #2,OPEN,green,0,0,Past 7 days (8/26/2022 - 9/1/2022),0,0,0.00,(Blank),-,0,0.00,0.00,0,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
+511,MAGNOLIA SCI ACAD #2,OPEN,green,0,0,Past 7 days (8/26/2022 - 9/1/2022),0,0,0.00,(Blank),-,0,0.00,-0.31,0,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 512,MAGNOLIA SCI ACAD #4,OPEN,green,0,0,Past 7 days (8/26/2022 - 9/1/2022),0,0,0.00,(Blank),-,0,0.00,0.00,0,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 513,MAGNOLIA SCI ACAD #6,OPEN,green,0,0,Past 7 days (8/26/2022 - 9/1/2022),0,0,0.00,(Blank),-,0,0.00,0.00,0,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 514,MAGNOLIA SCI-BELL@SR,OPEN,green,0,0,Past 7 days (8/26/2022 - 9/1/2022),0,0,0.00,(Blank),-,0,0.00,0.00,0,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
@@ -781,9 +781,9 @@ id,school,status,color,staff_student,transmission,testing_period,tests,pos,pos_r
 781,TAFT CHS,OPEN,green,15,0,Past 7 days (8/26/2022 - 9/1/2022),22,13,0.43,-0.17,Taft CoS,56,0.33,-0.46,151,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 782,TAPER AVE EL,OPEN,green,1,0,Past 7 days (8/26/2022 - 9/1/2022),5,1,0.13,-0.64,San Pedro CoS,61,0.47,-0.02,141,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 783,TARZANA EL,OPEN,green,0,0,Past 7 days (8/26/2022 - 9/1/2022),0,0,0.00,(Blank),Reseda CoS,36,0.28,-0.39,88,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
-784,TELFAIR AVE EEC,OPEN,green,0,0,Past 7 days (8/26/2022 - 9/1/2022),0,0,0.00,(Blank),Reseda CoS,79,0.40,-0.61,169,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
-785,TELFAIR AVE EL,OPEN,green,0,0,Past 7 days (8/26/2022 - 9/1/2022),20,6,0.83,-1.11,San Fernando Valley/SylmarCoS,79,0.40,-0.61,169,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
-786,THOREAU HS,OPEN,green,0,0,Past 7 days (8/26/2022 - 9/1/2022),0,0,0.83,(Blank),Taft CoS,56,0.33,-0.46,151,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
+784,TELFAIR AVE EEC,OPEN,green,0,0,Past 7 days (8/26/2022 - 9/1/2022),0,0,0.00,(Blank),San Fernando Valley/SylmarCoS,79,0.40,-0.61,169,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
+785,TELFAIR AVE EL,OPEN,green,7,0,Past 7 days (8/26/2022 - 9/1/2022),20,6,0.83,-1.11,San Fernando Valley/SylmarCoS,79,0.40,-0.61,169,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
+786,THOREAU HS,OPEN,green,0,0,Past 7 days (8/26/2022 - 9/1/2022),0,0,0.00,(Blank),Taft CoS,56,0.33,-0.46,151,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 787,TOLAND WAY EL,OPEN,green,1,0,Past 7 days (8/26/2022 - 9/1/2022),2,1,0.35,-1.03,Eagle Rock/Highland ParkCoS,59,0.49,-0.69,189,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 788,TOLUCA LAKE EEC,OPEN,green,1,0,Past 7 days (8/26/2022 - 9/1/2022),0,0,0.00,(Blank),North Hollywood/ValleyVillage CoS,70,0.47,-0.42,175,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 789,TOLUCA LAKE EL,OPEN,green,2,0,Past 7 days (8/26/2022 - 9/1/2022),2,2,0.33,-0.33,North Hollywood/ValleyVillage CoS,70,0.47,-0.42,175,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
@@ -795,7 +795,7 @@ id,school,status,color,staff_student,transmission,testing_period,tests,pos,pos_r
 795,TORRES HUM/ART/TECH,OPEN,green,10,0,Past 7 days (8/26/2022 - 9/1/2022),11,10,1.76,1.05,East Los Angeles CoS,87,0.55,-0.22,155,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 796,TORRES RENAISSANCE,OPEN,green,3,0,Past 7 days (8/26/2022 - 9/1/2022),1,0,0.00,-0.71,East Los Angeles CoS,87,0.55,-0.22,155,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 797,TOWNE AVE EL,OPEN,green,0,0,Past 7 days (8/26/2022 - 9/1/2022),0,0,0.00,(Blank),Carson CoS,46,0.33,-0.15,83,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
-798,TRINITY EEC,OPEN,green,0,0,Past 7 days (8/26/2022 - 9/1/2022),2,1,0.00,1.64,SO Los Angeles CoS,29,0.26,-0.08,46,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
+798,TRINITY EEC,OPEN,green,0,0,Past 7 days (8/26/2022 - 9/1/2022),2,1,1.64,1.64,SO Los Angeles CoS,29,0.26,-0.08,46,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 799,TRINITY ST EL,OPEN,green,0,0,Past 7 days (8/26/2022 - 9/1/2022),0,0,0.00,(Blank),SO Los Angeles CoS,29,0.26,-0.08,46,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 800,TULSA ST EL,OPEN,green,1,0,Past 7 days (8/26/2022 - 9/1/2022),4,2,0.42,-1.04,Kennedy/NAHS/VAAS CoS,74,0.42,-0.41,192,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
 801,TWEEDY EL,OPEN,green,7,0,Past 7 days (8/26/2022 - 9/1/2022),11,4,0.72,-0.91,South Gate CoS,81,0.43,-0.50,202,"5,269","2,346",0.35,-0.29,"09/02/2022,",01:29AM
