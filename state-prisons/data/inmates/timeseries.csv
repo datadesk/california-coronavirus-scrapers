@@ -9747,7 +9747,7 @@ Date,InstitutionName,Latitude,Longitude,TotalConfirmed,TotalDeaths,DistinctPatie
 2022-05-17,California City Correctional Facility (CAC),35.139327,-117.91473,1140,2,244,1
 2022-05-17,Calipatria State Prison (CAL),33.131764,-115.51208,1313,3,173,0
 2022-05-17,California Correctional Center (CCC),40.446063,-120.664132,2198,0,146,1
-2022-05-17,California Correctional Institution (CCI),35.132673,-118.50781,1660,4,187,0
+2022-05-17,California Correctional Institution (CCI),35.132673,-118.50781,1660,4,188,0
 2022-05-17,Central California Women's Facility (CCWF),37.100417,-120.27864,1739,1,79,1
 2022-05-17,California State Prison-Centinela (CEN),32.853471,-115.58942,1015,1,129,9
 2022-05-17,California Health Care Facility (CHCF),37.955474,-121.19064,1004,20,837,103
@@ -17592,7 +17592,7 @@ Date,InstitutionName,Latitude,Longitude,TotalConfirmed,TotalDeaths,DistinctPatie
 2022-09-06,Sierra Conservation Center (SCC),37.867243,-120.49157,3243,0,187,51
 2022-09-06,California State Prison-Solano (SOL),38.34401,-121.95333,2039,7,56,1
 2022-09-06,San Quentin State Prison (SQ),37.943365,-122.49029,3083,28,177,3
-2022-09-06,Salinas Valley State Prison (SVSP),36.518179,-121.42557,1189,6,44,62
+2022-09-06,Salinas Valley State Prison (SVSP),36.518179,-121.42557,1189,6,45,62
 2022-09-06,Valley State Prison (VSP),37.127525,-120.50574,2211,2,77,33
 2022-09-06,Wasco State Prison (WSP),35.605045,-119.37143,4887,2,361,16
 2022-09-07,Avenal State Prison (ASP),35.930766,-120.10057,4180,8,190,33
@@ -21244,26 +21244,26 @@ Date,InstitutionName,Latitude,Longitude,TotalConfirmed,TotalDeaths,DistinctPatie
 2022-10-06,Valley State Prison (VSP),37.127525,-120.50574,2232,2,59,11
 2022-10-06,Wasco State Prison (WSP),35.605045,-119.37143,4903,2,270,10
 2022-10-07,Avenal State Prison (ASP),35.930766,-120.10057,4204,8,34,0
-2022-10-07,California City Correctional Facility (CAC),35.139327,-117.91473,1754,2,88,1
-2022-10-07,Calipatria State Prison (CAL),33.131764,-115.51208,1460,3,44,4
+2022-10-07,California City Correctional Facility (CAC),35.139327,-117.91473,1754,2,89,1
+2022-10-07,Calipatria State Prison (CAL),33.131764,-115.51208,1460,3,45,4
 2022-10-07,California Correctional Center (CCC),40.446063,-120.664132,2598,0,101,0
 2022-10-07,California Correctional Institution (CCI),35.132673,-118.50781,1799,4,28,8
 2022-10-07,Central California Women's Facility (CCWF),37.100417,-120.27864,2243,1,75,7
 2022-10-07,California State Prison-Centinela (CEN),32.853471,-115.58942,1163,1,33,0
 2022-10-07,California Health Care Facility (CHCF),37.955474,-121.19064,1833,22,71,36
 2022-10-07,California Institution for Men (CIM),34.015963,-117.68737,3831,30,111,130
-2022-10-07,California Institution for Women (CIW),33.903803,-117.60221,990,1,84,88
-2022-10-07,California Men's Colony (CMC),35.221085,-120.636399,3699,13,32,2
+2022-10-07,California Institution for Women (CIW),33.903803,-117.60221,990,1,85,88
+2022-10-07,California Men's Colony (CMC),35.221085,-120.636399,3699,13,33,2
 2022-10-07,California Medical Facility (CMF),38.34896,-121.908324,1648,13,101,6
 2022-10-07,California State Prison-Corcoran (COR),36.085342,-119.5548,2418,8,45,3
-2022-10-07,California Rehabilitation Center (CRC),33.925885,-117.55978,3369,1,184,2
+2022-10-07,California Rehabilitation Center (CRC),33.925885,-117.55978,3369,1,185,2
 2022-10-07,Correctional Training Facility (CTF),36.41176,-121.32617,3569,21,18,0
 2022-10-07,Chuckawalla Valley State Prison (CVSP),33.628333,-114.61905,2795,9,7,0
 2022-10-07,Deuel Vocational Institution (DVI),37.728417,-121.42399,545,0,0,0
-2022-10-07,Folsom State Prison (FSP),38.672127,-121.15783,2835,2,17,0
+2022-10-07,Folsom State Prison (FSP),38.672127,-121.15783,2835,2,18,0
 2022-10-07,High Desert State Prison (HDSP),40.474951,-120.67685,2240,2,6,0
 2022-10-07,Ironwood State Prison (ISP),33.59869,-114.652517,3118,1,42,3
-2022-10-07,Kern Valley State Prison (KVSP),35.771876,-119.26984,1279,7,45,6
+2022-10-07,Kern Valley State Prison (KVSP),35.771876,-119.26984,1279,7,51,6
 2022-10-07,California State Prison-Los Angeles County (LAC),34.728857,-118.32683,2034,15,78,10
 2022-10-07,Mule Creek State Prison (MCSP),38.346132,-120.94516,3297,9,46,7
 2022-10-07,North Kern State Prison (NKSP),35.774967,-119.23371,3838,5,409,10
@@ -21275,8 +21275,8 @@ Date,InstitutionName,Latitude,Longitude,TotalConfirmed,TotalDeaths,DistinctPatie
 2022-10-07,Sierra Conservation Center (SCC),37.867243,-120.49157,3244,0,94,1
 2022-10-07,California State Prison-Solano (SOL),38.34401,-121.95333,2040,7,14,1
 2022-10-07,San Quentin State Prison (SQ),37.943365,-122.49029,3122,28,86,22
-2022-10-07,Salinas Valley State Prison (SVSP),36.518179,-121.42557,1226,6,47,7
-2022-10-07,Valley State Prison (VSP),37.127525,-120.50574,2232,2,36,11
+2022-10-07,Salinas Valley State Prison (SVSP),36.518179,-121.42557,1226,6,48,7
+2022-10-07,Valley State Prison (VSP),37.127525,-120.50574,2232,2,37,11
 2022-10-07,Wasco State Prison (WSP),35.605045,-119.37143,4903,2,321,6
 2022-10-08,Avenal State Prison (ASP),35.930766,-120.10057,4204,8,5,0
 2022-10-08,California City Correctional Facility (CAC),35.139327,-117.91473,1754,2,0,1
@@ -21287,7 +21287,7 @@ Date,InstitutionName,Latitude,Longitude,TotalConfirmed,TotalDeaths,DistinctPatie
 2022-10-08,California State Prison-Centinela (CEN),32.853471,-115.58942,1163,1,53,0
 2022-10-08,California Health Care Facility (CHCF),37.955474,-121.19064,1833,22,165,33
 2022-10-08,California Institution for Men (CIM),34.015963,-117.68737,3831,30,26,129
-2022-10-08,California Institution for Women (CIW),33.903803,-117.60221,990,1,36,88
+2022-10-08,California Institution for Women (CIW),33.903803,-117.60221,990,1,38,88
 2022-10-08,California Men's Colony (CMC),35.221085,-120.636399,3699,13,9,2
 2022-10-08,California Medical Facility (CMF),38.34896,-121.908324,1648,13,29,5
 2022-10-08,California State Prison-Corcoran (COR),36.085342,-119.5548,2418,8,5,3
@@ -21298,13 +21298,13 @@ Date,InstitutionName,Latitude,Longitude,TotalConfirmed,TotalDeaths,DistinctPatie
 2022-10-08,Folsom State Prison (FSP),38.672127,-121.15783,2835,2,24,0
 2022-10-08,High Desert State Prison (HDSP),40.474951,-120.67685,2240,2,3,0
 2022-10-08,Ironwood State Prison (ISP),33.59869,-114.652517,3118,1,17,3
-2022-10-08,Kern Valley State Prison (KVSP),35.771876,-119.26984,1279,7,21,6
+2022-10-08,Kern Valley State Prison (KVSP),35.771876,-119.26984,1279,7,39,6
 2022-10-08,California State Prison-Los Angeles County (LAC),34.728857,-118.32683,2034,15,194,9
 2022-10-08,Mule Creek State Prison (MCSP),38.346132,-120.94516,3297,9,35,7
 2022-10-08,North Kern State Prison (NKSP),35.774967,-119.23371,3838,5,6,9
 2022-10-08,Pelican Bay State Prison (PBSP),41.782681,-124.16703,912,0,5,2
 2022-10-08,Pleasant Valley State Prison (PVSP),36.194736,-120.30865,2728,3,4,0
-2022-10-08,Richard J. Donovan Correctional Facility (RJD),32.572602,-116.918724,1710,21,23,6
+2022-10-08,Richard J. Donovan Correctional Facility (RJD),32.572602,-116.918724,1710,21,25,6
 2022-10-08,California State Prison-Sacramento (SAC),38.694033,-121.152413,935,2,1,3
 2022-10-08,Substance Abuse Treatment Facility (SATF),36.177361,-119.82042,4552,7,8,7
 2022-10-08,Sierra Conservation Center (SCC),37.867243,-120.49157,3244,0,4,1
@@ -21313,76 +21313,111 @@ Date,InstitutionName,Latitude,Longitude,TotalConfirmed,TotalDeaths,DistinctPatie
 2022-10-08,Salinas Valley State Prison (SVSP),36.518179,-121.42557,1226,6,8,7
 2022-10-08,Valley State Prison (VSP),37.127525,-120.50574,2232,2,5,11
 2022-10-08,Wasco State Prison (WSP),35.605045,-119.37143,4903,2,2,6
-2022-10-09,Avenal State Prison (ASP),35.930766,-120.10057,4204,8,1,0
-2022-10-09,California City Correctional Facility (CAC),35.139327,-117.91473,1754,2,0,1
+2022-10-09,Avenal State Prison (ASP),35.930766,-120.10057,4204,8,4,0
+2022-10-09,California City Correctional Facility (CAC),35.139327,-117.91473,1754,2,8,1
 2022-10-09,Calipatria State Prison (CAL),33.131764,-115.51208,1460,3,13,4
-2022-10-09,California Correctional Center (CCC),40.446063,-120.664132,2598,0,8,0
+2022-10-09,California Correctional Center (CCC),40.446063,-120.664132,2598,0,17,0
 2022-10-09,California Correctional Institution (CCI),35.132673,-118.50781,1799,4,17,7
 2022-10-09,Central California Women's Facility (CCWF),37.100417,-120.27864,2243,1,15,7
 2022-10-09,California State Prison-Centinela (CEN),32.853471,-115.58942,1163,1,10,0
-2022-10-09,California Health Care Facility (CHCF),37.955474,-121.19064,1833,22,22,31
-2022-10-09,California Institution for Men (CIM),34.015963,-117.68737,3831,30,21,129
-2022-10-09,California Institution for Women (CIW),33.903803,-117.60221,990,1,14,88
-2022-10-09,California Men's Colony (CMC),35.221085,-120.636399,3699,13,14,2
-2022-10-09,California Medical Facility (CMF),38.34896,-121.908324,1648,13,84,4
-2022-10-09,California State Prison-Corcoran (COR),36.085342,-119.5548,2418,8,5,3
-2022-10-09,California Rehabilitation Center (CRC),33.925885,-117.55978,3369,1,5,2
+2022-10-09,California Health Care Facility (CHCF),37.955474,-121.19064,1833,22,25,31
+2022-10-09,California Institution for Men (CIM),34.015963,-117.68737,3831,30,22,129
+2022-10-09,California Institution for Women (CIW),33.903803,-117.60221,991,1,58,89
+2022-10-09,California Men's Colony (CMC),35.221085,-120.636399,3699,13,19,2
+2022-10-09,California Medical Facility (CMF),38.34896,-121.908324,1648,13,86,4
+2022-10-09,California State Prison-Corcoran (COR),36.085342,-119.5548,2418,8,9,3
+2022-10-09,California Rehabilitation Center (CRC),33.925885,-117.55978,3369,1,54,2
 2022-10-09,Correctional Training Facility (CTF),36.41176,-121.32617,3569,21,11,0
-2022-10-09,Chuckawalla Valley State Prison (CVSP),33.628333,-114.61905,2795,9,4,0
+2022-10-09,Chuckawalla Valley State Prison (CVSP),33.628333,-114.61905,2795,9,13,0
 2022-10-09,Deuel Vocational Institution (DVI),37.728417,-121.42399,545,0,0,0
-2022-10-09,Folsom State Prison (FSP),38.672127,-121.15783,2835,2,13,0
+2022-10-09,Folsom State Prison (FSP),38.672127,-121.15783,2836,2,50,1
 2022-10-09,High Desert State Prison (HDSP),40.474951,-120.67685,2240,2,1,0
 2022-10-09,Ironwood State Prison (ISP),33.59869,-114.652517,3118,1,17,3
-2022-10-09,Kern Valley State Prison (KVSP),35.771876,-119.26984,1279,7,15,6
-2022-10-09,California State Prison-Los Angeles County (LAC),34.728857,-118.32683,2034,15,16,9
-2022-10-09,Mule Creek State Prison (MCSP),38.346132,-120.94516,3297,9,22,5
+2022-10-09,Kern Valley State Prison (KVSP),35.771876,-119.26984,1279,7,29,6
+2022-10-09,California State Prison-Los Angeles County (LAC),34.728857,-118.32683,2034,15,33,9
+2022-10-09,Mule Creek State Prison (MCSP),38.346132,-120.94516,3297,9,40,5
 2022-10-09,North Kern State Prison (NKSP),35.774967,-119.23371,3838,5,19,9
-2022-10-09,Pelican Bay State Prison (PBSP),41.782681,-124.16703,912,0,2,2
+2022-10-09,Pelican Bay State Prison (PBSP),41.782681,-124.16703,912,0,3,2
 2022-10-09,Pleasant Valley State Prison (PVSP),36.194736,-120.30865,2728,3,1,0
-2022-10-09,Richard J. Donovan Correctional Facility (RJD),32.572602,-116.918724,1710,21,26,6
+2022-10-09,Richard J. Donovan Correctional Facility (RJD),32.572602,-116.918724,1713,21,43,9
 2022-10-09,California State Prison-Sacramento (SAC),38.694033,-121.152413,935,2,9,3
 2022-10-09,Substance Abuse Treatment Facility (SATF),36.177361,-119.82042,4552,7,28,6
-2022-10-09,Sierra Conservation Center (SCC),37.867243,-120.49157,3244,0,1,1
+2022-10-09,Sierra Conservation Center (SCC),37.867243,-120.49157,3244,0,4,1
 2022-10-09,California State Prison-Solano (SOL),38.34401,-121.95333,2040,7,5,1
-2022-10-09,San Quentin State Prison (SQ),37.943365,-122.49029,3123,28,85,18
-2022-10-09,Salinas Valley State Prison (SVSP),36.518179,-121.42557,1226,6,7,5
+2022-10-09,San Quentin State Prison (SQ),37.943365,-122.49029,3123,28,91,18
+2022-10-09,Salinas Valley State Prison (SVSP),36.518179,-121.42557,1226,6,13,5
 2022-10-09,Valley State Prison (VSP),37.127525,-120.50574,2232,2,13,7
-2022-10-09,Wasco State Prison (WSP),35.605045,-119.37143,4903,2,66,6
-2022-10-10,Avenal State Prison (ASP),35.930766,-120.10057,4204,8,0,0
-2022-10-10,California City Correctional Facility (CAC),35.139327,-117.91473,1754,2,0,1
-2022-10-10,Calipatria State Prison (CAL),33.131764,-115.51208,1460,3,0,4
-2022-10-10,California Correctional Center (CCC),40.446063,-120.664132,2598,0,0,0
-2022-10-10,California Correctional Institution (CCI),35.132673,-118.50781,1799,4,0,7
-2022-10-10,Central California Women's Facility (CCWF),37.100417,-120.27864,2243,1,0,7
-2022-10-10,California State Prison-Centinela (CEN),32.853471,-115.58942,1163,1,0,0
-2022-10-10,California Health Care Facility (CHCF),37.955474,-121.19064,1833,22,0,31
-2022-10-10,California Institution for Men (CIM),34.015963,-117.68737,3831,30,0,126
-2022-10-10,California Institution for Women (CIW),33.903803,-117.60221,990,1,0,88
-2022-10-10,California Men's Colony (CMC),35.221085,-120.636399,3699,13,0,2
-2022-10-10,California Medical Facility (CMF),38.34896,-121.908324,1648,13,0,4
-2022-10-10,California State Prison-Corcoran (COR),36.085342,-119.5548,2418,8,0,3
-2022-10-10,California Rehabilitation Center (CRC),33.925885,-117.55978,3369,1,0,2
-2022-10-10,Correctional Training Facility (CTF),36.41176,-121.32617,3569,21,0,0
-2022-10-10,Chuckawalla Valley State Prison (CVSP),33.628333,-114.61905,2795,9,0,0
-2022-10-10,Deuel Vocational Institution (DVI),37.728417,-121.42399,545,0,0,0
-2022-10-10,Folsom State Prison (FSP),38.672127,-121.15783,2835,2,0,0
-2022-10-10,High Desert State Prison (HDSP),40.474951,-120.67685,2240,2,0,0
-2022-10-10,Ironwood State Prison (ISP),33.59869,-114.652517,3118,1,0,3
-2022-10-10,Kern Valley State Prison (KVSP),35.771876,-119.26984,1279,7,0,6
-2022-10-10,California State Prison-Los Angeles County (LAC),34.728857,-118.32683,2034,15,0,6
-2022-10-10,Mule Creek State Prison (MCSP),38.346132,-120.94516,3297,9,0,5
-2022-10-10,North Kern State Prison (NKSP),35.774967,-119.23371,3838,5,0,9
-2022-10-10,Pelican Bay State Prison (PBSP),41.782681,-124.16703,912,0,0,2
-2022-10-10,Pleasant Valley State Prison (PVSP),36.194736,-120.30865,2728,3,0,0
-2022-10-10,Richard J. Donovan Correctional Facility (RJD),32.572602,-116.918724,1710,21,0,6
-2022-10-10,California State Prison-Sacramento (SAC),38.694033,-121.152413,935,2,0,3
-2022-10-10,Substance Abuse Treatment Facility (SATF),36.177361,-119.82042,4552,7,0,1
-2022-10-10,Sierra Conservation Center (SCC),37.867243,-120.49157,3244,0,0,1
-2022-10-10,California State Prison-Solano (SOL),38.34401,-121.95333,2040,7,0,1
-2022-10-10,San Quentin State Prison (SQ),37.943365,-122.49029,3123,28,0,18
-2022-10-10,Salinas Valley State Prison (SVSP),36.518179,-121.42557,1226,6,0,5
-2022-10-10,Valley State Prison (VSP),37.127525,-120.50574,2232,2,0,7
-2022-10-10,Wasco State Prison (WSP),35.605045,-119.37143,4903,2,0,6
+2022-10-09,Wasco State Prison (WSP),35.605045,-119.37143,4903,2,67,6
+2022-10-10,Avenal State Prison (ASP),35.930766,-120.10057,4204,8,7,0
+2022-10-10,California City Correctional Facility (CAC),35.139327,-117.91473,1754,2,17,1
+2022-10-10,Calipatria State Prison (CAL),33.131764,-115.51208,1460,3,30,4
+2022-10-10,California Correctional Center (CCC),40.446063,-120.664132,2598,0,20,0
+2022-10-10,California Correctional Institution (CCI),35.132673,-118.50781,1799,4,41,7
+2022-10-10,Central California Women's Facility (CCWF),37.100417,-120.27864,2243,1,51,7
+2022-10-10,California State Prison-Centinela (CEN),32.853471,-115.58942,1164,1,12,1
+2022-10-10,California Health Care Facility (CHCF),37.955474,-121.19064,1833,22,44,31
+2022-10-10,California Institution for Men (CIM),34.015963,-117.68737,3831,30,56,126
+2022-10-10,California Institution for Women (CIW),33.903803,-117.60221,991,1,71,89
+2022-10-10,California Men's Colony (CMC),35.221085,-120.636399,3699,13,39,2
+2022-10-10,California Medical Facility (CMF),38.34896,-121.908324,1648,13,41,4
+2022-10-10,California State Prison-Corcoran (COR),36.085342,-119.5548,2418,8,58,3
+2022-10-10,California Rehabilitation Center (CRC),33.925885,-117.55978,3369,1,8,2
+2022-10-10,Correctional Training Facility (CTF),36.41176,-121.32617,3569,21,12,0
+2022-10-10,Chuckawalla Valley State Prison (CVSP),33.628333,-114.61905,2795,9,5,0
+2022-10-10,Deuel Vocational Institution (DVI),37.728417,-121.42399,545,0,1,0
+2022-10-10,Folsom State Prison (FSP),38.672127,-121.15783,2836,2,20,1
+2022-10-10,High Desert State Prison (HDSP),40.474951,-120.67685,2240,2,10,0
+2022-10-10,Ironwood State Prison (ISP),33.59869,-114.652517,3118,1,60,3
+2022-10-10,Kern Valley State Prison (KVSP),35.771876,-119.26984,1279,7,52,6
+2022-10-10,California State Prison-Los Angeles County (LAC),34.728857,-118.32683,2034,15,41,6
+2022-10-10,Mule Creek State Prison (MCSP),38.346132,-120.94516,3297,9,51,5
+2022-10-10,North Kern State Prison (NKSP),35.774967,-119.23371,3838,5,156,9
+2022-10-10,Pelican Bay State Prison (PBSP),41.782681,-124.16703,912,0,12,2
+2022-10-10,Pleasant Valley State Prison (PVSP),36.194736,-120.30865,2728,3,7,0
+2022-10-10,Richard J. Donovan Correctional Facility (RJD),32.572602,-116.918724,1714,21,63,10
+2022-10-10,California State Prison-Sacramento (SAC),38.694033,-121.152413,935,2,17,3
+2022-10-10,Substance Abuse Treatment Facility (SATF),36.177361,-119.82042,4552,7,24,1
+2022-10-10,Sierra Conservation Center (SCC),37.867243,-120.49157,3244,0,8,1
+2022-10-10,California State Prison-Solano (SOL),38.34401,-121.95333,2040,7,9,1
+2022-10-10,San Quentin State Prison (SQ),37.943365,-122.49029,3123,28,94,18
+2022-10-10,Salinas Valley State Prison (SVSP),36.518179,-121.42557,1226,6,63,5
+2022-10-10,Valley State Prison (VSP),37.127525,-120.50574,2234,2,43,9
+2022-10-10,Wasco State Prison (WSP),35.605045,-119.37143,4903,2,163,6
+2022-10-11,Avenal State Prison (ASP),35.930766,-120.10057,4204,8,0,0
+2022-10-11,California City Correctional Facility (CAC),35.139327,-117.91473,1754,2,0,1
+2022-10-11,Calipatria State Prison (CAL),33.131764,-115.51208,1460,3,0,4
+2022-10-11,California Correctional Center (CCC),40.446063,-120.664132,2598,0,0,0
+2022-10-11,California Correctional Institution (CCI),35.132673,-118.50781,1799,4,0,6
+2022-10-11,Central California Women's Facility (CCWF),37.100417,-120.27864,2243,1,0,7
+2022-10-11,California State Prison-Centinela (CEN),32.853471,-115.58942,1164,1,0,1
+2022-10-11,California Health Care Facility (CHCF),37.955474,-121.19064,1833,22,0,31
+2022-10-11,California Institution for Men (CIM),34.015963,-117.68737,3831,30,0,101
+2022-10-11,California Institution for Women (CIW),33.903803,-117.60221,991,1,0,83
+2022-10-11,California Men's Colony (CMC),35.221085,-120.636399,3699,13,0,1
+2022-10-11,California Medical Facility (CMF),38.34896,-121.908324,1648,13,0,3
+2022-10-11,California State Prison-Corcoran (COR),36.085342,-119.5548,2418,8,0,3
+2022-10-11,California Rehabilitation Center (CRC),33.925885,-117.55978,3369,1,0,1
+2022-10-11,Correctional Training Facility (CTF),36.41176,-121.32617,3569,21,0,0
+2022-10-11,Chuckawalla Valley State Prison (CVSP),33.628333,-114.61905,2795,9,0,0
+2022-10-11,Deuel Vocational Institution (DVI),37.728417,-121.42399,545,0,0,0
+2022-10-11,Folsom State Prison (FSP),38.672127,-121.15783,2836,2,0,1
+2022-10-11,High Desert State Prison (HDSP),40.474951,-120.67685,2240,2,0,0
+2022-10-11,Ironwood State Prison (ISP),33.59869,-114.652517,3118,1,0,3
+2022-10-11,Kern Valley State Prison (KVSP),35.771876,-119.26984,1279,7,0,6
+2022-10-11,California State Prison-Los Angeles County (LAC),34.728857,-118.32683,2034,15,0,6
+2022-10-11,Mule Creek State Prison (MCSP),38.346132,-120.94516,3297,9,0,3
+2022-10-11,North Kern State Prison (NKSP),35.774967,-119.23371,3838,5,0,8
+2022-10-11,Pelican Bay State Prison (PBSP),41.782681,-124.16703,912,0,0,2
+2022-10-11,Pleasant Valley State Prison (PVSP),36.194736,-120.30865,2728,3,0,0
+2022-10-11,Richard J. Donovan Correctional Facility (RJD),32.572602,-116.918724,1714,21,0,10
+2022-10-11,California State Prison-Sacramento (SAC),38.694033,-121.152413,935,2,0,3
+2022-10-11,Substance Abuse Treatment Facility (SATF),36.177361,-119.82042,4552,7,0,1
+2022-10-11,Sierra Conservation Center (SCC),37.867243,-120.49157,3244,0,0,0
+2022-10-11,California State Prison-Solano (SOL),38.34401,-121.95333,2040,7,0,1
+2022-10-11,San Quentin State Prison (SQ),37.943365,-122.49029,3123,28,0,14
+2022-10-11,Salinas Valley State Prison (SVSP),36.518179,-121.42557,1226,6,0,5
+2022-10-11,Valley State Prison (VSP),37.127525,-120.50574,2234,2,0,9
+2022-10-11,Wasco State Prison (WSP),35.605045,-119.37143,4903,2,0,6
 2021-02-07,California City Correctional Facility (CAC),35.139327,-117.91473,997,2,10,29
 2021-02-07,Calipatria State Prison (CAL),33.131764,-115.51208,1078,2,1,54
 2021-02-07,California Correctional Center (CCC),40.446063,-120.664132,1337,0,9,40
