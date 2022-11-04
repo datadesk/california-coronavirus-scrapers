@@ -20,14 +20,11 @@ def main():
     df = pd.read_csv(url)
     
     # split dataframes into two because of large file size
-    
     age_df = df[ df["demographic_category"] == "Age Group" ]
-    
     race_df =  df[ df["demographic_category"] == "Race/Ethnicity" ]
     
     # Save it to the raw data folder
     age_df.to_csv(DATA_DIR / "latest-age-group.csv", index=False)
-    
     race_df.to_csv(DATA_DIR / "latest-race-ethnicity.csv", index=False)
 
 
