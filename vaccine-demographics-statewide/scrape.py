@@ -1,7 +1,7 @@
 """
 Download the California Department of Public Health's dataset of vaccine doses administered by age, gender and race/ethnicity.
 
-Source: https://data.ca.gov/dataset/covid-19-vaccine-progress-dashboard-data/resource/c341576f-90d2-41ec-bdb1-a4e69f40e6a3
+Source: https://data.ca.gov/dataset/covid-19-vaccine-progress-dashboard-data
 """
 import pathlib
 import pandas as pd
