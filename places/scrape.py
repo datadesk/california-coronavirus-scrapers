@@ -119,7 +119,7 @@ def main():
         'nevada',
         'orange',
         'pasadena',
-        'placer',
+        #'placer',
         # 'plumas',
         'riverside',
         'sacramento',
