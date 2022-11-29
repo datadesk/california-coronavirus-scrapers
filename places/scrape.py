@@ -104,7 +104,7 @@ def main():
         'fresno', #no map but collecting data
         'humboldt',
         'imperial',
-        'kern',
+        #'kern',
         'kings',
         'lake',
         'long-beach',
