@@ -95,8 +95,8 @@ id,school,status,color,staff_student,transmission,testing_period,tests,pos,pos_r
 95,BALA,OPEN,green,0,0,Past 7 days (1/27/2023 - 2/2/2023),0,0,0.00,(Blank),H.E.E.T. (W) CoS,2,0.04,-0.04,4,"1,993",903,0.14,-0.02,"02/03/2023,",01:35AM
 96,BALBOA EL G/HG/HA MAG,OPEN,green,3,0,Past 7 days (1/27/2023 - 2/2/2023),5,4,0.54,0.54,Kennedy/NAHS/VAAS CoS,27,0.17,-0.02,85,"1,993",903,0.14,-0.02,"02/03/2023,",01:35AM
 97,BALDWIN HILLS EL,OPEN,green,3,0,Past 7 days (1/27/2023 - 2/2/2023),2,2,0.44,0.22,Hamilton CoS,16,0.19,0.05,37,"1,993",903,0.14,-0.02,"02/03/2023,",01:35AM
-98,BANCROFT MS,OPEN,green,0,0,Past 7 days (1/27/2023 - 2/2/2023),0,0,0.00,(Blank),Hollywood CoS,13,0.17,-0.12,25,"1,993",903,0.14,-0.02,"02/03/2023,",01:35AM
-99,BANDINI ST EL,OPEN,green,1,0,Past 7 days (1/27/2023 - 2/2/2023),2,1,0.34,-0.33,San Pedro CoS,22,0.19,-0.08,53,"1,993",903,0.14,-0.02,"02/03/2023,",01:35AM
+98,BANCROFT MS,OPEN,green,3,0,Past 7 days (1/27/2023 - 2/2/2023),0,0,0.44,(Blank),Hamilton CoS,13,0.17,0.05,25,"1,993",903,0.14,-0.02,"02/03/2023,",01:35AM
+99,BANDINI ST EL,OPEN,green,0,0,Past 7 days (1/27/2023 - 2/2/2023),0,0,0.00,-0.33,Hollywood CoS,22,0.17,-0.12,53,"1,993",903,0.14,-0.02,"02/03/2023,",01:35AM
 100,BANNEKER CTC,OPEN,green,0,0,Past 7 days (1/27/2023 - 2/2/2023),0,0,0.00,(Blank),Gardena CoS,15,0.15,-0.07,26,"1,993",903,0.14,-0.02,"02/03/2023,",01:35AM
 101,BANNING SH,OPEN,green,3,0,Past 7 days (1/27/2023 - 2/2/2023),8,4,0.15,0.04,Wilmington CoS,21,0.21,0.06,34,"1,993",903,0.14,-0.02,"02/03/2023,",01:35AM
 102,BARRETT EL,OPEN,green,0,0,Past 7 days (1/27/2023 - 2/2/2023),0,0,0.00,(Blank),Fremont CoS,21,0.15,-0.02,31,"1,993",903,0.14,-0.02,"02/03/2023,",01:35AM
@@ -396,7 +396,7 @@ id,school,status,color,staff_student,transmission,testing_period,tests,pos,pos_r
 396,HIGHLAND PARK HS,OPEN,green,0,0,Past 7 days (1/27/2023 - 2/2/2023),0,0,0.00,(Blank),Eagle Rock/Highland ParkCoS,14,0.13,-0.14,40,"1,993",903,0.14,-0.02,"02/03/2023,",01:35AM
 397,HILLCREST DR EL,OPEN,green,1,0,Past 7 days (1/27/2023 - 2/2/2023),0,0,0.00,(Blank),H.E.E.T. (C/D) CoS,2,0.04,-0.07,5,"1,993",903,0.14,-0.02,"02/03/2023,",01:35AM
 398,HILLSIDE EL,OPEN,green,1,0,Past 7 days (1/27/2023 - 2/2/2023),2,2,1.41,1.41,Lincoln Heights/El SerenoCoS,29,0.20,-0.03,60,"1,993",903,0.14,-0.02,"02/03/2023,",01:35AM
-399,HOBART BLVD EEC,OPEN,green,0,0,Past 7 days (1/27/2023 - 2/2/2023),0,0,1.41,(Blank),Kreatwn/PcoUnion CoS,16,0.14,-0.06,34,"1,993",903,0.14,-0.02,"02/03/2023,",01:35AM
+399,HOBART BLVD EEC,OPEN,green,0,0,Past 7 days (1/27/2023 - 2/2/2023),0,0,0.00,(Blank),Kreatwn/PcoUnion CoS,16,0.14,-0.06,34,"1,993",903,0.14,-0.02,"02/03/2023,",01:35AM
 400,HOBART BLVD EL,OPEN,green,2,0,Past 7 days (1/27/2023 - 2/2/2023),2,2,0.40,0.40,Kreatwn/PcoUnion CoS,16,0.14,-0.06,34,"1,993",903,0.14,-0.02,"02/03/2023,",01:35AM
 401,HOLLENBECK MS,OPEN,green,1,0,Past 7 days (1/27/2023 - 2/2/2023),5,2,0.18,0.09,Boyle Heights CoS,18,0.15,-0.05,36,"1,993",903,0.14,-0.02,"02/03/2023,",01:35AM
 402,HOLLYWOOD EL,OPEN,green,0,0,Past 7 days (1/27/2023 - 2/2/2023),0,0,0.00,(Blank),Hollywood CoS,13,0.17,-0.12,25,"1,993",903,0.14,-0.02,"02/03/2023,",01:35AM
@@ -516,7 +516,7 @@ id,school,status,color,staff_student,transmission,testing_period,tests,pos,pos_r
 516,MALABAR ST EL,OPEN,green,0,0,Past 7 days (1/27/2023 - 2/2/2023),0,0,0.00,(Blank),Boyle Heights CoS,18,0.15,-0.05,36,"1,993",903,0.14,-0.02,"02/03/2023,",01:35AM
 517,MANCHESTER AVE EL,OPEN,green,0,0,Past 7 days (1/27/2023 - 2/2/2023),0,0,0.00,(Blank),Fremont CoS,21,0.15,-0.02,31,"1,993",903,0.14,-0.02,"02/03/2023,",01:35AM
 518,MANHATTAN PLACE EL,OPEN,green,0,0,Past 7 days (1/27/2023 - 2/2/2023),0,0,0.00,(Blank),H.E.E.T. (W) CoS,2,0.04,-0.04,4,"1,993",903,0.14,-0.02,"02/03/2023,",01:35AM
-519,MANN UCLA COMM SCH,OPEN,green,0,0,Past 7 days (1/27/2023 - 2/2/2023),0,0,0.00,(Blank),South Mid-City CoS,9,0.11,0.06,22,"1,993",903,0.14,-0.02,"02/03/2023,",01:35AM
+519,MANN UCLA COMM SCH,OPEN,green,0,0,Past 7 days (1/27/2023 - 2/2/2023),0,0,0.00,(Blank),H.E.E.T. (W) CoS,9,0.04,-0.04,22,"1,993",903,0.14,-0.02,"02/03/2023,",01:35AM
 520,MANUAL ARTS SH,OPEN,green,1,0,Past 7 days (1/27/2023 - 2/2/2023),1,0,0.00,-0.17,Manual Arts/VermontSquare CoS,15,0.14,-0.06,29,"1,993",903,0.14,-0.02,"02/03/2023,",01:35AM
 521,MAPLE PC,OPEN,green,0,0,Past 7 days (1/27/2023 - 2/2/2023),2,0,0.00,-0.40,SO Los Angeles CoS,4,0.04,-0.08,9,"1,993",903,0.14,-0.02,"02/03/2023,",01:35AM
 522,MAR VISTA EL,OPEN,green,0,0,Past 7 days (1/27/2023 - 2/2/2023),1,0,0.00,-0.50,Venice CoS,12,0.13,-0.13,45,"1,993",903,0.14,-0.02,"02/03/2023,",01:35AM
