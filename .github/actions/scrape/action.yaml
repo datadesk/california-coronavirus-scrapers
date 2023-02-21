@@ -6,13 +6,16 @@ inputs:
 runs:
   using: "composite"
   steps:
-    - uses: actions/setup-python@v4
+    - id: install
+      name: Install Python, pipenv and Pipfile packages
+      uses: actions/setup-python@v4
       with:
         python-version: '3.8'
 
-    - name: Install pipenv
-      run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
-    - run: pipenv install
+      name: Install pipenv
+      run: |
+        curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
+        pipenv install
 
     - id: make
       name: Run make command
