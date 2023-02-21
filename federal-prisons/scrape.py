@@ -21,9 +21,9 @@ def main():
 
     # create df from second part with everything we need
     df1 = pd.json_normalize(j['rrcData'])
-    df2 = pd.json_normalize(j['privateData'])
+#    df2 = pd.json_normalize(j['privateData'])
     df3 = pd.json_normalize(j['bopData'])
-    dfFinal = pd.concat([df1, df2, df3])
+    dfFinal = pd.concat([df1, df3])
 
     # create and append date column
     date = j['other'][0]['date']
