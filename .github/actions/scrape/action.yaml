@@ -6,12 +6,20 @@ inputs:
 runs:
   using: "composite"
   steps:
-    - id: install
-      name: Install Python, pipenv and Pipfile packages
-      uses: palewire/install-python-pipenv-pipfile@v2
+    - id: install-python
+      name: Install Python
+      uses: actions/setup-python@v4
       with:
-        python-version: 3.8
-
+        python-version: '3.8'
+        cache: "pipenv"
+        
+    - id: install-dependencies 
+      name: Install pipenv
+      run: |
+        curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
+        pipenv install
+      shell: bash
+    
     - id: make
       name: Run make command
       run: make -f ./${{ inputs.module }}/Makefile
