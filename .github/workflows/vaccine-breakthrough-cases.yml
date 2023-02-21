@@ -1,7 +1,7 @@
 name: Vaccine breakthrough cases, hospitalizations and deaths
 on:
   schedule:
-    - cron: '10 * * * *'
+    - cron: '10 */12 * * *'
   workflow_dispatch:
 
 jobs:

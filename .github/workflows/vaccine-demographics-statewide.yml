@@ -1,7 +1,7 @@
 name: Vaccine demographics statewide
 on:
   schedule:
-    - cron: '20 */4 * * *'
+    - cron: '20 */12 * * *'
   workflow_dispatch:
 
 jobs:

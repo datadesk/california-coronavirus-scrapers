@@ -1,7 +1,7 @@
 name: Hopkins
 on:
   schedule:
-    - cron: '50 */4 * * *'
+    - cron: '50 */12 * * *'
   workflow_dispatch:
 
 jobs:

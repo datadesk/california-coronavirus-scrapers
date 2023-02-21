@@ -1,7 +1,7 @@
 name: Bed surges
 on:
   schedule:
-    - cron: '10 */4 * * *'
+    - cron: '10 */12 * * *'
   workflow_dispatch:
 
 jobs:

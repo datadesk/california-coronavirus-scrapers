@@ -2,7 +2,7 @@ name: Vaccine demographics by county
 
 on:
   schedule:
-    - cron: '40 */4 * * *'
+    - cron: '40 */12 * * *'
   workflow_dispatch:
 
 jobs:

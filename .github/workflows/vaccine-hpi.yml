@@ -1,7 +1,7 @@
 name: Vaccine HPI
 on:
   schedule:
-    - cron: '30 */4 * * *'
+    - cron: '30 */12 * * *'
   workflow_dispatch:
 
 jobs:

@@ -1,7 +1,7 @@
 name: Vaccine shipped and delivered
 on:
   schedule:
-    - cron: '40 */4 * * *'
+    - cron: '40 */12 * * *'
   workflow_dispatch:
 
 jobs:
