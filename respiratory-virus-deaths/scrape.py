@@ -1,7 +1,5 @@
 """
-Download the California Department of Public Health's dataset of cases, deaths and tests by county.
-
-(Retired by state in 2023)
+Download the California Health and Human Services' respiratory deaths dataset.
 
 Source: https://data.ca.gov/dataset/covid-19-time-series-metrics-by-county-and-state1/
 """
@@ -18,7 +16,7 @@ def main():
     Download the Tableau export as a CSV.
     """
     # Download the data
-    url = "https://data.chhs.ca.gov/dataset/f333528b-4d38-4814-bebb-12db1f10f535/resource/046cdd2b-31e5-4d34-9ed3-b48cdbc4be7a/download/covid19cases_test.csv"
+    url = "https://data.chhs.ca.gov/dataset/fb0e792f-0165-414d-af91-130a4309505f/resource/858a3393-7c51-4377-9167-405eb1591d97/download/outputfile.csv"
     df = pd.read_csv(url)
     # Lower case the column headers, since the state likes to jack around with this for no reason
     df.columns = map(str.lower, df.columns)
