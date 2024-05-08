@@ -1,6 +1,7 @@
 name: Variants in California
 on:
   schedule:
+    - cron: '50 */12 * * *'  
   workflow_dispatch:
 
 jobs:
