@@ -1,11 +1,11 @@
 # Import aliases
 include ./utils/variables.make
 
-MAKENAME = cases-deaths-tests
+MAKENAME = respiratory-virus-deaths
 
 scrape: ## Scrape data files. Example: make -f ./cases-deaths-tests/Makefile
 	$(call start,$(MAKENAME))
-	$(call python,./cases-deaths-tests/scrape.py)
+	$(call python,./respiratory-virus-deaths/scrape.py)
 	$(call finish)
 
 help: ## Show this help. Example: make -f ./cases-deaths-tests/Makefile help
